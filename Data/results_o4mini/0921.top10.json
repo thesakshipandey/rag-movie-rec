@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "Twisty ensemble mystery with sharp wit and a playful puzzle vibe"
+  },
+  {
+    "movieId": 945,
+    "score": 0.85,
+    "reason": "Classic 1960s whodunnit with Cary Grant’s charm and delightful twists"
+  },
+  {
+    "movieId": 333,
+    "score": 0.8,
+    "reason": "Meta puzzle thriller that keeps you guessing at every turn"
+  },
+  {
+    "movieId": 3,
+    "score": 0.75,
+    "reason": "Quirky anthology of darkly comedic hotel room tales with surprises"
+  },
+  {
+    "movieId": 1322,
+    "score": 0.7,
+    "reason": "Accessible thriller with a clever serial-killer twist"
+  },
+  {
+    "movieId": 5,
+    "score": 0.65,
+    "reason": "Psychologist pursues a copycat killer in a smart procedural romp"
+  },
+  {
+    "movieId": 38,
+    "score": 0.6,
+    "reason": "Techno-thriller with a cat-and-mouse hacking mystery"
+  },
+  {
+    "movieId": 79,
+    "score": 0.55,
+    "reason": "Relentless fugitive chase with surprising clever turns"
+  },
+  {
+    "movieId": 54,
+    "score": 0.5,
+    "reason": "Outbreak thriller with puzzle-like infection mystery"
+  },
+  {
+    "movieId": 56,
+    "score": 0.45,
+    "reason": "Tarantino’s non-linear crime tale bristles with wicked humor"
+  }
+]

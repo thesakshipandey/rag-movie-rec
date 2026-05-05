@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.99,
+    "reason": "Verbal’s final confession forces you to reconsider every detail in an unsettling, ambiguous turn."
+  },
+  {
+    "movieId": 7,
+    "score": 0.97,
+    "reason": "Time loops and memory fractures leave you questioning reality long after the credits roll."
+  },
+  {
+    "movieId": 89,
+    "score": 0.95,
+    "reason": "Deckard’s pursuit and Roy’s fate blur lines between human and replicant in a haunting ambiguity."
+  },
+  {
+    "movieId": 175,
+    "score": 0.93,
+    "reason": "Bureaucratic absurdity and surreal visuals in a dystopian world leave the ending hauntingly unsettled."
+  },
+  {
+    "movieId": 324,
+    "score": 0.91,
+    "reason": "Lynch’s nonlinear nightmare shifts identities and crime scenes, defying any tidy resolution."
+  },
+  {
+    "movieId": 44,
+    "score": 0.89,
+    "reason": "Family secrets surface through nonlinear memories, ending in a haze of uncertainty."
+  },
+  {
+    "movieId": 23,
+    "score": 0.87,
+    "reason": "Travis Bickle’s vigilante spiral leaves you debating the line between sanity and obsession."
+  },
+  {
+    "movieId": 603,
+    "score": 0.85,
+    "reason": "Jeff’s confined perspective in his apartment yields a voyeuristic mystery that never fully clears."
+  },
+  {
+    "movieId": 124,
+    "score": 0.83,
+    "reason": "Small-town skeletons resurrect old wounds, ending with a moral uncertainty that lingers."
+  },
+  {
+    "movieId": 200,
+    "score": 0.81,
+    "reason": "Jack’s final state invites wide interpretation of whether evil truly triumphs at the Overlook."
+  }
+]

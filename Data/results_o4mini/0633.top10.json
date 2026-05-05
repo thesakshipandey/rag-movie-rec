@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.99,
+    "reason": "A relentless, grim cat-and-mouse chase through city streets"
+  },
+  {
+    "movieId": 5,
+    "score": 0.98,
+    "reason": "Strong detective-serial killer battle in foggy San Francisco"
+  },
+  {
+    "movieId": 591,
+    "score": 0.97,
+    "reason": "Courtroom-crime drama with psychological investigation at its core"
+  },
+  {
+    "movieId": 98,
+    "score": 0.96,
+    "reason": "Classic FBI hunt for a methodical killer, tightly paced"
+  },
+  {
+    "movieId": 79,
+    "score": 0.95,
+    "reason": "Relentless manhunt of an innocent surgeon on the run"
+  },
+  {
+    "movieId": 159,
+    "score": 0.94,
+    "reason": "Clever cat-and-mouse game between detective and femme fatale"
+  },
+  {
+    "movieId": 302,
+    "score": 0.93,
+    "reason": "1950s LA noir with maverick cops unraveling a deadly plot"
+  },
+  {
+    "movieId": 53,
+    "score": 0.92,
+    "reason": "Media-frenzied detective pursuit told with tense verisimilitude"
+  },
+  {
+    "movieId": 156,
+    "score": 0.91,
+    "reason": "Union of criminals and cops in a twisting, dialogue-rich thriller"
+  },
+  {
+    "movieId": 79,
+    "score": 0.9,
+    "reason": "Relentless manhunt of an innocent surgeon on the run"
+  }
+]

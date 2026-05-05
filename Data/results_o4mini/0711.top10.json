@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 41,
+    "score": 1.0,
+    "reason": "Billy Madison’s childish school hijinks are pure absurd fun from start to finish."
+  },
+  {
+    "movieId": 780,
+    "score": 0.95,
+    "reason": "Dumb & Dumber’s endless pratfalls and clueless heroes deliver nonstop belly laughs."
+  },
+  {
+    "movieId": 67,
+    "score": 0.9,
+    "reason": "Ace Ventura’s over-the-top animal antics keep the silliness rolling."
+  },
+  {
+    "movieId": 364,
+    "score": 0.88,
+    "reason": "Ace Ventura: When Nature Calls doubles down on wacky pet detective chaos."
+  },
+  {
+    "movieId": 763,
+    "score": 0.85,
+    "reason": "Happy Gilmore’s golf-bound pratfalls are gloriously goofy and ridiculous."
+  },
+  {
+    "movieId": 72,
+    "score": 0.83,
+    "reason": "The Mask unleashes wild cartoon physics and Jim Carrey’s manic humor."
+  },
+  {
+    "movieId": 368,
+    "score": 0.8,
+    "reason": "Bio-Dome’s environmental goofballs trapped in a bubble of ridiculousness."
+  },
+  {
+    "movieId": 369,
+    "score": 0.78,
+    "reason": "Black Sheep’s goofy family feud is full of slapstick and silliness."
+  },
+  {
+    "movieId": 410,
+    "score": 0.75,
+    "reason": "Kingpin mixes bowling and con artistry in delightfully dumb ways."
+  },
+  {
+    "movieId": 838,
+    "score": 0.72,
+    "reason": "Bean’s bumbling bank teller is a zany marvel of physical comedy."
+  }
+]

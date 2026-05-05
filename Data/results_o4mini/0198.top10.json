@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.99,
+    "reason": "2001: A Space Odyssey – pioneering sci-fi exploring human evolution."
+  },
+  {
+    "movieId": 28,
+    "score": 0.97,
+    "reason": "Apollo 13 – space docudrama chronicling a lunar mission disaster."
+  },
+  {
+    "movieId": 3,
+    "score": 0.95,
+    "reason": "Four Rooms – Quentin Tarantino anthology titled with the number ‘Four.’"
+  },
+  {
+    "movieId": 11,
+    "score": 0.93,
+    "reason": "Se7en – crime thriller with a stylized ‘7’ in its one-word title."
+  },
+  {
+    "movieId": 70,
+    "score": 0.91,
+    "reason": "Four Weddings and a Funeral – British rom-com titled with ‘Four.’"
+  },
+  {
+    "movieId": 59,
+    "score": 0.89,
+    "reason": "Three Colors: Red – art-house drama named for the ‘Three Colors’ trilogy."
+  },
+  {
+    "movieId": 178,
+    "score": 0.87,
+    "reason": "12 Angry Men – courtroom drama centered on ‘12’ jurors deliberating a verdict."
+  },
+  {
+    "movieId": 35,
+    "score": 0.85,
+    "reason": "Free Willy 2: The Adventure Home – family sequel with ‘2’ in the title."
+  },
+  {
+    "movieId": 438,
+    "score": 0.83,
+    "reason": "Amityville 3-D – horror sequel explicitly titled with ‘3-D.’"
+  },
+  {
+    "movieId": 225,
+    "score": 0.81,
+    "reason": "101 Dalmatians – live-action reimagining of the animated classic with ‘101.’"
+  }
+]

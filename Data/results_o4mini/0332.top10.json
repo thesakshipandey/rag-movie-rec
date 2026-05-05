@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 134,
+    "score": 1.0,
+    "reason": "Revolutionary drama with innovative storytelling and deep character study"
+  },
+  {
+    "movieId": 483,
+    "score": 0.95,
+    "reason": "Iconic romance defined by timeless dialogue and elegant black-and-white style"
+  },
+  {
+    "movieId": 136,
+    "score": 0.9,
+    "reason": "Charming political satire bursting with earnest humor and classic wit"
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "Tense courtroom drama showcasing riveting debate and tight ensemble work"
+  },
+  {
+    "movieId": 484,
+    "score": 0.8,
+    "reason": "Hard-boiled noir classic exemplifying sharp dialogue and atmospheric style"
+  },
+  {
+    "movieId": 653,
+    "score": 0.75,
+    "reason": "Richly filmed noir thriller merging moral ambiguity with vivid urban suspense"
+  },
+  {
+    "movieId": 480,
+    "score": 0.7,
+    "reason": "Iconic thriller featuring stylish set pieces and witty protagonist banter"
+  },
+  {
+    "movieId": 482,
+    "score": 0.65,
+    "reason": "Madcap comedy showcasing stellar performances and sparkling dialogue"
+  },
+  {
+    "movieId": 481,
+    "score": 0.6,
+    "reason": "Sharp comedy-drama exploring ambition and society with sophisticated humor"
+  },
+  {
+    "movieId": 487,
+    "score": 0.55,
+    "reason": "Delightful royal romance blending sophistication with heartfelt warmth"
+  }
+]

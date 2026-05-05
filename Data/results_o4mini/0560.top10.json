@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "Gentle coming-of-age farm tale full of warmth and innocent wonder"
+  },
+  {
+    "movieId": 15,
+    "score": 0.9,
+    "reason": "Uplifting music-teacher story that celebrates kindness and hope"
+  },
+  {
+    "movieId": 66,
+    "score": 0.85,
+    "reason": "Cozy mistaken-identity comedy with sweet, lighthearted romance"
+  },
+  {
+    "movieId": 69,
+    "score": 0.8,
+    "reason": "Life-affirming journey of a simple soul finding joy everywhere"
+  },
+  {
+    "movieId": 140,
+    "score": 0.75,
+    "reason": "Faithful pets braving the wild in a heartwarming adventure"
+  },
+  {
+    "movieId": 202,
+    "score": 0.7,
+    "reason": "Groundhog Day’s playful charm offers comforting repetition"
+  },
+  {
+    "movieId": 272,
+    "score": 0.65,
+    "reason": "Brilliant janitor’s genius and friendship inspire big hearts"
+  },
+  {
+    "movieId": 143,
+    "score": 0.6,
+    "reason": "Timeless musical full of song, family, and Alpine charm"
+  },
+  {
+    "movieId": 423,
+    "score": 0.55,
+    "reason": "Lovable alien’s gentle friendship warms the heart"
+  },
+  {
+    "movieId": 418,
+    "score": 0.5,
+    "reason": "Classic fairy tale of kindness and transformation"
+  }
+]

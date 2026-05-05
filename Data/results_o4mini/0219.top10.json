@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 91,
+    "score": 0.95,
+    "reason": "Tim Burton’s stop-motion ballet of spooky holiday poetry"
+  },
+  {
+    "movieId": 219,
+    "score": 0.93,
+    "reason": "Night‐marish horror classic with dreamlike dread"
+  },
+  {
+    "movieId": 312,
+    "score": 0.91,
+    "reason": "Southern gothic gem titled like a midnight reverie"
+  },
+  {
+    "movieId": 616,
+    "score": 0.89,
+    "reason": "Black‐and‐white terror evoking poetic nightmare"
+  },
+  {
+    "movieId": 1226,
+    "score": 0.87,
+    "reason": "Noir thriller with ‘Night’ in its evocative title"
+  },
+  {
+    "movieId": 196,
+    "score": 0.85,
+    "reason": "Courtroom drama named for a gathering of poetic jurors"
+  },
+  {
+    "movieId": 252,
+    "score": 0.83,
+    "reason": "Sci-fi epic titled like a cosmic poetry of children"
+  },
+  {
+    "movieId": 181,
+    "score": 0.81,
+    "reason": "Star Wars entry with a poetic sense of nocturnal revolt"
+  },
+  {
+    "movieId": 416,
+    "score": 0.79,
+    "reason": "Old Disney tearjerker whose title suggests twilight"
+  },
+  {
+    "movieId": 475,
+    "score": 0.77,
+    "reason": "Grimy urban drama whose title reads like street‐corner verse"
+  }
+]

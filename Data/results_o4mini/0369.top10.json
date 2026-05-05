@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 275,
+    "score": 1.0,
+    "reason": "Tender Regency romance filled with heartfelt moments and genteel wit."
+  },
+  {
+    "movieId": 213,
+    "score": 0.95,
+    "reason": "Elegant Edwardian romance set among sunlit Tuscan vistas and English drawing rooms."
+  },
+  {
+    "movieId": 70,
+    "score": 0.9,
+    "reason": "Charming British comedy-drama that balances wit, warmth, and poignant romance."
+  },
+  {
+    "movieId": 66,
+    "score": 0.85,
+    "reason": "Sweet Chicago rom-com brimming with cozy charm and feel-good moments."
+  },
+  {
+    "movieId": 283,
+    "score": 0.8,
+    "reason": "Lighthearted Austen adaptation with playful matchmaking and genteel humor."
+  },
+  {
+    "movieId": 740,
+    "score": 0.75,
+    "reason": "Atmospheric Gothic romance of steadfast hearts and quiet determination."
+  },
+  {
+    "movieId": 387,
+    "score": 0.7,
+    "reason": "Sumptuous period drama of love and duty in gilded 1870s New York society."
+  },
+  {
+    "movieId": 51,
+    "score": 0.65,
+    "reason": "Epic family romance traversing sweeping landscapes and passionate hearts."
+  },
+  {
+    "movieId": 116,
+    "score": 0.6,
+    "reason": "Delightfully gentle comedy about simple farm life and irrepressible optimism."
+  },
+  {
+    "movieId": 86,
+    "score": 0.55,
+    "reason": "Poignant tale of restrained devotion and the quiet ache of unspoken love."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 89,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 176,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 183,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 200,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 234,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 50,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 89,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 176,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  },
+  {
+    "movieId": 183,
+    "score": 0.1,
+    "reason": "Title contains ‘vs.’ or ‘versus’"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 206,
+    "score": 0.98,
+    "reason": "1988 cyberpunk anime exploring identity and societal decay."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.97,
+    "reason": "1995 adult animation grappling with consciousness and philosophy."
+  },
+  {
+    "movieId": 432,
+    "score": 0.95,
+    "reason": "1940 Fantasia’s abstract visuals tackle mythical creation and transformation."
+  },
+  {
+    "movieId": 214,
+    "score": 0.93,
+    "reason": "1982 surreal rock opera addressing trauma and alienation."
+  },
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "1993 stop-motion tackling existential longing in Halloween Town."
+  },
+  {
+    "movieId": 101,
+    "score": 0.88,
+    "reason": "1981 anthology of adult-themed sci-fi noir vignettes with practical effects."
+  },
+  {
+    "movieId": 176,
+    "score": 0.86,
+    "reason": "1986 sci-fi sequel with action and atmospheric dread, not for kids."
+  },
+  {
+    "movieId": 183,
+    "score": 0.84,
+    "reason": "1979 claustrophobic spaceship thriller with adult tension."
+  },
+  {
+    "movieId": 176,
+    "score": 0.83,
+    "reason": "1986 Ripley’s return grappling with trauma and corporate corruption."
+  },
+  {
+    "movieId": 101,
+    "score": 0.82,
+    "reason": "1981 cult sci-fi with dark humor and mature themes."
+  }
+]

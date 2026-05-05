@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Before Sunrise unfolds entirely in conversation, an intimate privilege of two strangers in Viennese night"
+  },
+  {
+    "movieId": 464,
+    "score": 0.92,
+    "reason": "Vanya on 42nd Street presents two actors’ hours-long dialogue, sharp and deeply personal throughout"
+  },
+  {
+    "movieId": 178,
+    "score": 0.9,
+    "reason": "12 Angry Men stages a quartet-to-jury’s tense conversation in a cramped room, revealing lives with each word"
+  },
+  {
+    "movieId": 160,
+    "score": 0.88,
+    "reason": "Glengarry Glen Ross lives in rapid-fire dialogue, two strangers bartering words as truly criminal acts"
+  },
+  {
+    "movieId": 432,
+    "score": 0.85,
+    "reason": "Monty Python and the Holy Grail’s two knights talk absurdity for a privilege-like listening experience"
+  },
+  {
+    "movieId": 173,
+    "score": 0.82,
+    "reason": "Princess Bride’s farmhand and heiress revel in clever conversation, smart and intimate in every exchange"
+  },
+  {
+    "movieId": 555,
+    "score": 0.8,
+    "reason": "Walk in the Clouds centers on a shared journey dialogue, letting two hearts unfold in quiet words"
+  },
+  {
+    "movieId": 199,
+    "score": 0.78,
+    "reason": "Bridge on the River Kwai holds two men in unending conversation, smartly revealing pride’s cost"
+  },
+  {
+    "movieId": 78,
+    "score": 0.75,
+    "reason": "Free Willy’s two leads converse on a boat—every word a gentle rupture of walls around loneliness"
+  },
+  {
+    "movieId": 197,
+    "score": 0.72,
+    "reason": "Graduate, The fixes on Benjamin and Mrs Robinson’s charged conversations, intimate and unforgettable"
+  }
+]

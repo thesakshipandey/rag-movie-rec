@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 833,
+    "score": 1.0,
+    "reason": "Hostage standoff on submarine forces tense survival countdown"
+  },
+  {
+    "movieId": 45,
+    "score": 0.95,
+    "reason": "Family gathers in tiny apartment, trapped by emotional stakes"
+  },
+  {
+    "movieId": 209,
+    "score": 0.9,
+    "reason": "Rock band locked in space capsule must break free or perish"
+  },
+  {
+    "movieId": 556,
+    "score": 0.85,
+    "reason": "Heist collapses inside vault, survivors race against ticking timer"
+  },
+  {
+    "movieId": 178,
+    "score": 0.8,
+    "reason": "Jurors sequestered in room forced to deliberate life-or-death verdict"
+  },
+  {
+    "movieId": 491,
+    "score": 0.75,
+    "reason": "Robin Hood and Little John trapped in cave must craft escape plan"
+  },
+  {
+    "movieId": 476,
+    "score": 0.7,
+    "reason": "Widows trapped in mansion after news of husband’s death unravels secrets"
+  },
+  {
+    "movieId": 80,
+    "score": 0.65,
+    "reason": "Special forces raid leads to containment on besieged palace roof"
+  },
+  {
+    "movieId": 494,
+    "score": 0.6,
+    "reason": "Editor-in-chief held hostage in book-filled office must outwit captor"
+  },
+  {
+    "movieId": 138,
+    "score": 0.55,
+    "reason": "Teen mascots locked in cheer locker must work together to get out"
+  }
+]

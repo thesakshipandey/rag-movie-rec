@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.97,
+    "reason": "Deckard’s world is warped until he sees through the replicant-human illusion"
+  },
+  {
+    "movieId": 822,
+    "score": 0.94,
+    "reason": "Child sees world’s hidden layer through the gaze of a ghostly stranger"
+  },
+  {
+    "movieId": 1207,
+    "score": 0.91,
+    "reason": "Blind psychologist’s world shifts when she realises her patient is the danger"
+  },
+  {
+    "movieId": 427,
+    "score": 0.88,
+    "reason": "Ambitious senator finds his reality splits between public image and hidden self"
+  },
+  {
+    "movieId": 324,
+    "score": 0.85,
+    "reason": "Like Breakdown’s twists, Memory’s cracks reveal protagonist as the true threat"
+  },
+  {
+    "movieId": 656,
+    "score": 0.82,
+    "reason": "Veteran racer’s reality loops until he’s both driver and obstacle"
+  },
+  {
+    "movieId": 202,
+    "score": 0.8,
+    "reason": "Annoyed weatherman relives same day, only to find his world is truly unstable"
+  },
+  {
+    "movieId": 1579,
+    "score": 0.78,
+    "reason": "Antique curator hunts killer but discovers the object warping her reality"
+  },
+  {
+    "movieId": 668,
+    "score": 0.75,
+    "reason": "Man and wife’s night swim shows him as the source of the terror they fear"
+  },
+  {
+    "movieId": 667,
+    "score": 0.72,
+    "reason": "Surfer’s pursuit of perfection slowly twists his perception of self"
+  }
+]

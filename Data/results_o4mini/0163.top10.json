@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 71,
+    "score": 0.95,
+    "reason": "Animated fantasy for all ages"
+  },
+  {
+    "movieId": 153,
+    "score": 0.93,
+    "reason": "Animated musical adventure"
+  },
+  {
+    "movieId": 91,
+    "score": 0.91,
+    "reason": "Stop-motion fantasy tale"
+  },
+  {
+    "movieId": 99,
+    "score": 0.89,
+    "reason": "Classic animated fairy tale"
+  },
+  {
+    "movieId": 140,
+    "score": 0.87,
+    "reason": "Animal adventure animation"
+  },
+  {
+    "movieId": 232,
+    "score": 0.85,
+    "reason": "Animated Western?"
+  },
+  {
+    "movieId": 142,
+    "score": 0.83,
+    "reason": "Live-action with musical elements"
+  },
+  {
+    "movieId": 405,
+    "score": 0.81,
+    "reason": "Not animation"
+  },
+  {
+    "movieId": 69,
+    "score": 0.79,
+    "reason": "Mostly live-action"
+  },
+  {
+    "movieId": 50,
+    "score": 0.77,
+    "reason": "Live-action space epic"
+  }
+]

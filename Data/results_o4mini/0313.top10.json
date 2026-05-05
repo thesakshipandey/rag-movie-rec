@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 9,
+    "score": 0.98,
+    "reason": "Dead Man Walking’s compassionate portrayal of redemption and humanity resonates deeply"
+  },
+  {
+    "movieId": 64,
+    "score": 0.96,
+    "reason": "The Shawshank Redemption’s powerful tale of hope, friendship and resilience moves the heart"
+  },
+  {
+    "movieId": 65,
+    "score": 0.94,
+    "reason": "What’s Eating Gilbert Grape offers a tender portrait of family bonds and emotional growth"
+  },
+  {
+    "movieId": 170,
+    "score": 0.92,
+    "reason": "Cinema Paradiso’s nostalgic love of film and friendship evokes warm, universal emotion"
+  },
+  {
+    "movieId": 196,
+    "score": 0.9,
+    "reason": "Dead Poets Society’s heartfelt exploration of inspiration and loss speaks to the soul"
+  },
+  {
+    "movieId": 69,
+    "score": 0.88,
+    "reason": "Forrest Gump’s sweeping journey through life captures deep personal moments and heartfelt wonder"
+  },
+  {
+    "movieId": 272,
+    "score": 0.86,
+    "reason": "Good Will Hunting’s raw storytelling and emotional honesty deliver profound human connection"
+  },
+  {
+    "movieId": 86,
+    "score": 0.84,
+    "reason": "The Remains of the Day’s restrained performances explore duty and unspoken feelings with nuance"
+  },
+  {
+    "movieId": 371,
+    "score": 0.82,
+    "reason": "The Bridges of Madison County’s bittersweet romance and longing pull at the heartstrings"
+  },
+  {
+    "movieId": 286,
+    "score": 0.8,
+    "reason": "The English Patient’s WWII-era settings and tragic love story sweep through time with graceful historical depth"
+  }
+]

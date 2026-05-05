@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 1.0,
+    "reason": "Il Postino captures aching tenderness in a seaside poetic friendship."
+  },
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Before Sunrise evokes wistful longing in every moonlit conversation."
+  },
+  {
+    "movieId": 60,
+    "score": 0.9,
+    "reason": "Three Colors: Blue’s quiet grief is a lush dream of loss and yearning."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "Cinema Paradiso’s nostalgic glow bathes every memory in bittersweet light."
+  },
+  {
+    "movieId": 51,
+    "score": 0.8,
+    "reason": "Legends of the Fall blends sweeping romance with the ache of time passed."
+  },
+  {
+    "movieId": 132,
+    "score": 0.75,
+    "reason": "The Wizard of Oz’s melancholic journey feels like a beautiful, lost reverie."
+  },
+  {
+    "movieId": 216,
+    "score": 0.7,
+    "reason": "When Harry Met Sally’s tender reunions resonate with gentle longing."
+  },
+  {
+    "movieId": 215,
+    "score": 0.65,
+    "reason": "Field of Dreams’s shimmering hope carries a sweet pang of what once was."
+  },
+  {
+    "movieId": 402,
+    "score": 0.6,
+    "reason": "Ghost’s lingering romance haunts with a soft, poignant ache."
+  },
+  {
+    "movieId": 70,
+    "score": 0.55,
+    "reason": "Four Weddings and a Funeral weaves laughter and tears into a wistful night."
+  }
+]

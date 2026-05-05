@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 94,
+    "score": 1.0,
+    "reason": "Endearing family comedy with heartwarming slapstick—you know it’ll end well."
+  },
+  {
+    "movieId": 88,
+    "score": 0.98,
+    "reason": "Charming romantic warmth and gentle humor in a cozy holiday setting."
+  },
+  {
+    "movieId": 66,
+    "score": 0.96,
+    "reason": "Sweet, feel‐good romance that leaves you comforted and uplifted."
+  },
+  {
+    "movieId": 393,
+    "score": 0.94,
+    "reason": "Warm, comedic home‐made disguise adventure centered on family love."
+  },
+  {
+    "movieId": 78,
+    "score": 0.92,
+    "reason": "Gentle animal friendship story that’s comforting and optimistic."
+  },
+  {
+    "movieId": 8,
+    "score": 0.9,
+    "reason": "Wholesome community charm and mild humor make for a cozy watch."
+  },
+  {
+    "movieId": 215,
+    "score": 0.88,
+    "reason": "Nostalgic baseball fairy tale that soothes with its earnest warmth."
+  },
+  {
+    "movieId": 417,
+    "score": 0.86,
+    "reason": "Childhood caper with familiar faces and guaranteed happy reunion."
+  },
+  {
+    "movieId": 378,
+    "score": 0.84,
+    "reason": "Classic holiday magic that swaddles you in nostalgic cheer."
+  },
+  {
+    "movieId": 1,
+    "score": 0.82,
+    "reason": "Animation wit and warmth deliver pure, easygoing joy for all ages."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "Isolated hotel’s mounting dread fractures minds in an unrelenting, eerie tension"
+  },
+  {
+    "movieId": 1125,
+    "score": 0.93,
+    "reason": "Governess in a remote mansion faces unseen horrors in chilling psychological terror"
+  },
+  {
+    "movieId": 185,
+    "score": 0.91,
+    "reason": "Seedy motel’s undercurrents of obsession and madness build relentless, unsettling dread"
+  },
+  {
+    "movieId": 441,
+    "score": 0.89,
+    "reason": "Suburban home hides unspeakable terror, dread soaked in unnerving domestic unease"
+  },
+  {
+    "movieId": 448,
+    "score": 0.87,
+    "reason": "Ominous presage stalks an isolated family home, slow-burn psychological horror"
+  },
+  {
+    "movieId": 446,
+    "score": 0.85,
+    "reason": "Remote summer estate’s haunted atmosphere seeps into every tense, chilling moment"
+  },
+  {
+    "movieId": 635,
+    "score": 0.83,
+    "reason": "Coastal town beset by creeping fog, unseen menace stalks characters with mounting dread"
+  },
+  {
+    "movieId": 616,
+    "score": 0.81,
+    "reason": "Lonely farmhouse becomes psychological fortress under siege by relentless terror"
+  },
+  {
+    "movieId": 447,
+    "score": 0.79,
+    "reason": "Small-town cruelty awakens deadly psychic powers, an unsettling mood more than gore"
+  },
+  {
+    "movieId": 445,
+    "score": 0.77,
+    "reason": "Victorian home conceals body-snatching madness in a creeping, macabre unease"
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0353": {
+      "top10": [
+        {"movieId": 144, "score": 1.0, "reason": "High-stakes skyscraper showdown with Bruce Willis and classic one-liners."},
+        {"movieId": 96, "score": 0.95, "reason": "Groundbreaking practical effects and Arnold’s iconic catchphrases."},
+        {"movieId": 405, "score": 0.9, "reason": "Tom Cruise leads a globe-trotting spy thriller full of stunts."},
+        {"movieId": 233, "score": 0.87, "reason": "Stevenson on a battleship defusing terrorists with real explosions."},
+        {"movieId": 2, "score": 0.85, "reason": "Pierce Brosnan’s first Bond delivers practical action and quips."},
+        {"movieId": 802, "score": 0.83, "reason": "Jean-Claude Van Damme tackles mercenaries in a gritty, stunt-heavy romp."},
+        {"movieId": 568, "score": 0.8, "reason": "Keanu Reeves at speed with real bus stunts and nonstop tension."},
+        {"movieId": 385, "score": 0.78, "reason": "Arnold in a Las Vegas hijinks adventure with top practical stunts."},
+        {"movieId": 24, "score": 0.75, "reason": "Jackie Chan’s fully real Hong Kong–style fights meet New York streets."},
+        {"movieId": 117, "score": 0.73, "reason": "Nicholas Cage leads a navy SEAL–style assault with real explosions."}
+      ]
+    },
+    "0354": {
+      "top10": [
+        {"movieId": 171, "score": 1.0, "reason": "Surreal black-market meat shop comedy from Jean-Pierre Jeunet."},
+        {"movieId": 919, "score": 0.95, "reason": "Bizarre steampunk fantasy of children kidnapped for their dreams."},
+        {"movieId": 691, "score": 0.9, "reason": "Neo-noir dystopia where reality shifts in shadowy London streets."},
+        {"movieId": 39, "score": 0.88, "reason": "Cyberpunk thriller of illicit memory recordings and twisted desires."},
+        {"movieId": 324, "score": 0.85, "reason": "Lynchian mind-bender where a man wakes into someone else’s life."},
+        {"movieId": 1056, "score": 0.83, "reason": "Guillermo del Toro’s first film blends body horror and obsessions."},
+        {"movieId": 7, "score": 0.8, "reason": "Time-travel plague paranoia with Terry Gilliam’s trademark oddity."},
+        {"movieId": 135, "score": 0.78, "reason": "Kubrick’s ponderous, dreamlike journey through human evolution."},
+        {"movieId": 325, "score": 0.75, "reason": "Cronenberg’s unsettling look at car-crash fetishism and intimacy."},
+        {"movieId": 855, "score": 0.73, "reason": "Opera-obsessed stalker tale with an eerie, operatic tone."}
+      ]
+    },
+    "0355": {
+      "top10": [
+        {"movieId": 705, "score": 1.0, "reason": "Gene Kelly’s joyous dance in the rain epitomizes classic musicals."},
+        {"movieId": 143, "score": 0.98, "reason": "Rousing Rodgers & Hammerstein songs set in pre-war Austria."},
+        {"movieId": 132, "score": 0.96, "reason": "Iconic Technicolor fairy tale with memorable songs."},
+        {"movieId": 451, "score": 0.94, "reason": "Yacht rock tunes, lovable teens, and toe-tapping fun."},
+        {"movieId": 485, "score": 0.92, "reason": "Lerner & Loewe’s romantic, lyric-driven Broadway spectacle."},
+        {"movieId": 610, "score": 0.9, "reason": "Charming MGM musical about young love in Paris."},
+        {"movieId": 1203, "score": 0.88, "reason": "Astaire and Rogers’ elegant dance routines in London."},
+        {"movieId": 418, "score": 0.85, "reason": "Timeless Disney musical with rags-to-riches songs."},
+        {"movieId": 142, "score": 0.83, "reason": "Enchanting mix of animation and live-action wartime escapism."},
+        {"movieId": 21, "score": 0.81, "reason": "Muppets’ spirited retelling of Treasure Island with song."}
+      ]
+    },
+    "0356": {
+      "top10": [
+        {"movieId": 200, "score": 1.0, "reason": "Kubrick’s oppressive winter hotel descent into madness."},
+        {"movieId": 1125, "score": 0.98, "reason": "Haunting governess tale of unseen horrors."},
+        {"movieId": 185, "score": 0.96, "reason": "Hitchcock’s masterful tension in a secluded motel."},
+        {"movieId": 98, "score": 0.94, "reason": "Psychological duel with Hannibal Lecter’s chilling intellect."},
+        {"movieId": 183, "score": 0.92, "reason": "Alien horror aboard a claustrophobic spaceship."},
+        {"movieId": 675, "score": 0.9, "reason": "Murnau’s silent vampire classic of gothic dread."},
+        {"movieId": 217, "score": 0.88, "reason": "De Palma’s lush, atmospheric tribute to Dracula."},
+        {"movieId": 176, "score": 0.86, "reason": "Ripley vs. xenomorphs in tight corridors and eerie silence."},
+        {"movieId": 201, "score": 0.84, "reason": "Evil Dead II’s macabre humor and nightmarish cabin."},
+        {"movieId": 260, "score": 0.82, "reason": "Claustrophobic deep-space horror with looming menace."}
+      ]
+    },
+    "0357": {
+      "top10": [
+        {"movieId": 675, "score": 1.0, "reason": "Seminal 1922 silent vampire film by F. W. Murnau."},
+        {"movieId": 493, "score": 0.95, "reason": "Nolan’s razor-sharp blend of comedy and mystery."},
+        {"movieId": 1203, "score": 0.93, "reason": "Astaire & Rogers’ top-hat-and-tux elegance of 1935."},
+        {"movieId": 610, "score": 0.9, "reason": "Cukor’s vibrant Belle Époque musical from 1958."},
+        {"movieId": 134, "score": 0.88, "reason": "Welles’ groundbreaking exploration of a man’s legacy."},
+        {"movieId": 483, "score": 0.86, "reason": "Fabled 1942 romance set in wartime Casablanca."},
+        {"movieId": 484, "score": 0.84, "reason": "Hawks’ slick 1941 detective classic in San Francisco."},
+        {"movieId": 99, "score": 0.82, "reason": "Disney’s pioneering feature-length animated fairy tale."},
+        {"movieId": 132, "score": 0.8, "reason": "Classic Judy Garland musical fantasy of 1939."},
+        {"movieId": 136, "score": 0.78, "reason": "Capra’s idealistic nation-upending story from 1939."}
+      ]
+    },
+    "0358": {
+      "top10": [
+        {"movieId": 127, "score": 1.0, "reason": "The Corleone saga starring Marlon Brando at his peak."},
+        {"movieId": 182, "score": 0.95, "reason": "Scorsese’s gangster epic with Robert De Niro’s riveting turn."},
+        {"movieId": 56, "score": 0.9, "reason": "Tarantino’s nonlinear masterpiece with iconic ensemble."},
+        {"movieId": 64, "score": 0.85, "reason": "Tim Robbins and Morgan Freeman forge a life-affirming bond."},
+        {"movieId": 50, "score": 0.8, "reason": "Lucas’s world-building spectacle that launched a saga."},
+        {"movieId": 69, "score": 0.75, "reason": "Tom Hanks’s heartfelt odyssey through life’s ups and downs."},
+        {"movieId": 313, "score": 0.7, "reason": "Cameron’s sweeping epic romance that broke box-office records."},
+        {"movieId": 511, "score": 0.65, "reason": "Lean’s desert-to-sea epic of war and self-discovery."},
+        {"movieId": 210, "score": 0.6, "reason": "Lucas’s globe-trotting archaeologist’s ultimate adventure."},
+        {"movieId": 172, "score": 0.55, "reason": "Harrison Ford returns to a galaxy far, far away in a darker sequel."}
+      ]
+    },
+    "0399": {
+      "top10": [
+        {"movieId": 1127, "score": 1.0, "reason": "A man’s idyllic life unravels in a perfectly constructed reality."},
+        {"movieId": 603, "score": 0.95, "reason": "Rear Window’s voyeuristic suspense among deceptively calm neighbors."},
+        {"movieId": 691, "score": 0.9, "reason": "Dark City’s normal world warping into unsettling conspiracies."},
+        {"movieId": 175, "score": 0.88, "reason": "Brazil’s bureaucratic absurdity twisting everyday existence."},
+        {"movieId": 23, "score": 0.85, "reason": "Taxi Driver’s simmering paranoia behind neon city facades."},
+        {"movieId": 324, "score": 0.83, "reason": "Lost Highway’s uncanny shift from mundane to menacing."},
+        {"movieId": 89, "score": 0.8, "reason": "Blade Runner’s rain-soaked city harboring hidden inhuman secrets."},
+        {"movieId": 182, "score": 0.78, "reason": "Goodfellas’ charismatic world hiding brutality underneath."},
+        {"movieId": 56, "score": 0.75, "reason": "Pulp Fiction’s casual chats erupt into violent, surreal consequences."},
+        {"movieId": 498, "score": 0.73, "reason": "The African Queen’s tranquil voyage revealing unpredictable horrors."}
+      ]
+    },
+    "0400": {
+      "top10": [
+        {"movieId": 1074, "score": 1.0, "reason": "Reality Bites nails early-’90s post-college malaise with ironic humor."},
+        {"movieId": 959, "score": 0.95, "reason": "Dazed and Confused’s aimless teens wrestling with uncertainty and fun."},
+        {"movieId": 42, "score": 0.9, "reason": "Clerks’ low-pay, dead-end jobs capture 20-something angst in real time."},
+        {"movieId": 150, "score": 0.87, "reason": "Swingers’ awkward dating adventures in early-’90s Hollywood."},
+        {"movieId": 246, "score": 0.85, "reason": "Chasing Amy’s messy romance and self-discovery in comic-book circles."},
+        {"movieId": 955, "score": 0.83, "reason": "Before Sunrise’s spontaneous midnight conversations of lost youth."},
+        {"movieId": 272, "score": 0.8, "reason": "Good Will Hunting’s genius janitor grappling with purpose and love."},
+        {"movieId": 475, "score": 0.78, "reason": "Trainspotting’s frantic dive into aimless youth and fleeting hope."},
+        {"movieId": 537, "score": 0.75, "reason": "My Own Private Idaho’s drifting souls seeking identity on the road."},
+        {"movieId": 733, "score": 0.73, "reason": "Go Fish’s indie exploration of young life, love, and searching."}
+      ]
+    }
+  }
+}

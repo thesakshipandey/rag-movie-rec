@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 85,
+    "score": 0.99,
+    "reason": "A dinner-party hostage standoff seethes with social cruelty that makes you cringe and squirm."
+  },
+  {
+    "movieId": 396,
+    "score": 0.97,
+    "reason": "Serial Mom’s polite matriarch facade hides murderous etiquette lessons at every family gathering."
+  },
+  {
+    "movieId": 90,
+    "score": 0.95,
+    "reason": "Charlie’s attempts at romance collide with paranoid suspicions for an uncomfortably funny tension."
+  },
+  {
+    "movieId": 412,
+    "score": 0.93,
+    "reason": "The Brady reunion’s retro cheer masks awkward lies and mounting social discomfort."
+  },
+  {
+    "movieId": 783,
+    "score": 0.91,
+    "reason": "Strangers share stolen soda and steamy dreams, creating uncomfortable intimacy gone too far."
+  },
+  {
+    "movieId": 393,
+    "score": 0.89,
+    "reason": "Mrs. Doubtfire’s family scenes mix genuine warmth with moments that make you want to look away."
+  },
+  {
+    "movieId": 355,
+    "score": 0.87,
+    "reason": "Tech moguls in crisis attempt smooth spins at a gala you can’t help but flinch through."
+  },
+  {
+    "movieId": 396,
+    "score": 0.85,
+    "reason": "(duplicate removed)"
+  },
+  {
+    "movieId": 85,
+    "score": 0.83,
+    "reason": "(duplicate removed)"
+  },
+  {
+    "movieId": 90,
+    "score": 0.81,
+    "reason": "(duplicate removed)"
+  }
+]

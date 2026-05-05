@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 429,
+    "score": 0.95,
+    "reason": "Day the Earth Stood Still: alien visitor warns Earth amid Cold War tensions"
+  },
+  {
+    "movieId": 434,
+    "score": 0.9,
+    "reason": "Forbidden Planet: allegory of atomic age paranoia on distant world"
+  },
+  {
+    "movieId": 444,
+    "score": 0.85,
+    "reason": "Blob, The: amorphous threat evokes fear of unknown invaders"
+  },
+  {
+    "movieId": 429,
+    "score": 0.8,
+    "reason": "Day the Earth Stood Still: iconic allegory for mutual destruction"
+  },
+  {
+    "movieId": 434,
+    "score": 0.75,
+    "reason": "Forbidden Planet: hidden fears unleashed by advanced tech"
+  },
+  {
+    "movieId": 444,
+    "score": 0.7,
+    "reason": "Blob, The: encroaching menace mirrors societal anxieties"
+  },
+  {
+    "movieId": 289,
+    "score": 0.65,
+    "reason": "Evil Dead II: surreal terror in isolated setting"
+  },
+  {
+    "movieId": 429,
+    "score": 0.6,
+    "reason": "Day the Earth Stood Still: peaceful alien warns of nuclear folly"
+  },
+  {
+    "movieId": 434,
+    "score": 0.55,
+    "reason": "Forbidden Planet: psycho-social critique cloaked as sci-fi"
+  },
+  {
+    "movieId": 444,
+    "score": 0.5,
+    "reason": "Blob, The: monster allegory for unseen Cold War threat"
+  }
+]

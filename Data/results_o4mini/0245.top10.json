@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 180,
+    "score": 1.0,
+    "reason": "Apocalypse Now – iconic Vietnam War epic exploring modern warfare’s chaos"
+  },
+  {
+    "movieId": 157,
+    "score": 0.93,
+    "reason": "Platoon – gritty Vietnam War drama depicting frontline infantry life"
+  },
+  {
+    "movieId": 188,
+    "score": 0.86,
+    "reason": "Full Metal Jacket – Stanley Kubrick’s intense Vietnam War boot camp and combat tale"
+  },
+  {
+    "movieId": 511,
+    "score": 0.79,
+    "reason": "Lawrence of Arabia – sweeping WWI desert adventure based on real events"
+  },
+  {
+    "movieId": 641,
+    "score": 0.72,
+    "reason": "Paths of Glory – powerful WWI trench drama questioning military authority"
+  },
+  {
+    "movieId": 48,
+    "score": 0.65,
+    "reason": "Hoop Dreams – acclaimed documentary following two Chicago teens’ basketball journey"
+  },
+  {
+    "movieId": 32,
+    "score": 0.58,
+    "reason": "Crumb – intimate documentary on groundbreaking underground cartoonist Robert Crumb"
+  },
+  {
+    "movieId": 209,
+    "score": 0.51,
+    "reason": "Celluloid Closet – essential documentary on LGBTQ representation in cinema"
+  },
+  {
+    "movieId": 320,
+    "score": 0.44,
+    "reason": "Paradise Lost: The Child Murders at Robin Hood Hills – investigative documentary on a miscarriage of justice"
+  },
+  {
+    "movieId": 645,
+    "score": 0.37,
+    "reason": "Paris Is Burning – landmark documentary on 1980s New York drag ball culture"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.95,
+    "reason": "Taxi Driver’s Travis Bickle is a raw, unsettling portrait of urban alienation"
+  },
+  {
+    "movieId": 53,
+    "score": 0.92,
+    "reason": "Natural Born Killers’ violent duo fascinates even as you recoil from their spree"
+  },
+  {
+    "movieId": 640,
+    "score": 0.9,
+    "reason": "The Cook, The Thief… offers a grotesque study of venomous characters in a sumptuous cage"
+  },
+  {
+    "movieId": 182,
+    "score": 0.88,
+    "reason": "Goodfellas’ charismatic mobsters charm as their cruelty escalates"
+  },
+  {
+    "movieId": 218,
+    "score": 0.86,
+    "reason": "Cape Fear’s vengeful villain is magnetically repellent from first frame"
+  },
+  {
+    "movieId": 98,
+    "score": 0.84,
+    "reason": "Silence of the Lambs’ Hannibal Lecter is a masterclass in likable menace"
+  },
+  {
+    "movieId": 591,
+    "score": 0.82,
+    "reason": "Primal Fear’s Verbal Kint grips and disgusts in a layered, unreliable guise"
+  },
+  {
+    "movieId": 12,
+    "score": 0.8,
+    "reason": "The Usual Suspects’ Verbal Kint is repulsive yet riveting in every lie"
+  },
+  {
+    "movieId": 192,
+    "score": 0.78,
+    "reason": "Raging Bull’s Jake LaMotta manages raw empathy even as he brutalizes everyone"
+  },
+  {
+    "movieId": 179,
+    "score": 0.75,
+    "reason": "A Clockwork Orange’s Alex DeLarge keeps you entranced while you’re repulsed"
+  }
+]

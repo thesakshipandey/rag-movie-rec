@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 147,
+    "score": 0.98,
+    "reason": "Amnesiac ex-spy uncovers her past in a clever reboot with smart revenge twists"
+  },
+  {
+    "movieId": 346,
+    "score": 0.96,
+    "reason": "Flight attendant outsmarts arms dealer with a meticulously planned comeback"
+  },
+  {
+    "movieId": 5,
+    "score": 0.94,
+    "reason": "Renowned criminologist targeted by copycat killer in a taut, cerebral chase"
+  },
+  {
+    "movieId": 129,
+    "score": 0.92,
+    "reason": "Ex-con plumber and painter engineer a daring double-cross against corrupt couple"
+  },
+  {
+    "movieId": 198,
+    "score": 0.9,
+    "reason": "Young delinquent turned assassin plots her own freedom in a stylish thriller"
+  },
+  {
+    "movieId": 98,
+    "score": 0.88,
+    "reason": "FBI trainee matches wits with brilliant psychiatrist in chilling psychological duel"
+  },
+  {
+    "movieId": 38,
+    "score": 0.86,
+    "reason": "Systems analyst fights corporate conspiracy in a high-tech cat-and-mouse game"
+  },
+  {
+    "movieId": 43,
+    "score": 0.84,
+    "reason": "SME engineer battles office betrayal in a corporate thriller with a smart female lead"
+  },
+  {
+    "movieId": 159,
+    "score": 0.82,
+    "reason": "Psychiatrist probes seductive suspect in a stylish, twist-filled murder mystery"
+  },
+  {
+    "movieId": 109,
+    "score": 0.8,
+    "reason": "Teacher suspects her husband’s coworker in a slow-burn revenge thriller"
+  }
+]

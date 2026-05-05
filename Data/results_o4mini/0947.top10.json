@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.95,
+    "reason": "Natural Born Killers – savage media critique in a darkly comic spree"
+  },
+  {
+    "movieId": 347,
+    "score": 0.93,
+    "reason": "Wag the Dog – political spin and propaganda exposed with sharp humor"
+  },
+  {
+    "movieId": 474,
+    "score": 0.91,
+    "reason": "Dr. Strangelove – biting Cold War satire on military-industrial absurdity"
+  },
+  {
+    "movieId": 175,
+    "score": 0.88,
+    "reason": "Brazil – hyper-bureaucratic dystopia lampoons corporate control"
+  },
+  {
+    "movieId": 56,
+    "score": 0.86,
+    "reason": "Pulp Fiction – pop culture and crime collide in edgy, self-aware satire"
+  },
+  {
+    "movieId": 160,
+    "score": 0.84,
+    "reason": "Glengarry Glen Ross – ruthless corporate sales world laid bare with dark wit"
+  },
+  {
+    "movieId": 390,
+    "score": 0.82,
+    "reason": "Fear of a Black Hat – mockumentary skewers gangsta rap tropes with comedy"
+  },
+  {
+    "movieId": 707,
+    "score": 0.8,
+    "reason": "Enchanted April – upper-class retreat reveals social pretensions in satiric tone"
+  },
+  {
+    "movieId": 748,
+    "score": 0.78,
+    "reason": "Saint, The – rogue spy comedy skewers pop-culture and ideology"
+  },
+  {
+    "movieId": 719,
+    "score": 0.75,
+    "reason": "Canadian Bacon – cross-border caricature of media and military follies"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 132,
+    "score": 0.98,
+    "reason": "Dorothy’s journey through a technicolor realm under the rainbow is pure magical discovery."
+  },
+  {
+    "movieId": 91,
+    "score": 0.96,
+    "reason": "Jack Skellington’s stumble into Christmas Town is whimsical, risky, and wondrous."
+  },
+  {
+    "movieId": 420,
+    "score": 0.95,
+    "reason": "Alice’s fall reveals a topsy-turvy world veiled just beneath familiar reality."
+  },
+  {
+    "movieId": 142,
+    "score": 0.93,
+    "reason": "A magical nanny whisks children into animated adventures hidden behind the mundane."
+  },
+  {
+    "movieId": 432,
+    "score": 0.9,
+    "reason": "Fantasia takes you inside living paintings where music conjures surreal, dangerous wonders."
+  },
+  {
+    "movieId": 691,
+    "score": 0.88,
+    "reason": "A man awakens in a city whose dreamlike layers hide a dark, shape-shifting conspiracy."
+  },
+  {
+    "movieId": 21,
+    "score": 0.85,
+    "reason": "Muppet pirates roam an island where fantasy blends peril and delight at every turn."
+  },
+  {
+    "movieId": 38,
+    "score": 0.83,
+    "reason": "A technologist’s home transforms into a digital labyrinth echoing eerie near-reality."
+  },
+  {
+    "movieId": 87,
+    "score": 0.82,
+    "reason": "A boy’s chess obsession uncovers hidden depths, where every move feels mysteriously fated."
+  },
+  {
+    "movieId": 128,
+    "score": 0.8,
+    "reason": "A supercop strays into a seedy world where martial prowess hides secret threats."
+  }
+]

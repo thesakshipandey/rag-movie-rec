@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 705,
+    "score": 1.0,
+    "reason": "Gene Kelly’s joyous dance in the rain epitomizes classic musicals."
+  },
+  {
+    "movieId": 143,
+    "score": 0.98,
+    "reason": "Rousing Rodgers & Hammerstein songs set in pre-war Austria."
+  },
+  {
+    "movieId": 132,
+    "score": 0.96,
+    "reason": "Iconic Technicolor fairy tale with memorable songs."
+  },
+  {
+    "movieId": 451,
+    "score": 0.94,
+    "reason": "Yacht rock tunes, lovable teens, and toe-tapping fun."
+  },
+  {
+    "movieId": 485,
+    "score": 0.92,
+    "reason": "Lerner & Loewe’s romantic, lyric-driven Broadway spectacle."
+  },
+  {
+    "movieId": 610,
+    "score": 0.9,
+    "reason": "Charming MGM musical about young love in Paris."
+  },
+  {
+    "movieId": 1203,
+    "score": 0.88,
+    "reason": "Astaire and Rogers’ elegant dance routines in London."
+  },
+  {
+    "movieId": 418,
+    "score": 0.85,
+    "reason": "Timeless Disney musical with rags-to-riches songs."
+  },
+  {
+    "movieId": 142,
+    "score": 0.83,
+    "reason": "Enchanting mix of animation and live-action wartime escapism."
+  },
+  {
+    "movieId": 21,
+    "score": 0.81,
+    "reason": "Muppets’ spirited retelling of Treasure Island with song."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 250,
+    "score": 0.95,
+    "reason": "Ragtag crew, aliens, fun escapist adventure."
+  },
+  {
+    "movieId": 257,
+    "score": 0.9,
+    "reason": "Quirky agents vs. aliens with lighthearted tone."
+  },
+  {
+    "movieId": 121,
+    "score": 0.85,
+    "reason": "High-stakes alien invasion with humor."
+  },
+  {
+    "movieId": 43,
+    "score": 0.8,
+    "reason": "Corporate espionage in space with fun crew."
+  },
+  {
+    "movieId": 356,
+    "score": 0.75,
+    "reason": "Child prodigy crew in underwater adventure."
+  },
+  {
+    "movieId": 97,
+    "score": 0.7,
+    "reason": "Ranger-led planetary defense with action."
+  },
+  {
+    "movieId": 686,
+    "score": 0.65,
+    "reason": "Commando pilot squad vs. alien threat."
+  },
+  {
+    "movieId": 464,
+    "score": 0.6,
+    "reason": "Time-travel crew interactions, light sci-fi fun."
+  },
+  {
+    "movieId": 425,
+    "score": 0.55,
+    "reason": "Political thriller meets escapist sci-fi."
+  },
+  {
+    "movieId": 829,
+    "score": 0.5,
+    "reason": "Desert-bred android, galaxy-hopping adventure."
+  }
+]

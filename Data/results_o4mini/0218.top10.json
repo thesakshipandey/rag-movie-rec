@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 169,
+    "score": 0.95,
+    "reason": "Charmingly concise Wallace & Gromit short with inventive humor"
+  },
+  {
+    "movieId": 189,
+    "score": 0.93,
+    "reason": "A Grand Day Out—classic 23‐minute Aardman animation delight"
+  },
+  {
+    "movieId": 464,
+    "score": 0.91,
+    "reason": "Intimate staging of Chekhovʼs Uncle Vanya in under 70 minutes"
+  },
+  {
+    "movieId": 412,
+    "score": 0.89,
+    "reason": "Tight comedic sequel clocking in just at an hour’s mark"
+  },
+  {
+    "movieId": 361,
+    "score": 0.87,
+    "reason": "Rapid‐fire comedy fitting neatly into a 60-minute window"
+  },
+  {
+    "movieId": 513,
+    "score": 0.85,
+    "reason": "Film-noir classic under an hour, lean and suspenseful"
+  },
+  {
+    "movieId": 393,
+    "score": 0.83,
+    "reason": "Family comedy running just over an hour of laughs"
+  },
+  {
+    "movieId": 709,
+    "score": 0.81,
+    "reason": "Wry British comedy that wraps up in about an hour"
+  },
+  {
+    "movieId": 699,
+    "score": 0.79,
+    "reason": "Quaint indie romance/drama pacing under 70 minutes"
+  },
+  {
+    "movieId": 529,
+    "score": 0.77,
+    "reason": "Tender military drama compacted into one hour"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Non-linear crime saga woven with dark humor and provocative dialogue"
+  },
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Masterful noir thriller with an unforgettable twist and unreliable narrator"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Mind-bending time-travel thriller that layers reality and memory in unexpected ways"
+  },
+  {
+    "movieId": 333,
+    "score": 0.85,
+    "reason": "Intricate psychological thriller that blurs reality and fantasy in a high-stakes game"
+  },
+  {
+    "movieId": 324,
+    "score": 0.8,
+    "reason": "Surreal mystery unraveling across nonlinear layers, challenging viewers at every turn"
+  },
+  {
+    "movieId": 135,
+    "score": 0.75,
+    "reason": "Epic sci-fi odyssey spanning eons with stunning visuals and profound mystery"
+  },
+  {
+    "movieId": 53,
+    "score": 0.7,
+    "reason": "Hyper-stylized spree of violence that subverts narrative expectations and themes"
+  },
+  {
+    "movieId": 100,
+    "score": 0.65,
+    "reason": "Black comedy-crime drama weaving multiple plotlines into a suspenseful tapestry"
+  },
+  {
+    "movieId": 654,
+    "score": 0.6,
+    "reason": "Classic noir exposing corruption with moral ambiguity and a haunting finale"
+  },
+  {
+    "movieId": 89,
+    "score": 0.55,
+    "reason": "Philosophical sci-fi noir probing humanity and identity in a dystopian future"
+  }
+]

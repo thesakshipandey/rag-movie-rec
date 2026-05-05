@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "Star Wars delivers epic space adventure and sweeping escapism"
+  },
+  {
+    "movieId": 172,
+    "score": 0.95,
+    "reason": "The Empire Strikes Back deepens the galaxy’s intrigue with stunning scope"
+  },
+  {
+    "movieId": 96,
+    "score": 0.9,
+    "reason": "Terminator 2: Judgment Day offers relentless, world-ending sci-fi thrills"
+  },
+  {
+    "movieId": 204,
+    "score": 0.85,
+    "reason": "Back to the Future is a perfect time-travel ride full of surprises"
+  },
+  {
+    "movieId": 82,
+    "score": 0.8,
+    "reason": "Jurassic Park brings dinosaurs to life in a breathtaking spectacle"
+  },
+  {
+    "movieId": 121,
+    "score": 0.75,
+    "reason": "Independence Day’s global alien invasion is pure blockbuster escapism"
+  },
+  {
+    "movieId": 176,
+    "score": 0.7,
+    "reason": "Aliens combines tense sci-fi and gripping action non-stop"
+  },
+  {
+    "movieId": 64,
+    "score": 0.65,
+    "reason": "The Shawshank Redemption immerses you in an unforgettable story of hope"
+  },
+  {
+    "movieId": 56,
+    "score": 0.6,
+    "reason": "Pulp Fiction’s interwoven crime tales are endlessly absorbing"
+  },
+  {
+    "movieId": 174,
+    "score": 0.55,
+    "reason": "Raiders of the Lost Ark is nonstop adventure with iconic thrills"
+  }
+]

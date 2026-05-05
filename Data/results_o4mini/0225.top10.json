@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.9,
+    "reason": "Epic medieval horror-comedy with over-the-top gore and laughs"
+  },
+  {
+    "movieId": 201,
+    "score": 0.88,
+    "reason": "Campy cabin-in-the-woods horror-comedy classic"
+  },
+  {
+    "movieId": 184,
+    "score": 0.86,
+    "reason": "Cheeky time-travel zombie comedy from Sam Raimi"
+  },
+  {
+    "movieId": 436,
+    "score": 0.85,
+    "reason": "Witty werewolf horror-comedy with sharp humor"
+  },
+  {
+    "movieId": 433,
+    "score": 0.83,
+    "reason": "Dark comedy about teenage slasher adventures"
+  },
+  {
+    "movieId": 379,
+    "score": 0.8,
+    "reason": "Anthology-hosted horror with wicked humor"
+  },
+  {
+    "movieId": 413,
+    "score": 0.77,
+    "reason": "Quirky Crypt Keeper–curated vampire comedy"
+  },
+  {
+    "movieId": 202,
+    "score": 0.75,
+    "reason": "Bill Murray’s time-loop tale with macabre wit"
+  },
+  {
+    "movieId": 208,
+    "score": 0.72,
+    "reason": "Mel Brooks’s affectionate horror spoof masterpiece"
+  },
+  {
+    "movieId": 37,
+    "score": 0.7,
+    "reason": "Low-key vampire comedy with surreal style"
+  }
+]

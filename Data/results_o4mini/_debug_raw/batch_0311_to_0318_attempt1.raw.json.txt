@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0311": {
+      "top10": [
+        {"movieId": 32, "score": 0.98, "reason": "Terry Zwigoff’s intimate profile of cartoonist Robert Crumb offers a raw, humanizing art documentary"},
+        {"movieId": 48, "score": 0.96, "reason": "Captivating basketball doc following two teens chasing their NBA dreams over several years"},
+        {"movieId": 119, "score": 0.94, "reason": "Profiles artist Maya Lin and her struggles creating the Vietnam Veterans Memorial in an insightful art doc"},
+        {"movieId": 320, "score": 0.92, "reason": "Powerful documentary chronicling the West Memphis Three trial and its impact on small-town America"},
+        {"movieId": 813, "score": 0.90, "reason": "Explores Hollywood’s hidden gay history through interviews and film clips in a groundbreaking doc"},
+        {"movieId": 645, "score": 0.88, "reason": "Vibrant exploration of 1980s New York ball culture and LGBTQ+ communities, rich and heartfelt"},
+        {"movieId": 75, "score": 0.86, "reason": "Examines the assassination of Malcolm X with rare archival footage and firsthand interviews"},
+        {"movieId": 701, "score": 0.84, "reason": "Insights into Leni Riefenstahl’s controversial film career and Nazi propaganda in a stark doc"},
+        {"movieId": 634, "score": 0.82, "reason": "Stunning macro documentary capturing the secret lives of insects in a poetic, visual odyssey"},
+        {"movieId": 32, "score": 0.80, "reason": "Terry Zwigoff’s intimate profile of cartoonist Robert Crumb offers a raw, humanizing art documentary"}
+      ]
+    },
+    "0312": {
+      "top10": [
+        {"movieId": 24, "score": 0.98, "reason": "Jackie Chan delivers breathtaking practical stunts in Rumble in the Bronx"},
+        {"movieId": 128, "score": 0.96, "reason": "Supercop showcases seamless Hong Kong action with real stunts and minimal camera shake"},
+        {"movieId": 599, "score": 0.94, "reason": "Police Story 4’s inventive stunts and physical chases define ’90s practical action"},
+        {"movieId": 96, "score": 0.92, "reason": "Terminator 2’s practical effects and Arnold’s steadfast action stand out over CGI"},
+        {"movieId": 405, "score": 0.90, "reason": "Mission: Impossible features Tom Cruise’s real stunts and clear, coherent action"},
+        {"movieId": 174, "score": 0.88, "reason": "Raiders of the Lost Ark blends practical effects with iconic stunt work and adventure"},
+        {"movieId": 117, "score": 0.86, "reason": "The Rock’s on-location stunts and real explosions deliver tangible, high-energy thrills"},
+        {"movieId": 298, "score": 0.84, "reason": "Face/Off’s elaborate real-world stunts and clear visuals emphasize authentic action"},
+        {"movieId": 233, "score": 0.82, "reason": "Under Siege’s battleship set hosts grounded fight scenes and palpable practical stunts"},
+        {"movieId": 79, "score": 0.80, "reason": "The Fugitive’s train crash and chase sequences rely on physical stunts and clear cinematography"}
+      ]
+    },
+    "0313": {
+      "top10": [
+        {"movieId": 9, "score": 0.98, "reason": "Dead Man Walking’s compassionate portrayal of redemption and humanity resonates deeply"},
+        {"movieId": 64, "score": 0.96, "reason": "The Shawshank Redemption’s powerful tale of hope, friendship and resilience moves the heart"},
+        {"movieId": 65, "score": 0.94, "reason": "What’s Eating Gilbert Grape offers a tender portrait of family bonds and emotional growth"},
+        {"movieId": 170, "score": 0.92, "reason": "Cinema Paradiso’s nostalgic love of film and friendship evokes warm, universal emotion"},
+        {"movieId": 196, "score": 0.90, "reason": "Dead Poets Society’s heartfelt exploration of inspiration and loss speaks to the soul"},
+        {"movieId": 69, "score": 0.88, "reason": "Forrest Gump’s sweeping journey through life captures deep personal moments and heartfelt wonder"},
+        {"movieId": 272, "score": 0.86, "reason": "Good Will Hunting’s raw storytelling and emotional honesty deliver profound human connection"},
+        {"movieId": 86, "score": 0.84, "reason": "The Remains of the Day’s restrained performances explore duty and unspoken feelings with nuance"},
+        {"movieId": 371, "score": 0.82, "reason": "The Bridges of Madison County’s bittersweet romance and longing pull at the heartstrings"},
+        {"movieId": 286, "score": 0.80, "reason": "The English Patient’s WWII-era settings and tragic love story sweep through time with graceful historical depth"}
+      ]
+    },
+    "0314": {
+      "top10": [
+        {"movieId": 135, "score": 0.98, "reason": "2001: A Space Odyssey’s visionary, high-concept exploration of humanity and AI remains unmatched"},
+        {"movieId": 89, "score": 0.96, "reason": "Blade Runner’s philosophical take on identity and purpose weighs ideas over action"},
+        {"movieId": 269, "score": 0.94, "reason": "Gattaca’s elegant genetic “what-if” premise drives a thought-provoking sci-fi narrative"},
+        {"movieId": 7, "score": 0.92, "reason": "Twelve Monkeys’ mind-bending time-travel mystery challenges perceptions of fate and reality"},
+        {"movieId": 258, "score": 0.90, "reason": "Contact’s cerebral quest for alien intelligence foregrounds wonder and scientific ethics"},
+        {"movieId": 175, "score": 0.88, "reason": "Brazil’s darkly satirical vision questions bureaucracy and dreams in a surreal dystopia"},
+        {"movieId": 691, "score": 0.86, "reason": "Dark City’s noir-tinged mystery probes memory, identity and reality in a stylish, cerebral world"},
+        {"movieId": 202, "score": 0.84, "reason": "Groundhog Day’s inventive time-loop explores self-reflection and change with sharp wit"},
+        {"movieId": 84, "score": 0.82, "reason": "The Puppet Masters’ paranoid alien premise examines control and humanity beyond typical shoot-em-ups"},
+        {"movieId": 204, "score": 0.80, "reason": "Back to the Future’s innovative time-travel concept raises fresh ideas in a smart, fun story"}
+      ]
+    },
+    "0315": {
+      "top10": [
+        {"movieId": 11, "score": 0.98, "reason": "Se7en’s grim atmosphere and relentless pursuit of sin deliver a truly bleak, twisty thriller"},
+        {"movieId": 12, "score": 0.96, "reason": "The Usual Suspects’ intricate plotting and cynical edge culminate in one of cinema’s most infamous twists"},
+        {"movieId": 23, "score": 0.94, "reason": "Taxi Driver’s dark descent into urban madness and brooding cynicism define moody thriller cinema"},
+        {"movieId": 5, "score": 0.92, "reason": "Copycat’s tense cat-and-mouse game in rainy San Francisco creates a palpable sense of dread"},
+        {"movieId": 98, "score": 0.90, "reason": "The Silence of the Lambs’ chilling interplay and oppressive tone craft a memorably bleak thriller"},
+        {"movieId": 53, "score": 0.88, "reason": "Natural Born Killers’ savage satire and cynical violence subvert expectations in a darkly stylish ride"},
+        {"movieId": 273, "score": 0.86, "reason": "Heat’s simmering heist drama and brooding character clashes deliver relentless, moody tension"},
+        {"movieId": 100, "score": 0.84, "reason": "Fargo’s dark humor, snow-bound isolation and twisted crime narrative evoke bleak, unforgettable chills"},
+        {"movieId": 302, "score": 0.82, "reason": "L.A. Confidential’s rainy streets and covert corruption paint a cynical, atmospheric crime epic"},
+        {"movieId": 333, "score": 0.80, "reason": "The Game’s uneasy paranoia and convoluted twists leave a disorienting, darkly charged aftermath"}
+      ]
+    },
+    "0316": {
+      "top10": [
+        {"movieId": 275, "score": 0.98, "reason": "Sense and Sensibility’s sumptuous Regency settings and restrained emotions showcase classic period drama"},
+        {"movieId": 86, "score": 0.96, "reason": "The Remains of the Day’s elegant portrayal of duty and suppressed feelings in a grand country estate"},
+        {"movieId": 387, "score": 0.94, "reason": "The Age of Innocence’s lush Gilded Age world and delicate unspoken passion capture repressed period emotion"},
+        {"movieId": 190, "score": 0.92, "reason": "Henry V’s stirring historical spectacle and introspective monarch reveal a regal emotional undercurrent"},
+        {"movieId": 191, "score": 0.90, "reason": "Amadeus’ vivid 18th-century backdrop and brooding genius story blend lavish style with deep human drama"},
+        {"movieId": 51, "score": 0.88, "reason": "Legends of the Fall’s sweeping frontier saga and buried passions feel richly period"},
+        {"movieId": 909, "score": 0.86, "reason": "Dangerous Beauty’s Renaissance Venice romance unfolds through sumptuous costumes and hidden emotional currents"},
+        {"movieId": 557, "score": 0.84, "reason": "Farinelli’s baroque operatic Europe and complex characters exude grand historical drama"},
+        {"movieId": 52, "score": 0.82, "reason": "The Madness of King George’s ornate 18th-century court scenes and solemn royal struggles reveal repressed anguish"},
+        {"movieId": 286, "score": 0.80, "reason": "The English Patient’s WWII-era settings and tragic love story sweep through time with graceful historical depth"}
+      ]
+    },
+    "0317": {
+      "top10": [
+        {"movieId": 74, "score": 0.98, "reason": "Faster Pussycat! Kill! Kill!’s wild go-go girl mayhem and over-the-top thrills epitomize cult B-movie fun"},
+        {"movieId": 444, "score": 0.96, "reason": "The Blob’s gooey terror and kitschy ’50s vibe deliver classic B-movie camp at its slimiest best"},
+        {"movieId": 109, "score": 0.94, "reason": "Mystery Science Theater 3000’s riffing on cheesy sci-fi amplifies the joy of wild, campy exploitation cinema"},
+        {"movieId": 235, "score": 0.92, "reason": "Mars Attacks!’ absurd alien invasion and gleefully campy absurdity celebrate unhinged genre excess"},
+        {"movieId": 375, "score": 0.90, "reason": "Showgirls’ outrageous Vegas spectacle and camp excess blend so-bad-it’s-good thrills and glamor"},
+        {"movieId": 184, "score": 0.88, "reason": "Army of Darkness’ cheesy one-liners and slapstick undead battles embrace campy horror-comedy mayhem"},
+        {"movieId": 382, "score": 0.86, "reason": "The Adventures of Priscilla, Queen of the Desert’s flamboyant humor and outlandish spirit define joyous camp"},
+        {"movieId": 368, "score": 0.84, "reason": "Bio-Dome’s goofy duo antics and ’90s stoner antics deliver whimsically dumb, guilty-pleasure camp"},
+        {"movieId": 1411, "score": 0.82, "reason": "Barbarella’s kitschy sci-fi sets and Jane Fonda’s playful performance capture sixties camp in a cosmic romp"},
+        {"movieId": 249, "score": 0.80, "reason": "Austin Powers’ swinging ’60s spy parody revels in groovy camp and over-the-top comedy indulgence"}
+      ]
+    },
+    "0318": {
+      "top10": [
+        {"movieId": 70, "score": 0.98, "reason": "Four Weddings and a Funeral’s witty dialogue and sharp social humor make it a smart romantic comedy classic"},
+        {"movieId": 168, "score": 0.96, "reason": "Monty Python and the Holy Grail’s absurd wit and satirical medieval send-up remain brilliantly clever"},
+        {"movieId": 154, "score": 0.94, "reason": "Monty Python’s Life of Brian’s razor-sharp religious satire and comedic chops deliver enduring wit"},
+        {"movieId": 474, "score": 0.92, "reason": "Dr. Strangelove’s biting satire of nuclear war and gleefully sharp humor defines political comedy genius"},
+        {"movieId": 482, "score": 0.90, "reason": "Some Like It Hot’s snappy wit and gender-bending gags showcase one of Hollywood’s breeziest comedies"},
+        {"movieId": 481, "score": 0.88, "reason": "The Apartment’s clever critique of corporate life and dry, heartfelt humor cement its comic-classic status"},
+        {"movieId": 494, "score": 0.86, "reason": "His Girl Friday’s rapid-fire banter and incisive comedic timing make it a masterclass in witty dialogue"},
+        {"movieId": 428, "score": 0.84, "reason": "Harold and Maude’s darkly whimsical story and sharp humor explore love and mortality with clever warmth"},
+        {"movieId": 663, "score": 0.82, "reason": "Being There’s sly satire and understated wit portray a charming take on media and modern politics"},
+        {"movieId": 430, "score": 0.80, "reason": "Duck Soup’s anarchic political farce and Marx Brothers’ quicksilver comedy remain hilariously sharp"}
+      ]
+    }
+  }
+}

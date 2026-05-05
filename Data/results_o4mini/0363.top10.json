@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 234,
+    "score": 1.0,
+    "reason": "Ultimate man-vs-nature thriller featuring a terrorizing great white shark"
+  },
+  {
+    "movieId": 82,
+    "score": 0.91,
+    "reason": "Groundbreaking spectacle of living dinosaurs run amok"
+  },
+  {
+    "movieId": 176,
+    "score": 0.82,
+    "reason": "Practical-effects powerhouse sequel pitting Ripley against an alien queen"
+  },
+  {
+    "movieId": 184,
+    "score": 0.73,
+    "reason": "Cult classic blending slapstick and horror against undead hordes"
+  },
+  {
+    "movieId": 17,
+    "score": 0.64,
+    "reason": "Genre-bending road horror with vampires and raw practical make-up"
+  },
+  {
+    "movieId": 769,
+    "score": 0.55,
+    "reason": "Heart-pounding African safari turns deadly in creature feature style"
+  },
+  {
+    "movieId": 1013,
+    "score": 0.46,
+    "reason": "Jaws-style thrills aboard a sinking cruise ship hunted by a giant snake"
+  },
+  {
+    "movieId": 264,
+    "score": 0.37,
+    "reason": "Claustrophobic killer-insect tale with handcrafted creature effects"
+  },
+  {
+    "movieId": 353,
+    "score": 0.28,
+    "reason": "Action-horror adventure where a luxury liner is besieged by sea creatures"
+  },
+  {
+    "movieId": 1157,
+    "score": 0.19,
+    "reason": "Macabre museum mystery unleashes a monster born of misplaced relic"
+  }
+]

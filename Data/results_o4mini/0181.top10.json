@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 510,
+    "score": 0.98,
+    "reason": "Classic ensemble Western with iconic Mexican standoff and 1950s-60s era setting"
+  },
+  {
+    "movieId": 661,
+    "score": 0.95,
+    "reason": "Classic 1952 Western exploring moral dilemmas in a frontier town"
+  },
+  {
+    "movieId": 177,
+    "score": 0.93,
+    "reason": "1966 Spaghetti Western known for dramatic duels and desert landscapes"
+  },
+  {
+    "movieId": 435,
+    "score": 0.9,
+    "reason": "1969 buddy Western with humor and action on the open plains"
+  },
+  {
+    "movieId": 589,
+    "score": 0.88,
+    "reason": "1969 revisionist Western with intense action and gritty realism"
+  },
+  {
+    "movieId": 1340,
+    "score": 0.75,
+    "reason": "1958 WWII drama set partly in pacific islands, shares rugged frontier vibe"
+  },
+  {
+    "movieId": 661,
+    "score": 0.7,
+    "reason": "1952 tale of lawman facing outlaws at high noon in classic Western town"
+  },
+  {
+    "movieId": 510,
+    "score": 0.65,
+    "reason": "1954 ranchers rally to save town in a celebrated Western adventure"
+  },
+  {
+    "movieId": 177,
+    "score": 0.6,
+    "reason": "1966 tale of three gunslingers seeking buried fortune in wild west"
+  },
+  {
+    "movieId": 435,
+    "score": 0.55,
+    "reason": "1969 outlaw duo evading law across plains in classic Western romp"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 248,
+    "score": 0.95,
+    "reason": "Sharp-witted assassin comedy from the late ’90s."
+  },
+  {
+    "movieId": 249,
+    "score": 0.93,
+    "reason": "Iconic spy spoof full of 1960s and ’90s campy charm."
+  },
+  {
+    "movieId": 259,
+    "score": 0.9,
+    "reason": "Family comedy adventuring Power Rangers on the big screen."
+  },
+  {
+    "movieId": 260,
+    "score": 0.88,
+    "reason": "Sci-fi horror comedy with tongue-in-cheek thrills."
+  },
+  {
+    "movieId": 243,
+    "score": 0.85,
+    "reason": "Fish-out-of-water comedy with ’90s family vibes."
+  },
+  {
+    "movieId": 352,
+    "score": 0.82,
+    "reason": "Pop-culture romp starring the Spice Girls at their peak."
+  },
+  {
+    "movieId": 240,
+    "score": 0.8,
+    "reason": "Animation comedy where two slackers go on a wild adventure."
+  },
+  {
+    "movieId": 261,
+    "score": 0.78,
+    "reason": "Kid-friendly talking dog sports comedy from 1997."
+  },
+  {
+    "movieId": 262,
+    "score": 0.75,
+    "reason": "Dark romantic comedy exploring deceit and ambition."
+  },
+  {
+    "movieId": 267,
+    "score": 0.72,
+    "reason": "Modern Berlin thriller, late-90s edge, though not comedic."
+  }
+]

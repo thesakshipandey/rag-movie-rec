@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 24,
+    "score": 0.95,
+    "reason": "Uptight cop and neighborhood kid form a raw bond amid New York’s mean streets"
+  },
+  {
+    "movieId": 65,
+    "score": 0.92,
+    "reason": "Small-town son and emotionally fragile brother find connection in everyday struggle"
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "Lonely war vet and eccentric taxi driver share a fragile friendship in gritty city nights"
+  },
+  {
+    "movieId": 811,
+    "score": 0.88,
+    "reason": "Art school misfit and reclusive painter clash over ideals before warm understanding blooms"
+  },
+  {
+    "movieId": 527,
+    "score": 0.85,
+    "reason": "Idealistic lawyer and gangster form a wary bond amid the ruins of wartime Prague"
+  },
+  {
+    "movieId": 393,
+    "score": 0.83,
+    "reason": "Divorced dad and quirky nanny’s rapport grows through mutual challenges, not clichés"
+  },
+  {
+    "movieId": 206,
+    "score": 0.8,
+    "reason": "Young artist and wounded veteran push each other’s limits in postwar urban South Korea"
+  },
+  {
+    "movieId": 572,
+    "score": 0.78,
+    "reason": "Detective and victim’s sister forge uneasy trust while hunting a serial bomber"
+  },
+  {
+    "movieId": 223,
+    "score": 0.75,
+    "reason": "Gentle giant with mental illness and small-town clerk clash before discovering mutual respect"
+  },
+  {
+    "movieId": 147,
+    "score": 0.73,
+    "reason": "Isolated teacher and talking dinosaur unite in a mission that tests both their differences"
+  }
+]

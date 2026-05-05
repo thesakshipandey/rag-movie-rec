@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 654,
+    "score": 0.98,
+    "reason": "A morally fractured PI unravels a wife’s murder plot in rainy, neon-lit L.A.",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 525,
+    "score": 0.96,
+    "reason": "A hard-boiled detective wades through deceit and erotic intrigue in foggy streets",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 302,
+    "score": 0.94,
+    "reason": "1950s L.A. cops in moral gray areas uncover corruption beneath glitzy facades",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 11,
+    "score": 0.92,
+    "reason": "Two detectives chase a ritualistic killer in the city’s gutters and back alleys",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "A retired profiler drawn into a cat-and-mouse game amid San Francisco’s dark streets",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 56,
+    "score": 0.88,
+    "reason": "Interlinked crime tales expose vice under neon lights in an unforgiving city",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 273,
+    "score": 0.86,
+    "reason": "A crew of schemers survive a web of betrayal in a relentless urban labyrinth",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 123,
+    "score": 0.84,
+    "reason": "A ghost-busting detective in haunted urban sprawl wields cynicism like a weapon",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 38,
+    "score": 0.82,
+    "reason": "A geek vigilante uncovers deadly conspiracies in Los Angeles’ digital underworld",
+    "prompt_id": "0806"
+  },
+  {
+    "movieId": 77,
+    "score": 0.8,
+    "reason": "A Harvard grad’s moral lines blur as he defends the city’s most dangerous clients",
+    "prompt_id": "0806"
+  }
+]

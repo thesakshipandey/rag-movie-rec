@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "An English butler and his distant employer reconnect across decades in a tender family drama."
+  },
+  {
+    "movieId": 67,
+    "score": 0.95,
+    "reason": "A widowed architect and son form a new bond while navigating love and loss in Seattle."
+  },
+  {
+    "movieId": 217,
+    "score": 0.9,
+    "reason": "A detective balances the death of his child with a budding connection to a stranger."
+  },
+  {
+    "movieId": 162,
+    "score": 0.85,
+    "reason": "Two generations reconcile by a lake as old resentments give way to heartfelt forgiveness."
+  },
+  {
+    "movieId": 88,
+    "score": 0.8,
+    "reason": "A widower’s son orchestrates a touching reunion with his father’s long-lost lover."
+  },
+  {
+    "movieId": 281,
+    "score": 0.75,
+    "reason": "A mother and son survive a rafting trip that becomes a journey of healing and reunion."
+  },
+  {
+    "movieId": 127,
+    "score": 0.7,
+    "reason": "A crime family patriarch and his lawyer son wrestle with past wounds toward redemption."
+  },
+  {
+    "movieId": 512,
+    "score": 0.65,
+    "reason": "Two angels watch over Berlin as human grief and hope lead to unexpected personal reunions."
+  },
+  {
+    "movieId": 146,
+    "score": 0.6,
+    "reason": "A lonely healer’s bond with her niece heals old family estrangements."
+  },
+  {
+    "movieId": 513,
+    "score": 0.55,
+    "reason": "A journalist uncovers old war wounds and finds a family’s buried truths."
+  }
+]

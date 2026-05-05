@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 288,
+    "score": 0.98,
+    "reason": "Suburban setting with creeping dread and sinister neighbor secrets"
+  },
+  {
+    "movieId": 682,
+    "score": 0.96,
+    "reason": "Quiet neighborhood terror where no one’s really who they seem"
+  },
+  {
+    "movieId": 895,
+    "score": 0.94,
+    "reason": "Campus-satire sequel with dark humor lurking just out of sight"
+  },
+  {
+    "movieId": 573,
+    "score": 0.92,
+    "reason": "Paranoid suburban thriller with chillingly ordinary evil"
+  },
+  {
+    "movieId": 218,
+    "score": 0.9,
+    "reason": "Domestic drama turned horror by the danger next door"
+  },
+  {
+    "movieId": 671,
+    "score": 0.88,
+    "reason": "Classic slow-burn suburban horror that unsettles quietly"
+  },
+  {
+    "movieId": 674,
+    "score": 0.86,
+    "reason": "Nighttime suburbia distorted by fear in an everyday setting"
+  },
+  {
+    "movieId": 672,
+    "score": 0.84,
+    "reason": "Looming dread in a normal neighborhood that feels eerily wrong"
+  },
+  {
+    "movieId": 284,
+    "score": 0.82,
+    "reason": "Suburban life fractured by dark secrets in everyday scenes"
+  },
+  {
+    "movieId": 163,
+    "score": 0.8,
+    "reason": "Idyllic town hides dark forces just beneath the surface"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seven unfolds as a relentless countdown through deadly sins, ratcheting up suspense with each chilling clue"
+  },
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "12 Angry Men traps you in a tense jury room as verdicts hang by a thread in this gripping courtroom drama"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Twelve Monkeys hurtles you through time on a nerve-shredding mission against a deadly clock"
+  },
+  {
+    "movieId": 28,
+    "score": 0.85,
+    "reason": "Apollo 13 is a heart-pounding countdown to survival as NASA races against time to bring astronauts home"
+  },
+  {
+    "movieId": 135,
+    "score": 0.8,
+    "reason": "2001: A Space Odyssey builds cosmic tension around an escalating confrontation with the HAL computer"
+  },
+  {
+    "movieId": 225,
+    "score": 0.75,
+    "reason": "101 Dalmatians drives suspense from kidnapped puppies to daring rescue in this dark twist on a counting tale"
+  },
+  {
+    "movieId": 690,
+    "score": 0.7,
+    "reason": "Seven Years in Tibet counts down to survival on a perilous Himalayan odyssey, full of quiet tension"
+  },
+  {
+    "movieId": 314,
+    "score": 0.65,
+    "reason": "3 Ninjas: High Noon At Mega Mountain keeps the clock ticking on a race against villains in a high-stakes finale"
+  },
+  {
+    "movieId": 615,
+    "score": 0.6,
+    "reason": "39 Steps builds stylish, edge-of-your-seat suspense in Hitchcock’s masterful thriller"
+  },
+  {
+    "movieId": 70,
+    "score": 0.55,
+    "reason": "Four Weddings and a Funeral keeps you guessing through its witty countdown of life’s big events"
+  }
+]

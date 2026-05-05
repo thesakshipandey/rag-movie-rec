@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 55,
+    "score": 0.98,
+    "reason": "1995 single-location thriller driven by shifting killer alliances"
+  },
+  {
+    "movieId": 83,
+    "score": 0.96,
+    "reason": "1993 claustrophobic hotel-room paranoia among four characters"
+  },
+  {
+    "movieId": 109,
+    "score": 0.94,
+    "reason": "1996 ghost-house siege of isolated duo and hidden agendas"
+  },
+  {
+    "movieId": 44,
+    "score": 0.92,
+    "reason": "1995 Maine home-invasion thriller of concealed motives"
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "1995 confined detective-victim standoff of taut anxiety"
+  },
+  {
+    "movieId": 484,
+    "score": 0.88,
+    "reason": "1941 San Francisco private eye in a tense single-site standoff"
+  },
+  {
+    "movieId": 47,
+    "score": 0.85,
+    "reason": "1994 confined Hollywood ghost comedy-thriller in studio setting"
+  },
+  {
+    "movieId": 1214,
+    "score": 0.82,
+    "reason": "1992 Hong Kong thriller in stolen- car cat-and-mouse chase"
+  },
+  {
+    "movieId": 54,
+    "score": 0.8,
+    "reason": "1995 outbreak thriller in research lab containment"
+  },
+  {
+    "movieId": 176,
+    "score": 0.78,
+    "reason": "1989 underwater base siege with small-group dissension"
+  }
+]

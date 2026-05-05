@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 90,
+    "score": 1.0,
+    "reason": "Poet suspects his rushed romance hides a deadly secret"
+  },
+  {
+    "movieId": 1286,
+    "score": 0.95,
+    "reason": "Diva’s fortune fuels family fury at a decadent dinner"
+  },
+  {
+    "movieId": 221,
+    "score": 0.9,
+    "reason": "Literary dinner unravels with brutal sexual scandal"
+  },
+  {
+    "movieId": 427,
+    "score": 0.85,
+    "reason": "Senator’s wedding turns into a feast of political backstabbing"
+  },
+  {
+    "movieId": 328,
+    "score": 0.8,
+    "reason": "Hamlet’s family reunion in the dark yields deadly intrigue"
+  },
+  {
+    "movieId": 439,
+    "score": 0.75,
+    "reason": "Inheritance party on a cursed estate sparks betrayal"
+  },
+  {
+    "movieId": 557,
+    "score": 0.7,
+    "reason": "Castrato’s return ignites blackmail and bitter rivalries"
+  },
+  {
+    "movieId": 699,
+    "score": 0.65,
+    "reason": "Sabrina’s family dinner exposes social fractures with venom"
+  },
+  {
+    "movieId": 288,
+    "score": 0.6,
+    "reason": "Home invasion dinner party descends into macabre chaos"
+  },
+  {
+    "movieId": 54,
+    "score": 0.55,
+    "reason": "Epidemic panic at a lavish event reveals hidden misdeeds"
+  }
+]

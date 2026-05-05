@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Two jailed con-men play a tense game of wit as they each try to outsmart the other."
+  },
+  {
+    "movieId": 185,
+    "score": 0.95,
+    "reason": "A widow’s final outing with her late husband’s car brings a hunter and the hunted into a chilling duel."
+  },
+  {
+    "movieId": 30,
+    "score": 0.9,
+    "reason": "A housewife’s secret fantasies clash with reality in a sophisticated, dialogue-driven thriller."
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "A wrongfully accused surgeon uses his intellect to evade capture across Chicago."
+  },
+  {
+    "movieId": 516,
+    "score": 0.8,
+    "reason": "A submarine commander and his crew maneuver a nuclear standoff in a pulse-pounding mind game."
+  },
+  {
+    "movieId": 559,
+    "score": 0.75,
+    "reason": "A reporter’s probing interview with a centuries-old vampire becomes a battle of wits."
+  },
+  {
+    "movieId": 149,
+    "score": 0.7,
+    "reason": "A cruise liner’s director schemes with her dinosaur partner in a deadly mind-game."
+  },
+  {
+    "movieId": 124,
+    "score": 0.65,
+    "reason": "A community detective and a skeleton’s secrets ignite a cerebral clash of intellects."
+  },
+  {
+    "movieId": 435,
+    "score": 0.6,
+    "reason": "Two legendary outlaws anticipate betrayal as they outwit each other in a high-stakes duel."
+  },
+  {
+    "movieId": 180,
+    "score": 0.55,
+    "reason": "A special forces captain hunts a rogue colonel in the Mekong Delta in a cerebral war-of-minds."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 80,
+    "score": 0.9,
+    "reason": "Two characters in confined space with tension in unspoken chores"
+  },
+  {
+    "movieId": 561,
+    "score": 0.85,
+    "reason": "Isolated lighthouse setting, rich in sound and silence between two"
+  },
+  {
+    "movieId": 247,
+    "score": 0.8,
+    "reason": "Cabin retreat with heavy reliance on ambient sound and silent glances"
+  },
+  {
+    "movieId": 1158,
+    "score": 0.75,
+    "reason": "Tales connected by quiet domestic routines and withheld words"
+  },
+  {
+    "movieId": 733,
+    "score": 0.7,
+    "reason": "Urban flatmates’ silences tell more than dialogue ever could"
+  },
+  {
+    "movieId": 1633,
+    "score": 0.65,
+    "reason": "Solitary retreat in a lighthouse, sound design carries story weight"
+  },
+  {
+    "movieId": 1104,
+    "score": 0.6,
+    "reason": "Two strangers’ tense routines in a small apartment highlight secrets"
+  },
+  {
+    "movieId": 1399,
+    "score": 0.55,
+    "reason": "Sparse dialogue and ambient tension in isolated hotel setting"
+  },
+  {
+    "movieId": 198,
+    "score": 0.5,
+    "reason": "Constrained space and simmering tension in long silences"
+  },
+  {
+    "movieId": 1065,
+    "score": 0.45,
+    "reason": "Sound‐driven surrealism in limited rooms, emotional subtext in chores"
+  }
+]

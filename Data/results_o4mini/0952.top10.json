@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "Wordless prologue and long visual sequences build an immersive, contemplative sci-fi odyssey"
+  },
+  {
+    "movieId": 1259,
+    "score": 0.92,
+    "reason": "Sparse dialogue guides a surreal trek through a forbidden zone driven by ambient soundscapes"
+  },
+  {
+    "movieId": 331,
+    "score": 0.9,
+    "reason": "Primal wilderness survival with haunting visuals and minimal verbal clues"
+  },
+  {
+    "movieId": 324,
+    "score": 0.87,
+    "reason": "Disjointed narrative and nightmarish imagery thrust you into an unsettling, speech-light thriller"
+  },
+  {
+    "movieId": 1350,
+    "score": 0.85,
+    "reason": "A child’s haunting return to a cursed island unfolds silently through striking, poetic images"
+  },
+  {
+    "movieId": 689,
+    "score": 0.82,
+    "reason": "Moody rain-soaked romance with extended silent montages and evocative sound design"
+  },
+  {
+    "movieId": 1645,
+    "score": 0.8,
+    "reason": "Ex-concastaway drifts alone in a stylized color palette with sparse dialogue and potent atmosphere"
+  },
+  {
+    "movieId": 965,
+    "score": 0.78,
+    "reason": "Whimsical musical without spoken scenes, relying entirely on song to tell its story"
+  },
+  {
+    "movieId": 90,
+    "score": 0.75,
+    "reason": "Playful beat poetry and visual gags with minimal plot exposition"
+  },
+  {
+    "movieId": 156,
+    "score": 0.72,
+    "reason": "Stylized heist tale with terse character exchanges and a focus on tension and soundtrack"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.98,
+    "reason": "Epic tale of destiny and freedom with stirring battles and emotional drama"
+  },
+  {
+    "movieId": 313,
+    "score": 0.96,
+    "reason": "Grand, tragic love story set against the doomed beauty of the ocean liner"
+  },
+  {
+    "movieId": 50,
+    "score": 0.94,
+    "reason": "A classic space opera of heroism, destiny and heartfelt adventure"
+  },
+  {
+    "movieId": 69,
+    "score": 0.92,
+    "reason": "An earnest, sweeping journey thru hope, love and the currents of fate"
+  },
+  {
+    "movieId": 97,
+    "score": 0.9,
+    "reason": "A majestic frontier saga that honors cultural bonds and inner nobility"
+  },
+  {
+    "movieId": 51,
+    "score": 0.88,
+    "reason": "Sweeping family epic of love, loss and fateful choices in early America"
+  },
+  {
+    "movieId": 170,
+    "score": 0.86,
+    "reason": "A nostalgic ode to cinema and friendship that warms the heart"
+  },
+  {
+    "movieId": 511,
+    "score": 0.84,
+    "reason": "An expansive desert odyssey exploring ambition, honor and the human spirit"
+  },
+  {
+    "movieId": 286,
+    "score": 0.82,
+    "reason": "A richly emotional romance unfolding amidst the haunting wreckage of war"
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "A heartfelt journey of a music teacher changing lives through passion"
+  }
+]

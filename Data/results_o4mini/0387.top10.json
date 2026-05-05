@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "The Shining’s creeping dread burrows deep into your psyche"
+  },
+  {
+    "movieId": 98,
+    "score": 0.95,
+    "reason": "The Silence of the Lambs delivers chilling psychological terror"
+  },
+  {
+    "movieId": 185,
+    "score": 0.9,
+    "reason": "Psycho sets the gold standard for slow-burn, skin-crawling horror"
+  },
+  {
+    "movieId": 201,
+    "score": 0.85,
+    "reason": "Evil Dead II blends camp and genuine creepiness under your skin"
+  },
+  {
+    "movieId": 218,
+    "score": 0.8,
+    "reason": "Cape Fear builds tension that lingers long after it’s over"
+  },
+  {
+    "movieId": 219,
+    "score": 0.75,
+    "reason": "A Nightmare on Elm Street makes sleep itself a haunting threat"
+  },
+  {
+    "movieId": 569,
+    "score": 0.7,
+    "reason": "Wolf stalks you with primal, uncanny suspense"
+  },
+  {
+    "movieId": 250,
+    "score": 0.65,
+    "reason": "Event Horizon infuses cosmic horror with unsettling atmosphere"
+  },
+  {
+    "movieId": 542,
+    "score": 0.6,
+    "reason": "Pocahontas’s darker woods scenes evoke brooding dread"
+  },
+  {
+    "movieId": 51,
+    "score": 0.55,
+    "reason": "The Last of the Mohicans creeps with ominous, suspenseful beats"
+  }
+]

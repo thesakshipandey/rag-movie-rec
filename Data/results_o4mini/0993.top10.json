@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 267,
+    "score": 1.0,
+    "reason": "Businessman vanishes and returns to face digital erasure of his identity"
+  },
+  {
+    "movieId": 38,
+    "score": 0.98,
+    "reason": "Systems analyst’s life unravels when her digital world is hacked and erased"
+  },
+  {
+    "movieId": 39,
+    "score": 0.96,
+    "reason": "Undercover dealer trades in illicit neurological recordings, sparking paranoia"
+  },
+  {
+    "movieId": 43,
+    "score": 0.94,
+    "reason": "Corporate tech exec faces stalking and manipulation via biased information systems"
+  },
+  {
+    "movieId": 145,
+    "score": 0.92,
+    "reason": "Student’s mind altered through early VR experiment gone tragically wrong"
+  },
+  {
+    "movieId": 239,
+    "score": 0.9,
+    "reason": "Experts in code-breaking face deadly tech conspiracy around powerful device"
+  },
+  {
+    "movieId": 806,
+    "score": 0.89,
+    "reason": "Teen hackers stumble into high-stakes cyber-espionage and government pursuit"
+  },
+  {
+    "movieId": 258,
+    "score": 0.87,
+    "reason": "SETI scientist’s discovery of alien broadcast triggers modern distrust of data"
+  },
+  {
+    "movieId": 5,
+    "score": 0.85,
+    "reason": "Psychologist plunged into digital dread as online identity is stolen"
+  },
+  {
+    "movieId": 145,
+    "score": 0.83,
+    "reason": "Researcher’s experimental formula fractures reality, breeding modern paranoia"
+  }
+]

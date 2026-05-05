@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "Star Wars kick-starts an epic space saga with heroic camaraderie and grand hope"
+  },
+  {
+    "movieId": 181,
+    "score": 0.95,
+    "reason": "Return of the Jedi unites heroes in a stirring space battle brimming with fellowship"
+  },
+  {
+    "movieId": 172,
+    "score": 0.93,
+    "reason": "Empire Strikes Back deepens the saga with brave unity against galactic odds"
+  },
+  {
+    "movieId": 230,
+    "score": 0.9,
+    "reason": "Star Trek IV: The Voyage Home mixes sci-fi adventure and heartfelt camaraderie with optimism"
+  },
+  {
+    "movieId": 121,
+    "score": 0.88,
+    "reason": "Independence Day fuses huge alien stakes with hopeful teamwork against cosmic invaders"
+  },
+  {
+    "movieId": 258,
+    "score": 0.85,
+    "reason": "Contact champions grand first contact with heart, wonder and uplifting unity"
+  },
+  {
+    "movieId": 222,
+    "score": 0.83,
+    "reason": "Star Trek: First Contact blends big stakes, alien menace and heartfelt crew loyalty"
+  },
+  {
+    "movieId": 271,
+    "score": 0.8,
+    "reason": "Starship Troopers rides heroic camaraderie into galactic battles against monstrous foes"
+  },
+  {
+    "movieId": 62,
+    "score": 0.78,
+    "reason": "Stargate opens a thrilling cosmic portal to alien worlds with bold hope and unity"
+  },
+  {
+    "movieId": 250,
+    "score": 0.75,
+    "reason": "The Fifth Element rockets colorful heroes into a grand, hopeful extraterrestrial adventure"
+  }
+]

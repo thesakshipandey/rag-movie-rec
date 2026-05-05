@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 101,
+    "score": 1.0,
+    "reason": "Heavy Metal – adult sci-fi animation, stylish and bittersweet"
+  },
+  {
+    "movieId": 214,
+    "score": 0.95,
+    "reason": "Pink Floyd – The Wall – visual music epic, haunting hope amid despair"
+  },
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "Nightmare Before Christmas – darkly lyrical animation, tender undertones"
+  },
+  {
+    "movieId": 432,
+    "score": 0.85,
+    "reason": "Fantasia – symphonic animation blending wonder and emotion"
+  },
+  {
+    "movieId": 169,
+    "score": 0.8,
+    "reason": "Wrong Trousers, The – inventive stop-motion with poignant humor"
+  },
+  {
+    "movieId": 408,
+    "score": 0.75,
+    "reason": "Close Shave, A – reflective Wallace & Gromit adventure"
+  },
+  {
+    "movieId": 114,
+    "score": 0.7,
+    "reason": "Wallace & Gromit… – selection of thoughtful clay-animation shorts"
+  },
+  {
+    "movieId": 189,
+    "score": 0.65,
+    "reason": "A Grand Day Out – quiet journey of friendship and curious wonder"
+  },
+  {
+    "movieId": 420,
+    "score": 0.6,
+    "reason": "Alice in Wonderland – whimsical wit with surprising depth"
+  },
+  {
+    "movieId": 169,
+    "score": 0.55,
+    "reason": "Wrong Trousers, The – tender claymation exploring loyalty"
+  }
+]

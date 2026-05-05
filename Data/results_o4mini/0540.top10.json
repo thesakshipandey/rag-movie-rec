@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 1.0,
+    "reason": "Devastatingly somber Western in which justice is meted out by haunted veterans"
+  },
+  {
+    "movieId": 68,
+    "score": 0.95,
+    "reason": "Avenging spirit stalks the streets in a dark, stylized tale of relentless retribution"
+  },
+  {
+    "movieId": 218,
+    "score": 0.9,
+    "reason": "Chilling vigilante pursuit as a husband fights to protect his family from past sins"
+  },
+  {
+    "movieId": 470,
+    "score": 0.85,
+    "reason": "Full-tilt gunslinger drama delivering blunt-force justice in the Old West"
+  },
+  {
+    "movieId": 147,
+    "score": 0.8,
+    "reason": "Undercover agent’s violent past resurfaces in explosive, empowering payback"
+  },
+  {
+    "movieId": 298,
+    "score": 0.75,
+    "reason": "Lethal identity swap ignites visceral duel of vengeance and survival"
+  },
+  {
+    "movieId": 55,
+    "score": 0.7,
+    "reason": "Lone assassin’s single mission morphs into fierce, heartfelt protection"
+  },
+  {
+    "movieId": 53,
+    "score": 0.65,
+    "reason": "Unhinged duo’s media-fuelled killing spree evokes brutal catharsis"
+  },
+  {
+    "movieId": 22,
+    "score": 0.6,
+    "reason": "Rousing epic of furious uprising and personal vengeance on a blood-soaked Scottish battlefield"
+  },
+  {
+    "movieId": 92,
+    "score": 0.55,
+    "reason": "Star-crossed lovers unleash raw, bloody retribution in a punk-powered road odyssey"
+  }
+]

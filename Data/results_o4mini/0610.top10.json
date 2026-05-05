@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 568,
+    "score": 0.95,
+    "reason": "Unrelenting high-speed thriller on a moving bus, constant tension without graphic violence."
+  },
+  {
+    "movieId": 28,
+    "score": 0.92,
+    "reason": "True story space crisis, gripping problem-solving and nail-biting suspense under pressure."
+  },
+  {
+    "movieId": 300,
+    "score": 0.9,
+    "reason": "Presidential hijacking with tight timelines and stakes, thrill ride from start to finish."
+  },
+  {
+    "movieId": 566,
+    "score": 0.88,
+    "reason": "Political intrigue and jungle warfare blend into a taut man-hunt with escalating urgency."
+  },
+  {
+    "movieId": 385,
+    "score": 0.87,
+    "reason": "Spy action with sharp humor, smooth chases and no-nonsense suspense amid covert ops."
+  },
+  {
+    "movieId": 233,
+    "score": 0.85,
+    "reason": "Naval hostage standoff on a battleship, enclosed environment fuels steady rising tension."
+  },
+  {
+    "movieId": 1228,
+    "score": 0.83,
+    "reason": "Convict-filled railroad siege, claustrophobic set-pieces and ticking clock drama."
+  },
+  {
+    "movieId": 546,
+    "score": 0.82,
+    "reason": "A bomber gone rogue in mid-flight, strategic cat-and-mouse that skips gore for pure suspense."
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "Time-travel manhunt through dystopian chaos, cerebral tension and mind-bending stakes."
+  },
+  {
+    "movieId": 258,
+    "score": 0.78,
+    "reason": "First contact dilemma handled with quiet intensity and mounting curiosity rather than violence."
+  }
+]

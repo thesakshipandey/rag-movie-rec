@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "Gentle family tale of friendship and triumph, heartwarming without sentimentality."
+  },
+  {
+    "movieId": 15,
+    "score": 0.98,
+    "reason": "A quiet, uplifting story of human spirit and the power of music over decades."
+  },
+  {
+    "movieId": 126,
+    "score": 0.96,
+    "reason": "Warm redemption drama set in a small town, gentle tone and satisfying resolutions."
+  },
+  {
+    "movieId": 78,
+    "score": 0.94,
+    "reason": "Heartfelt bond between boy and whale, simple joys and an uplifting ending."
+  },
+  {
+    "movieId": 136,
+    "score": 0.92,
+    "reason": "Optimistic small‐town idealism and earnest heroism in America’s capital."
+  },
+  {
+    "movieId": 509,
+    "score": 0.9,
+    "reason": "Inspiring true‐life tale of overcoming disability with warmth and humor."
+  },
+  {
+    "movieId": 423,
+    "score": 0.88,
+    "reason": "Tender alien friendship story with a hopeful, uplifting finale."
+  },
+  {
+    "movieId": 215,
+    "score": 0.86,
+    "reason": "Magical realism baseball tale that warms the heart, celebrates dreams."
+  },
+  {
+    "movieId": 196,
+    "score": 0.84,
+    "reason": "Uplifting classroom drama about inspiration and youthful potential."
+  },
+  {
+    "movieId": 272,
+    "score": 0.82,
+    "reason": "Emotional underdog story of raw talent and redemption with quiet joy."
+  }
+]

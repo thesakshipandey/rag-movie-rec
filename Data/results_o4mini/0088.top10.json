@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 9,
+    "score": 0.95,
+    "reason": "Nun’s journey highlights crime’s impact on victims’ families"
+  },
+  {
+    "movieId": 282,
+    "score": 0.92,
+    "reason": "Father’s fight exposes trial’s flaws and thirst for justice"
+  },
+  {
+    "movieId": 317,
+    "score": 0.9,
+    "reason": "Family’s quest to clear patriarch’s wrongful conviction"
+  },
+  {
+    "movieId": 319,
+    "score": 0.88,
+    "reason": "Documentary on grieving relatives of murdered children"
+  },
+  {
+    "movieId": 658,
+    "score": 0.85,
+    "reason": "Media frenzy leaves victim’s kin re-examining the case"
+  },
+  {
+    "movieId": 79,
+    "score": 0.82,
+    "reason": "Wrong man jailed for wife’s murder—widower probes the truth"
+  },
+  {
+    "movieId": 1467,
+    "score": 0.8,
+    "reason": "Siblings caught in justice system struggle after tragedy"
+  },
+  {
+    "movieId": 1232,
+    "score": 0.78,
+    "reason": "IVE mother becomes obsessed unraveling son’s murder trial"
+  },
+  {
+    "movieId": 666,
+    "score": 0.75,
+    "reason": "Investigative family unravels dark conspiracy after conviction"
+  },
+  {
+    "movieId": 305,
+    "score": 0.72,
+    "reason": "Aftermath of tragedy strains family bonds under cold glare"
+  }
+]

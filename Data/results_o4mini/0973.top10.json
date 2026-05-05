@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 331,
+    "score": 0.9,
+    "reason": "The Edge: Stranded in the Alaskan wilderness, every moment’s a fight for survival."
+  },
+  {
+    "movieId": 164,
+    "score": 0.85,
+    "reason": "The Abyss: Underwater descent into pure tension, cold depths and relentless threat."
+  },
+  {
+    "movieId": 353,
+    "score": 0.8,
+    "reason": "Deep Rising: Ocean-bound horror-thriller that never lets up on high-stakes terror."
+  },
+  {
+    "movieId": 31,
+    "score": 0.75,
+    "reason": "Crimson Tide: Submarine standoff in icy seas keeps the pressure dialed to maximum."
+  },
+  {
+    "movieId": 323,
+    "score": 0.7,
+    "reason": "Dante’s Peak: Volcano-stricken town deserted by reason—gripping, volcanic adrenaline rush."
+  },
+  {
+    "movieId": 180,
+    "score": 0.65,
+    "reason": "Apocalypse Now: Jungle-bound odyssey of mounting tension that never gives you a break."
+  },
+  {
+    "movieId": 118,
+    "score": 0.6,
+    "reason": "Twister: Storm-chasing thrill ride that hammers you with non-stop tornado terror."
+  },
+  {
+    "movieId": 241,
+    "score": 0.55,
+    "reason": "The Last of the Mohicans: Frontier survival against nature and war with unrelenting suspense."
+  },
+  {
+    "movieId": 323,
+    "score": 0.5,
+    "reason": "Dante’s Peak: Volcano-stricken town deserted by reason—gripping, volcanic adrenaline rush."
+  },
+  {
+    "movieId": 147,
+    "score": 0.45,
+    "reason": "Ghost and the Darkness: Kenyan man-eaters stalk a small team in a tense fight to survive."
+  }
+]

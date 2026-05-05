@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.98,
+    "reason": "Engineers calmly solve life-threatening technical failures with reassuring precision."
+  },
+  {
+    "movieId": 31,
+    "score": 0.95,
+    "reason": "Submarine officers exhibit flawless expertise under nuclear-crisis pressure."
+  },
+  {
+    "movieId": 265,
+    "score": 0.92,
+    "reason": "Naval officer’s masterful navigation of a tense Cold War crisis is deeply satisfying."
+  },
+  {
+    "movieId": 193,
+    "score": 0.9,
+    "reason": "Test pilots embody consummate skill and cool-headed professionalism in flight."
+  },
+  {
+    "movieId": 38,
+    "score": 0.88,
+    "reason": "Systems analyst deftly untangles a digital conspiracy with composed technical prowess."
+  },
+  {
+    "movieId": 239,
+    "score": 0.85,
+    "reason": "Elite team of codebreakers and security pros execute complex hacks with sleek efficiency."
+  },
+  {
+    "movieId": 566,
+    "score": 0.82,
+    "reason": "FBI negotiator methodically defuses a bomb-threat standoff with exacting calm."
+  },
+  {
+    "movieId": 96,
+    "score": 0.8,
+    "reason": "Elite operative’s flawless fieldcraft against a relentless shapeshifting adversary."
+  },
+  {
+    "movieId": 205,
+    "score": 0.78,
+    "reason": "Naval officer’s strategic genius and unflappable composure in a hostage crisis."
+  },
+  {
+    "movieId": 271,
+    "score": 0.75,
+    "reason": "Soldiers display seamless tactics and teamwork in a relentless interstellar conflict."
+  }
+]

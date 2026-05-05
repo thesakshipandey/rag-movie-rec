@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 270,
+    "score": 0.98,
+    "reason": "Explores genetic engineering’s impact on society and personal identity in a near-future world"
+  },
+  {
+    "movieId": 258,
+    "score": 0.96,
+    "reason": "First contact sets off deep ethical and faith-driven dilemmas for humankind"
+  },
+  {
+    "movieId": 7,
+    "score": 0.93,
+    "reason": "Time travel virus story highlights human cost of pandemics in a dystopian future"
+  },
+  {
+    "movieId": 82,
+    "score": 0.9,
+    "reason": "Revived dinosaurs force scientists to confront consequences of playing god"
+  },
+  {
+    "movieId": 96,
+    "score": 0.88,
+    "reason": "Shape-shifting AI threat explores the dangers of lethal autonomous technology"
+  },
+  {
+    "movieId": 54,
+    "score": 0.85,
+    "reason": "Medical thriller examines outbreak response ethics and government secrecy"
+  },
+  {
+    "movieId": 39,
+    "score": 0.83,
+    "reason": "Illicit neural recording tech sparks moral debate on privacy and trauma"
+  },
+  {
+    "movieId": 99,
+    "score": 0.8,
+    "reason": "Classic android hunt raises questions about humanity and artificial life"
+  },
+  {
+    "movieId": 62,
+    "score": 0.78,
+    "reason": "Stargate conceit examines cultural exchange and technological hubris"
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Nonlinear crime saga explores violence as entertainment and moral decay"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 55,
+    "score": 0.9,
+    "reason": "Lone hitman operates with unmatched precision under cover"
+  },
+  {
+    "movieId": 28,
+    "score": 0.89,
+    "reason": "NASA team executes flawless crisis plan against the odds"
+  },
+  {
+    "movieId": 31,
+    "score": 0.88,
+    "reason": "Submarine crew follows precise orders under nuclear pressure"
+  },
+  {
+    "movieId": 98,
+    "score": 0.87,
+    "reason": "FBI trainee applies methodical interrogation with calm confidence"
+  },
+  {
+    "movieId": 273,
+    "score": 0.86,
+    "reason": "Master thief and detective choreograph a perfect high-stakes heist"
+  },
+  {
+    "movieId": 193,
+    "score": 0.85,
+    "reason": "Elite pilots train and fly with unwavering execution"
+  },
+  {
+    "movieId": 205,
+    "score": 0.84,
+    "reason": "General leads troops with decisive strategic mastery"
+  },
+  {
+    "movieId": 79,
+    "score": 0.83,
+    "reason": "Surgeon-turned-fugitive outsmarts authorities with cool resolve"
+  },
+  {
+    "movieId": 194,
+    "score": 0.82,
+    "reason": "Grifter orchestrates intricate con with surgical precision"
+  },
+  {
+    "movieId": 62,
+    "score": 0.81,
+    "reason": "Elite team operates a high-tech portal mission with exacting skill"
+  }
+]

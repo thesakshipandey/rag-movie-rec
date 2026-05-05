@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 184,
+    "score": 0.94,
+    "reason": "Chainsaw mayhem meets campy one-liners in 90s creature heaven."
+  },
+  {
+    "movieId": 201,
+    "score": 0.92,
+    "reason": "Splatter spectacle balanced by comedic wit and over-the-top gore."
+  },
+  {
+    "movieId": 234,
+    "score": 0.91,
+    "reason": "Small-town terror with a giant shark and a healthy dose of cheesiness."
+  },
+  {
+    "movieId": 404,
+    "score": 0.89,
+    "reason": "Innocent CGI beastie chases leads to slapstick scares and laughs."
+  },
+  {
+    "movieId": 590,
+    "score": 0.88,
+    "reason": "Mutant menace at sea with tongue-in-cheek thrills."
+  },
+  {
+    "movieId": 43,
+    "score": 0.86,
+    "reason": "Semi-sentient creature in big city causes chaos with a wink."
+  },
+  {
+    "movieId": 260,
+    "score": 0.84,
+    "reason": "Sci-fi beast unleashed amid mayhem and gleeful absurdity."
+  },
+  {
+    "movieId": 669,
+    "score": 0.82,
+    "reason": "Laboratory monster is as goofy as it is spine-tingling."
+  },
+  {
+    "movieId": 553,
+    "score": 0.8,
+    "reason": "Undersea horror with big CG beast and pulpy thrills."
+  },
+  {
+    "movieId": 353,
+    "score": 0.78,
+    "reason": "Sea-based terror spliced with 90s action-horror flair."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 77,
+    "score": 0.95,
+    "reason": "Mitch McDeere joins a law firm and watches his perfect life unravel under mounting corruption."
+  },
+  {
+    "movieId": 100,
+    "score": 0.93,
+    "reason": "Jerry's small kidnapping plot spirals into chaos and tragedy in snowy Minnesota."
+  },
+  {
+    "movieId": 76,
+    "score": 0.91,
+    "reason": "Carlito tries to go straight after prison only to see his carefully built life explode."
+  },
+  {
+    "movieId": 43,
+    "score": 0.9,
+    "reason": "A minor office maneuver lands a tech exec in a web of scandal and corporate betrayal."
+  },
+  {
+    "movieId": 310,
+    "score": 0.88,
+    "reason": "A rookie lawyer’s suit against a big insurer triggers a ruthless cover-up that threatens everything."
+  },
+  {
+    "movieId": 160,
+    "score": 0.86,
+    "reason": "A set of stolen sales leads sets off a chain reaction tearing apart a team of high-stakes closers."
+  },
+  {
+    "movieId": 185,
+    "score": 0.84,
+    "reason": "Marion Crane’s impulsive theft triggers a deadly chain of events she can’t control."
+  },
+  {
+    "movieId": 134,
+    "score": 0.82,
+    "reason": "Charles Kane’s single-minded ambition leads to a life built on lies that eventually shatters."
+  },
+  {
+    "movieId": 200,
+    "score": 0.8,
+    "reason": "Jack Torrance’s acceptance of a winter job turns a tranquil retreat into a nightmare of his own making."
+  },
+  {
+    "movieId": 82,
+    "score": 0.78,
+    "reason": "Hammond’s gamble on reviving dinosaurs unleashes disaster he can’t contain."
+  }
+]

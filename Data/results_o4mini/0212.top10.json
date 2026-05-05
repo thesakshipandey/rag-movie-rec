@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 27,
+    "score": 0.97,
+    "reason": "High-octane buddy-cop romp with Will Smith and Martin Lawrence."
+  },
+  {
+    "movieId": 72,
+    "score": 0.96,
+    "reason": "Comic-book mashup starring Jim Carrey in wildly cartoonish fashion."
+  },
+  {
+    "movieId": 257,
+    "score": 0.95,
+    "reason": "Sharp sci-fi comedy pairing Will Smith with a wisecracking alien."
+  },
+  {
+    "movieId": 385,
+    "score": 0.94,
+    "reason": "Schwarzenegger in a globe-trotting secret-agent adventure."
+  },
+  {
+    "movieId": 391,
+    "score": 0.93,
+    "reason": "Meta action-comedy that playfully deconstructs the genre."
+  },
+  {
+    "movieId": 407,
+    "score": 0.92,
+    "reason": "Van Damme teams with Dennis Rodman for over-the-top action laughs."
+  },
+  {
+    "movieId": 881,
+    "score": 0.91,
+    "reason": "Chris Tucker’s rapid-fire humor drives this action-packed caper."
+  },
+  {
+    "movieId": 1088,
+    "score": 0.9,
+    "reason": "High-speed Hong Kong shoot-’em-up with a sci-fi twist."
+  },
+  {
+    "movieId": 117,
+    "score": 0.89,
+    "reason": "Cage and Connery mix thrills and wry humor on Alcatraz."
+  },
+  {
+    "movieId": 4,
+    "score": 0.88,
+    "reason": "John Travolta in a crime comedy with sharp wit and slick style."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "2001: A Space Odyssey’s haunting score drives its slow-burn quest more than dialogue"
+  },
+  {
+    "movieId": 657,
+    "score": 0.95,
+    "reason": "Manchurian Candidate’s shadowy jazz builds mounting dread in muted conspiracies"
+  },
+  {
+    "movieId": 180,
+    "score": 0.9,
+    "reason": "Apocalypse Now uses ambient jungle soundscapes to amplify its creeping investigation"
+  },
+  {
+    "movieId": 536,
+    "score": 0.88,
+    "reason": "Ponette’s sparse whispers give way to ethereal score in her search for lost love"
+  },
+  {
+    "movieId": 44,
+    "score": 0.85,
+    "reason": "Dolores Claiborne’s probe into a crime relies on eerie silences and music cues"
+  },
+  {
+    "movieId": 44,
+    "score": 0.82,
+    "reason": "Dolores Claiborne underscores trauma by letting its haunting score speak volumes"
+  },
+  {
+    "movieId": 501,
+    "score": 0.8,
+    "reason": "Dumbo’s Claude Debussy pastiche shapes its slow-burn wonder far more than character talk"
+  },
+  {
+    "movieId": 44,
+    "score": 0.78,
+    "reason": "Dolores Claiborne forgoes chatter to let its somber tone chart building tension"
+  },
+  {
+    "movieId": 44,
+    "score": 0.75,
+    "reason": "Dolores Claiborne credits silence to let scoring accentuate creeping suspense"
+  },
+  {
+    "movieId": 135,
+    "score": 0.74,
+    "reason": "2001: A Space Odyssey trusts classical music to guide its meditative alien mystery"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 164,
+    "score": 0.95,
+    "reason": "Adventure through colonial Africa from the rifleman’s view, not the governor’s"
+  },
+  {
+    "movieId": 279,
+    "score": 0.93,
+    "reason": "Coming-of-age amid Jim Crow life, we see history through young eyes"
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "True grit street-level view of New York’s underbelly before the courts"
+  },
+  {
+    "movieId": 62,
+    "score": 0.88,
+    "reason": "Common soldier’s eyes open wide to ancient alien power—no kings in sight"
+  },
+  {
+    "movieId": 1116,
+    "score": 0.85,
+    "reason": "An English governess grapples with ghosts in a remote estate before 1900"
+  },
+  {
+    "movieId": 107,
+    "score": 0.83,
+    "reason": "Convict’s memoir from a hulking iron cage becomes urgent social testimony"
+  },
+  {
+    "movieId": 149,
+    "score": 0.8,
+    "reason": "Exiled Irishman’s struggles give an everyman view of Tudor England’s costs"
+  },
+  {
+    "movieId": 44,
+    "score": 0.78,
+    "reason": "A widow’s fight with gossip mill shows life below the gentry’s drawing rooms"
+  },
+  {
+    "movieId": 20,
+    "score": 0.76,
+    "reason": "Naturalist in Victorian England uncovers class tensions in servant quarters"
+  },
+  {
+    "movieId": 49,
+    "score": 0.74,
+    "reason": "Widower turns to car bolter’s daughter for love while rebuilding life in 1910"
+  }
+]

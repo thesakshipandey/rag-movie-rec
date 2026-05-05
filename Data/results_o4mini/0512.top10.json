@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 0.95,
+    "reason": "Italian village memories poured over film reels with bittersweet beauty."
+  },
+  {
+    "movieId": 14,
+    "score": 0.93,
+    "reason": "Poetic seaside tale tinged with wistful longing and sunlight warmth."
+  },
+  {
+    "movieId": 215,
+    "score": 0.9,
+    "reason": "Midwest ballfield stirring joyful grief for things lost and found."
+  },
+  {
+    "movieId": 97,
+    "score": 0.88,
+    "reason": "Sweeping frontier vista wrapped in melancholy and wonder."
+  },
+  {
+    "movieId": 51,
+    "score": 0.86,
+    "reason": "Family saga drenched in dust-kicked sunsets and tender sorrow."
+  },
+  {
+    "movieId": 241,
+    "score": 0.84,
+    "reason": "Lush wilderness romance echoing with longing and loss."
+  },
+  {
+    "movieId": 86,
+    "score": 0.82,
+    "reason": "Restrained English grace shadowed by unspoken regrets."
+  },
+  {
+    "movieId": 312,
+    "score": 0.8,
+    "reason": "Rainy-day reverie of love marooned and rediscovered."
+  },
+  {
+    "movieId": 66,
+    "score": 0.78,
+    "reason": "Snowy Chicago days warmed by gentle hope and sweet ache."
+  },
+  {
+    "movieId": 649,
+    "score": 0.76,
+    "reason": "Epic New York childhood memories steeped in golden regret."
+  }
+]

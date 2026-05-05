@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 41,
+    "score": 0.95,
+    "reason": "Billy Madison (1995) — 90s school-set comedy classic"
+  },
+  {
+    "movieId": 42,
+    "score": 0.93,
+    "reason": "Clerks (1994) — indie comedy defining mid-90s slacker life"
+  },
+  {
+    "movieId": 56,
+    "score": 0.91,
+    "reason": "Pulp Fiction (1994) — dark comedic storytelling in the 90s"
+  },
+  {
+    "movieId": 70,
+    "score": 0.89,
+    "reason": "Four Weddings and a Funeral (1994) — 90s British rom-com staple"
+  },
+  {
+    "movieId": 66,
+    "score": 0.87,
+    "reason": "While You Were Sleeping (1995) — charming 90s romantic comedy"
+  },
+  {
+    "movieId": 80,
+    "score": 0.85,
+    "reason": "Hot Shots! Part Deux (1993) — screwball 90s action-comedy"
+  },
+  {
+    "movieId": 41,
+    "score": 0.83,
+    "reason": "Billy Madison — 90s goofy grown-up at school premise"
+  },
+  {
+    "movieId": 56,
+    "score": 0.81,
+    "reason": "Pulp Fiction — sharp 90s comedic dialogue"
+  },
+  {
+    "movieId": 42,
+    "score": 0.79,
+    "reason": "Clerks — 90s observational humor in everyday life"
+  },
+  {
+    "movieId": 70,
+    "score": 0.77,
+    "reason": "Four Weddings and a Funeral — witty 90s ensemble comedy"
+  }
+]

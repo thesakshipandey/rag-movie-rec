@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 59,
+    "score": 1.0,
+    "reason": "Elegantly observed drama of chance encounters and haunting memory"
+  },
+  {
+    "movieId": 222,
+    "score": 0.95,
+    "reason": "LYrical portrait evoking mood through elegiac storm-chasing images"
+  },
+  {
+    "movieId": 496,
+    "score": 0.92,
+    "reason": "Poetic reflection on time and fate in timeless rural America"
+  },
+  {
+    "movieId": 632,
+    "score": 0.9,
+    "reason": "Evocative cinematography weaving memory, loss and longing"
+  },
+  {
+    "movieId": 190,
+    "score": 0.88,
+    "reason": "Contemplative travelogue finding beauty in small, poetic moments"
+  },
+  {
+    "movieId": 221,
+    "score": 0.85,
+    "reason": "Dreamlike mystery blending past and present through hypnotic visuals"
+  },
+  {
+    "movieId": 903,
+    "score": 0.82,
+    "reason": "Artful meditation on memory’s power set in surreal landscape"
+  },
+  {
+    "movieId": 512,
+    "score": 0.78,
+    "reason": "Quiet Berlin odyssey marked by poetic, haunting imagery"
+  },
+  {
+    "movieId": 60,
+    "score": 0.75,
+    "reason": "Fragile healing after tragedy told with luminous minimalism"
+  },
+  {
+    "movieId": 1056,
+    "score": 0.7,
+    "reason": "Spare, lyrical journey into psyche and forgotten past"
+  }
+]

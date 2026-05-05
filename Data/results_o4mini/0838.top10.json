@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 32,
+    "score": 0.95,
+    "reason": "A subversive cartoonist isolates himself to capture genius, the walls closing in with every fevered brush stroke."
+  },
+  {
+    "movieId": 47,
+    "score": 0.92,
+    "reason": "Eerie persistence drives a B-movie auteur to torment, each production a tighter prison of his unyielding vision."
+  },
+  {
+    "movieId": 191,
+    "score": 0.9,
+    "reason": "A musical prodigy’s obsessive rise strains every bond, the studio’s glare magnifying his every cruel perfectionism."
+  },
+  {
+    "movieId": 138,
+    "score": 0.88,
+    "reason": "A country chef converts disused barns, her single-minded passion eroding friendships in a storm of flour dust."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "A director returns home to cut reel memories, his muse slipping through the splices of memory and ambition."
+  },
+  {
+    "movieId": 836,
+    "score": 0.83,
+    "reason": "A celebrated actress grinds through shoot after shoot, every take tearing at the seams of her fragile relationships."
+  },
+  {
+    "movieId": 172,
+    "score": 0.8,
+    "reason": "A rock star’s vision forces bandmates away, the tour bus’s walls echoing each compromise he refuses to make."
+  },
+  {
+    "movieId": 438,
+    "score": 0.78,
+    "reason": "A journalist’s hunger for the story consumes her, the probe of a grisly murder widening a gulf to her own conscience."
+  },
+  {
+    "movieId": 134,
+    "score": 0.75,
+    "reason": "An editor’s pursuit of his magnum opus isolates him, every word penned tearing deeper into his erratic psyche."
+  },
+  {
+    "movieId": 318,
+    "score": 0.72,
+    "reason": "A documentarian immerses himself in a battle to unmask evil, the camera’s lens a merciless confession of obsession."
+  }
+]

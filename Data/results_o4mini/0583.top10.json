@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 1.0,
+    "reason": "A timeless fairytale romance that delivers whimsy, wit, and a perfect happily-ever-after."
+  },
+  {
+    "movieId": 216,
+    "score": 0.95,
+    "reason": "A charming exploration of friendships blossoming into romance over years."
+  },
+  {
+    "movieId": 66,
+    "score": 0.9,
+    "reason": "An endearing mistaken identity love story filled with sweet humor and heart."
+  },
+  {
+    "movieId": 88,
+    "score": 0.85,
+    "reason": "A warm, witty tale of healing and romance with a storybook ending."
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Witty British ensemble romance that builds delightful tension and joy."
+  },
+  {
+    "movieId": 274,
+    "score": 0.75,
+    "reason": "A charming remake with sweetness, sophistication, and gentle romance."
+  },
+  {
+    "movieId": 155,
+    "score": 0.7,
+    "reason": "A nostalgic dance romance that sparks swoony chemistry and joy."
+  },
+  {
+    "movieId": 739,
+    "score": 0.65,
+    "reason": "A modern fairy-tale romance brimming with charm and happy endings."
+  },
+  {
+    "movieId": 69,
+    "score": 0.6,
+    "reason": "A touching journey of love transcending time with heartfelt warmth."
+  },
+  {
+    "movieId": 709,
+    "score": 0.55,
+    "reason": "A flamboyant dance romance that twirls with joy and sweet affection."
+  }
+]

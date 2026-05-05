@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Ingenious twist thriller that keeps you guessing until the explosive final reveal"
+  },
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Dark serial-killer mystery with a shocking ending that redefines the entire story"
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "Psychological puzzle that toys with your mind and flips reality on its head"
+  },
+  {
+    "movieId": 691,
+    "score": 0.85,
+    "reason": "Noir sci-fi labyrinth with a finale that makes you question everything seen before"
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "Time-hopping thriller with a mind-bending payoff that demands a second viewing"
+  },
+  {
+    "movieId": 185,
+    "score": 0.75,
+    "reason": "Classic Hitchcock shocker whose infamous reveal still stuns audiences today"
+  },
+  {
+    "movieId": 479,
+    "score": 0.7,
+    "reason": "Psychological thriller with a haunting twist that lingers long after the credits"
+  },
+  {
+    "movieId": 591,
+    "score": 0.65,
+    "reason": "Courtroom thriller with a deadly secret and a final turn you won’t see coming"
+  },
+  {
+    "movieId": 58,
+    "score": 0.6,
+    "reason": "True-crime courtroom drama with a twisty final act that turns the truth upside down"
+  },
+  {
+    "movieId": 525,
+    "score": 0.55,
+    "reason": "Witty noir with a layered plot and an ending that leaves you questioning every motive"
+  }
+]

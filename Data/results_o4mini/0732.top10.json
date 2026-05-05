@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "Art-house descent into grief with haunting visuals"
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "Nostalgic ode to cinema and childhood longing"
+  },
+  {
+    "movieId": 664,
+    "score": 0.85,
+    "reason": "Sparse, poetic wilderness drama soaked in solitude"
+  },
+  {
+    "movieId": 86,
+    "score": 0.8,
+    "reason": "Elegant but aching tale of duty and suppressed emotion"
+  },
+  {
+    "movieId": 537,
+    "score": 0.75,
+    "reason": "Bittersweet dive into youthful drift and longing"
+  },
+  {
+    "movieId": 276,
+    "score": 0.7,
+    "reason": "Raw portrait of love, loss, and beautiful self-destruction"
+  },
+  {
+    "movieId": 275,
+    "score": 0.65,
+    "reason": "Period romance tinged with gentle, wistful sorrow"
+  },
+  {
+    "movieId": 51,
+    "score": 0.6,
+    "reason": "Epic family drama undercut by elegiac reflection"
+  },
+  {
+    "movieId": 9,
+    "score": 0.55,
+    "reason": "Poignant death-row drama anchored by powerful performances"
+  },
+  {
+    "movieId": 15,
+    "score": 0.5,
+    "reason": "Life-spanning story of hope, regret, and musical legacy"
+  }
+]

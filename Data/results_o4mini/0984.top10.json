@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.98,
+    "reason": "Criminal world meets moral ambiguity in Unforgiven’s bleak frontier"
+  },
+  {
+    "movieId": 470,
+    "score": 0.95,
+    "reason": "Lawman and outlaws blur lines in gritty Tombstone"
+  },
+  {
+    "movieId": 97,
+    "score": 0.92,
+    "reason": "Civil War veteran finds disillusionment in Dances with Wolves"
+  },
+  {
+    "movieId": 590,
+    "score": 0.9,
+    "reason": "Harrowing prisoner revolt on submarine in Crimson Tide (1973)"
+  },
+  {
+    "movieId": 146,
+    "score": 0.88,
+    "reason": "Ex-child star confronts past in haunting Dead Man"
+  },
+  {
+    "movieId": 531,
+    "score": 0.85,
+    "reason": "Pianist’s obsessive genius and betrayal in Shine"
+  },
+  {
+    "movieId": 494,
+    "score": 0.82,
+    "reason": "Hard-nosed editor stirs scandal in His Girl Friday"
+  },
+  {
+    "movieId": 536,
+    "score": 0.8,
+    "reason": "Child seeks understanding and loss in Ponette"
+  },
+  {
+    "movieId": 670,
+    "score": 0.78,
+    "reason": "Invasion of replacements in Body Snatchers horror parable"
+  },
+  {
+    "movieId": 147,
+    "score": 0.75,
+    "reason": "Secret agent paired with dinosaur in Theodore Rex’s absurd frontier"
+  }
+]

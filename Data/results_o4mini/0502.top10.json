@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Intricate web of deceit, one flawless plan unfolding with precise turns."
+  },
+  {
+    "movieId": 28,
+    "score": 0.98,
+    "reason": "Out‐of‐this‐world emergency met with calm strategy and a perfect payoff."
+  },
+  {
+    "movieId": 31,
+    "score": 0.96,
+    "reason": "Tense submarine standoff where timing and teamwork make or break the mission."
+  },
+  {
+    "movieId": 117,
+    "score": 0.94,
+    "reason": "High‐stakes prison break on Alcatraz where precision and teamwork are everything."
+  },
+  {
+    "movieId": 110,
+    "score": 0.92,
+    "reason": "Unlikely troop of soldiers executing a daring elephant‐powered rescue mission."
+  },
+  {
+    "movieId": 193,
+    "score": 0.9,
+    "reason": "Historical test pilots pushing limits, united by flawless execution."
+  },
+  {
+    "movieId": 205,
+    "score": 0.88,
+    "reason": "Brilliant General orchestrates bold WWII campaign with surgical precision."
+  },
+  {
+    "movieId": 265,
+    "score": 0.86,
+    "reason": "Cold War submarine chase where planning and teamwork seal the outcome."
+  },
+  {
+    "movieId": 222,
+    "score": 0.84,
+    "reason": "Time‐traveling rescue mission where crew cohesion drives every tense second."
+  },
+  {
+    "movieId": 353,
+    "score": 0.82,
+    "reason": "Mercenary crew storm a luxury liner in a fast‐paced, coordinated operation."
+  }
+]

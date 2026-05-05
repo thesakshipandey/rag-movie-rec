@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 153,
+    "score": 0.95,
+    "reason": "A Fish Called Wanda’s fish-out-water humor delights as Brits adapt to America."
+  },
+  {
+    "movieId": 238,
+    "score": 0.9,
+    "reason": "Raising Arizona’s 1980s charm pits unlikely partners in a world they barely know."
+  },
+  {
+    "movieId": 161,
+    "score": 0.85,
+    "reason": "Top Gun humorously shows cadets adjusting to new rules in the ’80s flight school."
+  },
+  {
+    "movieId": 155,
+    "score": 0.82,
+    "reason": "Dirty Dancing’s outsider steals hearts with playful 1980s dance moves."
+  },
+  {
+    "movieId": 238,
+    "score": 0.78,
+    "reason": "Raising Arizona blends ’80s kitsch with delightful culture-clash comedy."
+  },
+  {
+    "movieId": 248,
+    "score": 0.75,
+    "reason": "Grosse Pointe Blank sends an oddball hit man home for laughs and fish-out-water gags."
+  },
+  {
+    "movieId": 161,
+    "score": 0.72,
+    "reason": "Top Gun’s rookie training brings ’80s bravado and comic missteps in a new world."
+  },
+  {
+    "movieId": 155,
+    "score": 0.7,
+    "reason": "Dirty Dancing’s outsider dance scenes deliver goofy ’80s comfort food."
+  },
+  {
+    "movieId": 161,
+    "score": 0.68,
+    "reason": "Top Gun pairs slick action with ’80s humor as pilots find their footing."
+  },
+  {
+    "movieId": 153,
+    "score": 0.65,
+    "reason": "A Fish Called Wanda captures culture shock with ’80s British-American antics."
+  }
+]

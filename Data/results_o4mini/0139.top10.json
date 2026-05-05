@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 761,
+    "score": 0.97,
+    "reason": "Every frantic minute counts as Nick must save his daughter before time runs out"
+  },
+  {
+    "movieId": 568,
+    "score": 0.96,
+    "reason": "Bus must stay above 50mph or everyone dies—no respite from the ticking clock"
+  },
+  {
+    "movieId": 661,
+    "score": 0.94,
+    "reason": "High Noon unfolds in real time as the clock ticks toward Frank’s duel"
+  },
+  {
+    "movieId": 31,
+    "score": 0.92,
+    "reason": "Submarine captain races ticking nuclear launch orders undersea"
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "Apollo 13’s mission clocks down to a critical life-or-death return"
+  },
+  {
+    "movieId": 636,
+    "score": 0.88,
+    "reason": "Snake has hours to stop the bomb before Manhattan is lost"
+  },
+  {
+    "movieId": 827,
+    "score": 0.86,
+    "reason": "Residents trapped in a tunnel face a race against time to escape floodwaters"
+  },
+  {
+    "movieId": 226,
+    "score": 0.84,
+    "reason": "McClane battles airport hijackers under a looming runaway plane deadline"
+  },
+  {
+    "movieId": 955,
+    "score": 0.82,
+    "reason": "Lola’s desperate clock-beating dashes play out in split-second urgency"
+  },
+  {
+    "movieId": 797,
+    "score": 0.8,
+    "reason": "Timecop must undo the timeline within the next 24 hours or die"
+  }
+]

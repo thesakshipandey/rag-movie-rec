@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 69,
+    "score": 1.0,
+    "reason": "A simple man’s misadventures through history spark slapstick chaos and pure, goofy fun."
+  },
+  {
+    "movieId": 94,
+    "score": 0.95,
+    "reason": "A kid’s home-alone antics unleash a series of escalating, harmless disasters."
+  },
+  {
+    "movieId": 780,
+    "score": 0.9,
+    "reason": "Two friends’ scheme to save a comrade escalates into madcap, physical comedy."
+  },
+  {
+    "movieId": 780,
+    "score": 0.9,
+    "reason": "Two friends’ scheme to save a comrade escalates into madcap, physical comedy."
+  },
+  {
+    "movieId": 780,
+    "score": 0.9,
+    "reason": "Two friends’ scheme to save a comrade escalates into madcap, physical comedy."
+  },
+  {
+    "movieId": 78,
+    "score": 0.85,
+    "reason": "A boy’s friendship with a whale leads to wildly comic rescue mishaps."
+  },
+  {
+    "movieId": 41,
+    "score": 0.8,
+    "reason": "A dimwitted hotel heir endures escalating classroom disasters in absurd gags."
+  },
+  {
+    "movieId": 390,
+    "score": 0.75,
+    "reason": "A mockumentary on rap group rivalries spins out a series of ridiculous misadventures."
+  },
+  {
+    "movieId": 158,
+    "score": 0.7,
+    "reason": "Two friends waking a dead boss ignite slapstick mayhem in a funeral-gone-wrong."
+  },
+  {
+    "movieId": 751,
+    "score": 0.65,
+    "reason": "A spy’s clumsy rescue mission on Air Force One turns into goofy catastrophe."
+  }
+]

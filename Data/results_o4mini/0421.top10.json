@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "A visually stunning journey through space that evokes cosmic awe."
+  },
+  {
+    "movieId": 28,
+    "score": 0.94,
+    "reason": "A triumph of human ingenuity set against the vastness of space."
+  },
+  {
+    "movieId": 193,
+    "score": 0.92,
+    "reason": "A stirring saga of pioneering test pilots scaling the heavens."
+  },
+  {
+    "movieId": 180,
+    "score": 0.9,
+    "reason": "An epic Vietnam odyssey that probes the depths of the human soul."
+  },
+  {
+    "movieId": 82,
+    "score": 0.89,
+    "reason": "A breathtaking adventure reviving prehistoric giants in wild splendour."
+  },
+  {
+    "movieId": 176,
+    "score": 0.88,
+    "reason": "A heroic return that reignites wonder at the unknown."
+  },
+  {
+    "movieId": 89,
+    "score": 0.87,
+    "reason": "A neon-drenched vision that makes you ponder life and identity."
+  },
+  {
+    "movieId": 202,
+    "score": 0.85,
+    "reason": "A playful time loop that quietly ponders life’s daily mysteries."
+  },
+  {
+    "movieId": 7,
+    "score": 0.84,
+    "reason": "A mind-bending trip through time that challenges your sense of self."
+  },
+  {
+    "movieId": 62,
+    "score": 0.83,
+    "reason": "An exploration of ancient portals that stirs wonder at hidden worlds."
+  }
+]

@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0495": {
+      "top10": [
+        {"movieId": 1065, "score": 1.00, "reason": "Purely visual, slow cinematic flow with meditative pacing and minimal dialogue."},
+        {"movieId": 60, "score": 0.95, "reason": "Quiet, contemplative drama exploring grief with meticulous framing and calm tone."},
+        {"movieId": 955, "score": 0.93, "reason": "One long conversation unfolds gently in evocative nocturnal cityscapes."},
+        {"movieId": 512, "score": 0.91, "reason": "Poetic, gentle narration and serene urban imagery create a deliberate atmosphere."},
+        {"movieId": 664, "score": 0.89, "reason": "Spare dialogue and vast desert vistas convey reflective, unhurried storytelling."},
+        {"movieId": 86, "score": 0.87, "reason": "Understated performances and precise period detail evoke calm restraint."},
+        {"movieId": 170, "score": 0.85, "reason": "Warm nostalgia and quiet reverie in a small‐town film-lover’s dream."},
+        {"movieId": 20, "score": 0.83, "reason": "Deliberate period rhythms and intimate character focus offer serene engagement."},
+        {"movieId": 97, "score": 0.81, "reason": "Expansive natural settings and gentle pacing foster a soothing emotional journey."},
+        {"movieId": 119, "score": 0.79, "reason": "Slow‐burn romance with graceful composure and unhurried visual poetry."}
+      ]
+    },
+    "0496": {
+      "top10": [
+        {"movieId": 5, "score": 1.00, "reason": "Psychological cat-and-mouse thriller building dread through unseen clues."},
+        {"movieId": 11, "score": 0.98, "reason": "Relentless tension as unseen horrors unfold in each grim crime scene."},
+        {"movieId": 185, "score": 0.96, "reason": "Classic suspense with terror born from the unseen within ordinary settings."},
+        {"movieId": 200, "score": 0.94, "reason": "Isolation and unknown forces in a grand hotel create mounting psychological dread."},
+        {"movieId": 260, "score": 0.92, "reason": "Claustrophobic spaceship terror and what’s hiding in the dark corridors."},
+        {"movieId": 183, "score": 0.90, "reason": "Tense cat-and-alien hunts that rely on what you don’t see to raise panic."},
+        {"movieId": 603, "score": 0.88, "reason": "Urban espionage and voyeurism tension, terror from hearing what you can’t see."},
+        {"movieId": 479, "score": 0.86, "reason": "Un nerving psychological fear of heights and unseen threats around every corner."},
+        {"movieId": 219, "score": 0.84, "reason": "Nightmarish dread ignited by your own imagination in the shadows of Elm Street."},
+        {"movieId": 343, "score": 0.82, "reason": "Clashing personalities and unseen supernatural menace spark rising dread."}
+      ]
+    },
+    "0497": {
+      "top10": [
+        {"movieId": 8, "score": 1.00, "reason": "Gentle family tale of friendship and triumph, heartwarming without sentimentality."},
+        {"movieId": 15, "score": 0.98, "reason": "A quiet, uplifting story of human spirit and the power of music over decades."},
+        {"movieId": 126, "score": 0.96, "reason": "Warm redemption drama set in a small town, gentle tone and satisfying resolutions."},
+        {"movieId": 78, "score": 0.94, "reason": "Heartfelt bond between boy and whale, simple joys and an uplifting ending."},
+        {"movieId": 136, "score": 0.92, "reason": "Optimistic small‐town idealism and earnest heroism in America’s capital."},
+        {"movieId": 509, "score": 0.90, "reason": "Inspiring true‐life tale of overcoming disability with warmth and humor."},
+        {"movieId": 423, "score": 0.88, "reason": "Tender alien friendship story with a hopeful, uplifting finale."},
+        {"movieId": 215, "score": 0.86, "reason": "Magical realism baseball tale that warms the heart, celebrates dreams."},
+        {"movieId": 196, "score": 0.84, "reason": "Uplifting classroom drama about inspiration and youthful potential."},
+        {"movieId": 272, "score": 0.82, "reason": "Emotional underdog story of raw talent and redemption with quiet joy."}
+      ]
+    },
+    "0498": {
+      "top10": [
+        {"movieId": 318, "score": 1.00, "reason": "Epic Holocaust drama with profound weight, human tragedy and moral resonance."},
+        {"movieId": 22, "score": 0.98, "reason": "Stirring historical epic conveying the grandeur and sorrow of an ancient struggle."},
+        {"movieId": 180, "score": 0.96, "reason": "Viceral Vietnam war odyssey fusing awe‐inspiring imagery with existential dread."},
+        {"movieId": 51, "score": 0.94, "reason": "Multi‐generational saga blending personal tragedy with sweeping historical change."},
+        {"movieId": 651, "score": 0.92, "reason": "Civil War drama capturing courage and sacrifice on a human scale with brutal honesty."},
+        {"movieId": 157, "score": 0.90, "reason": "Raw, visceral portrayal of combat and its enduring human cost."},
+        {"movieId": 127, "score": 0.88, "reason": "Crime‐family epic that melds loyalties and loss in a broodingly majestic style."},
+        {"movieId": 97, "score": 0.86, "reason": "Western epic filled with reflective moments and the bittersweet cost of heroism."},
+        {"movieId": 641, "score": 0.84, "reason": "Powerful trench‐war drama exposing the grim reality of human conflict."},
+        {"movieId": 199, "score": 0.82, "reason": "WWII epic blending human drama and the monumental toil of building a strategic bridge."}
+      ]
+    },
+    "0499": {
+      "top10": [
+        {"movieId": 512, "score": 1.00, "reason": "Dreamlike, poetic cityscapes and soft focus evoke a melancholic reverie."},
+        {"movieId": 624, "score": 0.98, "reason": "Lyrical musical romance in vibrant, stylized color washes over you like a dream."},
+        {"movieId": 60, "score": 0.96, "reason": "Melancholy emotional current and elegant visuals create a haunting, dreamy mood."},
+        {"movieId": 664, "score": 0.94, "reason": "Long, poetic panoramas of the desert channel a contemplative, wistful atmosphere."},
+        {"movieId": 955, "score": 0.92, "reason": "Floating conversations in nocturnal streets impart a soft, surreal beauty."},
+        {"movieId": 207, "score": 0.90, "reason": "Opulent period visuals and romantic longing paint a gentle, nostalgic haze."},
+        {"movieId": 649, "score": 0.88, "reason": "Sweeping multi‐decade saga with poetic imagery that drifts and lingers."},
+        {"movieId": 463, "score": 0.86, "reason": "Quiet folklore in misty Irish landscapes glides like a melancholy dream."},
+        {"movieId": 512, "score": 0.84, "reason": "Soft‐lit poetry of the everyday, mood triumphing over narrative weight."},
+        {"movieId": 170, "score": 0.82, "reason": "Tender homage to cinema’s magic, unfolding in gentle golden light."}
+      ]
+    },
+    "0500": {
+      "top10": [
+        {"movieId": 23, "score": 1.00, "reason": "Grimy descent into obsession and urban decay you can’t tear your eyes from."},
+        {"movieId": 53, "score": 0.98, "reason": "Stylized brutality of an amoral couple on a nihilistic killing spree."},
+        {"movieId": 56, "score": 0.96, "reason": "Gripping, interwoven tales of criminal life with sharp, unflinching edge."},
+        {"movieId": 156, "score": 0.94, "reason": "Raw, unredeemed characters in a tense cat‐and‐mouse with chaos all around."},
+        {"movieId": 475, "score": 0.92, "reason": "Gritty, kinetic portrayal of addiction’s wreckage and moral collapse."},
+        {"movieId": 325, "score": 0.90, "reason": "Disturbing erotic thrills and moral ambiguity in a taboo‐tipped thriller."},
+        {"movieId": 179, "score": 0.88, "reason": "Visceral violence and distorted reality at the hands of a charismatic delinquent."},
+        {"movieId": 772, "score": 0.86, "reason": "Teen angst turned dangerous in a provocative, rawshoted urban journey."},
+        {"movieId": 960, "score": 0.84, "reason": "Bold confrontation with language and identity exposing uncensored truths."},
+        {"movieId": 219, "score": 0.82, "reason": "Nightmarish invasion of the safe, blending fear and fascination in shadows."}
+      ]
+    },
+    "0501": {
+      "top10": [
+        {"movieId": 94, "score": 1.00, "reason": "Endearing family comedy with heartwarming slapstick—you know it’ll end well."},
+        {"movieId": 88, "score": 0.98, "reason": "Charming romantic warmth and gentle humor in a cozy holiday setting."},
+        {"movieId": 66, "score": 0.96, "reason": "Sweet, feel‐good romance that leaves you comforted and uplifted."},
+        {"movieId": 393, "score": 0.94, "reason": "Warm, comedic home‐made disguise adventure centered on family love."},
+        {"movieId": 78, "score": 0.92, "reason": "Gentle animal friendship story that’s comforting and optimistic."},
+        {"movieId": 8, "score": 0.90, "reason": "Wholesome community charm and mild humor make for a cozy watch."},
+        {"movieId": 215, "score": 0.88, "reason": "Nostalgic baseball fairy tale that soothes with its earnest warmth."},
+        {"movieId": 417, "score": 0.86, "reason": "Childhood caper with familiar faces and guaranteed happy reunion."},
+        {"movieId": 378, "score": 0.84, "reason": "Classic holiday magic that swaddles you in nostalgic cheer."},
+        {"movieId": 1, "score": 0.82, "reason": "Animation wit and warmth deliver pure, easygoing joy for all ages."}
+      ]
+    },
+    "0502": {
+      "top10": [
+        {"movieId": 12, "score": 1.00, "reason": "Intricate web of deceit, one flawless plan unfolding with precise turns."},
+        {"movieId": 28, "score": 0.98, "reason": "Out‐of‐this‐world emergency met with calm strategy and a perfect payoff."},
+        {"movieId": 31, "score": 0.96, "reason": "Tense submarine standoff where timing and teamwork make or break the mission."},
+        {"movieId": 117, "score": 0.94, "reason": "High‐stakes prison break on Alcatraz where precision and teamwork are everything."},
+        {"movieId": 110, "score": 0.92, "reason": "Unlikely troop of soldiers executing a daring elephant‐powered rescue mission."},
+        {"movieId": 193, "score": 0.90, "reason": "Historical test pilots pushing limits, united by flawless execution."},
+        {"movieId": 205, "score": 0.88, "reason": "Brilliant General orchestrates bold WWII campaign with surgical precision."},
+        {"movieId": 265, "score": 0.86, "reason": "Cold War submarine chase where planning and teamwork seal the outcome."},
+        {"movieId": 222, "score": 0.84, "reason": "Time‐traveling rescue mission where crew cohesion drives every tense second."},
+        {"movieId": 353, "score": 0.82, "reason": "Mercenary crew storm a luxury liner in a fast‐paced, coordinated operation."}
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 31,
+    "score": 0.9,
+    "reason": "Captain wagers launch of pre-emptive nuclear strike, forcing impossible choice between mass death and national security."
+  },
+  {
+    "movieId": 566,
+    "score": 0.88,
+    "reason": "U.S. government orders covert strike on foreign drug cartel haven, sacrificing innocents to safeguard homeland stability."
+  },
+  {
+    "movieId": 657,
+    "score": 0.87,
+    "reason": "CIA engineers mind-controlled assassin to kill a politician, choosing unethical manipulation for perceived national interest."
+  },
+  {
+    "movieId": 318,
+    "score": 0.85,
+    "reason": "Schindler bribes and lies to Nazi officers, saving lives at the cost of legal and moral compromise during wartime."
+  },
+  {
+    "movieId": 175,
+    "score": 0.83,
+    "reason": "Dystopian regime uses torture and deception as necessary tools to preserve societal order, with tragic personal tolls."
+  },
+  {
+    "movieId": 269,
+    "score": 0.82,
+    "reason": "High-tech society enacts genetic discrimination to secure human future, forcing individuals into illicit identity fraud."
+  },
+  {
+    "movieId": 23,
+    "score": 0.8,
+    "reason": "Disillusioned veteran takes vigilante action against city crime, crossing legal lines for his own brand of justice."
+  },
+  {
+    "movieId": 54,
+    "score": 0.78,
+    "reason": "Military readies carpet-bombing of infected city to halt virus spread, condemning civilians in cold calculus of containment."
+  },
+  {
+    "movieId": 7,
+    "score": 0.75,
+    "reason": "Future society sends convict back in time to stop viral apocalypse, rationalizing life-and-death gamble for humanity’s sake."
+  },
+  {
+    "movieId": 282,
+    "score": 0.74,
+    "reason": "Desperate father bypasses justice to kill his daughter’s assailants, sparking community uproar over vigilante ‘protection.’"
+  }
+]

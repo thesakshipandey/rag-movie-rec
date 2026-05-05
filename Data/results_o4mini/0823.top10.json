@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 48,
+    "score": 0.95,
+    "reason": "Hoop Dreams: raw documentary on two teen athletes’ relentless ritual training and mental strain"
+  },
+  {
+    "movieId": 1189,
+    "score": 0.93,
+    "reason": "Prefontaine: vivid portrait of an obsessive runner honing his mind and body for one race"
+  },
+  {
+    "movieId": 192,
+    "score": 0.9,
+    "reason": "Raging Bull: intense focus on a boxer’s inner demons through brutal training scenes"
+  },
+  {
+    "movieId": 284,
+    "score": 0.88,
+    "reason": "Tin Cup: disciplined golfer’s merciless practice routine becomes both punishing and hypnotic"
+  },
+  {
+    "movieId": 87,
+    "score": 0.85,
+    "reason": "Searching for Bobby Fischer: chess as mental marathon, obsession and discipline under pressure"
+  },
+  {
+    "movieId": 273,
+    "score": 0.82,
+    "reason": "Heat: bank robber’s meticulous planning parallels athlete’s focus and single‐minded drive"
+  },
+  {
+    "movieId": 188,
+    "score": 0.8,
+    "reason": "Full Metal Jacket: boot‐camp’s isolating regimen, psychological toll of perfectionist training"
+  },
+  {
+    "movieId": 193,
+    "score": 0.78,
+    "reason": "Right Stuff: test pilots’ Spartan preparation becomes a meditative ordeal of mind and body"
+  },
+  {
+    "movieId": 5,
+    "score": 0.75,
+    "reason": "Copycat: psychologist’s immersion in killer profiles shows the sharp edge of intellectual obsession"
+  },
+  {
+    "movieId": 272,
+    "score": 0.72,
+    "reason": "Good Will Hunting: academic prodigy’s rigorous self‐training and therapeutic struggle feel austere"
+  }
+]

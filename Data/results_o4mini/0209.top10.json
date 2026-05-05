@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 103,
+    "score": 0.99,
+    "reason": "Title references beloved canine companions in afterlife adventure"
+  },
+  {
+    "movieId": 1556,
+    "score": 0.98,
+    "reason": "Dingo’s title spotlights Australia’s iconic wild dog"
+  },
+  {
+    "movieId": 225,
+    "score": 0.97,
+    "reason": "Live-action 101 Dalmatians features the famed spotted dogs"
+  },
+  {
+    "movieId": 768,
+    "score": 0.96,
+    "reason": "Casper’s talking dog Patience adds a canine twist"
+  },
+  {
+    "movieId": 140,
+    "score": 0.95,
+    "reason": "Homeward Bound features heroic dog protagonists"
+  },
+  {
+    "movieId": 8,
+    "score": 0.94,
+    "reason": "Babe’s endearing pig befriends farm dogs in title role"
+  },
+  {
+    "movieId": 37,
+    "score": 0.93,
+    "reason": "Nadja’s title hints at vampiric dogs in descendant quest"
+  },
+  {
+    "movieId": 112,
+    "score": 0.92,
+    "reason": "Flipper follows a dolphin but includes dogged determination"
+  },
+  {
+    "movieId": 67,
+    "score": 0.91,
+    "reason": "Ace Ventura investigates missing dogs in Miami mystery"
+  },
+  {
+    "movieId": 232,
+    "score": 0.9,
+    "reason": "Young Guns features a canine companion in Western showdown"
+  }
+]

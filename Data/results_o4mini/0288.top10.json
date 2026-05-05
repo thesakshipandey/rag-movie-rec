@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 405,
+    "score": 1.0,
+    "reason": "Classic spy thriller featuring Tom Cruise’s real wire work and practical set pieces"
+  },
+  {
+    "movieId": 24,
+    "score": 0.9,
+    "reason": "Jackie Chan’s Hong Kong action marvel with jaw-dropping wire stunts in real locations"
+  },
+  {
+    "movieId": 144,
+    "score": 0.85,
+    "reason": "Bruce Willis’s urban actioner built on real explosions and zero CGI armies"
+  },
+  {
+    "movieId": 599,
+    "score": 0.8,
+    "reason": "Hong Kong cop flick packed with real stunts and no digital doubles in sight"
+  },
+  {
+    "movieId": 210,
+    "score": 0.75,
+    "reason": "Indiana Jones adventure filmed with practical effects and period sets, far from the CGI treadmill"
+  },
+  {
+    "movieId": 204,
+    "score": 0.7,
+    "reason": "Time-travel classic employing hands-on effects and charming ’80s tech vibe"
+  },
+  {
+    "movieId": 91,
+    "score": 0.65,
+    "reason": "Stop-motion masterpiece alive with tactile models and handcrafted animation"
+  },
+  {
+    "movieId": 526,
+    "score": 0.6,
+    "reason": "Epic chariot race shot with real horses and hands-on spectacle"
+  },
+  {
+    "movieId": 50,
+    "score": 0.55,
+    "reason": "Original Star Wars with miniatures and practical effects that defined a generation"
+  },
+  {
+    "movieId": 82,
+    "score": 0.5,
+    "reason": "Jurassic Park’s on-set dinosaurs and puppets still outshine most modern CGI"
+  }
+]

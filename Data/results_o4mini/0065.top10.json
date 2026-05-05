@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 84,
+    "score": 1.0,
+    "reason": "CIA officer decodes alien signals while navigating political intrigue"
+  },
+  {
+    "movieId": 58,
+    "score": 0.95,
+    "reason": "Lawyer uncovers quiz-show fraud under heavy government pressure"
+  },
+  {
+    "movieId": 197,
+    "score": 0.9,
+    "reason": "Idealistic rookie senator navigates Washington’s hidden machinations"
+  },
+  {
+    "movieId": 302,
+    "score": 0.85,
+    "reason": "LA cops uncover conspiracy in city hall’s secret corridors"
+  },
+  {
+    "movieId": 136,
+    "score": 0.8,
+    "reason": "Young senator fights entrenched political corruption in Washington"
+  },
+  {
+    "movieId": 569,
+    "score": 0.75,
+    "reason": "USS battleship captain clashes with new orders from political leaders"
+  },
+  {
+    "movieId": 272,
+    "score": 0.7,
+    "reason": "Genius janitor battles academic politics within prestigious institute"
+  },
+  {
+    "movieId": 220,
+    "score": 0.65,
+    "reason": "Professors wed amid college politics and hidden agendas"
+  },
+  {
+    "movieId": 58,
+    "score": 0.6,
+    "reason": "High-stakes merger draws antagonist’s hidden manipulations"
+  },
+  {
+    "movieId": 197,
+    "score": 0.55,
+    "reason": "Senator faces scheme orchestrated by power brokers in D.C."
+  }
+]

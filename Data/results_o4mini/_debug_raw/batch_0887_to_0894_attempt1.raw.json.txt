@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0887": {
+      "top10": [
+        {"movieId": 178, "score": 0.95, "reason": "Powerful single-room drama with mounting tension and moral stakes."},
+        {"movieId": 505, "score": 0.90, "reason": "High-stakes cat-and-mouse thriller in confined spaces."},
+        {"movieId": 603, "score": 0.85, "reason": "Claustrophobic obsession within a single apartment."},
+        {"movieId": 1243, "score": 0.80, "reason": "Grim morgue setting fuels relentless suspense."},
+        {"movieId": 1556, "score": 0.75, "reason": "Small Korean prison camp yields intense survival drama."},
+        {"movieId": 999, "score": 0.70, "reason": "Amnesia thriller plays out in a locked hotel."},
+        {"movieId": 1553, "score": 0.65, "reason": "Submarine-base setting heightens suffocating suspense."},
+        {"movieId": 1552, "score": 0.60, "reason": "Remote cabin isolation drives relentless hunt."},
+        {"movieId": 603, "score": 0.55, "reason": "Intense voyeurism in one closed environment."},
+        {"movieId": 505, "score": 0.50, "reason": "Tightly wound thriller set mostly indoors."}
+      ]
+    },
+    "0888": {
+      "top10": [
+        {"movieId": 705, "score": 0.92, "reason": "Integrated songs enhance romantic plot."},
+        {"movieId": 705, "score": 0.87, "reason": "Dark undertones with seamless musical numbers."},
+        {"movieId": 705, "score": 0.83, "reason": "Plot-driven songs keep drama grounded."},
+        {"movieId": 705, "score": 0.79, "reason": "Darker themes in a modern musical context."},
+        {"movieId": 705, "score": 0.75, "reason": "No over-the-top choreography, just story-driven tunes."},
+        {"movieId": 705, "score": 0.72, "reason": "Songs feel like natural extensions of scenes."},
+        {"movieId": 705, "score": 0.68, "reason": "Post-2000 feel with integrated musical storytelling."},
+        {"movieId": 705, "score": 0.65, "reason": "Drama-rich numbers, not broad troupes."},
+        {"movieId": 705, "score": 0.62, "reason": "Songs push the narrative forward."},
+        {"movieId": 705, "score": 0.60, "reason": "Musical scenes emerge organically."}
+      ]
+    },
+    "0889": {
+      "top10": [
+        {"movieId": 318, "score": 0.95, "reason": "Authentic WWII-historical drama courtroom story."},
+        {"movieId": 502, "score": 0.90, "reason": "Based on true Cold War submarine defection."},
+        {"movieId": 101, "score": 0.85, "reason": "Documentary on Vietnam-era underground comix scandal."},
+        {"movieId": 323, "score": 0.80, "reason": "True WWI incident turned political thriller."},
+        {"movieId": 42, "score": 0.75, "reason": "Insider publishing scandal from real events."},
+        {"movieId": 58, "score": 0.70, "reason": "Quiz show scandal retold with legal realism."},
+        {"movieId": 77, "score": 0.65, "reason": "Law firm conspiracy based on true-case parallels."},
+        {"movieId": 93, "score": 0.60, "reason": "True 90s coming-of-age crisis from real author’s life."},
+        {"movieId": 728, "score": 0.55, "reason": "Based on Belgium’s 1911 doctor-in-prisoner case."},
+        {"movieId": 593, "score": 0.50, "reason": "Documentary on Stalingrad’s WWII events."}
+      ]
+    },
+    "0890": {
+      "top10": [
+        {"movieId": 42, "score": 0.90, "reason": "Offbeat clerk life, cynical humor, finds niche."},
+        {"movieId": 93, "score": 0.85, "reason": "Awkward adolescence, quirky outsider perspective."},
+        {"movieId": 155, "score": 0.80, "reason": "Insecure teen outsider finds her tribe."},
+        {"movieId": 921, "score": 0.75, "reason": "Lonely boy bonds with circus friends."},
+        {"movieId": 728, "score": 0.70, "reason": "Adult-plus coming of age, finding purpose."},
+        {"movieId": 964, "score": 0.65, "reason": "Mismatched roommates discover shared growth."},
+        {"movieId": 989, "score": 0.60, "reason": "Teen outsider befriends yoga group."},
+        {"movieId": 137, "score": 0.55, "reason": "Immigrant brothers find identity together."},
+        {"movieId": 465, "score": 0.50, "reason": "Artistic child finds his unique community."},
+        {"movieId": 946, "score": 0.45, "reason": "Boy watches shark, learns self-reliance."}
+      ]
+    },
+    "0891": {
+      "top10": [
+        {"movieId": 72, "score": 0.95, "reason": "Gritty '70s surveillance and paranoia."},
+        {"movieId": 23, "score": 0.90, "reason": "Taxi driver drawn into conspiracy whirl."},
+        {"movieId": 180, "score": 0.85, "reason": "War zone intrigue, 'who can you trust?' vibe."},
+        {"movieId": 37, "score": 0.80, "reason": "Supernatural paranoia, 70s-era edge."},
+        {"movieId": 163, "score": 0.75, "reason": "International diamond mystery, trust issues."},
+        {"movieId": 236, "score": 0.70, "reason": "Sinister small-town corruption of 70s feel."},
+        {"movieId": 438, "score": 0.65, "reason": "Investigative reporter in deadly conspiracy."},
+        {"movieId": 434, "score": 0.60, "reason": "Cold War alien threat, distrust everywhere."},
+        {"movieId": 442, "score": 0.55, "reason": "Parish priest murder, small-town suspicion."},
+        {"movieId": 445, "score": 0.50, "reason": "Medical theft conspiracy in remote setting."}
+      ]
+    },
+    "0892": {
+      "top10": [
+        {"movieId": 250, "score": 0.95, "reason": "Ragtag crew, aliens, fun escapist adventure."},
+        {"movieId": 257, "score": 0.90, "reason": "Quirky agents vs. aliens with lighthearted tone."},
+        {"movieId": 121, "score": 0.85, "reason": "High-stakes alien invasion with humor."},
+        {"movieId": 43, "score": 0.80, "reason": "Corporate espionage in space with fun crew."},
+        {"movieId": 356, "score": 0.75, "reason": "Child prodigy crew in underwater adventure."},
+        {"movieId": 97, "score": 0.70, "reason": "Ranger-led planetary defense with action."},
+        {"movieId": 686, "score": 0.65, "reason": "Commando pilot squad vs. alien threat."},
+        {"movieId": 464, "score": 0.60, "reason": "Time-travel crew interactions, light sci-fi fun."},
+        {"movieId": 425, "score": 0.55, "reason": "Political thriller meets escapist sci-fi."},
+        {"movieId": 829, "score": 0.50, "reason": "Desert-bred android, galaxy-hopping adventure."}
+      ]
+    },
+    "0893": {
+      "top10": [
+        {"movieId": 133, "score": 0.95, "reason": "Grand Civil War epic scope and stunning visuals."},
+        {"movieId": 136, "score": 0.90, "reason": "Political machinations in grand period setting."},
+        {"movieId": 134, "score": 0.85, "reason": "Rise and fall of a media magnate in grand style."},
+        {"movieId": 83, "score": 0.80, "reason": "Shakespearean epic, lavish sets."},
+        {"movieId": 532, "score": 0.75, "reason": "16th-century Indian courtly drama in scope."},
+        {"movieId": 325, "score": 0.70, "reason": "European forest mystery, visually bold."},
+        {"movieId": 139, "score": 0.65, "reason": "Epic auto racing drama with period flair."},
+        {"movieId": 626, "score": 0.60, "reason": "Boy’s transformation tale with period fantasy."},
+        {"movieId": 361, "score": 0.55, "reason": "Art heist thriller with period detail."},
+        {"movieId": 152, "score": 0.50, "reason": "Women-led 1920s revival musical in grand sets."}
+      ]
+    },
+    "0894": {
+      "top10": [
+        {"movieId": 160, "score": 0.95, "reason": "Sharp, cynical sales office satire."},
+        {"movieId": 42, "score": 0.90, "reason": "Dry humor in a retail workplace."},
+        {"movieId": 93, "score": 0.85, "reason": "Cynical teen store clerk comedy."},
+        {"movieId": 619, "score": 0.80, "reason": "Dry tension in cutthroat office politics."},
+        {"movieId": 201, "score": 0.75, "reason": "Supernatural office capers with cynicism."},
+        {"movieId": 424, "score": 0.70, "reason": "Dark office reorganization comedy."},
+        {"movieId": 467, "score": 0.65, "reason": "Machinations in a transit workplace."},
+        {"movieId": 274, "score": 0.60, "reason": "Love, law, and corporate maneuvering."},
+        {"movieId": 42, "score": 0.55, "reason": "Cult comedy of mundane job frustrations."},
+        {"movieId": 365, "score": 0.50, "reason": "Weight-loss camp satire with dry wit."}
+      ]
+    }
+  }
+}

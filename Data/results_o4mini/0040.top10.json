@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 97,
+    "score": 0.9,
+    "reason": "Returned veteran finds home changed, must face messy aftermath of war"
+  },
+  {
+    "movieId": 40,
+    "score": 0.85,
+    "reason": "Friends return from adventure to find town wrecked and relationships broken"
+  },
+  {
+    "movieId": 8,
+    "score": 0.8,
+    "reason": "After shipping home the animals, the team copes with stress of explaining chaos"
+  },
+  {
+    "movieId": 119,
+    "score": 0.75,
+    "reason": "Documentary ends with raw, realistic fallout, no triumphant finale"
+  },
+  {
+    "movieId": 142,
+    "score": 0.7,
+    "reason": "Orphans return from wartime adventure to face mundane domestic chaos"
+  },
+  {
+    "movieId": 498,
+    "score": 0.65,
+    "reason": "Family reunites after youth escapades—must navigate damaged relationships"
+  },
+  {
+    "movieId": 748,
+    "score": 0.6,
+    "reason": "Assassin’s reunion with daughter reveals lasting trauma of past missions"
+  },
+  {
+    "movieId": 131,
+    "score": 0.55,
+    "reason": "After confronting fate, protagonist faces difficult reconciliation with wife"
+  },
+  {
+    "movieId": 197,
+    "score": 0.5,
+    "reason": "Returning hero meets hollow applause and fractured community bonds"
+  },
+  {
+    "movieId": 129,
+    "score": 0.45,
+    "reason": "Botched quest’s closure gives way to painful, unresolved emotional aftermath"
+  }
+]

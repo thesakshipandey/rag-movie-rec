@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 133,
+    "score": 1.0,
+    "reason": "Gone with the Wind is a sweeping Civil War romance famed for its epic scope."
+  },
+  {
+    "movieId": 483,
+    "score": 0.95,
+    "reason": "Casablanca pairs star-crossed lovers against the backdrop of wartime intrigue."
+  },
+  {
+    "movieId": 487,
+    "score": 0.9,
+    "reason": "Roman Holiday captures a fairy-tale romance between a princess and a reporter in Rome."
+  },
+  {
+    "movieId": 966,
+    "score": 0.85,
+    "reason": "An Affair to Remember is the quintessential classic love story set on Manhattan’s Empire State Building."
+  },
+  {
+    "movieId": 131,
+    "score": 0.8,
+    "reason": "Breakfast at Tiffany’s offers an urbane romance full of warmth and charm."
+  },
+  {
+    "movieId": 70,
+    "score": 0.75,
+    "reason": "Four Weddings and a Funeral balances humor and heart in a memorable British love tale."
+  },
+  {
+    "movieId": 88,
+    "score": 0.7,
+    "reason": "Sleepless in Seattle tells a genuine romance sparked by fate and radio waves."
+  },
+  {
+    "movieId": 66,
+    "score": 0.65,
+    "reason": "While You Were Sleeping unfolds a heartfelt love story with genuine warmth."
+  },
+  {
+    "movieId": 514,
+    "score": 0.6,
+    "reason": "Annie Hall explores modern love with a genuine and touching sensibility."
+  },
+  {
+    "movieId": 1297,
+    "score": 0.55,
+    "reason": "Love Affair revives classic romance with genuine emotion and timeless charm."
+  }
+]

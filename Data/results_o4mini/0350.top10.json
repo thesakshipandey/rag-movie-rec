@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 206,
+    "score": 1.0,
+    "reason": "Groundbreaking cyberpunk anime blending action and art"
+  },
+  {
+    "movieId": 101,
+    "score": 0.93,
+    "reason": "Anthology of adult-oriented animated sci-fi vignettes"
+  },
+  {
+    "movieId": 432,
+    "score": 0.86,
+    "reason": "Innovative visual symphony marrying music and animation"
+  },
+  {
+    "movieId": 91,
+    "score": 0.79,
+    "reason": "Macabre musical fantasy with gothic, artful style"
+  },
+  {
+    "movieId": 169,
+    "score": 0.72,
+    "reason": "Aardman claymation caper with wit and craftsmanship"
+  },
+  {
+    "movieId": 408,
+    "score": 0.65,
+    "reason": "Charming stop-motion romance framed by heist hijinks"
+  },
+  {
+    "movieId": 114,
+    "score": 0.58,
+    "reason": "Showcase of award-winning British animated shorts"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.51,
+    "reason": "Philosophical cybernetic epic in striking animation"
+  },
+  {
+    "movieId": 501,
+    "score": 0.44,
+    "reason": "Beloved Disney fable with imaginative animal heroine"
+  },
+  {
+    "movieId": 99,
+    "score": 0.37,
+    "reason": "Landmark fairytale animation from Disney’s golden age"
+  }
+]

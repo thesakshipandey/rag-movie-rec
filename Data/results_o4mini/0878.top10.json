@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 482,
+    "score": 0.98,
+    "reason": "1959 madcap farce of cross-dressing musicians and hotel hijinks."
+  },
+  {
+    "movieId": 132,
+    "score": 0.96,
+    "reason": "1939 whimsical musical with mistaken identity and dream sequences."
+  },
+  {
+    "movieId": 163,
+    "score": 0.94,
+    "reason": "1974 caper with stolen diamonds and Clouseau’s bumbling setbacks."
+  },
+  {
+    "movieId": 430,
+    "score": 0.92,
+    "reason": "1933 insane political farce of ridiculous machinations."
+  },
+  {
+    "movieId": 494,
+    "score": 0.9,
+    "reason": "1940 newspaper satire with rapid repartee and mistaken plots."
+  },
+  {
+    "movieId": 167,
+    "score": 0.88,
+    "reason": "1971 macabre musical adventure with animated ghouls."
+  },
+  {
+    "movieId": 496,
+    "score": 0.86,
+    "reason": "1946 uplifting fantasy with celestial intercession farce."
+  },
+  {
+    "movieId": 600,
+    "score": 0.84,
+    "reason": "1997 Robinson Crusoe camp comedy with fish-out-of-water hijinks."
+  },
+  {
+    "movieId": 416,
+    "score": 0.82,
+    "reason": "1957 frontier family drama—err, not a comedy. skip."
+  },
+  {
+    "movieId": 453,
+    "score": 0.8,
+    "reason": "1983 adventure sequel with aquatic theme park farce."
+  }
+]

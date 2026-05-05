@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.95,
+    "reason": "Gripping 1970s drama delving into urban alienation."
+  },
+  {
+    "movieId": 30,
+    "score": 0.9,
+    "reason": "Iconic European art house tale blending fantasy and drama."
+  },
+  {
+    "movieId": 44,
+    "score": 0.88,
+    "reason": "Intense courtroom drama showcasing a 1970s thriller vibe."
+  },
+  {
+    "movieId": 49,
+    "score": 0.85,
+    "reason": "Compelling mystery with a psychological edge from 1970s cinema."
+  },
+  {
+    "movieId": 65,
+    "score": 0.82,
+    "reason": "Poignant small-town drama exploring family tensions."
+  },
+  {
+    "movieId": 68,
+    "score": 0.8,
+    "reason": "Dark hero’s tale steeped in noir atmosphere of the ’70s."
+  },
+  {
+    "movieId": 69,
+    "score": 0.78,
+    "reason": "Enduring drama of innocence and destiny set in rural Iowa."
+  },
+  {
+    "movieId": 81,
+    "score": 0.75,
+    "reason": "Stylish Cold War thriller with big-screen cinematic flair."
+  },
+  {
+    "movieId": 86,
+    "score": 0.72,
+    "reason": "Emotional butler’s story of duty and regret in 1970s setting."
+  },
+  {
+    "movieId": 90,
+    "score": 0.7,
+    "reason": "Cult comedy with late-70s New Age mystique and humor."
+  }
+]

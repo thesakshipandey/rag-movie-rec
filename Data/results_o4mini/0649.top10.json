@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 47,
+    "score": 0.93,
+    "reason": "Stylishly odd biopic of cult film director focusing on a pivotal chapter"
+  },
+  {
+    "movieId": 32,
+    "score": 0.9,
+    "reason": "Inventive documentary spotlighting underground cartoonist’s singular moment"
+  },
+  {
+    "movieId": 508,
+    "score": 0.88,
+    "reason": "Biopic on controversial publisher skewers scandal’s courtroom climax"
+  },
+  {
+    "movieId": 191,
+    "score": 0.85,
+    "reason": "Mozart’s genius and torment through a flamboyant, non-linear lens"
+  },
+  {
+    "movieId": 205,
+    "score": 0.82,
+    "reason": "Focuses on single WWII campaign with formal flair and intense focus"
+  },
+  {
+    "movieId": 235,
+    "score": 0.8,
+    "reason": "Massive-scale true-event thriller with inventive narrative concentrate"
+  },
+  {
+    "movieId": 453,
+    "score": 0.78,
+    "reason": "Cult celebrity thread captures one transformative period rather than whole life"
+  },
+  {
+    "movieId": 717,
+    "score": 0.75,
+    "reason": "Young lawyer’s ethical crisis in one trial-driven biographical drama"
+  },
+  {
+    "movieId": 42,
+    "score": 0.72,
+    "reason": "Comic yet poignant, centers on one defining media moment of a woman"
+  },
+  {
+    "movieId": 64,
+    "score": 0.7,
+    "reason": "Prison warden’s bond with one inmate becomes emotionally searing vignette"
+  }
+]

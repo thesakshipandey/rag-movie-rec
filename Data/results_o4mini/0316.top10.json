@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 275,
+    "score": 0.98,
+    "reason": "Sense and Sensibility’s sumptuous Regency settings and restrained emotions showcase classic period drama"
+  },
+  {
+    "movieId": 86,
+    "score": 0.96,
+    "reason": "The Remains of the Day’s elegant portrayal of duty and suppressed feelings in a grand country estate"
+  },
+  {
+    "movieId": 387,
+    "score": 0.94,
+    "reason": "The Age of Innocence’s lush Gilded Age world and delicate unspoken passion capture repressed period emotion"
+  },
+  {
+    "movieId": 190,
+    "score": 0.92,
+    "reason": "Henry V’s stirring historical spectacle and introspective monarch reveal a regal emotional undercurrent"
+  },
+  {
+    "movieId": 191,
+    "score": 0.9,
+    "reason": "Amadeus’ vivid 18th-century backdrop and brooding genius story blend lavish style with deep human drama"
+  },
+  {
+    "movieId": 51,
+    "score": 0.88,
+    "reason": "Legends of the Fall’s sweeping frontier saga and buried passions feel richly period"
+  },
+  {
+    "movieId": 909,
+    "score": 0.86,
+    "reason": "Dangerous Beauty’s Renaissance Venice romance unfolds through sumptuous costumes and hidden emotional currents"
+  },
+  {
+    "movieId": 557,
+    "score": 0.84,
+    "reason": "Farinelli’s baroque operatic Europe and complex characters exude grand historical drama"
+  },
+  {
+    "movieId": 52,
+    "score": 0.82,
+    "reason": "The Madness of King George’s ornate 18th-century court scenes and solemn royal struggles reveal repressed anguish"
+  },
+  {
+    "movieId": 286,
+    "score": 0.8,
+    "reason": "The English Patient’s WWII-era settings and tragic love story sweep through time with graceful historical depth"
+  }
+]

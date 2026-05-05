@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.98,
+    "reason": "A weary gunslinger’s measured retaliation builds to one of cinema’s most cathartic climaxes"
+  },
+  {
+    "movieId": 68,
+    "score": 0.96,
+    "reason": "A murder-revenge fable that blends supernatural vengeance with poignant, methodical resolve"
+  },
+  {
+    "movieId": 743,
+    "score": 0.95,
+    "reason": "Sequel’s relentless hunt mirrors the original’s cold, calculated quest for righteous retribution"
+  },
+  {
+    "movieId": 218,
+    "score": 0.94,
+    "reason": "A father driven by a simmering rage unleashes methodical fury to avenge his family’s torment"
+  },
+  {
+    "movieId": 23,
+    "score": 0.93,
+    "reason": "Travis Bickle’s slow-burn anger explodes in brilliant vengeance on New York’s dark streets"
+  },
+  {
+    "movieId": 22,
+    "score": 0.91,
+    "reason": "William Wallace’s quiet fury ignites an uprising, delivering monumental, righteous vengeance"
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "A detective undone by a serial killer’s taunts unleashes a meticulously plotted, savage response"
+  },
+  {
+    "movieId": 53,
+    "score": 0.89,
+    "reason": "Chaotic spree framed by deep-seated vengeance and a relentless, unsettling pursuit of retribution"
+  },
+  {
+    "movieId": 350,
+    "score": 0.88,
+    "reason": "A detective’s quiet resolve becomes a crushing force of methodical vengeance against corruption"
+  },
+  {
+    "movieId": 673,
+    "score": 0.87,
+    "reason": "Robert Mitchum’s sinister obsession leads to a final reckoning of savage, slow-burn revenge"
+  }
+]

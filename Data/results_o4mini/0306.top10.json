@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "A claustrophobic psychological horror that lingers with eerie isolation and dread."
+  },
+  {
+    "movieId": 98,
+    "score": 0.95,
+    "reason": "A gripping crime thriller with relentless tension and haunting cat-and-mouse suspense."
+  },
+  {
+    "movieId": 185,
+    "score": 0.9,
+    "reason": "An early masterpiece of psychological terror and one of cinema’s most famous shocks."
+  },
+  {
+    "movieId": 183,
+    "score": 0.85,
+    "reason": "A taut sci-fi horror with atmospheric dread and moments of silent, creeping terror."
+  },
+  {
+    "movieId": 674,
+    "score": 0.8,
+    "reason": "A sultry, psychological vampire drama that focuses on mood and subtle frissons."
+  },
+  {
+    "movieId": 448,
+    "score": 0.75,
+    "reason": "A solemn supernatural thriller driven by ominous presence and brooding atmosphere."
+  },
+  {
+    "movieId": 443,
+    "score": 0.7,
+    "reason": "A masterclass in escalating tension as nature itself turns hostile without gore."
+  },
+  {
+    "movieId": 573,
+    "score": 0.65,
+    "reason": "A modern reimagining that builds chilling paranoia through quiet invasion."
+  },
+  {
+    "movieId": 565,
+    "score": 0.6,
+    "reason": "An unsettling tale of uncanny children and atmospheric dread without cheap scares."
+  },
+  {
+    "movieId": 675,
+    "score": 0.55,
+    "reason": "A seminal silent horror of primal fear and haunting, expressionist imagery."
+  }
+]

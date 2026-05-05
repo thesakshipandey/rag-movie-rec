@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 675,
+    "score": 1.0,
+    "reason": "Seminal 1922 silent vampire film by F. W. Murnau."
+  },
+  {
+    "movieId": 493,
+    "score": 0.95,
+    "reason": "Nolan’s razor-sharp blend of comedy and mystery."
+  },
+  {
+    "movieId": 1203,
+    "score": 0.93,
+    "reason": "Astaire & Rogers’ top-hat-and-tux elegance of 1935."
+  },
+  {
+    "movieId": 610,
+    "score": 0.9,
+    "reason": "Cukor’s vibrant Belle Époque musical from 1958."
+  },
+  {
+    "movieId": 134,
+    "score": 0.88,
+    "reason": "Welles’ groundbreaking exploration of a man’s legacy."
+  },
+  {
+    "movieId": 483,
+    "score": 0.86,
+    "reason": "Fabled 1942 romance set in wartime Casablanca."
+  },
+  {
+    "movieId": 484,
+    "score": 0.84,
+    "reason": "Hawks’ slick 1941 detective classic in San Francisco."
+  },
+  {
+    "movieId": 99,
+    "score": 0.82,
+    "reason": "Disney’s pioneering feature-length animated fairy tale."
+  },
+  {
+    "movieId": 132,
+    "score": 0.8,
+    "reason": "Classic Judy Garland musical fantasy of 1939."
+  },
+  {
+    "movieId": 136,
+    "score": 0.78,
+    "reason": "Capra’s idealistic nation-upending story from 1939."
+  }
+]

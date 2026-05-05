@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 0.99,
+    "reason": "Iconic NYC cop battles terrorists in a towering skyscraper over Christmas period."
+  },
+  {
+    "movieId": 186,
+    "score": 0.99,
+    "reason": "Ex-con brothers reunite their band for a hilarious mission to save an orphanage."
+  },
+  {
+    "movieId": 173,
+    "score": 0.98,
+    "reason": "Romantic quest full of sword fights, wit, and true love in a fairy-tale adventure."
+  },
+  {
+    "movieId": 174,
+    "score": 0.97,
+    "reason": "Archaeologist races Nazis to find an ancient Ark in 1936 Peru, defining adventure cinema."
+  },
+  {
+    "movieId": 209,
+    "score": 0.96,
+    "reason": "Mockumentary following a fading rock band on tour, famous for its absurd humor and quotable lines."
+  },
+  {
+    "movieId": 210,
+    "score": 0.96,
+    "reason": "Adventurer teams with his father on a quest for the Holy Grail, blending humor and nonstop action."
+  },
+  {
+    "movieId": 216,
+    "score": 0.95,
+    "reason": "Friends debate if men and women can just be friends over years of witty banter in New York City."
+  },
+  {
+    "movieId": 228,
+    "score": 0.94,
+    "reason": "Starship crew faces a vengeful Admiral Khan in a tense, action-packed space duel."
+  },
+  {
+    "movieId": 230,
+    "score": 0.93,
+    "reason": "Enterprise crew time-travels to 1986 Earth to save whales and the future, mixing sci-fi and humor."
+  },
+  {
+    "movieId": 232,
+    "score": 0.92,
+    "reason": "Billy the Kid teams with fellow Regulators to take on corrupt officials in this energetic western."
+  }
+]

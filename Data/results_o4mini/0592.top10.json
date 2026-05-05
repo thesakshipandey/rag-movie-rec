@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "Atmospheric horror with creeping dread in a remote hotel, slow-burn tension and unnerving ambiance."
+  },
+  {
+    "movieId": 1126,
+    "score": 0.92,
+    "reason": "Classic psychological chills, haunting Victorian mansion, simmering fear without overt scare tactics."
+  },
+  {
+    "movieId": 675,
+    "score": 0.88,
+    "reason": "Silent-era vampire legend, eerie visuals and slow-building dread in stark monochrome."
+  },
+  {
+    "movieId": 565,
+    "score": 0.87,
+    "reason": "Children with unsettling eyes in a quiet town, constant sense of unnatural calm and looming threat."
+  },
+  {
+    "movieId": 185,
+    "score": 0.85,
+    "reason": "Iconic suburban suspense, meticulous pacing and growing paranoia in a single location."
+  },
+  {
+    "movieId": 234,
+    "score": 0.82,
+    "reason": "Masterful suspense at sea, unseen terror lurking beneath the water, gradual mounting fear."
+  },
+  {
+    "movieId": 89,
+    "score": 0.78,
+    "reason": "Neo-noir sci-fi, rain-soaked cityscapes and existential unease build a tense, brooding atmosphere."
+  },
+  {
+    "movieId": 135,
+    "score": 0.75,
+    "reason": "Epic cosmic mystery, void of action yet claustrophobic tension and otherworldly vibe."
+  },
+  {
+    "movieId": 178,
+    "score": 0.7,
+    "reason": "Tense jury-room drama, ticking clock and moral conflict keep each verdict hanging by a thread."
+  },
+  {
+    "movieId": 1526,
+    "score": 0.68,
+    "reason": "Quiet suspense as a city cop hides among a rural community, watching every move with simmering tension."
+  }
+]

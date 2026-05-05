@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 716,
+    "score": 0.98,
+    "reason": "Thanksgiving weekend with all its family resentments and hidden secrets"
+  },
+  {
+    "movieId": 305,
+    "score": 0.96,
+    "reason": "Affluent families crack under pressure over one turbulent holiday weekend"
+  },
+  {
+    "movieId": 609,
+    "score": 0.94,
+    "reason": "Bride’s father navigates his feelings at a chaotic wedding reunion"
+  },
+  {
+    "movieId": 756,
+    "score": 0.92,
+    "reason": "Father faces both his growing brood and his own midlife doubts"
+  },
+  {
+    "movieId": 371,
+    "score": 0.9,
+    "reason": "A brief reunion sparks buried passions and long-held regrets"
+  },
+  {
+    "movieId": 287,
+    "score": 0.88,
+    "reason": "Sisters and old friends confront past hurts while nursing their ailing father"
+  },
+  {
+    "movieId": 275,
+    "score": 0.86,
+    "reason": "Two sisters clash over love, duty and inheritance in Regency England"
+  },
+  {
+    "movieId": 699,
+    "score": 0.84,
+    "reason": "March sisters cope with longing and tensions during key family moments"
+  },
+  {
+    "movieId": 417,
+    "score": 0.82,
+    "reason": "Separated twins hatch a plan to reunite their estranged parents over one summer"
+  },
+  {
+    "movieId": 1147,
+    "score": 0.8,
+    "reason": "Four friends gather for a birthday party that unearths decades of secrets"
+  }
+]

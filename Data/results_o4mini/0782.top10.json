@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 419,
+    "score": 0.95,
+    "reason": "Quintessential magical nanny brings joy and whimsy.",
+    "title": "Mary Poppins",
+    "year": "1964",
+    "plot": ""
+  },
+  {
+    "movieId": 496,
+    "score": 0.93,
+    "reason": "Community coming together in heartwarming Christmas tale.",
+    "title": "It’s a Wonderful Life",
+    "year": "1946",
+    "plot": ""
+  },
+  {
+    "movieId": 609,
+    "score": 0.9,
+    "reason": "Playful portrait of family life and simple joy.",
+    "title": "Father of the Bride",
+    "year": "1950",
+    "plot": ""
+  },
+  {
+    "movieId": 140,
+    "score": 0.88,
+    "reason": "Adorable dog adventure full of hope and friendship.",
+    "title": "Homeward Bound: The Incredible Journey",
+    "year": "1993",
+    "plot": ""
+  },
+  {
+    "movieId": 8,
+    "score": 0.85,
+    "reason": "Gentle animal fable about friendship and believing.",
+    "title": "Babe",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 66,
+    "score": 0.83,
+    "reason": "Warm romantic comedy brimming with quiet charm.",
+    "title": "While You Were Sleeping",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 405,
+    "score": 0.8,
+    "reason": "Classic spy romp that entertains with lighthearted flair.",
+    "title": "Mission: Impossible",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 386,
+    "score": 0.78,
+    "reason": "Quirky family humor with nostalgic 90s twist.",
+    "title": "Addams Family Values",
+    "year": "1993",
+    "plot": ""
+  },
+  {
+    "movieId": 70,
+    "score": 0.75,
+    "reason": "Lighthearted ensemble comedy about love and friendship.",
+    "title": "Four Weddings and a Funeral",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 737,
+    "score": 0.72,
+    "reason": "Playful satire with affectionate community portrait.",
+    "title": "Sirens",
+    "year": "1994",
+    "plot": ""
+  }
+]

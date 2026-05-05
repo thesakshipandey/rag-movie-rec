@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "Cop-on-copalooza in a skyscraper with practical stunts and suspense."
+  },
+  {
+    "movieId": 273,
+    "score": 0.92,
+    "reason": "Intense, character-driven heist with realistic action and explosive shootouts."
+  },
+  {
+    "movieId": 96,
+    "score": 0.9,
+    "reason": "Groundbreaking, high-stakes chase scenes and practical effects in a relentless thriller."
+  },
+  {
+    "movieId": 176,
+    "score": 0.88,
+    "reason": "Gritty sci-fi action with practical effects and suspenseful firefights."
+  },
+  {
+    "movieId": 568,
+    "score": 0.86,
+    "reason": "High-octane thriller on a runaway bus with real stunts and non-stop tension."
+  },
+  {
+    "movieId": 233,
+    "score": 0.84,
+    "reason": "Action-packed naval thriller with relentless hand-to-hand combat aboard a battleship."
+  },
+  {
+    "movieId": 385,
+    "score": 0.82,
+    "reason": "Action-packed comedy with Schwarzenegger’s tough charm and big explosions."
+  },
+  {
+    "movieId": 298,
+    "score": 0.8,
+    "reason": "Bold, inventive action sequences driven by charismatic leads."
+  },
+  {
+    "movieId": 117,
+    "score": 0.78,
+    "reason": "High-stakes military rescue on Alcatraz with explosive practical effects."
+  },
+  {
+    "movieId": 405,
+    "score": 0.76,
+    "reason": "Pulsing espionage action with real stunts and nail-biting suspense."
+  }
+]

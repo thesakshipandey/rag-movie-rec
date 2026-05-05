@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "The Usual Suspects revolves around morally ambiguous characters and a twisting narrative."
+  },
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Pulp Fiction interweaves crime and dark humor with deeply flawed antiheroes."
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "Seven pits two detectives against a chilling killer in a gritty, morally gray world."
+  },
+  {
+    "movieId": 182,
+    "score": 0.85,
+    "reason": "GoodFellas chronicles real-life mobsters with raw honesty and complex moral shades."
+  },
+  {
+    "movieId": 53,
+    "score": 0.8,
+    "reason": "Natural Born Killers follows a murderous couple whose crimes blur right and wrong."
+  },
+  {
+    "movieId": 23,
+    "score": 0.75,
+    "reason": "Taxi Driver portrays a lonely vigilante whose moral compass is unmistakably skewed."
+  },
+  {
+    "movieId": 156,
+    "score": 0.7,
+    "reason": "Reservoir Dogs depicts a heist gone wrong where no one’s exactly the good guy."
+  },
+  {
+    "movieId": 654,
+    "score": 0.65,
+    "reason": "Chinatown delves into a dark crime world where trust and virtue collapse."
+  },
+  {
+    "movieId": 273,
+    "score": 0.6,
+    "reason": "Heat chronicles the cat-and-mouse game between a master thief and a relentless detective."
+  },
+  {
+    "movieId": 293,
+    "score": 0.55,
+    "reason": "Donnie Brasco explores an undercover operation where loyalties and ethics collide."
+  }
+]

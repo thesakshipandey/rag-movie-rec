@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 133,
+    "score": 0.98,
+    "reason": "Sprawling Civil War epic with enduring romance and sweeping scope.",
+    "title": "Gone with the Wind",
+    "year": "1939",
+    "plot": ""
+  },
+  {
+    "movieId": 511,
+    "score": 0.96,
+    "reason": "Immersive desert odyssey spanning years, rich in history and character.",
+    "title": "Lawrence of Arabia",
+    "year": "1962",
+    "plot": ""
+  },
+  {
+    "movieId": 649,
+    "score": 0.94,
+    "reason": "Time-spanning crime saga that's intimate yet epic in scale.",
+    "title": "Once Upon a Time in America",
+    "year": "1984",
+    "plot": ""
+  },
+  {
+    "movieId": 313,
+    "score": 0.92,
+    "reason": "Titanic disaster epic that transports you through time and tragedy.",
+    "title": "Titanic",
+    "year": "1997",
+    "plot": ""
+  },
+  {
+    "movieId": 318,
+    "score": 0.9,
+    "reason": "Heartfelt Holocaust drama that's profound, sprawling, and deeply human.",
+    "title": "Schindler's List",
+    "year": "1993",
+    "plot": ""
+  },
+  {
+    "movieId": 97,
+    "score": 0.88,
+    "reason": "Immersive frontier tale with vast landscapes and personal transformation.",
+    "title": "Dances with Wolves",
+    "year": "1990",
+    "plot": ""
+  },
+  {
+    "movieId": 187,
+    "score": 0.85,
+    "reason": "Rich dual narrative across generations, combining history and intrigue.",
+    "title": "The Godfather: Part II",
+    "year": "1974",
+    "plot": ""
+  },
+  {
+    "movieId": 204,
+    "score": 0.83,
+    "reason": "Time-travel adventure with expansive vision of past and future.",
+    "title": "Back to the Future",
+    "year": "1985",
+    "plot": ""
+  },
+  {
+    "movieId": 82,
+    "score": 0.8,
+    "reason": "Dinosaur-populated island thriller that's grand and transportive.",
+    "title": "Jurassic Park",
+    "year": "1993",
+    "plot": ""
+  },
+  {
+    "movieId": 50,
+    "score": 0.78,
+    "reason": "Galactic saga spanning worlds, full of epic battles and legend.",
+    "title": "Star Wars",
+    "year": "1977",
+    "plot": ""
+  }
+]

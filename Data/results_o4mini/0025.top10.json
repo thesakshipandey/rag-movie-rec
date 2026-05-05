@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 1.0,
+    "reason": "Brazil skewers faceless bureaucracy and cubicle hell with Kafkaesque absurdity and soul-crushing office routine"
+  },
+  {
+    "movieId": 81,
+    "score": 0.95,
+    "reason": "The Hudsucker Proxy lampoons corporate boardroom fads, hollow jargon, and mindless cubicle life with deadpan absurdity"
+  },
+  {
+    "movieId": 160,
+    "score": 0.93,
+    "reason": "Glengarry Glen Ross exposes the brutal, jargon-filled world of sales offices where petty power plays crush the soul"
+  },
+  {
+    "movieId": 1044,
+    "score": 0.9,
+    "reason": "The Paper satirizes newsroom politics, endless memos and acrid office backstabbing under fluorescent lights"
+  },
+  {
+    "movieId": 42,
+    "score": 0.88,
+    "reason": "Clerks captures the drab desperation of retail cubicles, pointless procedures and the grind of dead-end work"
+  },
+  {
+    "movieId": 481,
+    "score": 0.85,
+    "reason": "The Apartment skewers 1960s corporate ladder-climbing, soul-draining transfers and exploitative office politics"
+  },
+  {
+    "movieId": 43,
+    "score": 0.82,
+    "reason": "Disclosure sends you into suffocating cubicle drama of corporate mergers, empty tech jargon and toxic power struggles"
+  },
+  {
+    "movieId": 38,
+    "score": 0.8,
+    "reason": "The Net portrays a lone analyst trapped in inscrutable office systems and the madness of a digital corporate maze"
+  },
+  {
+    "movieId": 55,
+    "score": 0.78,
+    "reason": "The Professional explores publishing house politics, endless red tape and the absurd routines of editorial cubicles"
+  },
+  {
+    "movieId": 414,
+    "score": 0.75,
+    "reason": "My Man Godfrey is a Depression-era screwball take on elite corporate worlds, idle executives and cruel workplace absurdity"
+  }
+]

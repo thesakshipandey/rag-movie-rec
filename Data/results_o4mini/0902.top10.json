@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 1.0,
+    "reason": "Twelve Monkeys explores time’s paradoxes with precise, haunting rules and consequences."
+  },
+  {
+    "movieId": 89,
+    "score": 0.95,
+    "reason": "Blade Runner’s time-slipped replicant hunt delves into memory, identity, and causal loops."
+  },
+  {
+    "movieId": 404,
+    "score": 0.9,
+    "reason": "Timecop marries futuristic crimecaps with tight, watchful time-travel mechanics."
+  },
+  {
+    "movieId": 204,
+    "score": 0.85,
+    "reason": "Back to the Future’s consistent rules keep its paradox-driven comedy grounded and clever."
+  },
+  {
+    "movieId": 228,
+    "score": 0.8,
+    "reason": "Star Trek II: The Wrath of Khan dramatizes Khan’s revenge within strict time-travel parameters."
+  },
+  {
+    "movieId": 7,
+    "score": 0.75,
+    "reason": "Twelve Monkeys’s broken timelines and echoing moments honor rigorous time-travel logic."
+  },
+  {
+    "movieId": 504,
+    "score": 0.7,
+    "reason": "Dial M for Murder’s flashbacks reinforce its perfect-crime plot with precise cause-and-effect."
+  },
+  {
+    "movieId": 84,
+    "score": 0.65,
+    "reason": "Puppet Masters choreographs alien mind-control within tight pseudo-scientific rules."
+  },
+  {
+    "movieId": 65,
+    "score": 0.6,
+    "reason": "Gilbert Grape’s small-town slip into mind loops is quietly anchored in realistic detail."
+  },
+  {
+    "movieId": 232,
+    "score": 0.55,
+    "reason": "Young Guns’s briefback scenes build a coherent mythic underlayer fitting its temporal spins."
+  }
+]

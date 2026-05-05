@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 0.98,
+    "reason": "A nostalgic ode to cinema’s power, whispered in Sicilian dusk."
+  },
+  {
+    "movieId": 60,
+    "score": 0.96,
+    "reason": "Blue-toned melancholy and quiet grace on the shores of Lake Geneva."
+  },
+  {
+    "movieId": 59,
+    "score": 0.94,
+    "reason": "A whisper-soft romance woven through Parisian chance encounters."
+  },
+  {
+    "movieId": 61,
+    "score": 0.92,
+    "reason": "Darkly witty sequel of love, loss and absurd resilience in Europe."
+  },
+  {
+    "movieId": 45,
+    "score": 0.9,
+    "reason": "Silent longing and sumptuous family dinners, a bittersweet feast."
+  },
+  {
+    "movieId": 955,
+    "score": 0.88,
+    "reason": "An evocative, chance meeting that lingers in every quiet exchange."
+  },
+  {
+    "movieId": 463,
+    "score": 0.86,
+    "reason": "Childhood wonder meets Irish coastal stillness in poetic reverie."
+  },
+  {
+    "movieId": 86,
+    "score": 0.84,
+    "reason": "Lush restraint and unspoken emotions in turn-of-century England."
+  },
+  {
+    "movieId": 307,
+    "score": 0.82,
+    "reason": "Sharply drawn courtroom drama tinted with personal regret."
+  },
+  {
+    "movieId": 517,
+    "score": 0.8,
+    "reason": "Black-and-white romance painted with wistful New York melodies."
+  }
+]

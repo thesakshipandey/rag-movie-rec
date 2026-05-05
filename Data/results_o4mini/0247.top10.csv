@@ -1,0 +1,11 @@
+movieId,score,reason
+50,0.95,Star Wars is an original standalone title without colons or numbers in its name
+56,0.94,Pulp Fiction is a self-contained film with no sequel numbering or subtitle
+82,0.93,Jurassic Park is the original film title without a series indicator
+89,0.92,"Blade Runner stands alone, no numbering or colon in the title"
+127,0.91,"Godfather, The is the original classic without any sequel numbering or colon"
+134,0.9,Citizen Kane is a standalone drama with no series numbering or punctuation
+383,0.89,"Flintstones, The retains only the original series name without colon or number"
+602,0.88,"American in Paris, An is a classic musical with no series indication"
+705,0.87,Singin' in the Rain is a singular title with no numbering or sequel subtitle
+516,0.86,Local Hero is a self-contained story with no numbering or colon

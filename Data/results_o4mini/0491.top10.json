@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.9,
+    "reason": "Unpredictable, high-octane killing spree frenzy"
+  },
+  {
+    "movieId": 568,
+    "score": 0.89,
+    "reason": "Adrenaline-fueled race against time on a speeding bus"
+  },
+  {
+    "movieId": 33,
+    "score": 0.88,
+    "reason": "Nonstop guitar-slinging gunfights ignite every scene"
+  },
+  {
+    "movieId": 273,
+    "score": 0.87,
+    "reason": "Relentless cat-and-mouse heist action keeps heart pounding"
+  },
+  {
+    "movieId": 24,
+    "score": 0.86,
+    "reason": "Jackie Chan’s parkour chase sequences blast energy"
+  },
+  {
+    "movieId": 17,
+    "score": 0.85,
+    "reason": "Barroom vampire chaos shifts tone in an instant"
+  },
+  {
+    "movieId": 39,
+    "score": 0.84,
+    "reason": "Mind-bending VR capers tear through violent nightlife"
+  },
+  {
+    "movieId": 27,
+    "score": 0.83,
+    "reason": "Miami cops unleash nonstop bullets and sharp banter"
+  },
+  {
+    "movieId": 197,
+    "score": 0.82,
+    "reason": "Tomboy taxi driver spirals into socially unhinged crisis"
+  },
+  {
+    "movieId": 401,
+    "score": 0.81,
+    "reason": "Suburban satire erupts in absurd domestic madness"
+  }
+]

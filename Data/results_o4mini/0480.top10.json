@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 138,
+    "score": 1.0,
+    "reason": "Underdog hockey squad finds unity to pull off the impossible"
+  },
+  {
+    "movieId": 239,
+    "score": 0.95,
+    "reason": "Motley crew of experts bands together to crack a high-tech heist"
+  },
+  {
+    "movieId": 655,
+    "score": 0.9,
+    "reason": "Childhood friends form an unbreakable bond on a life-changing quest"
+  },
+  {
+    "movieId": 820,
+    "score": 0.85,
+    "reason": "Mismatched team unites to defend the court in a cosmic crossover"
+  },
+  {
+    "movieId": 21,
+    "score": 0.8,
+    "reason": "Muppet misfits forge true friendship on a madcap pirate voyage"
+  },
+  {
+    "movieId": 1053,
+    "score": 0.75,
+    "reason": "Reunited childhood pals lean on each other through life’s twists"
+  },
+  {
+    "movieId": 1411,
+    "score": 0.7,
+    "reason": "Women from different backgrounds unite in shared stories of hope"
+  },
+  {
+    "movieId": 28,
+    "score": 0.65,
+    "reason": "Stranded astronauts must trust each other to survive a doomed mission"
+  },
+  {
+    "movieId": 62,
+    "score": 0.6,
+    "reason": "Diverse exploration team learns to rely on each other under siege"
+  },
+  {
+    "movieId": 22,
+    "score": 0.55,
+    "reason": "A ragtag rebel force transforms into a brotherhood against overwhelming odds"
+  }
+]

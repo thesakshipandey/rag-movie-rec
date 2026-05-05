@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.98,
+    "reason": "A wild, ultra-violent road trip with a couple on a lunatic killing spree"
+  },
+  {
+    "movieId": 56,
+    "score": 0.96,
+    "reason": "Interwoven crime stories crackling with dark humor and manic energy"
+  },
+  {
+    "movieId": 475,
+    "score": 0.94,
+    "reason": "A raw, fast-paced dive into self-destructive choices and chaotic youth"
+  },
+  {
+    "movieId": 184,
+    "score": 0.92,
+    "reason": "Over-the-top horror comedy full of unhinged gore and frantic absurdity"
+  },
+  {
+    "movieId": 17,
+    "score": 0.9,
+    "reason": "Frat boys vs vampires in a frantic, bloody rollercoaster of chaos"
+  },
+  {
+    "movieId": 34,
+    "score": 0.88,
+    "reason": "Surreal road-trip of teenage lovers on a sex-fuelled, anarchic rampage"
+  },
+  {
+    "movieId": 3,
+    "score": 0.86,
+    "reason": "Four twisted hotel tales of grotesque humor and escalating mayhem"
+  },
+  {
+    "movieId": 27,
+    "score": 0.84,
+    "reason": "Two Miami cops unleash explosive, motor-mouthed chaos in a gun-blazing adventure"
+  },
+  {
+    "movieId": 7,
+    "score": 0.82,
+    "reason": "Time-traveling descent into madness and a collapsing reality under a virus siege"
+  },
+  {
+    "movieId": 11,
+    "score": 0.8,
+    "reason": "A grim hunt through sin-ridden streets with relentless, nightmare intensity"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1168,
+    "score": 0.98,
+    "reason": "Isolated boy’s friendship triumph in My Own Private Idaho"
+  },
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "Farm kid’s gentle journey to heroism in Toy Story"
+  },
+  {
+    "movieId": 1462,
+    "score": 0.92,
+    "reason": "Boy’s chance at hope in Two Days in the Valley"
+  },
+  {
+    "movieId": 1187,
+    "score": 0.9,
+    "reason": "Eccentric wives’ weekend of discovery in Switchback"
+  },
+  {
+    "movieId": 1625,
+    "score": 0.88,
+    "reason": "Night-shift introspection and bond in Alone in the Dark"
+  },
+  {
+    "movieId": 171,
+    "score": 0.85,
+    "reason": "Office humor and heartfelt turns in Dead Poets Society"
+  },
+  {
+    "movieId": 255,
+    "score": 0.82,
+    "reason": "Finding one’s voice through man’s best friend in The Nutty Professor"
+  },
+  {
+    "movieId": 421,
+    "score": 0.8,
+    "reason": "Dreamer’s underdog perseverance in William Shakespeare’s Romeo and Juliet"
+  },
+  {
+    "movieId": 456,
+    "score": 0.78,
+    "reason": "Friendship sparks new confidence in Beverly Hills Ninja"
+  },
+  {
+    "movieId": 1222,
+    "score": 0.75,
+    "reason": "Second-act professional rebirth in In & Out"
+  }
+]

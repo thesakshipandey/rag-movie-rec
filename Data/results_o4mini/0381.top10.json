@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 1.0,
+    "reason": "Dr. Strangelove’s wry satire cracks dark humor like a nuclear blast of clever absurdity."
+  },
+  {
+    "movieId": 154,
+    "score": 0.95,
+    "reason": "Life of Brian blurs brilliant satire and absurdity in a mythic send-up of organized religion."
+  },
+  {
+    "movieId": 168,
+    "score": 0.9,
+    "reason": "Holy Grail’s Monty Python absurdity and rapid-fire wit will have you quoting for days."
+  },
+  {
+    "movieId": 208,
+    "score": 0.85,
+    "reason": "Young Frankenstein revives classic horror with uproarious gags and brilliantly deadpan humor."
+  },
+  {
+    "movieId": 209,
+    "score": 0.8,
+    "reason": "This Is Spinal Tap’s mockumentary genius delivers comedy that grows funnier the more you think about it."
+  },
+  {
+    "movieId": 902,
+    "score": 0.75,
+    "reason": "The Big Lebowski’s offbeat characters and idiosyncratic dialogue redefine cool, clueless comedy."
+  },
+  {
+    "movieId": 100,
+    "score": 0.7,
+    "reason": "Fargo pairs bone-dry Midwestern humor with a quietly absurd crime plot you’ll ponder later."
+  },
+  {
+    "movieId": 85,
+    "score": 0.65,
+    "reason": "The Ref’s razor-sharp family warfare is a darkly hilarious holiday getaway gone wrong."
+  },
+  {
+    "movieId": 342,
+    "score": 0.6,
+    "reason": "The Man Who Knew Too Little twists spy clichés into delightfully clueless, laugh-out-loud gags."
+  },
+  {
+    "movieId": 481,
+    "score": 0.55,
+    "reason": "The Apartment’s bittersweet wit and clever setups make office life complicit in its comic heartbreak."
+  }
+]

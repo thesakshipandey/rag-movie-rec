@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "Dante’s anxiety and self-sabotage fuel cringe-worthy convenience store calamities"
+  },
+  {
+    "movieId": 1007,
+    "score": 0.9,
+    "reason": "Pompous community theatre director’s pride leads to deep, delightful social embarrassment"
+  },
+  {
+    "movieId": 3,
+    "score": 0.85,
+    "reason": "Ted’s hapless hotel misadventures deliver sharp, awkward humor"
+  },
+  {
+    "movieId": 85,
+    "score": 0.8,
+    "reason": "A thief’s hostage-negotiation turns painfully cringey as family fights erupt"
+  },
+  {
+    "movieId": 13,
+    "score": 0.75,
+    "reason": "Woody Allen’s screenwriter makes terrible choices in pursuit of romantic fantasy"
+  },
+  {
+    "movieId": 1038,
+    "score": 0.7,
+    "reason": "A city boy’s dating missteps in Manhattan pave a path of escalating embarrassment"
+  },
+  {
+    "movieId": 16,
+    "score": 0.65,
+    "reason": "A marriage crisis comedy layered with awkward secrets and ill-timed revelations"
+  },
+  {
+    "movieId": 1071,
+    "score": 0.6,
+    "reason": "An ambitious DJ’s love life spirals into socially awkward radio misadventures"
+  },
+  {
+    "movieId": 367,
+    "score": 0.55,
+    "reason": "Cher’s well-meaning meddling leads to constant social misfires and comic discomfort"
+  },
+  {
+    "movieId": 150,
+    "score": 0.5,
+    "reason": "Two wannabe Hollywood swingers face anxiety-charged nights of self-inflicted awkwardness"
+  }
+]

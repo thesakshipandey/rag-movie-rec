@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.95,
+    "reason": "A gentle, introspective tale of grief and rebirth under 100 minutes"
+  },
+  {
+    "movieId": 1262,
+    "score": 0.9,
+    "reason": "Warm, bittersweet Indie on friendship and fleeting connections"
+  },
+  {
+    "movieId": 808,
+    "score": 0.85,
+    "reason": "Quiet suburban drama of two friends discovering new paths"
+  },
+  {
+    "movieId": 718,
+    "score": 0.8,
+    "reason": "Tender family study with honest, low-key emotion"
+  },
+  {
+    "movieId": 955,
+    "score": 0.75,
+    "reason": "Intimate one-night romance with a softly hopeful ending"
+  },
+  {
+    "movieId": 372,
+    "score": 0.7,
+    "reason": "Poised character-driven drama about anxiety and new beginnings"
+  },
+  {
+    "movieId": 3,
+    "score": 0.65,
+    "reason": "Unobtrusive anthology skit that captures small moments of connection"
+  },
+  {
+    "movieId": 959,
+    "score": 0.6,
+    "reason": "Subtle coming-of-age with quiet humor and genuine warmth"
+  },
+  {
+    "movieId": 1269,
+    "score": 0.55,
+    "reason": "Poetic Cuban drama of unexpected bond and soft melancholy"
+  },
+  {
+    "movieId": 808,
+    "score": 0.5,
+    "reason": "(Duplicate placeholder for Walking and Talking)"
+  }
+]

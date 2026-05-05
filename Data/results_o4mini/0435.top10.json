@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 896,
+    "score": 0.95,
+    "reason": "A quiet ache of community grief that eventually finds fragile hope."
+  },
+  {
+    "movieId": 15,
+    "score": 0.92,
+    "reason": "Story of a teacher piecing life together with music’s gentle promise."
+  },
+  {
+    "movieId": 272,
+    "score": 0.89,
+    "reason": "Witty, wise healing journey from broken to quietly hopeful."
+  },
+  {
+    "movieId": 304,
+    "score": 0.86,
+    "reason": "Heartwarming flight of discovery that uplifts through every skyward mile."
+  },
+  {
+    "movieId": 270,
+    "score": 0.83,
+    "reason": "Futuristic dream of self-belief and small victories against the odds."
+  },
+  {
+    "movieId": 65,
+    "score": 0.8,
+    "reason": "Tender family portrait where love and new beginnings quietly bloom."
+  },
+  {
+    "movieId": 28,
+    "score": 0.77,
+    "reason": "True crisis averted with calm determination and human ingenuity."
+  },
+  {
+    "movieId": 51,
+    "score": 0.74,
+    "reason": "Epic bonds fractured and reforged beneath dawn-lit prairies."
+  },
+  {
+    "movieId": 286,
+    "score": 0.71,
+    "reason": "Sweeping desert romance that redeems scars with morning light."
+  },
+  {
+    "movieId": 86,
+    "score": 0.68,
+    "reason": "Somber reflection on loss that ends with a gentle stir of hope."
+  }
+]

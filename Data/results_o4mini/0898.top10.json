@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "The Usual Suspects’s genius plan unfolds piece by piece in a brilliant, audience-outsmarting heist caper."
+  },
+  {
+    "movieId": 273,
+    "score": 0.95,
+    "reason": "Heat’s meticulously crafted bank robbery and aftermath focus on brains over brute force."
+  },
+  {
+    "movieId": 1511,
+    "score": 0.9,
+    "reason": "The Spanish Prisoner spins a subtle confidence scheme built on quiet precision and shocking payoff."
+  },
+  {
+    "movieId": 152,
+    "score": 0.85,
+    "reason": "Sneakers combines tech smarts and sleight of hand in a playful, clever caper that keeps you guessing."
+  },
+  {
+    "movieId": 28,
+    "score": 0.8,
+    "reason": "Apollo 13’s stranded astronauts engineer an intricate escape plan under impossible conditions."
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Pulp Fiction’s Royale with Cheese heist thread showcases Tarantino’s layered plotting and surprises."
+  },
+  {
+    "movieId": 156,
+    "score": 0.7,
+    "reason": "Reservoir Dogs examines the fallout of a diamond heist gone wrong with razor-sharp body-language traps."
+  },
+  {
+    "movieId": 307,
+    "score": 0.65,
+    "reason": "Absolute Power unravels a corrupt conspiracy with careful staging and a twist-laden finale."
+  },
+  {
+    "movieId": 99,
+    "score": 0.6,
+    "reason": "Fight Club’s underground fight ring doubles as a heist-like manifesto with devious, structural planning."
+  },
+  {
+    "movieId": 904,
+    "score": 0.55,
+    "reason": "Ma vie en rose inverts a gender heist in family drama, meticulously stealing hearts rather than valuables."
+  }
+]

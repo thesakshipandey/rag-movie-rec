@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 654,
+    "score": 0.99,
+    "reason": "Iconic 1974 LA-set neo-noir, cynical plot, protagonist in over his head"
+  },
+  {
+    "movieId": 23,
+    "score": 0.98,
+    "reason": "1976 crime classic with a disillusioned protagonist and dark, downbeat ending"
+  },
+  {
+    "movieId": 127,
+    "score": 0.95,
+    "reason": "1972 gangster epic, convoluted family crime maze with bleak finale"
+  },
+  {
+    "movieId": 180,
+    "score": 0.8,
+    "reason": "1979 war drama with noir atmosphere and morally lost lead"
+  },
+  {
+    "movieId": 163,
+    "score": 0.6,
+    "reason": "1975 detective caper with cynical humor and crime underbelly"
+  },
+  {
+    "movieId": 27,
+    "score": 0.4,
+    "reason": "1995 crime thriller pairing mismatched detectives with cynical edge"
+  },
+  {
+    "movieId": 11,
+    "score": 0.35,
+    "reason": "1995 serial-killer drama, intricate plot and cynical tone"
+  },
+  {
+    "movieId": 45,
+    "score": 0.3,
+    "reason": "1994 Taipei-set drama with crime elements and moody resolution"
+  },
+  {
+    "movieId": 12,
+    "score": 0.25,
+    "reason": "1995 multi-strand crime thriller with twisty narrative"
+  },
+  {
+    "movieId": 56,
+    "score": 0.2,
+    "reason": "1994 nonlinear crime saga, cynical worldview"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "An isolated hotel’s spectral corridors and creeping madness lurk behind every flickering light"
+  },
+  {
+    "movieId": 183,
+    "score": 0.96,
+    "reason": "Claustrophobic sci-fi horror dripping with brooding atmosphere and existential unease"
+  },
+  {
+    "movieId": 691,
+    "score": 0.95,
+    "reason": "A post-apocalyptic cityscape smothered in dread, where every shadow conceals a deeper wrong"
+  },
+  {
+    "movieId": 324,
+    "score": 0.94,
+    "reason": "Dreamlike crime puzzle that blurs reality into a thick, oppressive ambiance"
+  },
+  {
+    "movieId": 98,
+    "score": 0.93,
+    "reason": "Psychological terror built on hushed interviews and the deliberate, unnerving calm of evil"
+  },
+  {
+    "movieId": 219,
+    "score": 0.91,
+    "reason": "Nightmarish slasher that weaves atmospheric tension rather than cheap shocks"
+  },
+  {
+    "movieId": 672,
+    "score": 0.9,
+    "reason": "Urban legend come to life in a dense, suffocating fog of anticipation and dread"
+  },
+  {
+    "movieId": 436,
+    "score": 0.89,
+    "reason": "Gothic werewolf tale that merges surrealism with a sinister stillness in the moors"
+  },
+  {
+    "movieId": 260,
+    "score": 0.88,
+    "reason": "Cosmic horror rooted in clinical reality and mounting psychological dread"
+  },
+  {
+    "movieId": 343,
+    "score": 0.87,
+    "reason": "Bio-engineered terror lurking in the shadows of a covert space station"
+  }
+]

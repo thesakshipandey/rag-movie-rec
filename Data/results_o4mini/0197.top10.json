@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 489,
+    "score": 0.99,
+    "reason": "1946 drama of wartime espionage directed by Alfred Hitchcock."
+  },
+  {
+    "movieId": 496,
+    "score": 0.97,
+    "reason": "1946 drama about rediscovering life’s value during a Christmas Eve."
+  },
+  {
+    "movieId": 513,
+    "score": 0.95,
+    "reason": "1949 film noir set in postwar Vienna with a mysterious protagonist."
+  },
+  {
+    "movieId": 525,
+    "score": 0.93,
+    "reason": "1946 noir detective drama starring Humphrey Bogart."
+  },
+  {
+    "movieId": 519,
+    "score": 0.91,
+    "reason": "1948 drama of greed and paranoia during a gold-prospecting adventure."
+  },
+  {
+    "movieId": 498,
+    "score": 0.89,
+    "reason": "1951 wartime romance-drama aboard a mismatched boat crew."
+  },
+  {
+    "movieId": 507,
+    "score": 0.87,
+    "reason": "1951 drama about desire and mental instability in New Orleans."
+  },
+  {
+    "movieId": 506,
+    "score": 0.85,
+    "reason": "1955 teen drama exploring postwar youth alienation."
+  },
+  {
+    "movieId": 492,
+    "score": 0.83,
+    "reason": "1955 adaptation of Steinbeck’s family rivalry drama."
+  },
+  {
+    "movieId": 490,
+    "score": 0.81,
+    "reason": "1955 romantic thriller of cat-and-mouse on the French Riviera."
+  }
+]

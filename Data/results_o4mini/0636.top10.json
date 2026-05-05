@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 27,
+    "score": 0.99,
+    "reason": "Fast-talking mismatched narcs in Miami with explosive banter"
+  },
+  {
+    "movieId": 257,
+    "score": 0.98,
+    "reason": "Oddball duo vs. aliens in darkly comic action thriller"
+  },
+  {
+    "movieId": 397,
+    "score": 0.97,
+    "reason": "Hard-nosed cop pairing surviving city dangers together"
+  },
+  {
+    "movieId": 456,
+    "score": 0.96,
+    "reason": "Fish-out-of-water martial artist teams with urban cop humorously"
+  },
+  {
+    "movieId": 833,
+    "score": 0.95,
+    "reason": "Counterfeiter and hitman clash in comedic violence"
+  },
+  {
+    "movieId": 362,
+    "score": 0.94,
+    "reason": "Elderly sidekick with burning toupee in heist-comedy"
+  },
+  {
+    "movieId": 781,
+    "score": 0.93,
+    "reason": "Nightclub sleuth teams with photographer in playful caper"
+  },
+  {
+    "movieId": 728,
+    "score": 0.92,
+    "reason": "Professor and criminal mastermind in reluctant partnership"
+  },
+  {
+    "movieId": 490,
+    "score": 0.91,
+    "reason": "City scribe and spy join forces in 1950s Paris confusion"
+  },
+  {
+    "movieId": 1414,
+    "score": 0.9,
+    "reason": "Bumbling thieves and tough security guard in absurd fights"
+  }
+]

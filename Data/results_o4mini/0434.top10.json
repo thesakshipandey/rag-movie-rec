@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 5,
+    "score": 0.95,
+    "reason": "Taut chase of the mind that keeps you guessing, no blood needed."
+  },
+  {
+    "movieId": 11,
+    "score": 0.92,
+    "reason": "Grim cat-and-mouse dread anchored in brilliant, chilling suspense."
+  },
+  {
+    "movieId": 98,
+    "score": 0.89,
+    "reason": "Masterclass in tension as the mind becomes the most dangerous weapon."
+  },
+  {
+    "movieId": 200,
+    "score": 0.86,
+    "reason": "Isolation’s slow burn builds dread without a drop of visible blood."
+  },
+  {
+    "movieId": 185,
+    "score": 0.83,
+    "reason": "Harvey’s gaze alone makes every shadow feel like a lurking threat."
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "Courtroom tension woven through a twisting game of psychological cat and mouse."
+  },
+  {
+    "movieId": 106,
+    "score": 0.77,
+    "reason": "Subtle chills in a story where every glance hides a darker motive."
+  },
+  {
+    "movieId": 234,
+    "score": 0.74,
+    "reason": "A menacing presence unseen makes every moment on the water fraught with dread."
+  },
+  {
+    "movieId": 219,
+    "score": 0.71,
+    "reason": "Even dreams turn dangerous in Wes’s nightmarish, lulling terror."
+  },
+  {
+    "movieId": 148,
+    "score": 0.68,
+    "reason": "Savage suspense as unseen predators stalk every unsuspecting step."
+  }
+]

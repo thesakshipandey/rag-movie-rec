@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 205,
+    "score": 1.0,
+    "reason": "Epic biographical war portrait of a legendary general’s command"
+  },
+  {
+    "movieId": 199,
+    "score": 0.91,
+    "reason": "Masterful POW drama exploring duty and humanity under brutal captivity"
+  },
+  {
+    "movieId": 157,
+    "score": 0.82,
+    "reason": "Raw, visceral portrayal of infantry soldiers in Vietnam conflict"
+  },
+  {
+    "movieId": 188,
+    "score": 0.73,
+    "reason": "Unflinching look at the making of Marines under ruthless drill instructors"
+  },
+  {
+    "movieId": 651,
+    "score": 0.64,
+    "reason": "Powerful depiction of the first African-American regiment’s fight for equality"
+  },
+  {
+    "movieId": 528,
+    "score": 0.55,
+    "reason": "Intimate, harrowing account of a journalist’s struggle in 1980s Cambodia"
+  },
+  {
+    "movieId": 318,
+    "score": 0.46,
+    "reason": "Gripping true story of law versus atrocity amid the Holocaust horrors"
+  },
+  {
+    "movieId": 521,
+    "score": 0.37,
+    "reason": "Ground-level saga of friendship and survival through Vietnam’s jungle war"
+  },
+  {
+    "movieId": 265,
+    "score": 0.28,
+    "reason": "Tense Cold War submarine standoff highlighting strategic and human stakes"
+  },
+  {
+    "movieId": 197,
+    "score": 0.19,
+    "reason": "Rowdy, visceral immersion in a key Vietnam prison camp revolt"
+  }
+]

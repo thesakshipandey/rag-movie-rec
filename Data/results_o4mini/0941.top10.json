@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 319,
+    "score": 0.95,
+    "reason": "Paradise Lost exposes systemic injustice with a call for grassroots hope."
+  },
+  {
+    "movieId": 549,
+    "score": 0.9,
+    "reason": "Conan the Barbarian’s fight against tyranny inspires determined rebellion."
+  },
+  {
+    "movieId": 673,
+    "score": 0.85,
+    "reason": "Cape Fear shows an ordinary man standing firm against corrupt brutality."
+  },
+  {
+    "movieId": 511,
+    "score": 0.82,
+    "reason": "Lawrence of Arabia’s true-story heroism against imperial oppression endures."
+  },
+  {
+    "movieId": 281,
+    "score": 0.78,
+    "reason": "The River Wild portrays everyday courage in the face of violent wrongdoing."
+  },
+  {
+    "movieId": 196,
+    "score": 0.75,
+    "reason": "Dead Poets Society celebrates grass-roots resistance through inspired teaching."
+  },
+  {
+    "movieId": 593,
+    "score": 0.72,
+    "reason": "Stalingrad reveals an ordinary soldier’s resolve against overwhelming injustice."
+  },
+  {
+    "movieId": 372,
+    "score": 0.7,
+    "reason": "Jeffrey explores personal courage under the shadow of the AIDS crisis."
+  },
+  {
+    "movieId": 319,
+    "score": 0.68,
+    "reason": "Paradise Lost chronicles families fighting systemic failure with steely hope."
+  },
+  {
+    "movieId": 511,
+    "score": 0.65,
+    "reason": "Lawrence of Arabia stands as an epic true story of one man’s defiance."
+  }
+]

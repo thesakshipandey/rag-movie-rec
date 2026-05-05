@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 0.95,
+    "reason": "Brazil satirizes labyrinthine bureaucracy with absurd red tape in a Kafka-esque dystopia"
+  },
+  {
+    "movieId": 1044,
+    "score": 0.9,
+    "reason": "The Paper captures newsroom red tape and maddening procedural hurdles in a frantic, darkly comic way"
+  },
+  {
+    "movieId": 43,
+    "score": 0.88,
+    "reason": "Disclosure shows corporate bureaucracy trapping one simple meeting in endless, absurd rules"
+  },
+  {
+    "movieId": 38,
+    "score": 0.85,
+    "reason": "The Net portrays digital red tape where one click spirals into a deadly, Kafka-esque procedure"
+  },
+  {
+    "movieId": 54,
+    "score": 0.82,
+    "reason": "Outbreak depicts scientists ensnared in bureaucratic will-they-won’t-they to save lives, hilariously frustrating"
+  },
+  {
+    "movieId": 258,
+    "score": 0.8,
+    "reason": "Contact shows scientific inquiry mired in protocol, an absurd dance of committees and clearances"
+  },
+  {
+    "movieId": 356,
+    "score": 0.78,
+    "reason": "Client, The reveals legal labyrinths that turn a simple witness case into red-tape horror"
+  },
+  {
+    "movieId": 310,
+    "score": 0.75,
+    "reason": "Rainmaker, The portrays a small-claim lawsuit swallowed by procedural madness in a bitterly comic way"
+  },
+  {
+    "movieId": 58,
+    "score": 0.72,
+    "reason": "Quiz Show details a simple quiz scandal that explodes into government hearings and endless paperwork"
+  },
+  {
+    "movieId": 121,
+    "score": 0.7,
+    "reason": "Clear and Present Danger traps a rescue mission in endless CIA directives and nonsensical orders"
+  }
+]

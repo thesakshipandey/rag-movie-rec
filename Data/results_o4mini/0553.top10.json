@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Apollo 13’s do-or-die race home grips you with every nail-biting second of real-life heroism."
+  },
+  {
+    "movieId": 22,
+    "score": 0.93,
+    "reason": "Braveheart’s thundering battle cries and sweeping epic earn every spine-tingling triumph."
+  },
+  {
+    "movieId": 11,
+    "score": 0.91,
+    "reason": "Se7en’s relentless hunt and shocking finale deliver a dark, adrenaline-charged victory."
+  },
+  {
+    "movieId": 241,
+    "score": 0.89,
+    "reason": "Last of the Mohicans’ thundering score and perilous rescue make for a pulse-pounding stand."
+  },
+  {
+    "movieId": 51,
+    "score": 0.87,
+    "reason": "Legends of the Fall’s sweeping saga and climactic ride ignite a roaring sense of triumph."
+  },
+  {
+    "movieId": 205,
+    "score": 0.85,
+    "reason": "Patton’s battlefield bravado and steel-jaw monologues unleash commanding, triumphant zeal."
+  },
+  {
+    "movieId": 96,
+    "score": 0.83,
+    "reason": "Terminator 2’s relentless chase and heroic sacrifice power an unforgettable, fist-pumping rush."
+  },
+  {
+    "movieId": 161,
+    "score": 0.81,
+    "reason": "Top Gun’s final dogfight soars with ultimate, high-octane swagger."
+  },
+  {
+    "movieId": 568,
+    "score": 0.79,
+    "reason": "Speed’s suicidal bus sprint keeps the tension taut until the most electrifying payoff."
+  },
+  {
+    "movieId": 298,
+    "score": 0.77,
+    "reason": "Face/Off’s identity-swap chaos and gun-blazing finale deliver a wildly theatrical, triumphant blast."
+  }
+]

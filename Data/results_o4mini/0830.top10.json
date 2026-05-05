@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1426,
+    "score": 0.95,
+    "reason": "Ripe: bungling crooks turn every step of their first heist into a kaleidoscope of catastrophic comedy"
+  },
+  {
+    "movieId": 1067,
+    "score": 0.92,
+    "reason": "Bottle Rocket: amateur thieves fumble each bold move, making mayhem darkly funny"
+  },
+  {
+    "movieId": 539,
+    "score": 0.9,
+    "reason": "Mouse Hunt: two hapless heirs unleash utter chaos chasing one defiant rodent"
+  },
+  {
+    "movieId": 158,
+    "score": 0.88,
+    "reason": "Weekend at Bernie’s: total amateurs scramble grotesquely to cover their darkest mistake"
+  },
+  {
+    "movieId": 781,
+    "score": 0.85,
+    "reason": "French Kiss: luckless thieves’ clumsy tactics spiral into a comedy of bungled betrayals"
+  },
+  {
+    "movieId": 803,
+    "score": 0.83,
+    "reason": "Heat Wave: small‐time hustlers’ worst plan meets endless screw-ups in searing desperation"
+  },
+  {
+    "movieId": 663,
+    "score": 0.8,
+    "reason": "Being There: naive pawn fumbles each step, turning every clumsy plan into bleak hilarity"
+  },
+  {
+    "movieId": 58,
+    "score": 0.78,
+    "reason": "Quiz Show: amateurs rig the game but their every error becomes a farce of public humiliation"
+  },
+  {
+    "movieId": 5,
+    "score": 0.75,
+    "reason": "Copycat: rookie profiler’s chaotic first case goes sideways in deadly comedic turns"
+  },
+  {
+    "movieId": 121,
+    "score": 0.72,
+    "reason": "Bound: bungled crime by amateurs taps dark absurdity at every mis-timed betrayal"
+  }
+]

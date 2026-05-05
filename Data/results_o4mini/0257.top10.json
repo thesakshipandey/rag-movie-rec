@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 49,
+    "score": 1.0,
+    "reason": "I.Q. uses initials and is all caps under five characters"
+  },
+  {
+    "movieId": 211,
+    "score": 0.95,
+    "reason": "M*A*S*H is an all-caps initialism under five letters"
+  },
+  {
+    "movieId": 716,
+    "score": 0.9,
+    "reason": "G.I. Jane uses all-caps initials"
+  },
+  {
+    "movieId": 121,
+    "score": 0.85,
+    "reason": "Independence Day (ID4) features the ID4 acronym"
+  },
+  {
+    "movieId": 138,
+    "score": 0.8,
+    "reason": "D3: The Mighty Ducks includes the D3 initialism"
+  },
+  {
+    "movieId": 11,
+    "score": 0.75,
+    "reason": "Seven (Se7en) stylizes its title as an all-caps numeral/letter mix"
+  },
+  {
+    "movieId": 96,
+    "score": 0.7,
+    "reason": "Terminator 2: Judgment Day (T2) widely known by the T2 acronym"
+  },
+  {
+    "movieId": 1211,
+    "score": 0.65,
+    "reason": "Blue in the Face (BTF) sometimes abbreviated BTF"
+  },
+  {
+    "movieId": 1221,
+    "score": 0.6,
+    "reason": "William Shakespeare's Romeo and Juliet (WSRJ) known by the initials"
+  },
+  {
+    "movieId": 405,
+    "score": 0.55,
+    "reason": "Mission: Impossible (MI) is commonly abbreviated as MI"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 202,
+    "score": 1.0,
+    "reason": "A weatherman relives the same day until he learns to become a better man"
+  },
+  {
+    "movieId": 204,
+    "score": 0.8,
+    "reason": "A teenager must ace his own parents’ past to find the courage to change tomorrow"
+  },
+  {
+    "movieId": 96,
+    "score": 0.75,
+    "reason": "A cyborg guardian’s journey to protect the future teaches unexpected humanity"
+  },
+  {
+    "movieId": 7,
+    "score": 0.7,
+    "reason": "A time-traveling convict must unlock fate’s puzzle to save a dying world"
+  },
+  {
+    "movieId": 797,
+    "score": 0.65,
+    "reason": "A time-travel cop learns that altering the past demands personal growth"
+  },
+  {
+    "movieId": 230,
+    "score": 0.6,
+    "reason": "A starship crew’s frantic jump through time becomes a test of empathy and wit"
+  },
+  {
+    "movieId": 222,
+    "score": 0.55,
+    "reason": "A captain risks everything to undo a temporal invasion and save his crew"
+  },
+  {
+    "movieId": 252,
+    "score": 0.5,
+    "reason": "A family’s island return loops hope and fear in a battle against genetic fate"
+  },
+  {
+    "movieId": 228,
+    "score": 0.45,
+    "reason": "A hero faces his clone and the consequences of altering his own timeline"
+  },
+  {
+    "movieId": 229,
+    "score": 0.4,
+    "reason": "A desperate quest to resurrect a friend unravels the true cost of defying time"
+  }
+]

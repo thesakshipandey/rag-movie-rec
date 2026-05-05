@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "Visually transcendent odyssey through space with surreal, painterly compositions."
+  },
+  {
+    "movieId": 89,
+    "score": 0.97,
+    "reason": "Noir‐tinged future L.A. rendered in haunting, rain‐soaked neon tableaux."
+  },
+  {
+    "movieId": 214,
+    "score": 0.95,
+    "reason": "Psychedelic rock opera of isolation painted in bold, expressionistic imagery."
+  },
+  {
+    "movieId": 30,
+    "score": 0.93,
+    "reason": "A dreamlike exploration of desire and fantasy in stunning black‐and‐white frames."
+  },
+  {
+    "movieId": 640,
+    "score": 0.9,
+    "reason": "Lavish, stylized sets create a baroque visual feast of color and decadence."
+  },
+  {
+    "movieId": 171,
+    "score": 0.88,
+    "reason": "One of the most visually original French fantasies with whimsical, surreal scenes."
+  },
+  {
+    "movieId": 206,
+    "score": 0.86,
+    "reason": "Kinetic, neon‐soaked cyberpunk animation bursting with vivid detail."
+  },
+  {
+    "movieId": 250,
+    "score": 0.84,
+    "reason": "A kaleidoscope of futuristic designs and vibrant, comic‐book color."
+  },
+  {
+    "movieId": 91,
+    "score": 0.82,
+    "reason": "Enchanting stop‐motion world that’s more eerie than frightening."
+  },
+  {
+    "movieId": 101,
+    "score": 0.8,
+    "reason": "Adult animated anthology fused with bold comic‐book visuals and rock score."
+  }
+]

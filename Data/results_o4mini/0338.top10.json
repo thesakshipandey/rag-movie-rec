@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 6,
+    "score": 0.98,
+    "reason": "Sumptuous crime drama fueled by family loyalty and moral complexity."
+  },
+  {
+    "movieId": 14,
+    "score": 0.96,
+    "reason": "Quirky postal comedy with poetic longing on an Italian island."
+  },
+  {
+    "movieId": 16,
+    "score": 0.94,
+    "reason": "Feel-good French rom-com with surprising twists on modern love."
+  },
+  {
+    "movieId": 18,
+    "score": 0.92,
+    "reason": "Gentle Iranian tale of childhood innocence and marketplace wanderings."
+  },
+  {
+    "movieId": 19,
+    "score": 0.9,
+    "reason": "Warm multigenerational saga celebrating feminine bonds and community."
+  },
+  {
+    "movieId": 45,
+    "score": 0.88,
+    "reason": "Delicate family drama served up with sumptuous feasts and raw emotion."
+  },
+  {
+    "movieId": 59,
+    "score": 0.86,
+    "reason": "Lyrical Polish-French drama about chance encounters and hidden bonds."
+  },
+  {
+    "movieId": 60,
+    "score": 0.84,
+    "reason": "Quiet study of grief and renewal set against a wintry Swiss lake."
+  },
+  {
+    "movieId": 61,
+    "score": 0.82,
+    "reason": "Clever satire of marital power plays across continents."
+  },
+  {
+    "movieId": 165,
+    "score": 0.8,
+    "reason": "Rural French drama of love, betrayal and landscape’s harsh beauty."
+  }
+]

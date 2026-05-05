@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 97,
+    "score": 0.99,
+    "reason": "Dances with Wolves makes the plains itself a living, breathing character"
+  },
+  {
+    "movieId": 511,
+    "score": 0.97,
+    "reason": "Lawrence of Arabia transforms vast deserts into an epic stage"
+  },
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "2001: A Space Odyssey uses cosmic landscapes as profound narrative force"
+  },
+  {
+    "movieId": 105,
+    "score": 0.93,
+    "reason": "Koyaanisqatsi lets natural vistas tell its poetic story without words"
+  },
+  {
+    "movieId": 664,
+    "score": 0.92,
+    "reason": "Paris, Texas captures the beauty and loneliness of the open road"
+  },
+  {
+    "movieId": 647,
+    "score": 0.9,
+    "reason": "Ran employs sweeping landscapes as reflections of its epic tragedy"
+  },
+  {
+    "movieId": 180,
+    "score": 0.88,
+    "reason": "Apocalypse Now uses the jungle’s oppressive grandeur as a character"
+  },
+  {
+    "movieId": 286,
+    "score": 0.87,
+    "reason": "The English Patient treats desert vistas as vital narrative ambience"
+  },
+  {
+    "movieId": 51,
+    "score": 0.85,
+    "reason": "Legends of the Fall evokes Montana’s wild beauty as integral to its drama"
+  },
+  {
+    "movieId": 170,
+    "score": 0.83,
+    "reason": "Cinema Paradiso crafts its Sicilian village into a nostalgic character"
+  }
+]

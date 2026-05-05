@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 629,
+    "score": 1.0,
+    "reason": "Bound’s patient, vengeful schemes make for a relentless, cold revenge thriller."
+  },
+  {
+    "movieId": 522,
+    "score": 0.95,
+    "reason": "Braveheart builds its revenge quietly before the grand rebellion takes shape."
+  },
+  {
+    "movieId": 566,
+    "score": 0.9,
+    "reason": "Clear and Present Danger portrays simmering vendettas among political powers."
+  },
+  {
+    "movieId": 650,
+    "score": 0.85,
+    "reason": "Seventh Seal’s austere duel with Death pulses with brooding retribution."
+  },
+  {
+    "movieId": 234,
+    "score": 0.8,
+    "reason": "Jaws showcases a cesspool of cold vengeance against an unstoppable force."
+  },
+  {
+    "movieId": 140,
+    "score": 0.75,
+    "reason": "Homeward Bound’s quiet journey hides a simmering regret between friends."
+  },
+  {
+    "movieId": 191,
+    "score": 0.7,
+    "reason": "Amadeus focuses on Mozart’s humbling revenge against jealousy’s torment."
+  },
+  {
+    "movieId": 185,
+    "score": 0.65,
+    "reason": "Psycho’s methodical stalking delivers an unforgettable cold-blooded pursuit."
+  },
+  {
+    "movieId": 437,
+    "score": 0.6,
+    "reason": "Amityville 1992 layers quiet dread and vengeful hauntings."
+  },
+  {
+    "movieId": 444,
+    "score": 0.55,
+    "reason": "Blob uses stealthy suspense over loud action for its creeping revenge."
+  }
+]

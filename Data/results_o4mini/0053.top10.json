@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 93,
+    "score": 0.95,
+    "reason": "Subtle shared glances show a life suffocating others’ expectations"
+  },
+  {
+    "movieId": 43,
+    "score": 0.92,
+    "reason": "Silence fills every moment of lawyer’s unraveling routine facade"
+  },
+  {
+    "movieId": 155,
+    "score": 0.89,
+    "reason": "Widowed mother’s small quiet gestures hide her deep, almost unnoticed cracks"
+  },
+  {
+    "movieId": 66,
+    "score": 0.86,
+    "reason": "Transit worker’s quiet longing in pauses speaks louder than any line"
+  },
+  {
+    "movieId": 367,
+    "score": 0.83,
+    "reason": "Politeness masks deep agony in teen life, each small slight loud in heart"
+  },
+  {
+    "movieId": 22,
+    "score": 0.8,
+    "reason": "Highlander’s silent longing for connection cracks his stoic life apart"
+  },
+  {
+    "movieId": 8,
+    "score": 0.78,
+    "reason": "Pig’s silent resilience in new home hints at deeper life’s suffocating machinery"
+  },
+  {
+    "movieId": 61,
+    "score": 0.75,
+    "reason": "Imprisoned banker’s quiet routines fracture under almost imperceptible tensions"
+  },
+  {
+    "movieId": 81,
+    "score": 0.72,
+    "reason": "Innocent salesman’s clumsy steps in city show the soft cracks of identity"
+  },
+  {
+    "movieId": 556,
+    "score": 0.7,
+    "reason": "Mystery doctor’s quiet obsessions land him in the harshest silence of isolation"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 91,
+    "score": 1.0,
+    "reason": "Enchanting stop-motion spell with gentle spooks and whimsical dreamscapes."
+  },
+  {
+    "movieId": 402,
+    "score": 0.95,
+    "reason": "Soft supernatural love story that wraps you in vintage romance and subtle chills."
+  },
+  {
+    "movieId": 768,
+    "score": 0.9,
+    "reason": "Endearing friendly ghost tale with lighthearted laughs and a cozy spooky vibe."
+  },
+  {
+    "movieId": 1050,
+    "score": 0.85,
+    "reason": "Haunted seaside mansion rendered warm and whimsical, never truly menacing."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.8,
+    "reason": "Elegant gothic chamber piece with creeping unease but a safe supernatural core."
+  },
+  {
+    "movieId": 633,
+    "score": 0.75,
+    "reason": "Classic Christmas specter tale with comforting warmth and mild spooky curiosity."
+  },
+  {
+    "movieId": 443,
+    "score": 0.7,
+    "reason": "Graceful Hitchcockian mood piece where birds become eerie motifs, not gore."
+  },
+  {
+    "movieId": 115,
+    "score": 0.65,
+    "reason": "Documentary-style tribute that feels more like playful homage than horror."
+  },
+  {
+    "movieId": 565,
+    "score": 0.6,
+    "reason": "Silent, otherworldly kids deliver quiet dread in a surreal, mist-shrouded town."
+  },
+  {
+    "movieId": 144,
+    "score": 0.55,
+    "reason": "Suspenseful skyscraper siege with smoky menace but no relentless gore."
+  }
+]

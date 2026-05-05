@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "Psychological terror set in an isolated hotel that leaves you unsettled."
+  },
+  {
+    "movieId": 691,
+    "score": 0.95,
+    "reason": "Disturbing mind-bending noir where reality constantly shifts."
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "Unnerving thriller that blurs reality and trust in a chilling mind game."
+  },
+  {
+    "movieId": 800,
+    "score": 0.85,
+    "reason": "Surreal horror that questions reality long after the credits roll."
+  },
+  {
+    "movieId": 324,
+    "score": 0.8,
+    "reason": "Lynchian mystery of identity and dread that never stops lurking."
+  },
+  {
+    "movieId": 7,
+    "score": 0.75,
+    "reason": "Time-twisting puzzle that breeds paranoia and existential dread."
+  },
+  {
+    "movieId": 39,
+    "score": 0.7,
+    "reason": "Tech-noir paranoia with voyeuristic dread in near-future L.A."
+  },
+  {
+    "movieId": 218,
+    "score": 0.65,
+    "reason": "Menacing cat-and-mouse thriller with simmering psychological threat."
+  },
+  {
+    "movieId": 98,
+    "score": 0.6,
+    "reason": "Hannibal’s unnerving presence stalking your thoughts afterward."
+  },
+  {
+    "movieId": 89,
+    "score": 0.55,
+    "reason": "Dystopian noir that drifts into unsettling questions of humanity."
+  }
+]

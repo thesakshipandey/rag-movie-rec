@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 328,
+    "score": 0.98,
+    "reason": "A conspiracy theorist races to expose a secret cabal before they silence him"
+  },
+  {
+    "movieId": 38,
+    "score": 0.96,
+    "reason": "Angela uncovers an internet cover-up and becomes the target of a surveillance state"
+  },
+  {
+    "movieId": 5,
+    "score": 0.94,
+    "reason": "Dr. Hudson fights to prove a serial killer’s copycats exist while she’s branded hysterical"
+  },
+  {
+    "movieId": 657,
+    "score": 0.92,
+    "reason": "A veteran uncovers a Communist brainwashing plot no one believes"
+  },
+  {
+    "movieId": 684,
+    "score": 0.9,
+    "reason": "A secret service agent uncovers a presidential assassination plot and must escape unseen"
+  },
+  {
+    "movieId": 1243,
+    "score": 0.88,
+    "reason": "A morgue guard stumbles on a serial killer’s underground network but no one trusts him"
+  },
+  {
+    "movieId": 685,
+    "score": 0.86,
+    "reason": "An intelligence team discovers a hidden nuclear arsenal and races underground to stop it"
+  },
+  {
+    "movieId": 657,
+    "score": 0.84,
+    "reason": "A soldier returns to civilian life to find a new conspiracy aiming to destroy him"
+  },
+  {
+    "movieId": 98,
+    "score": 0.82,
+    "reason": "Clarice confronts a calculating serial killer who wants her silence—and the world won’t listen"
+  },
+  {
+    "movieId": 11,
+    "score": 0.8,
+    "reason": "Two detectives hunt a methodical killer while corrupt forces manipulate every lead"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 171,
+    "score": 1.0,
+    "reason": "Grotesque comedy set in a surreal apartment block with macabre, whimsical flair."
+  },
+  {
+    "movieId": 175,
+    "score": 0.95,
+    "reason": "Disturbing dystopian satire drenched in dark humor and bizarre invention."
+  },
+  {
+    "movieId": 179,
+    "score": 0.9,
+    "reason": "Futuristic black comedy steeped in stylized violence and mind-bending visuals."
+  },
+  {
+    "movieId": 154,
+    "score": 0.85,
+    "reason": "Blasphemous rockumentary parody that dissects fame with absurdist wit."
+  },
+  {
+    "movieId": 91,
+    "score": 0.8,
+    "reason": "Fantastical stop-motion musical that blurs the line between Halloween and Christmas."
+  },
+  {
+    "movieId": 37,
+    "score": 0.75,
+    "reason": "Dreamlike low-budget horror with minimal lines and haunting imagery."
+  },
+  {
+    "movieId": 663,
+    "score": 0.7,
+    "reason": "Deadpan fable of an android cowboy offering outsider insights in modern Manhattan."
+  },
+  {
+    "movieId": 855,
+    "score": 0.65,
+    "reason": "High-fashion musical horror that melds glamour with gory surrealism."
+  },
+  {
+    "movieId": 206,
+    "score": 0.6,
+    "reason": "Landmark anime boasting hallucinatory art and cyberpunk disorientation."
+  },
+  {
+    "movieId": 919,
+    "score": 0.55,
+    "reason": "Visually arresting sci-fi fantasy with nightmarish puppets and dream logic."
+  }
+]

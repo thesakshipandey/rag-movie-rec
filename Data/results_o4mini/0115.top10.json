@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 58,
+    "score": 0.9,
+    "reason": "Journalist uncovers rigged quiz show, facing moral dilemmas and exposing powerful interests."
+  },
+  {
+    "movieId": 38,
+    "score": 0.85,
+    "reason": "Systems analyst discovers corporate-government conspiracy, then must evade paranoia and professional ruin."
+  },
+  {
+    "movieId": 291,
+    "score": 0.8,
+    "reason": "Small-time thief witnesses a presidential crime, wrestles with exposing the truth at personal risk."
+  },
+  {
+    "movieId": 696,
+    "score": 0.75,
+    "reason": "City Hall power struggle reveals political corruption, as staffers weigh whistleblowing consequences."
+  },
+  {
+    "movieId": 471,
+    "score": 0.7,
+    "reason": "Army investigator probes friendly fire cover-up, confronting moral cost and institutional paranoia."
+  },
+  {
+    "movieId": 318,
+    "score": 0.65,
+    "reason": "Industrialist risks everything to expose Nazi atrocities, facing moral crisis and personal danger."
+  },
+  {
+    "movieId": 317,
+    "score": 0.6,
+    "reason": "Wrongfully accused man and his lawyer strive to unmask real perpetrators, challenging justice system."
+  },
+  {
+    "movieId": 43,
+    "score": 0.55,
+    "reason": "Executive fights sexual harassment cover-up, tackling corporate power and personal fallout."
+  },
+  {
+    "movieId": 136,
+    "score": 0.5,
+    "reason": "Idealistic senator uncovers Senate corruption, battling political pressure and public scrutiny."
+  },
+  {
+    "movieId": 328,
+    "score": 0.45,
+    "reason": "Paranoid cabbie claims government conspiracy, then seeks to prove truth amid danger and disbelief."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.95,
+    "reason": "A veteran gunslinger finds vengeance but learns regret, in a bleak, tragic showdown."
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "A lone taxi driver’s cold crusade against crime ends in hollow victory."
+  },
+  {
+    "movieId": 33,
+    "score": 0.88,
+    "reason": "A musician guns down criminals in calculated retribution for his lost love."
+  },
+  {
+    "movieId": 68,
+    "score": 0.86,
+    "reason": "A resurrected soul exacts revenge in a chilling quest with no solace."
+  },
+  {
+    "movieId": 11,
+    "score": 0.84,
+    "reason": "Detectives hunt a meticulous killer, revenge served cold but unsatisfying."
+  },
+  {
+    "movieId": 127,
+    "score": 0.82,
+    "reason": "A mafia heir coldly orchestrates payback, undermining his own redemption."
+  },
+  {
+    "movieId": 187,
+    "score": 0.8,
+    "reason": "Gritty saga of revenge spanning generations, leaving only emptiness."
+  },
+  {
+    "movieId": 218,
+    "score": 0.78,
+    "reason": "An ex-con’s pursuit of justice unleashes more bitterness than relief."
+  },
+  {
+    "movieId": 76,
+    "score": 0.76,
+    "reason": "A freed criminal returns for payback, discovering vengeance feels hollow."
+  },
+  {
+    "movieId": 53,
+    "score": 0.74,
+    "reason": "A killing spree fueled by revenge proves momentarily satisfying yet empty."
+  }
+]

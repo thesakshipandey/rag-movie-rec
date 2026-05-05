@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.95,
+    "reason": "A woman copes with her family’s loss in a surreal, poetic dance of grief."
+  },
+  {
+    "movieId": 512,
+    "score": 0.92,
+    "reason": "Angels observe human sorrow, capturing the beauty and strangeness of loss."
+  },
+  {
+    "movieId": 428,
+    "score": 0.9,
+    "reason": "A man obsessed with death finds an unlikely connection, blending sadness and humor."
+  },
+  {
+    "movieId": 402,
+    "score": 0.88,
+    "reason": "A spirit reaches out to cope with loss, gentle and quietly magical."
+  },
+  {
+    "movieId": 922,
+    "score": 0.86,
+    "reason": "An accountant’s haunting visions turn his grief into a dreamlike journey."
+  },
+  {
+    "movieId": 170,
+    "score": 0.84,
+    "reason": "A director returns home to mourn a friend, discovering cinema’s ghostly beauty."
+  },
+  {
+    "movieId": 19,
+    "score": 0.82,
+    "reason": "Generations weave loss into daily life in this earthy, almost fable-like tale."
+  },
+  {
+    "movieId": 215,
+    "score": 0.8,
+    "reason": "A farmer hears the call of baseball ghosts, finding hope in sorrow’s echo."
+  },
+  {
+    "movieId": 202,
+    "score": 0.78,
+    "reason": "A man relives the same day, unveiling the surreal comedy hidden in grief."
+  },
+  {
+    "movieId": 196,
+    "score": 0.76,
+    "reason": "A teacher’s heartbreak becomes a lesson in fleeting beauty and sorrow."
+  }
+]

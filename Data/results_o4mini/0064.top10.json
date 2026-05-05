@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 691,
+    "score": 1.0,
+    "reason": "Entire city’s reality is manipulated by unseen powers"
+  },
+  {
+    "movieId": 1127,
+    "score": 0.95,
+    "reason": "Man’s life is orchestrated by a TV network that gaslights his every move"
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "Wealthy tycoon’s deadly game forces players to doubt their sanity"
+  },
+  {
+    "movieId": 7,
+    "score": 0.85,
+    "reason": "Man sent to stop plague accused of madness by authorities"
+  },
+  {
+    "movieId": 219,
+    "score": 0.8,
+    "reason": "Group of teens share deadly dream, authorities dismiss their warnings"
+  },
+  {
+    "movieId": 120,
+    "score": 0.75,
+    "reason": "Woman’s life unravels as husband manipulates her perception of reality"
+  },
+  {
+    "movieId": 324,
+    "score": 0.7,
+    "reason": "Woman’s life twisted by cryptic messages, she’s labeled insane"
+  },
+  {
+    "movieId": 657,
+    "score": 0.65,
+    "reason": "Soldier’s mind warped by brainwashing, everyone insists he’s mad"
+  },
+  {
+    "movieId": 333,
+    "score": 0.6,
+    "reason": "Journalist’s hidden broadcast makes her question what’s true"
+  },
+  {
+    "movieId": 691,
+    "score": 0.55,
+    "reason": "Strangers realize their memories are fabricated by unseen rulers"
+  }
+]

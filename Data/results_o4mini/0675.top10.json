@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 177,
+    "score": 0.98,
+    "reason": "Three-way Civil War bounty hunt across dusty canyons, unflinchingly ruthless."
+  },
+  {
+    "movieId": 646,
+    "score": 0.96,
+    "reason": "Sprawling quest through frontier, marked by brutal survival against harsh elements."
+  },
+  {
+    "movieId": 435,
+    "score": 0.94,
+    "reason": "Sympathetic outlaws on the run, landscapes as treacherous as the gunfights."
+  },
+  {
+    "movieId": 97,
+    "score": 0.92,
+    "reason": "Lone cavalryman finds unlikely bonds with Lakota tribe in wide-open prairie."
+  },
+  {
+    "movieId": 203,
+    "score": 0.9,
+    "reason": "Weather-worn gunslinger returns for one last job, every step a fight for life."
+  },
+  {
+    "movieId": 470,
+    "score": 0.88,
+    "reason": "Val Kilmer’s Doc Holliday stalks Tombstone’s streets in a gritty duel to survive."
+  },
+  {
+    "movieId": 562,
+    "score": 0.86,
+    "reason": "Refined duels and moral grime collide aboard the Lady Christine at high noon."
+  },
+  {
+    "movieId": 33,
+    "score": 0.84,
+    "reason": "Revenge biker ballad in Mexico’s deserts, guns blazing under an unforgiving sun."
+  },
+  {
+    "movieId": 232,
+    "score": 0.82,
+    "reason": "Billy the Kid and Company vs. Regulators—youthful fury meets western brutality."
+  },
+  {
+    "movieId": 1188,
+    "score": 0.8,
+    "reason": "Evolving young brats rescue grandfather on quest through Colorado mountains."
+  }
+]

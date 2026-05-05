@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 0.98,
+    "reason": "After the plague, underground survivors rebuild quiet bonds as sunlight breaks through."
+  },
+  {
+    "movieId": 48,
+    "score": 0.96,
+    "reason": "Two boys dribble hope through broken courts, forging new futures in a slowly healing world."
+  },
+  {
+    "movieId": 175,
+    "score": 0.94,
+    "reason": "Amidscapes of bureaucratic dystopia give way to subtle community reconnection and fragile hope."
+  },
+  {
+    "movieId": 82,
+    "score": 0.92,
+    "reason": "Jurassic Park’s ruins echo rebirth, as people tentatively forge a new society among ancient bones."
+  },
+  {
+    "movieId": 99,
+    "score": 0.9,
+    "reason": "A child’s dream of baseball kindles community effort on fields rising from flooded farmlands."
+  },
+  {
+    "movieId": 584,
+    "score": 0.88,
+    "reason": "A hidden garden’s renewal mirrors the slow healing of wounded hearts after war and loss."
+  },
+  {
+    "movieId": 41,
+    "score": 0.86,
+    "reason": "A corporate heir learns to cultivate real connections, planting seeds for a gentler future."
+  },
+  {
+    "movieId": 81,
+    "score": 0.84,
+    "reason": "Small-town struggles face off with big city dreams, as hopeful souls rebuild shattered lives."
+  },
+  {
+    "movieId": 126,
+    "score": 0.82,
+    "reason": "A parolee finds renewal in a tiny town, forging family bonds in an overlooked community."
+  },
+  {
+    "movieId": 164,
+    "score": 0.8,
+    "reason": "Deep under the sea, humanity’s remnants converge to begin healing in a silent, hopeful abyss."
+  }
+]

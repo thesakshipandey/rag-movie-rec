@@ -1,0 +1,58 @@
+{
+  "results": {
+    "0119": {
+      "top10": [
+        {
+          "movieId": 200,
+          "score": 1.0,
+          "reason": "A remote hotel in winter isolates its caretaker, building a relentless, psychological dread that overwhelms the senses."
+        },
+        {
+          "movieId": 124,
+          "score": 0.95,
+          "reason": "Snowbound Midwestern town harbors a shocking crime, its bleak landscape matched by the film’s simmering atmospheric tension."
+        },
+        {
+          "movieId": 175,
+          "score": 0.93,
+          "reason": "An Orwellian city of bureaucracy and decay, drenched in surreal dread and darkly comic hopelessness."
+        },
+        {
+          "movieId": 171,
+          "score": 0.90,
+          "reason": "Dystopian tenement blocks where food is currency, combining absurdist humor with a claustrophobic, unsettling mood."
+        },
+        {
+          "movieId": 324,
+          "score": 0.89,
+          "reason": "Nonlinear noir set in a decaying city, where disorienting shifts and uncanny events create a tense, dreamlike dread."
+        },
+        {
+          "movieId": 573,
+          "score": 0.88,
+          "reason": "A small town invaded by emotionless duplicates, its creeping paranoia and isolation fuel an almost silent, mounting horror."
+        },
+        {
+          "movieId": 106,
+          "score": 0.87,
+          "reason": "A Catholic school on the edge of town becomes ground zero for a slow-burn mystery, drenched in oppressive, gothic dread."
+        },
+        {
+          "movieId": 89,
+          "score": 0.85,
+          "reason": "Futuristic neon-soaked cityscape under ceaseless rain, evoking a haunting sense of decay and existential unease."
+        },
+        {
+          "movieId": 672,
+          "score": 0.83,
+          "reason": "Urban legend stalks a gentrifying Chicago neighborhood, trading in atmospheric dread over cheap scares."
+        },
+        {
+          "movieId": 44,
+          "score": 0.82,
+          "reason": "A remote island community under suspicion, where secrets and a creeping sense of dread infect even the smallest moments."
+        }
+      ]
+    }
+  }
+}

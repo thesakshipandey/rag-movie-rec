@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 39,
+    "score": 0.99,
+    "reason": "Illegal memory recordings plunge users into violent replay, exposing tech’s dark societal ripples."
+  },
+  {
+    "movieId": 270,
+    "score": 0.97,
+    "reason": "Genetic profiling’s promise turns dystopian as engineered DNA dictates social and personal fates."
+  },
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "A glitch in online identity erases lives, warning of over-reliance on digital footprints."
+  },
+  {
+    "movieId": 175,
+    "score": 0.93,
+    "reason": "Over-bureaucratic screens and tubes show near-future tech choking human connection in a Kafkaesque swirl."
+  },
+  {
+    "movieId": 7,
+    "score": 0.91,
+    "reason": "Time-travel missions to stop a plague reveal the fragility of memory and society’s reliance on twisted science."
+  },
+  {
+    "movieId": 54,
+    "score": 0.9,
+    "reason": "A realistic viral outbreak spirals out of control, spotlighting one lab mishap’s potential to shatter society."
+  },
+  {
+    "movieId": 89,
+    "score": 0.88,
+    "reason": "Replicant bodies blur the line between human and machine in a grim near-future urban sprawl."
+  },
+  {
+    "movieId": 82,
+    "score": 0.86,
+    "reason": "De-extinction theme-park tech unravels as dinosaurs showcase the hubris of resurrecting ancient life."
+  },
+  {
+    "movieId": 96,
+    "score": 0.84,
+    "reason": "Liquid-metal terminator tech warns of unstoppable AI infiltration under a plausible near-future premise."
+  },
+  {
+    "movieId": 179,
+    "score": 0.82,
+    "reason": "Behavior-modifying therapy drugs provoke chilling societal collapse in a gritty near-future Britain."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A twist-laden heist thriller that keeps you guessing until its final, mind-bending reveal."
+  },
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "A dark, methodical serial killer hunt that unfolds with richly layered suspense."
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "A slick cat-and-mouse game where reality and deception blur in every thrilling turn."
+  },
+  {
+    "movieId": 5,
+    "score": 0.85,
+    "reason": "A cerebral serial-killer drama that combines forensic insight with relentless tension."
+  },
+  {
+    "movieId": 302,
+    "score": 0.8,
+    "reason": "A richly textured noir mystery with sharp dialogue, complex intrigue, and style."
+  },
+  {
+    "movieId": 159,
+    "score": 0.75,
+    "reason": "A provocative erotic thriller where every clue deepens the dangerous intrigue."
+  },
+  {
+    "movieId": 324,
+    "score": 0.7,
+    "reason": "A surreal neo-noir that fools your mind with nonlinear storytelling and dread."
+  },
+  {
+    "movieId": 79,
+    "score": 0.65,
+    "reason": "A high-stakes manhunt packed with relentless pace and intelligent plotting."
+  },
+  {
+    "movieId": 657,
+    "score": 0.6,
+    "reason": "A chilling Cold War thriller where each revelation cuts deeper into the conspiracy."
+  },
+  {
+    "movieId": 1651,
+    "score": 0.55,
+    "reason": "A crafty modern noir that spins a clever web of corporate secrets and deception."
+  }
+]

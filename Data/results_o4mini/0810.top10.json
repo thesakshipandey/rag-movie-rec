@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 655,
+    "score": 0.95,
+    "reason": "Stand by Me captures childhood freedom and a final, bittersweet adventure"
+  },
+  {
+    "movieId": 423,
+    "score": 0.92,
+    "reason": "E.T.’s suburban bike rides evoke pure wonder and summer’s golden glow"
+  },
+  {
+    "movieId": 304,
+    "score": 0.9,
+    "reason": "Fly Away Home’s young heroine leads one last wild adventure before home"
+  },
+  {
+    "movieId": 924,
+    "score": 0.88,
+    "reason": "White Squall’s ragtag crew chase summer’s end across open blue seas"
+  },
+  {
+    "movieId": 1184,
+    "score": 0.86,
+    "reason": "Endless Summer II drips nostalgic sunsets and carefree, surf-fueled bliss"
+  },
+  {
+    "movieId": 204,
+    "score": 0.84,
+    "reason": "Back to the Future’s bike escape bursts with ʼ80s summer wonder"
+  },
+  {
+    "movieId": 14,
+    "score": 0.82,
+    "reason": "Il Postino’s seaside village hums with simple, sun-soaked charm"
+  },
+  {
+    "movieId": 140,
+    "score": 0.8,
+    "reason": "Homeward Bound’s youthful trek glows with friendship and fading summer light"
+  },
+  {
+    "movieId": 281,
+    "score": 0.78,
+    "reason": "The River Wild’s family raft ride feels like a last summer hurrah"
+  },
+  {
+    "movieId": 15,
+    "score": 0.75,
+    "reason": "Mr. Holland’s Opus frames school’s end in a yearning, sunlit finale"
+  }
+]

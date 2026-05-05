@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 16,
+    "score": 0.95,
+    "reason": "French-language romantic comedy"
+  },
+  {
+    "movieId": 45,
+    "score": 0.93,
+    "reason": "Taipei-set comedy in Mandarin"
+  },
+  {
+    "movieId": 60,
+    "score": 0.91,
+    "reason": "French dialogue in romantic drama"
+  },
+  {
+    "movieId": 59,
+    "score": 0.89,
+    "reason": "French-language European drama"
+  },
+  {
+    "movieId": 86,
+    "score": 0.87,
+    "reason": "English but filmed in France"
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "English dialogue, not French"
+  },
+  {
+    "movieId": 320,
+    "score": 0.83,
+    "reason": "Documentary, not comedic"
+  },
+  {
+    "movieId": 68,
+    "score": 0.81,
+    "reason": "English animation"
+  },
+  {
+    "movieId": 38,
+    "score": 0.79,
+    "reason": "English thriller"
+  },
+  {
+    "movieId": 132,
+    "score": 0.77,
+    "reason": "English family musical"
+  }
+]

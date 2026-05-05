@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 77,
+    "score": 0.95,
+    "reason": "Lawyer defends guilty client and watches his own world crumble"
+  },
+  {
+    "movieId": 291,
+    "score": 0.92,
+    "reason": "Ethical torment when evidence demands justice over victory"
+  },
+  {
+    "movieId": 160,
+    "score": 0.9,
+    "reason": "Cutthroat real-estate poker game tests moral limits"
+  },
+  {
+    "movieId": 43,
+    "score": 0.88,
+    "reason": "Executive’s betrayal raises stakes beyond courtroom wins"
+  },
+  {
+    "movieId": 797,
+    "score": 0.85,
+    "reason": "Time-clamped defense forces lawyer into moral quicksand"
+  },
+  {
+    "movieId": 309,
+    "score": 0.82,
+    "reason": "Idealistic lawyer pitted against corporate machine’s dark side"
+  },
+  {
+    "movieId": 527,
+    "score": 0.8,
+    "reason": "War-bashing general questions his own ideals in battle of wits"
+  },
+  {
+    "movieId": 178,
+    "score": 0.78,
+    "reason": "Jury foreman sways verdict—and his own conscience"
+  },
+  {
+    "movieId": 291,
+    "score": 0.92,
+    "reason": "Ethical torment when evidence demands justice over victory"
+  },
+  {
+    "movieId": 160,
+    "score": 0.9,
+    "reason": "Cutthroat real-estate poker game tests moral limits"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 133,
+    "score": 0.98,
+    "reason": "Iconic Civil War romance across class divides in Gone with the Wind"
+  },
+  {
+    "movieId": 276,
+    "score": 0.95,
+    "reason": "Gentle longing and societal pressures in Leaving Las Vegas"
+  },
+  {
+    "movieId": 275,
+    "score": 0.92,
+    "reason": "Sisters’ love and class barriers in Sense and Sensibility"
+  },
+  {
+    "movieId": 86,
+    "score": 0.9,
+    "reason": "Devoted service strained by class in The Remains of the Day"
+  },
+  {
+    "movieId": 382,
+    "score": 0.88,
+    "reason": "Drama of forbidden love in Adventure’s Priscilla, Queen of the Desert"
+  },
+  {
+    "movieId": 121,
+    "score": 0.85,
+    "reason": "Shepherd’s noble heart in Bambi’s period romance"
+  },
+  {
+    "movieId": 1059,
+    "score": 0.82,
+    "reason": "Sisters’ clash and longing in Butcher Boy, The"
+  },
+  {
+    "movieId": 480,
+    "score": 0.8,
+    "reason": "High-society constrain and yearning in North by Northwest"
+  },
+  {
+    "movieId": 381,
+    "score": 0.78,
+    "reason": "Convict family bonds and societal shame in Muriel’s Wedding"
+  },
+  {
+    "movieId": 485,
+    "score": 0.75,
+    "reason": "Elegant forbidden love in My Fair Lady"
+  }
+]

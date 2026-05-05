@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 5,
+    "score": 0.98,
+    "reason": "Dr Hudson’s life is upended when she investigates a string of serial killings she never wanted to see"
+  },
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "A systems analyst’s identity is stolen, plunging her into a relentless fight to reclaim her life"
+  },
+  {
+    "movieId": 39,
+    "score": 0.93,
+    "reason": "Ex-cop Lenny Nero uncovers a conspiracy while reliving traumatic visions through illicit recordings"
+  },
+  {
+    "movieId": 328,
+    "score": 0.9,
+    "reason": "A conspiracy theorist becomes entangled in the very plot he’s tried to expose"
+  },
+  {
+    "movieId": 295,
+    "score": 0.89,
+    "reason": "A husband’s highway help request turns into a race against time after his wife disappears"
+  },
+  {
+    "movieId": 333,
+    "score": 0.87,
+    "reason": "A wealthy banker’s life spirals into chaos when he receives a birthday gift he can’t refuse"
+  },
+  {
+    "movieId": 356,
+    "score": 0.85,
+    "reason": "A lawyer discovers a child’s testimony that threatens to shatter everything he’s built"
+  },
+  {
+    "movieId": 54,
+    "score": 0.83,
+    "reason": "A virologist witnesses patient zero, igniting a fast-moving fight to contain a deadly outbreak"
+  },
+  {
+    "movieId": 79,
+    "score": 0.8,
+    "reason": "A surgeon falsely accused witnesses his wife’s killer and must clear his name on the run"
+  },
+  {
+    "movieId": 689,
+    "score": 0.78,
+    "reason": "An expert marksman unwittingly draws deadly attention when he’s mistaken for a legendary assassin"
+  }
+]

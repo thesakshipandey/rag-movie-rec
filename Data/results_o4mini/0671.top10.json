@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.98,
+    "reason": "Masterful crime thriller with twist that reframes every character’s motives."
+  },
+  {
+    "movieId": 11,
+    "score": 0.96,
+    "reason": "Grim serial killer tale ending forces you to rethink every clue."
+  },
+  {
+    "movieId": 7,
+    "score": 0.94,
+    "reason": "Time-warp thriller whose shocking final reveal rewrites the narrative."
+  },
+  {
+    "movieId": 5,
+    "score": 0.92,
+    "reason": "Psychologist hunts copycat killer in a tense cat-and-mouse game with a stunning climax."
+  },
+  {
+    "movieId": 39,
+    "score": 0.9,
+    "reason": "High-tech noir where immersive recordings hide a conspiratorial twist."
+  },
+  {
+    "movieId": 38,
+    "score": 0.88,
+    "reason": "Tech thriller of identity theft with escalating paranoia and shocking turns."
+  },
+  {
+    "movieId": 129,
+    "score": 0.86,
+    "reason": "Neo-noir thriller of deception that surprises with its true puppet master."
+  },
+  {
+    "movieId": 333,
+    "score": 0.84,
+    "reason": "Mind-bending puzzle where every scene pivots on a hidden game within the plot."
+  },
+  {
+    "movieId": 324,
+    "score": 0.82,
+    "reason": "Surreal mystery that upends reality and forces a second look at everything prior."
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "Legal thriller with a killer twist that upends courtroom assumptions."
+  }
+]

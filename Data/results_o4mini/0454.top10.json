@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 275,
+    "score": 1.0,
+    "reason": "Sumptuous period romance with lush costumes and a gentle emotional tempo."
+  },
+  {
+    "movieId": 584,
+    "score": 0.95,
+    "reason": "Quiet rural drama unfolding like a soft breeze through golden fields."
+  },
+  {
+    "movieId": 516,
+    "score": 0.9,
+    "reason": "Warmhearted seaside odyssey that glows with pastoral scenes and gentle humor."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "Nostalgic film-lover’s dream that flows with sentimental, comforting charm."
+  },
+  {
+    "movieId": 14,
+    "score": 0.8,
+    "reason": "Heartfelt poetic journey by the sea, each frame a lovingly composed picture."
+  },
+  {
+    "movieId": 88,
+    "score": 0.75,
+    "reason": "Light romantic comedy that feels like a familiar, cozy blanket for the heart."
+  },
+  {
+    "movieId": 66,
+    "score": 0.7,
+    "reason": "Undemanding romance set in wintry cities, perfect for drifting in and out."
+  },
+  {
+    "movieId": 131,
+    "score": 0.65,
+    "reason": "Stylish urban romance sprinkled with playful banter and pastel cityscapes."
+  },
+  {
+    "movieId": 487,
+    "score": 0.6,
+    "reason": "Charming European escapade full of leisurely explorations and gentle wit."
+  },
+  {
+    "movieId": 69,
+    "score": 0.55,
+    "reason": "Life-spanning fable that balances grand moments with simple, heartfelt scenes."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "Understated but deeply emotional, exploring duty and regret with sophisticated restraint."
+  },
+  {
+    "movieId": 45,
+    "score": 0.95,
+    "reason": "Quiet family drama that communicates complex emotions through gently unfolding meals."
+  },
+  {
+    "movieId": 285,
+    "score": 0.9,
+    "reason": "Intimate character study with nuanced performances and mature exploration of family ties."
+  },
+  {
+    "movieId": 216,
+    "score": 0.85,
+    "reason": "Witty, reflective romance that observes adult relationships with humor and insight."
+  },
+  {
+    "movieId": 955,
+    "score": 0.8,
+    "reason": "Subtle romance unfolding over one serendipitous night, full of genuine conversations."
+  },
+  {
+    "movieId": 305,
+    "score": 0.75,
+    "reason": "Evocative family drama set against an icy Thanksgiving weekend, rich in unspoken tensions."
+  },
+  {
+    "movieId": 512,
+    "score": 0.7,
+    "reason": "Poetic meditation on loneliness and connection in a divided city with lyrical visuals."
+  },
+  {
+    "movieId": 9,
+    "score": 0.65,
+    "reason": "Profound prison drama that tackles morality and redemption with calm, unwavering focus."
+  },
+  {
+    "movieId": 276,
+    "score": 0.6,
+    "reason": "Raw, unflinching character study of addiction that respects viewers' intelligence."
+  },
+  {
+    "movieId": 684,
+    "score": 0.55,
+    "reason": "Compelling thriller about second-guessing your past, driven by believable, complex lead."
+  }
+]

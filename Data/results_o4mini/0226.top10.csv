@@ -1,0 +1,11 @@
+movieId,score,reason
+691,0.9,Title includes 'Dark'
+124,0.85,Title includes 'Shadow'
+984,0.8,Title includes 'Shadow'
+1545,0.75,Title is 'Shadows'
+1252,0.7,Title includes 'Shadow'
+389,0.3,"Title includes 'Black,' a dark shade"
+369,0.28,"Title includes 'Black,' meaning dark"
+98,0.25,"Title includes 'Silence,' evokes shadowy mood"
+64,0.2,"Title includes 'Shawshank,' features dark themes"
+44,0.15,"Title includes 'Dolores,' evokes dark drama"

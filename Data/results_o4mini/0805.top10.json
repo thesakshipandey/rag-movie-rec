@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 468,
+    "score": 0.98,
+    "reason": "A small-town boy defies all odds to earn his place at Notre Dame’s football legend",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 215,
+    "score": 0.96,
+    "reason": "A farmer answers a mysterious call in his cornfield and redeems his family’s future",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 28,
+    "score": 0.94,
+    "reason": "Grounded astronauts and mission control unite against near-catastrophic odds",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 270,
+    "score": 0.92,
+    "reason": "A genetic underdog battles prejudice to claim his place in space exploration",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 651,
+    "score": 0.9,
+    "reason": "Underdog regiment triumphs against racism to make history on battlefields",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 272,
+    "score": 0.88,
+    "reason": "A troubled youth and a therapist forge a breakthrough in Boston’s mean streets",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 93,
+    "score": 0.86,
+    "reason": "A shy girl’s battle with bullies turns into personal triumph in suburban schoolyard",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 482,
+    "score": 0.84,
+    "reason": "A group of misfits pull off the sting of the century in Depression-era caper",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 569,
+    "score": 0.82,
+    "reason": "A relentless detective hunts a phantom slasher as a city unites to stop terror",
+    "prompt_id": "0805"
+  },
+  {
+    "movieId": 628,
+    "score": 0.8,
+    "reason": "A genius janitor’s team-minded miracle lifts South Boston community spirit",
+    "prompt_id": "0805"
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason,title,year,plot
+214,0.95,Surreal musical odyssey mixing rock and striking visuals from the 80s.,Pink Floyd - The Wall,1982,
+451,0.9,Iconic 70s high-energy musical with bold style and lively dance numbers.,Grease,1978,
+155,0.88,Joyful dancing set to upbeat 80s pop tunes with a touch of nostalgia.,Dirty Dancing,1987,
+142,0.85,"Whimsical blend of live action and animation, magical 70s family musical.",Bedknobs and Broomsticks,1971,
+214,0.82,"Epic rock opera brings strange, haunting energy and big musical moments.",Pink Floyd - The Wall,1982,
+451,0.8,"Feel-good 70s musical packed with dance, romance, and style.",Grease,1978,
+155,0.78,80s favorite brimming with joyful dance and a rebellious spirit.,Dirty Dancing,1987,
+142,0.75,"Enchanting mix of music, magic, and adventure, full of charm.",Bedknobs and Broomsticks,1971,
+705,0.73,Classic song-and-dance routines with a touch of old Hollywood whimsy.,Singin' in the Rain,1952,
+91,0.7,"Bold, whimsically eerie musical energy in animated form.",The Nightmare Before Christmas,1993,

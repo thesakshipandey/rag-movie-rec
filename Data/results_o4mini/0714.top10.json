@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "Cinema Paradiso’s love of film and bittersweet nostalgia tugs the heart."
+  },
+  {
+    "movieId": 221,
+    "score": 0.95,
+    "reason": "Breaking the Waves delivers wrenching emotion and a fragile, hopeful ending."
+  },
+  {
+    "movieId": 9,
+    "score": 0.92,
+    "reason": "Dead Man Walking confronts mercy and redemption in a raw, cathartic journey."
+  },
+  {
+    "movieId": 86,
+    "score": 0.9,
+    "reason": "The Remains of the Day’s restrained longing blooms into gentle hope."
+  },
+  {
+    "movieId": 531,
+    "score": 0.88,
+    "reason": "Shine’s ode to triumph over adversity strikes a deeply moving chord."
+  },
+  {
+    "movieId": 318,
+    "score": 0.85,
+    "reason": "Schindler’s List finds humanity amid horror, ending on a note of endurance."
+  },
+  {
+    "movieId": 699,
+    "score": 0.83,
+    "reason": "Little Women’s warmth, family bonds, and quiet bravery leave you uplifted."
+  },
+  {
+    "movieId": 276,
+    "score": 0.8,
+    "reason": "Leaving Las Vegas shows love’s fragile light even at life’s darkest hour."
+  },
+  {
+    "movieId": 305,
+    "score": 0.78,
+    "reason": "The Ice Storm’s aching portrait of family fractures resolves in tender grace."
+  },
+  {
+    "movieId": 306,
+    "score": 0.75,
+    "reason": "Mrs. Brown’s gentle warmth rekindles joy in a story of faith and friendship."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 510,
+    "score": 0.92,
+    "reason": "A small band of gunslingers must hold off waves of bandits to protect a village, showcasing fear and quiet heroism."
+  },
+  {
+    "movieId": 470,
+    "score": 0.89,
+    "reason": "A handful of lawmen stand their ground in a dusty frontier street, wrestling with fear and resolve before the showdown."
+  },
+  {
+    "movieId": 184,
+    "score": 0.85,
+    "reason": "A lone hero and two sidekicks hole up in a cabin against a horde of undead, revealing their doubts and small bravery."
+  },
+  {
+    "movieId": 199,
+    "score": 0.83,
+    "reason": "Allied POWs in a jungle camp quietly endure and bond under the relentless Japanese surveillance and waiting tension."
+  },
+  {
+    "movieId": 641,
+    "score": 0.82,
+    "reason": "French soldiers grip trenches under artillery fire, struggling with orders, doubts, and unity as they await an inevitable onslaught."
+  },
+  {
+    "movieId": 651,
+    "score": 0.81,
+    "reason": "A small regiment fights to seize and hold a Confederate fort, facing internal squabbles, fear, and courage in the firing line."
+  },
+  {
+    "movieId": 233,
+    "score": 0.79,
+    "reason": "A lone ex-SEAL must safeguard a battleship’s crew from infiltrating terrorists, tension over quiet sabotage, trust, and fear."
+  },
+  {
+    "movieId": 1228,
+    "score": 0.77,
+    "reason": "An off-duty SEAL team defends a hijacked train in a snowbound tunnel, bracing for every silent footstep from hidden enemy."
+  },
+  {
+    "movieId": 635,
+    "score": 0.75,
+    "reason": "Residents barricade themselves in a seaside church as a creeping fog brings unseen threats, stirring quiet panic and solidarity."
+  },
+  {
+    "movieId": 520,
+    "score": 0.73,
+    "reason": "WWII POWs held in a guarded camp endure cramped quarters, petty squabbles, and small acts of courage as they bide their time."
+  }
+]

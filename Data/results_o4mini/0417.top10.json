@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "A descent into madness in a haunted hotel that leaves an unforgettable chill."
+  },
+  {
+    "movieId": 260,
+    "score": 0.94,
+    "reason": "A cosmic horror thriller that crafts an oppressive, claustrophobic atmosphere."
+  },
+  {
+    "movieId": 7,
+    "score": 0.92,
+    "reason": "A time-travel mystery that builds relentless tension and lingering unease."
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "A dystopian dark future where replicants blur the line between man and machine."
+  },
+  {
+    "movieId": 635,
+    "score": 0.88,
+    "reason": "A coastal town besieged by an impenetrable, vengeful fog generates creeping dread."
+  },
+  {
+    "movieId": 185,
+    "score": 0.87,
+    "reason": "A shocking act of violence in a secluded motel that forever changes its guest."
+  },
+  {
+    "movieId": 219,
+    "score": 0.85,
+    "reason": "A killer stalks teenagers in their dreams, twisting sleep into a horrifying trap."
+  },
+  {
+    "movieId": 123,
+    "score": 0.84,
+    "reason": "A ghostly comedy-thriller that fuses humor with unsettling supernatural chills."
+  },
+  {
+    "movieId": 565,
+    "score": 0.83,
+    "reason": "Children with eerie powers create a chilling sense of uncanny otherness."
+  },
+  {
+    "movieId": 179,
+    "score": 0.82,
+    "reason": "A stylized, brutal vision of a dystopian future that lingers in the mind."
+  }
+]

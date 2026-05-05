@@ -1,0 +1,58 @@
+{
+  "results": {
+    "0106": {
+      "top10": [
+        {
+          "movieId": 258,
+          "score": 1.00,
+          "reason": "A linguist deciphers mysterious alien transmission focusing on first contact and scientific inquiry."
+        },
+        {
+          "movieId": 135,
+          "score": 0.95,
+          "reason": "Monolith discovery and cosmic mystery drive a scientific exploration rather than a war story."
+        },
+        {
+          "movieId": 164,
+          "score": 0.90,
+          "reason": "Deep‐sea encounter with nonhostile aliens emphasizes science and curiosity, not combat."
+        },
+        {
+          "movieId": 222,
+          "score": 0.85,
+          "reason": "Voyage back to ensure humanity’s first peaceful meeting with an alien race."
+        },
+        {
+          "movieId": 62,
+          "score": 0.80,
+          "reason": "Archaeological and linguistic puzzle of an ancient portal sparks scientific wonder."
+        },
+        {
+          "movieId": 270,
+          "score": 0.75,
+          "reason": "Genetic determinism and biological limits explored through speculative science."
+        },
+        {
+          "movieId": 28,
+          "score": 0.70,
+          "reason": "True‐life mission drama with rigorous attention to technical and scientific detail."
+        },
+        {
+          "movieId": 355,
+          "score": 0.65,
+          "reason": "Investigation of a mysterious alien artifact probes human psyche and physics."
+        },
+        {
+          "movieId": 125,
+          "score": 0.60,
+          "reason": "Sudden cognitive leap explored scientifically in a grounded, nonviolent drama."
+        },
+        {
+          "movieId": 260,
+          "score": 0.55,
+          "reason": "Voyage to test the edge of known physics with a scientific rescue focus, not war."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 498,
+    "score": 1.0,
+    "reason": "Two longtime rivals forced to team up on a dangerous river mission, finding respect and affection as they fight for survival."
+  },
+  {
+    "movieId": 118,
+    "score": 0.93,
+    "reason": "Estranged exes must chase tornadoes together on a life-or-death storm-chasing project, forging a slow-burn spark amidst the chaos."
+  },
+  {
+    "movieId": 2,
+    "score": 0.9,
+    "reason": "Old MI6 partners Tasmin and Bond clash on a critical mission to stop nuclear annihilation, romance smoldering beneath the spy action."
+  },
+  {
+    "movieId": 129,
+    "score": 0.87,
+    "reason": "Two women with mutual suspicion plot a high-stakes heist side by side, their hot-and-cold attraction unfolding amid betrayal."
+  },
+  {
+    "movieId": 239,
+    "score": 0.84,
+    "reason": "A close-knit surveillance team reunites for a $500K code-cracking job, their banter hiding a slow-burn attraction under the tension."
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "A convict and a psychiatrist who first clash must join forces to unravel a deadly virus plot, their bond evolving secondarily to survival."
+  },
+  {
+    "movieId": 405,
+    "score": 0.77,
+    "reason": "Ethan Hunt and the IMF’s technical expert go from mutual distrust to grudging teamwork on a globe-spanning rescue, romance a subtle undercur"
+  },
+  {
+    "movieId": 39,
+    "score": 0.74,
+    "reason": "Ex-LAPD detective and a streetwise dealer reunite to solve a crime in the black-market VR underworld, sparks flying behind their vengeance q"
+  },
+  {
+    "movieId": 20,
+    "score": 0.71,
+    "reason": "An uptight naturalist and rebellious aristocrat spar over societal divides while cataloging specimens, their unexpected connection slowly em"
+  },
+  {
+    "movieId": 54,
+    "score": 0.7,
+    "reason": "An infectious-disease expert and a military medic, once at odds, must collaborate to stop an outbreak, romance building quietly behind the c"
+  }
+]

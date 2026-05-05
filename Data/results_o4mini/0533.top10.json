@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A labyrinthine crime thriller that keeps you questioning every twist."
+  },
+  {
+    "movieId": 333,
+    "score": 0.95,
+    "reason": "An elaborate mind game that blurs reality and suspicion at every turn."
+  },
+  {
+    "movieId": 328,
+    "score": 0.93,
+    "reason": "A paranoid ride into government secrets and the thin line of trust."
+  },
+  {
+    "movieId": 657,
+    "score": 0.9,
+    "reason": "Cold War paranoia and betrayal twist a soldier into a pawn in a deadly plot."
+  },
+  {
+    "movieId": 11,
+    "score": 0.88,
+    "reason": "A relentless killer's trail forces two detectives into a shocking conspiracy."
+  },
+  {
+    "movieId": 7,
+    "score": 0.86,
+    "reason": "A time-travel puzzle revealing a virus plot and fractured timelines."
+  },
+  {
+    "movieId": 38,
+    "score": 0.84,
+    "reason": "A lone woman's virtual life hides a digital conspiracy unraveling her reality."
+  },
+  {
+    "movieId": 79,
+    "score": 0.82,
+    "reason": "Wrongly accused, a man uncovers a government cover-up in a relentless chase."
+  },
+  {
+    "movieId": 124,
+    "score": 0.8,
+    "reason": "A sheriff uncovers buried secrets and corruption in a small border town."
+  },
+  {
+    "movieId": 324,
+    "score": 0.78,
+    "reason": "Nonlinear storytelling and eerie clues lead to a haunting, disorienting truth."
+  }
+]

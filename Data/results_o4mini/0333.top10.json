@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Spellbinding mystery with a jaw-dropping twist and elegant narrative misdirection"
+  },
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Gripping serial killer thriller that probes morality with lingering ambiguity"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Time-travel saga with layered realities and a haunting emotional resonance"
+  },
+  {
+    "movieId": 333,
+    "score": 0.85,
+    "reason": "Psychological thriller subverting expectations through intricate mind games"
+  },
+  {
+    "movieId": 324,
+    "score": 0.8,
+    "reason": "Surreal neo-noir journey challenging perception in a labyrinthine cityscape"
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Tapestried crime epic linking interwoven stories in a vivid, sharp narrative"
+  },
+  {
+    "movieId": 691,
+    "score": 0.7,
+    "reason": "Nightmarish sci-fi noir blending stylish visuals with existential intrigue"
+  },
+  {
+    "movieId": 654,
+    "score": 0.65,
+    "reason": "Masterful noir unraveling corruption and personal downfall through complex plot"
+  },
+  {
+    "movieId": 260,
+    "score": 0.6,
+    "reason": "Haunting cult horror bent on psychological depth and existential dread"
+  },
+  {
+    "movieId": 135,
+    "score": 0.55,
+    "reason": "Philosophical sci-fi odyssey exploring consciousness with surreal, open-ended vision"
+  }
+]

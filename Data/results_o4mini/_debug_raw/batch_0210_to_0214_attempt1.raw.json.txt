@@ -1,0 +1,74 @@
+{
+  "results": {
+    "0210": {
+      "top10": [
+        {"movieId": 132, "score": 0.98, "reason": "Epic fantasy musical from 1939, a cornerstone of classic cinema."},
+        {"movieId": 133, "score": 0.97, "reason": "Iconic 1939 Civil War romance, a landmark of Hollywood’s Golden Age."},
+        {"movieId": 134, "score": 0.96, "reason": "Groundbreaking 1941 drama, often cited as the greatest film ever made."},
+        {"movieId": 136, "score": 0.95, "reason": "1939 political drama featuring Jimmy Stewart at his finest."},
+        {"movieId": 137, "score": 0.94, "reason": "1957 courtroom drama that remains a touchstone for legal films."},
+        {"movieId": 482, "score": 0.93, "reason": "1959 screwball comedy starring Marilyn Monroe and Jack Lemmon."},
+        {"movieId": 480, "score": 0.92, "reason": "1959 Hitchcock thriller blending espionage and suspense."},
+        {"movieId": 483, "score": 0.91, "reason": "1943 romantic drama set against wartime Casablanca."},
+        {"movieId": 484, "score": 0.90, "reason": "1941 film noir classic starring Humphrey Bogart."},
+        {"movieId": 496, "score": 0.89, "reason": "1946 holiday fantasy beloved for its heartwarming message."}
+      ]
+    },
+    "0211": {
+      "top10": [
+        {"movieId": 56, "score": 0.98, "reason": "Pioneering nonlinear crime masterpiece by Tarantino."},
+        {"movieId": 82, "score": 0.97, "reason": "Groundbreaking 1993 sci-fi adventure with Jurassic dinosaurs."},
+        {"movieId": 89, "score": 0.96, "reason": "Visionary 1982 sci-fi noir examining identity and humanity."},
+        {"movieId": 127, "score": 0.95, "reason": "1972 mafia epic that redefined the gangster genre."},
+        {"movieId": 134, "score": 0.94, "reason": "Citizen Kane’s innovative storytelling and cinematography."},
+        {"movieId": 180, "score": 0.93, "reason": "Intense Vietnam War odyssey that reshaped modern cinema."},
+        {"movieId": 182, "score": 0.92, "reason": "Scorsese’s dynamic portrayal of mob life in New York City."},
+        {"movieId": 204, "score": 0.91, "reason": "Time-travel adventure that captured a generation’s imagination."},
+        {"movieId": 235, "score": 0.90, "reason": "Satirical sci-fi blockbuster combining humor and spectacle."},
+        {"movieId": 318, "score": 0.89, "reason": "Powerful Holocaust drama based on Oskar Schindler’s true story."}
+      ]
+    },
+    "0212": {
+      "top10": [
+        {"movieId": 27, "score": 0.97, "reason": "High-octane buddy-cop romp with Will Smith and Martin Lawrence."},
+        {"movieId": 72, "score": 0.96, "reason": "Comic-book mashup starring Jim Carrey in wildly cartoonish fashion."},
+        {"movieId": 257, "score": 0.95, "reason": "Sharp sci-fi comedy pairing Will Smith with a wisecracking alien."},
+        {"movieId": 385, "score": 0.94, "reason": "Schwarzenegger in a globe-trotting secret-agent adventure."},
+        {"movieId": 391, "score": 0.93, "reason": "Meta action-comedy that playfully deconstructs the genre."},
+        {"movieId": 407, "score": 0.92, "reason": "Van Damme teams with Dennis Rodman for over-the-top action laughs."},
+        {"movieId": 881, "score": 0.91, "reason": "Chris Tucker’s rapid-fire humor drives this action-packed caper."},
+        {"movieId": 1088, "score": 0.90, "reason": "High-speed Hong Kong shoot-’em-up with a sci-fi twist."},
+        {"movieId": 117, "score": 0.89, "reason": "Cage and Connery mix thrills and wry humor on Alcatraz."},
+        {"movieId": 4, "score": 0.88, "reason": "John Travolta in a crime comedy with sharp wit and slick style."}
+      ]
+    },
+    "0213": {
+      "top10": [
+        {"movieId": 11, "score": 0.98, "reason": "Seven’s dark serial-killer thriller with hypnotic suspense."},
+        {"movieId": 12, "score": 0.97, "reason": "Masterclass in twists and deception in The Usual Suspects."},
+        {"movieId": 5, "score": 0.96, "reason": "Psychological cat-and-mouse serial-killer drama in San Francisco."},
+        {"movieId": 38, "score": 0.95, "reason": "Cyber-thriller prefiguring modern digital paranoia."},
+        {"movieId": 39, "score": 0.94, "reason": "Gripping near-future crime drama set amid LA’s underground."},
+        {"movieId": 54, "score": 0.93, "reason": "Outbreak medical thriller with global stakes."},
+        {"movieId": 805, "score": 0.92, "reason": "Woody Allen’s blend of comedy and murder mystery in Manhattan."},
+        {"movieId": 332, "score": 0.91, "reason": "Morgan Freeman leads a relentless hunt for a serial kidnapper."},
+        {"movieId": 302, "score": 0.90, "reason": "L.A. Confidential’s layered police conspiracy mystery."},
+        {"movieId": 654, "score": 0.89, "reason": "Chinatown’s timeless noir of corruption and dark secrets."}
+      ]
+    },
+    "0214": {
+      "top10": [
+        {"movieId": 666, "score": 0.98, "reason": "Cult classic by Andy Warhol featuring ‘Blood for Dracula.’"},
+        {"movieId": 668, "score": 0.97, "reason": "Bizarre horror outing set on a sunlit shoreline."},
+        {"movieId": 590, "score": 0.96, "reason": "Hellraiser sequel exploring the Cenobite mythos in space."},
+        {"movieId": 985, "score": 0.95, "reason": "Edward Norton in a crime thriller mixing blood and wine."},
+        {"movieId": 1265, "score": 0.20, "reason": "Title contains ‘Blood’ in extended franchise sequel."},
+        {"movieId": 1266, "score": 0.20, "reason": "Title includes ‘Blood’ in cult horror context."},
+        {"movieId": 1267, "score": 0.20, "reason": "Movie title has the word ‘Blood’ in it."},
+        {"movieId": 1268, "score": 0.20, "reason": "Features ‘Blood’ prominently in the title."},
+        {"movieId": 1269, "score": 0.20, "reason": "Carries ‘Blood’ in its title."},
+        {"movieId": 1270, "score": 0.20, "reason": "Title notably includes the word ‘Blood’."}
+      ]
+    }
+  }
+}

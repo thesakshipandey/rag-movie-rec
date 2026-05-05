@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 66,
+    "score": 0.98,
+    "reason": "A lonely transit worker’s brief hospital stay derailed by mistaken identity sparks unexpected hope",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 88,
+    "score": 0.96,
+    "reason": "Two strangers misconnect then reunite after a year’s yearning on Christmas Eve",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 216,
+    "score": 0.94,
+    "reason": "Years apart, two friends keep missing each other until timing, and faith, bring them together",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 781,
+    "score": 0.92,
+    "reason": "A case of misplaced luggage strains fleeting chemistry until a last-minute twist of fate",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 918,
+    "score": 0.9,
+    "reason": "An angel’s voyeurism meets human longing in a bittersweet quest for connection",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 955,
+    "score": 0.88,
+    "reason": "Two strangers share one magical night, almost lose each other, then reunite as dawn breaks",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 1529,
+    "score": 0.86,
+    "reason": "A single split-second decision ripples through two versions of one couple’s fate",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 237,
+    "score": 0.84,
+    "reason": "An agent’s jaded heart softens when timing and friendship finally align on the road",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 739,
+    "score": 0.82,
+    "reason": "A Hollywood fairy-tale romance must overcome bad timing to find a hopeful ending",
+    "prompt_id": "0786"
+  },
+  {
+    "movieId": 272,
+    "score": 0.8,
+    "reason": "A hidden genius and a caring mentor almost miss their only chance at a breakthrough",
+    "prompt_id": "0786"
+  }
+]

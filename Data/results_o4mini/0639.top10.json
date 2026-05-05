@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 183,
+    "score": 1.0,
+    "reason": "Alien builds unbearable tension before revealing its creature in a masterpiece of shadowy suspense."
+  },
+  {
+    "movieId": 234,
+    "score": 0.95,
+    "reason": "Jaws masters suspense with fleeting glimpses of terror and smart characters standing their ground."
+  },
+  {
+    "movieId": 82,
+    "score": 0.9,
+    "reason": "Jurassic Park’s suspenseful build-up keeps you guessing when the dinosaurs will finally strike."
+  },
+  {
+    "movieId": 164,
+    "score": 0.85,
+    "reason": "The Abyss weaves slowly rising dread and intelligence before unveiling its alien mystery."
+  },
+  {
+    "movieId": 353,
+    "score": 0.8,
+    "reason": "Deep Rising blends oceanic isolation and clever protagonists before the sea creature appears."
+  },
+  {
+    "movieId": 141,
+    "score": 0.75,
+    "reason": "20,000 Leagues Under the Sea crafts uncharted depths of suspense against a barely seen leviathan."
+  },
+  {
+    "movieId": 616,
+    "score": 0.7,
+    "reason": "Night of the Living Dead employs smart survivors and creeping dread long before the dead advance."
+  },
+  {
+    "movieId": 260,
+    "score": 0.65,
+    "reason": "Event Horizon’s haunted ship drips dread before fully exposing its cosmic horror."
+  },
+  {
+    "movieId": 635,
+    "score": 0.6,
+    "reason": "The Fog builds ominous mystery on the Pacific Coast as villagers await a mist-shrouded menace."
+  },
+  {
+    "movieId": 343,
+    "score": 0.55,
+    "reason": "Alien: Resurrection mixes smart crew and slow reveals, keeping its creature partly in shadow."
+  }
+]

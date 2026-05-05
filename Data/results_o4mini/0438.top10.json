@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.97,
+    "reason": "A galaxy of wonder where every starship jump sparks pure awe."
+  },
+  {
+    "movieId": 173,
+    "score": 0.94,
+    "reason": "Enchanting blend of fairy tale whimsy and boundless imagination."
+  },
+  {
+    "movieId": 132,
+    "score": 0.91,
+    "reason": "Tornado-swept escape to technicolor dreams and friend-filled skies."
+  },
+  {
+    "movieId": 423,
+    "score": 0.88,
+    "reason": "Gentle alien magic and heartfelt bonds that lift you off the ground."
+  },
+  {
+    "movieId": 432,
+    "score": 0.85,
+    "reason": "Orchestral animation odyssey that dazzles every sense with wonder."
+  },
+  {
+    "movieId": 420,
+    "score": 0.82,
+    "reason": "Surreal cartoon adventure where imagination trumps reality at every turn."
+  },
+  {
+    "movieId": 142,
+    "score": 0.79,
+    "reason": "Animated spells and seaside escapades brim with childlike charm."
+  },
+  {
+    "movieId": 419,
+    "score": 0.76,
+    "reason": "Chimney-swept magic and rooftop ballet feel like a warm embrace."
+  },
+  {
+    "movieId": 143,
+    "score": 0.73,
+    "reason": "Mountains become a stage for song, lifting spirits in every note."
+  },
+  {
+    "movieId": 418,
+    "score": 0.7,
+    "reason": "Simple tale of transformation where kindness reigns supreme."
+  }
+]

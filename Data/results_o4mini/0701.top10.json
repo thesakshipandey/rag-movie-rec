@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 0.95,
+    "reason": "Clueless: Cher plots social schemes while navigating high-school politics"
+  },
+  {
+    "movieId": 93,
+    "score": 0.9,
+    "reason": "Welcome to the Dollhouse: Dawn’s cynical survival in middle school cliques"
+  },
+  {
+    "movieId": 42,
+    "score": 0.85,
+    "reason": "Clerks: witty female cameos and underground high-school humor"
+  },
+  {
+    "movieId": 88,
+    "score": 0.8,
+    "reason": "Sleepless in Seattle: backup cynical heroine scheming for love"
+  },
+  {
+    "movieId": 119,
+    "score": 0.75,
+    "reason": "Maya Lin: A Strong Clear Vision: inspired female leads defy expectations"
+  },
+  {
+    "movieId": 130,
+    "score": 0.7,
+    "reason": "Kansas City: female character schemes against social constraints"
+  },
+  {
+    "movieId": 221,
+    "score": 0.65,
+    "reason": "Breaking the Waves: unmarried heroine’s bold moves in moral battle"
+  },
+  {
+    "movieId": 302,
+    "score": 0.6,
+    "reason": "L.A. Confidential: femme fatale outsmarts peers in high-school-era flashbacks"
+  },
+  {
+    "movieId": 52,
+    "score": 0.55,
+    "reason": "Madness of King George: sharp, witty protagonist subverts royal norms"
+  },
+  {
+    "movieId": 238,
+    "score": 0.5,
+    "reason": "Raising Arizona: strong female role leads comedic capers"
+  }
+]

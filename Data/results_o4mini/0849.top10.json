@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 421,
+    "score": 0.99,
+    "reason": "Star-crossed lovers defy warring families in a tragic, timeless romance"
+  },
+  {
+    "movieId": 371,
+    "score": 0.97,
+    "reason": "A passionate fling between a rancher’s wife and a photographer that must stay hidden"
+  },
+  {
+    "movieId": 990,
+    "score": 0.95,
+    "reason": "A married noblewoman risks everything for forbidden desire in imperial Russia"
+  },
+  {
+    "movieId": 286,
+    "score": 0.93,
+    "reason": "A whirlwind wartime affair ignites between nurse and soldier amidst chaos"
+  },
+  {
+    "movieId": 212,
+    "score": 0.91,
+    "reason": "A surgeon torn between ambition and love in Soviet-era Prague faces impossible choices"
+  },
+  {
+    "movieId": 197,
+    "score": 0.89,
+    "reason": "A college graduate’s illicit affair with his professor’s wife yields unbearable stakes"
+  },
+  {
+    "movieId": 1459,
+    "score": 0.87,
+    "reason": "A young bride and a U.S. officer share a doomed passion across cultural divides"
+  },
+  {
+    "movieId": 155,
+    "score": 0.85,
+    "reason": "An unexpected holiday romance blossoms between a working-class man and a resort dancer"
+  },
+  {
+    "movieId": 129,
+    "score": 0.83,
+    "reason": "A lethal partnership forged in crime sparks a forbidden romance next door"
+  },
+  {
+    "movieId": 313,
+    "score": 0.81,
+    "reason": "A rich aristocrat’s illicit love with a penniless artist defies social class"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 1.0,
+    "reason": "Mind-bending time-travel puzzle exploring fate and madness"
+  },
+  {
+    "movieId": 89,
+    "score": 0.93,
+    "reason": "Philosophical noir on what it means to be human"
+  },
+  {
+    "movieId": 175,
+    "score": 0.86,
+    "reason": "Bureaucratic dystopia questioning the cost of efficiency"
+  },
+  {
+    "movieId": 135,
+    "score": 0.79,
+    "reason": "Visually monumental odyssey on evolution and intelligence"
+  },
+  {
+    "movieId": 270,
+    "score": 0.72,
+    "reason": "Genetic thriller probing ethics of engineered perfection"
+  },
+  {
+    "movieId": 202,
+    "score": 0.65,
+    "reason": "Groundhog Day reborn as existential rumination on free will"
+  },
+  {
+    "movieId": 1559,
+    "score": 0.58,
+    "reason": "Metaphysical road movie flirting with the surreal"
+  },
+  {
+    "movieId": 39,
+    "score": 0.51,
+    "reason": "Future-crime thriller tackling memory and identity vices"
+  },
+  {
+    "movieId": 258,
+    "score": 0.44,
+    "reason": "SETI docudrama weighing scientific faith and cosmic loneliness"
+  },
+  {
+    "movieId": 260,
+    "score": 0.37,
+    "reason": "Claustrophobic space horror exploring the unknown"
+  }
+]

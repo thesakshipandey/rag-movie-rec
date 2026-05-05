@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 438,
+    "score": 0.98,
+    "reason": "1983 suburban terror with surreal, magical realism tone"
+  },
+  {
+    "movieId": 273,
+    "score": 0.96,
+    "reason": "1995 musical-realism exploring personal obsession"
+  },
+  {
+    "movieId": 539,
+    "score": 0.94,
+    "reason": "1997 whimsical comedy-fantasy with subliminal magic"
+  },
+  {
+    "movieId": 1349,
+    "score": 0.92,
+    "reason": "1993 retro Italian fantasia blending myth and reality"
+  },
+  {
+    "movieId": 159,
+    "score": 0.9,
+    "reason": "1992 erotic thriller with dream-like surrealism"
+  },
+  {
+    "movieId": 980,
+    "score": 0.88,
+    "reason": "1996 spiritual drama with subtle supernatural element"
+  },
+  {
+    "movieId": 196,
+    "score": 0.85,
+    "reason": "1989 boarding-school drama with spiritual overtones"
+  },
+  {
+    "movieId": 522,
+    "score": 0.82,
+    "reason": "1969 gentle magical realism on anthropomorphic friendship"
+  },
+  {
+    "movieId": 169,
+    "score": 0.8,
+    "reason": "1993 stop-motion fantasy of everyday strangeness"
+  },
+  {
+    "movieId": 625,
+    "score": 0.78,
+    "reason": "1963 animated fairytale set in modern dreamlike realm"
+  }
+]

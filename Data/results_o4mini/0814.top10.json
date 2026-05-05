@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1127,
+    "score": 0.95,
+    "reason": "The Truman Show’s existential maze is funny, bleak, then oddly uplifting"
+  },
+  {
+    "movieId": 202,
+    "score": 0.92,
+    "reason": "Groundhog Day’s absurd loop forces deep, surprisingly hopeful self-discovery"
+  },
+  {
+    "movieId": 428,
+    "score": 0.9,
+    "reason": "Harold and Maude’s dark comedy explores life’s meaning in poignant laughs"
+  },
+  {
+    "movieId": 663,
+    "score": 0.88,
+    "reason": "Being There’s dry wit unravels existence in a warmly absurd way"
+  },
+  {
+    "movieId": 650,
+    "score": 0.86,
+    "reason": "The Seventh Seal’s bleak quest for truth ends on a strangely hopeful note"
+  },
+  {
+    "movieId": 496,
+    "score": 0.84,
+    "reason": "It’s a Wonderful Life’s existential crisis blossoms into gentle hope"
+  },
+  {
+    "movieId": 902,
+    "score": 0.82,
+    "reason": "The Big Lebowski’s laid-back absurdism masks deeper searches for purpose"
+  },
+  {
+    "movieId": 171,
+    "score": 0.8,
+    "reason": "Delicatessen’s black humor feels absurd, bleak, yet oddly human"
+  },
+  {
+    "movieId": 517,
+    "score": 0.78,
+    "reason": "Manhattan’s neurotic wanderings probe life’s quirks with ironic warmth"
+  },
+  {
+    "movieId": 34,
+    "score": 0.75,
+    "reason": "The Doom Generation’s dark absurdity veers between nihilism and redemption"
+  }
+]

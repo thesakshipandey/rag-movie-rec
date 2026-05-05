@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 288,
+    "score": 1.0,
+    "reason": "Scream uses meta-footage and videotape central to its suspenseful twists."
+  },
+  {
+    "movieId": 154,
+    "score": 0.9,
+    "reason": "Natural Born Killers frames its narrative through home-movie style news clips."
+  },
+  {
+    "movieId": 324,
+    "score": 0.85,
+    "reason": "Lost Highway uses found video tapes to unravel its surreal horror mystery."
+  },
+  {
+    "movieId": 81,
+    "score": 0.8,
+    "reason": "Hudsucker Proxy integrates pseudo-archival footage as a key storytelling device."
+  },
+  {
+    "movieId": 516,
+    "score": 0.75,
+    "reason": "Local Hero incorporates amateur film footage to reveal hidden truths."
+  },
+  {
+    "movieId": 612,
+    "score": 0.7,
+    "reason": "Lost Horizon uses expedition film reels to deepen its otherworldly tone."
+  },
+  {
+    "movieId": 238,
+    "score": 0.65,
+    "reason": "Raising Arizona foregrounds handheld video as a playful cinematic motif."
+  },
+  {
+    "movieId": 287,
+    "score": 0.6,
+    "reason": "Marvin’s Room weaves TV news footage into its family drama fabric."
+  },
+  {
+    "movieId": 371,
+    "score": 0.55,
+    "reason": "Bridges of Madison County employs home video to enrich personal recollections."
+  },
+  {
+    "movieId": 806,
+    "score": 0.5,
+    "reason": "Menace II Society uses surveillance style footage to heighten urban dread."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.98,
+    "reason": "Before Sunrise’s genuine, unscripted connection feels real and emotionally bittersweet."
+  },
+  {
+    "movieId": 276,
+    "score": 0.95,
+    "reason": "Leaving Las Vegas portrays a raw, tragic romance with complex, lived-in characters."
+  },
+  {
+    "movieId": 371,
+    "score": 0.93,
+    "reason": "The Bridges of Madison County’s mature, tender love resists glossy clichés."
+  },
+  {
+    "movieId": 275,
+    "score": 0.91,
+    "reason": "Sense and Sensibility weaves authentic emotion and nuance in a heartfelt ’90s drama."
+  },
+  {
+    "movieId": 51,
+    "score": 0.89,
+    "reason": "Legends of the Fall charts complicated bonds and bittersweet loss in sweeping ’90s drama."
+  },
+  {
+    "movieId": 462,
+    "score": 0.87,
+    "reason": "Like Water for Chocolate melds magical realism and real emotional stakes in ’92."
+  },
+  {
+    "movieId": 286,
+    "score": 0.85,
+    "reason": "The English Patient’s epic yet intimate romance carries a haunting bittersweetness."
+  },
+  {
+    "movieId": 421,
+    "score": 0.83,
+    "reason": "Romeo and Juliet captures raw, fated love without descending into broad comedy."
+  },
+  {
+    "movieId": 313,
+    "score": 0.81,
+    "reason": "Titanic’s sweeping drama and haunted longing avoid cheap airport clichés entirely."
+  },
+  {
+    "movieId": 272,
+    "score": 0.79,
+    "reason": "Good Will Hunting balances sharp wit and authentic emotional bonds in its romance."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 1.0,
+    "reason": "Taxi Driver—1976, Drama"
+  },
+  {
+    "movieId": 78,
+    "score": 0.9,
+    "reason": "Free Willy—1993, Drama"
+  },
+  {
+    "movieId": 99,
+    "score": 0.8,
+    "reason": "Snow White—1938, Drama"
+  },
+  {
+    "movieId": 132,
+    "score": 0.7,
+    "reason": "Wizard of Oz—1939, Drama"
+  },
+  {
+    "movieId": 136,
+    "score": 0.6,
+    "reason": "Mr. Smith—1939, Drama"
+  },
+  {
+    "movieId": 138,
+    "score": 0.5,
+    "reason": "D3: The Mighty Ducks—1996, Drama"
+  },
+  {
+    "movieId": 164,
+    "score": 0.4,
+    "reason": "The Abyss—1989, Thriller"
+  },
+  {
+    "movieId": 167,
+    "score": 0.3,
+    "reason": "Monty Python—1975, Comedy"
+  },
+  {
+    "movieId": 178,
+    "score": 0.2,
+    "reason": "12 Angry Men—1957, Drama"
+  },
+  {
+    "movieId": 185,
+    "score": 0.1,
+    "reason": "Psycho—1960, Thriller"
+  }
+]

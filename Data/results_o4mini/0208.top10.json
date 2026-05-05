@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 94,
+    "score": 0.99,
+    "reason": "Classic family comedy set at Christmas, pre-2000 favorite"
+  },
+  {
+    "movieId": 63,
+    "score": 0.98,
+    "reason": "Heartwarming Santa origin tale from 1994, avoiding modern cheesiness"
+  },
+  {
+    "movieId": 91,
+    "score": 0.97,
+    "reason": "Nightmare Before Christmas blends Halloween and Christmas fantasy"
+  },
+  {
+    "movieId": 378,
+    "score": 0.96,
+    "reason": "1994’s Miracle on 34th Street reboot with nostalgic holiday charm"
+  },
+  {
+    "movieId": 66,
+    "score": 0.95,
+    "reason": "While You Were Sleeping’s Chicago holiday romance from 1995"
+  },
+  {
+    "movieId": 88,
+    "score": 0.94,
+    "reason": "Sleepless in Seattle’s Christmas Eve broadcast is a timeless classic"
+  },
+  {
+    "movieId": 85,
+    "score": 0.93,
+    "reason": "The Ref’s wicked Christmas Eve black comedy from pre-2000 era"
+  },
+  {
+    "movieId": 496,
+    "score": 0.92,
+    "reason": "It’s a Wonderful Life’s enduring Christmas spirit from 1946"
+  },
+  {
+    "movieId": 633,
+    "score": 0.91,
+    "reason": "A Christmas Carol’s definitive 1938 animated classic"
+  },
+  {
+    "movieId": 142,
+    "score": 0.9,
+    "reason": "Bedknobs and Broomsticks’ magical wartime Christmas adventure (1971)"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 122,
+    "score": 0.94,
+    "reason": "Cable installer’s obsession with his customer spirals in odd, deadpan office encounters."
+  },
+  {
+    "movieId": 1077,
+    "score": 0.92,
+    "reason": "Merciless Hollywood producer and his intern clash in a satire of office power play."
+  },
+  {
+    "movieId": 108,
+    "score": 0.9,
+    "reason": "Beautiful psychopath murders co-workers in a TV station—dark humor meets cubicle dread."
+  },
+  {
+    "movieId": 924,
+    "score": 0.88,
+    "reason": "Ex-GI turns pool cleaner in L.A., where every corporate pool hides its own dirty secrets."
+  },
+  {
+    "movieId": 361,
+    "score": 0.86,
+    "reason": "Painter-turned-‘legit’ artist battles book editors in a gallery-world of absurd audits."
+  },
+  {
+    "movieId": 302,
+    "score": 0.84,
+    "reason": "Law firm intrigues where every sale and email breeds rivalries in the glass-walled bullpen."
+  },
+  {
+    "movieId": 137,
+    "score": 0.82,
+    "reason": "High-stakes restaurant race pits perfectionist chef vs. bureaucratic cocktail party blues."
+  },
+  {
+    "movieId": 149,
+    "score": 0.8,
+    "reason": "Starry-eyed supermodel meets profit-driven agency where work friendships feel criminally cold."
+  },
+  {
+    "movieId": 420,
+    "score": 0.78,
+    "reason": "Alice’s Wonderland publishing house where editors scramble for the next viral insight."
+  },
+  {
+    "movieId": 364,
+    "score": 0.76,
+    "reason": "Slacker detective and his drink-fuelled partner chase clues in a bureaucracy of bribes."
+  }
+]

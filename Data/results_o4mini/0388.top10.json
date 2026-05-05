@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 153,
+    "score": 1.0,
+    "reason": "A Fish Called Wanda is a witty caper filled with mischievous glee"
+  },
+  {
+    "movieId": 173,
+    "score": 0.95,
+    "reason": "The Princess Bride is a playful, clever romp brimming with charm"
+  },
+  {
+    "movieId": 209,
+    "score": 0.9,
+    "reason": "This Is Spinal Tap skewers rock with joyous, irreverent humor"
+  },
+  {
+    "movieId": 249,
+    "score": 0.85,
+    "reason": "Austin Powers gleefully spoofs spies with cheeky, playful energy"
+  },
+  {
+    "movieId": 4,
+    "score": 0.8,
+    "reason": "Get Shorty’s crime-comedy charms with sly humor and clever twists"
+  },
+  {
+    "movieId": 12,
+    "score": 0.75,
+    "reason": "The Usual Suspects smartly toys with you right up to the end"
+  },
+  {
+    "movieId": 248,
+    "score": 0.7,
+    "reason": "Grosse Pointe Blank mixes witty banter with a fun hit-man twist"
+  },
+  {
+    "movieId": 52,
+    "score": 0.65,
+    "reason": "Madness of King George amusingly reveals human folly"
+  },
+  {
+    "movieId": 209,
+    "score": 0.6,
+    "reason": "(Duplicate omitted)"
+  },
+  {
+    "movieId": 70,
+    "score": 0.55,
+    "reason": "Four Weddings and a Funeral is a charming, playful romantic comedy"
+  }
+]

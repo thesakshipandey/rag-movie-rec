@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "A creeping descent into madness within an isolated hotel, expertly sustained tension."
+  },
+  {
+    "movieId": 178,
+    "score": 0.9,
+    "reason": "A single jury room becomes a pressure cooker of doubt and dread, brilliantly claustrophobic."
+  },
+  {
+    "movieId": 603,
+    "score": 0.8,
+    "reason": "A maestro of visual suspense, this Hitchcock classic wrings every second for mounting anxiety."
+  },
+  {
+    "movieId": 675,
+    "score": 0.75,
+    "reason": "Silent, shadowy horror with a relentless, uncanny dread that builds without cheap tricks."
+  },
+  {
+    "movieId": 7,
+    "score": 0.7,
+    "reason": "A time-twisting virus thriller that’s relentlessly unsettling and psychologically claustrophic."
+  },
+  {
+    "movieId": 23,
+    "score": 0.65,
+    "reason": "An intoxicating portrait of urban insanity and isolation, a relentless undercurrent of menace."
+  },
+  {
+    "movieId": 180,
+    "score": 0.6,
+    "reason": "A hallucinatory Vietnam odyssey dripping with oppressive dread and haunting inevitability."
+  },
+  {
+    "movieId": 515,
+    "score": 0.55,
+    "reason": "A suffocating submarine siege that wrings terror from every confined, echoing corridor."
+  },
+  {
+    "movieId": 641,
+    "score": 0.5,
+    "reason": "A searing wartime drama that casts a cold, unforgiving gaze on the brutality of blind orders."
+  },
+  {
+    "movieId": 664,
+    "score": 0.45,
+    "reason": "A lonely odyssey through vast, empty landscapes, a quietly chilling elegy to alienation."
+  }
+]

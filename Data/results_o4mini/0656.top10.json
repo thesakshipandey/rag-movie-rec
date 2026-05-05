@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 641,
+    "score": 1.0,
+    "reason": "Powerful WWI court-martial drama highlighting command politics over combat"
+  },
+  {
+    "movieId": 474,
+    "score": 0.93,
+    "reason": "Satirical Cold War film centered on nuclear doctrine and political brinkmanship"
+  },
+  {
+    "movieId": 205,
+    "score": 0.89,
+    "reason": "Portrayal of Gen. Patton’s strategic leadership and political clashes in WWII"
+  },
+  {
+    "movieId": 520,
+    "score": 0.85,
+    "reason": "Explores strategic dilemmas and moral conflicts in a WWII POW camp, not frontline action"
+  },
+  {
+    "movieId": 511,
+    "score": 0.82,
+    "reason": "Depicts high-level desert campaigns and political alliances in WWI Middle East"
+  },
+  {
+    "movieId": 520,
+    "score": 0.78,
+    "reason": "POW camp breakout focuses on planning and camaraderie away from battlefield combat"
+  },
+  {
+    "movieId": 524,
+    "score": 0.74,
+    "reason": "Charlie Chaplin’s political satire skewers fascist strategy and propaganda"
+  },
+  {
+    "movieId": 136,
+    "score": 0.71,
+    "reason": "Idealistic senator battles political corruption and legislative maneuvering"
+  },
+  {
+    "movieId": 601,
+    "score": 0.68,
+    "reason": "Spanish Civil War-set drama exploring loyalty, ideology, and wartime decisions"
+  },
+  {
+    "movieId": 483,
+    "score": 0.65,
+    "reason": "Wartime intrigue in Vichy-era Casablanca emphasizes political negotiations over fights"
+  }
+]

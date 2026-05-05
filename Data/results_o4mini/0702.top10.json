@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 591,
+    "score": 0.95,
+    "reason": "Primal Fear: shocking courtroom twists in high-stakes murder trial"
+  },
+  {
+    "movieId": 282,
+    "score": 0.9,
+    "reason": "A Time to Kill: race and revenge fuel clever whodunit legal drama"
+  },
+  {
+    "movieId": 356,
+    "score": 0.85,
+    "reason": "Client, The: child-kidnapping case with surprise courtroom maneuvers"
+  },
+  {
+    "movieId": 79,
+    "score": 0.8,
+    "reason": "Fugitive, The: suspenseful legal chase over wrongful conviction"
+  },
+  {
+    "movieId": 98,
+    "score": 0.75,
+    "reason": "Silence of the Lambs: FBI trial-preparation tactics reveal hidden killer"
+  },
+  {
+    "movieId": 90,
+    "score": 0.7,
+    "reason": "So I Married an Axe Murderer: playful twists in criminal court subplot"
+  },
+  {
+    "movieId": 160,
+    "score": 0.65,
+    "reason": "Glengarry Glen Ross: ruthless legal gamesmanship in high-stakes case"
+  },
+  {
+    "movieId": 58,
+    "score": 0.6,
+    "reason": "Quiz Show: integrity and scandal in a televised murder-trial analogy"
+  },
+  {
+    "movieId": 56,
+    "score": 0.55,
+    "reason": "Pulp Fiction: fragmented crimes echo courtroom revelations"
+  },
+  {
+    "movieId": 12,
+    "score": 0.5,
+    "reason": "Usual Suspects: unraveling mystery with legal style interrogation"
+  }
+]

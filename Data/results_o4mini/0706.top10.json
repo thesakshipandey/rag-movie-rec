@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.98,
+    "reason": "Savage satire skewering pulp culture and crime media"
+  },
+  {
+    "movieId": 347,
+    "score": 0.95,
+    "reason": "Political spin doctor creates fake war for mass distraction"
+  },
+  {
+    "movieId": 471,
+    "score": 0.93,
+    "reason": "Darkly comic shot at media-fuels-panic military crisis"
+  },
+  {
+    "movieId": 588,
+    "score": 0.9,
+    "reason": "Slasher gone viral, riffing on sensationalist news coverage"
+  },
+  {
+    "movieId": 444,
+    "score": 0.88,
+    "reason": "Campy horror skewered through tongue-in-cheek genre send-up"
+  },
+  {
+    "movieId": 361,
+    "score": 0.85,
+    "reason": "Art thief’s con becomes a media-saturated identity crisis"
+  },
+  {
+    "movieId": 636,
+    "score": 0.83,
+    "reason": "Cult hit lampoons dark conspiracy tropes with biting wit"
+  },
+  {
+    "movieId": 804,
+    "score": 0.8,
+    "reason": "Slapstick noir that mocks detective cliches"
+  },
+  {
+    "movieId": 209,
+    "score": 0.78,
+    "reason": "Documentary send-up cruelly targeting rock-star hubris"
+  },
+  {
+    "movieId": 154,
+    "score": 0.75,
+    "reason": "Sacrilegious humor skewering religious and political absurdity"
+  }
+]

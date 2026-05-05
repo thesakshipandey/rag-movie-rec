@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 93,
+    "score": 0.95,
+    "reason": "Raw, relatable Indie drama about feeling alienated in middle school with genuine emotion and hope"
+  },
+  {
+    "movieId": 537,
+    "score": 0.9,
+    "reason": "Road-trip coming-of-age Indie exploring loneliness and search for identity"
+  },
+  {
+    "movieId": 1262,
+    "score": 0.85,
+    "reason": "Indie friendship drama capturing confusion and longing in your twenties"
+  },
+  {
+    "movieId": 962,
+    "score": 0.8,
+    "reason": "Subtle Indie tale of a shy girl finding herself away from home"
+  },
+  {
+    "movieId": 733,
+    "score": 0.75,
+    "reason": "Low-budget queer Indie about searching for love and meaning"
+  },
+  {
+    "movieId": 955,
+    "score": 0.7,
+    "reason": "Witty, one-night meeting that sparkles with real emotion"
+  },
+  {
+    "movieId": 808,
+    "score": 0.65,
+    "reason": "Disaffected teens grappling with purpose in suburban malaise"
+  },
+  {
+    "movieId": 1131,
+    "score": 0.6,
+    "reason": "Uneasy Indie character study of a woman wrestling with identity"
+  },
+  {
+    "movieId": 959,
+    "score": 0.55,
+    "reason": "Heartfelt teen ensemble drama that balances melancholy and humor"
+  },
+  {
+    "movieId": 1269,
+    "score": 0.5,
+    "reason": "Touching Cuban drama about unexpected connections and inner restlessness"
+  }
+]

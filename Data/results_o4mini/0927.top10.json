@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 328,
+    "score": 1.0,
+    "reason": "A conspiracy theorist hunted by the CIA for uncovering secrets in 1990s Washington D.C."
+  },
+  {
+    "movieId": 333,
+    "score": 0.94,
+    "reason": "A wealthy banker preyed upon by a shadowy organization in a tense cat-and-mouse thriller."
+  },
+  {
+    "movieId": 291,
+    "score": 0.93,
+    "reason": "A thief witnesses White House corruption and is ruthlessly pursued by powerful forces."
+  },
+  {
+    "movieId": 566,
+    "score": 0.9,
+    "reason": "An insider uncovers CIA drug smuggling and finds himself targeted by his own government."
+  },
+  {
+    "movieId": 77,
+    "score": 0.88,
+    "reason": "A young lawyer joins a Memphis firm and unravels a deadly corporate conspiracy."
+  },
+  {
+    "movieId": 38,
+    "score": 0.85,
+    "reason": "A systems analyst stumbles on a sinister digital plot and becomes a hunted target."
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "A team of hackers unearths a government cover-up and must evade relentless spies."
+  },
+  {
+    "movieId": 39,
+    "score": 0.72,
+    "reason": "An ex-cop turned black-marketeer uncovers a corporate plot and is pursued across L.A."
+  },
+  {
+    "movieId": 322,
+    "score": 0.7,
+    "reason": "A DC detective unravels a White House murder conspiracy and is chased through the halls of power."
+  },
+  {
+    "movieId": 54,
+    "score": 0.65,
+    "reason": "A virologist unearths a military bio-weapons cover-up and races against time while hunted."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "Groundbreaking space opera with a richly detailed galaxy far, far away"
+  },
+  {
+    "movieId": 172,
+    "score": 0.95,
+    "reason": "Darker sequel deepening the Star Wars universe’s lore and cosmic intrigue"
+  },
+  {
+    "movieId": 62,
+    "score": 0.9,
+    "reason": "Sci-fi adventure exploring ancient alien technology and secretive worlds"
+  },
+  {
+    "movieId": 82,
+    "score": 0.85,
+    "reason": "Thrilling prehistoric adventure bringing dinosaurs to life in a vivid island setting"
+  },
+  {
+    "movieId": 135,
+    "score": 0.8,
+    "reason": "Epic sci-fi odyssey spanning eons with stunning visuals and profound mystery"
+  },
+  {
+    "movieId": 183,
+    "score": 0.75,
+    "reason": "Claustrophobic sci-fi horror set aboard a spaceship with iconic creature design"
+  },
+  {
+    "movieId": 176,
+    "score": 0.7,
+    "reason": "Action-packed sci-fi sequel expanding the universe’s mythology and terror"
+  },
+  {
+    "movieId": 164,
+    "score": 0.65,
+    "reason": "Underwater sci-fi thriller uncovering alien existence in the depths with intense stakes"
+  },
+  {
+    "movieId": 691,
+    "score": 0.6,
+    "reason": "Neo-noir sci-fi featuring a haunting, shape-shifting cityscape and mysterious reality"
+  },
+  {
+    "movieId": 271,
+    "score": 0.55,
+    "reason": "Satirical military sci-fi showcasing interstellar warfare and societal propaganda"
+  }
+]

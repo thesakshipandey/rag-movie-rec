@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 258,
+    "score": 1.0,
+    "reason": "A scientist’s quest for ET signals evokes wonder at the universe’s vastness."
+  },
+  {
+    "movieId": 28,
+    "score": 0.97,
+    "reason": "True‐life space drama inspiring hope in human ingenuity and teamwork."
+  },
+  {
+    "movieId": 62,
+    "score": 0.95,
+    "reason": "Ancient gate opens a window to cosmic mystery and endless galactic wonder."
+  },
+  {
+    "movieId": 423,
+    "score": 0.93,
+    "reason": "A child’s friendship with an alien captures pure, heartfelt marvel."
+  },
+  {
+    "movieId": 222,
+    "score": 0.9,
+    "reason": "Time travel to heal a fractured past and secure a hopeful tomorrow."
+  },
+  {
+    "movieId": 82,
+    "score": 0.88,
+    "reason": "Dinosaur park’s breathtaking creatures ignite childhood awe and excitement."
+  },
+  {
+    "movieId": 215,
+    "score": 0.86,
+    "reason": "An outlandish baseball diamond awakens dreams of unity and magic."
+  },
+  {
+    "movieId": 50,
+    "score": 0.84,
+    "reason": "A young farmhand’s journey across galaxies brims with heroic promise."
+  },
+  {
+    "movieId": 204,
+    "score": 0.82,
+    "reason": "Teen time‐traveler finds possibility in shaping his own destiny."
+  },
+  {
+    "movieId": 132,
+    "score": 0.8,
+    "reason": "A girl’s whirlwind journey to Oz unfolds in a luminous, hopeful fantasy."
+  }
+]

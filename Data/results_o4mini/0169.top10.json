@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 645,
+    "score": 1.0,
+    "reason": "Iconic documentary on NYC drag ball culture and its historical impact on 1980s LGBTQ community."
+  },
+  {
+    "movieId": 119,
+    "score": 0.95,
+    "reason": "Documentary on Maya Lin’s journey designing the Vietnam Veterans Memorial."
+  },
+  {
+    "movieId": 813,
+    "score": 0.9,
+    "reason": "Explores LGBTQ representation in film history through interviews and classic clips."
+  },
+  {
+    "movieId": 320,
+    "score": 0.85,
+    "reason": "Examines the Robin Hood Hills child murders with archival footage and interviews."
+  },
+  {
+    "movieId": 814,
+    "score": 0.8,
+    "reason": "Chronicles the birth of bebop and jazz legends in 1950s Harlem."
+  },
+  {
+    "movieId": 884,
+    "score": 0.75,
+    "reason": "Follows Neil Young & Crazy Horse on tour, blending music history with concert footage."
+  },
+  {
+    "movieId": 75,
+    "score": 0.7,
+    "reason": "Investigates Malcolm X’s assassination with archival news clips and eyewitness accounts."
+  },
+  {
+    "movieId": 1482,
+    "score": 0.65,
+    "reason": "Chronicles the 1989 Tiananmen Square protests with rare footage and firsthand testimony."
+  },
+  {
+    "movieId": 1201,
+    "score": 0.6,
+    "reason": "Profiles Marlene Dietrich’s film career and propaganda work through rare interviews."
+  },
+  {
+    "movieId": 115,
+    "score": 0.55,
+    "reason": "Documentary on cult filmmaker Ed Wood Jr. with interviews and rare behind-the-scenes footage."
+  }
+]

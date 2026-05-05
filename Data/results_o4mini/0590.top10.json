@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Charming tale of misplaced toys forging a heartfelt, makeshift family bond."
+  },
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Sweet farmyard adventure about an unlikely hero and his adoptive animal family."
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Pirate comedy where a ragtag crew becomes the ultimate found family on the high seas."
+  },
+  {
+    "movieId": 99,
+    "score": 0.85,
+    "reason": "Classic fairytale of camaraderie between a princess and her seven devoted companions."
+  },
+  {
+    "movieId": 140,
+    "score": 0.8,
+    "reason": "Loyal pets embark on a perilous journey together, proving friendship knows no bounds."
+  },
+  {
+    "movieId": 400,
+    "score": 0.75,
+    "reason": "Wholesome childhood antics reminding you that misfit loyalty conquers all."
+  },
+  {
+    "movieId": 465,
+    "score": 0.7,
+    "reason": "Delightful animated romp celebrating friendships across wild, untamed landscapes."
+  },
+  {
+    "movieId": 383,
+    "score": 0.65,
+    "reason": "Stone-age family comedy that places prehistoric misfits at the heart of warm hilarity."
+  },
+  {
+    "movieId": 386,
+    "score": 0.6,
+    "reason": "Offbeat, affectionate look at an eccentric family like no other."
+  },
+  {
+    "movieId": 139,
+    "score": 0.55,
+    "reason": "Light-hearted race car caper where a mismatched trio becomes an unlikely team."
+  }
+]

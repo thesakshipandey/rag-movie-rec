@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 160,
+    "score": 0.95,
+    "reason": "Glengarry Glen Ross’s rapid-fire sales banter crackles with ruthless strategy"
+  },
+  {
+    "movieId": 657,
+    "score": 0.92,
+    "reason": "The Manchurian Candidate’s covert alliances and betrayals unravel brilliantly"
+  },
+  {
+    "movieId": 566,
+    "score": 0.9,
+    "reason": "Clear and Present Danger’s war-room tactics feel coldly precise"
+  },
+  {
+    "movieId": 291,
+    "score": 0.88,
+    "reason": "Absolute Power plays its presidential chess with no moral compass"
+  },
+  {
+    "movieId": 31,
+    "score": 0.86,
+    "reason": "Crimson Tide’s claustrophobic naval standoff is all hushed power plays"
+  },
+  {
+    "movieId": 458,
+    "score": 0.84,
+    "reason": "Nixon’s quiet backroom deals ripple with historical cynicism"
+  },
+  {
+    "movieId": 328,
+    "score": 0.82,
+    "reason": "Conspiracy Theory’s paranoid webs are spun with clinical calculation"
+  },
+  {
+    "movieId": 38,
+    "score": 0.8,
+    "reason": "The Net’s digital cat-and-mouse unfolds in silent, strategic moves"
+  },
+  {
+    "movieId": 347,
+    "score": 0.78,
+    "reason": "Wag the Dog’s spin-doctor coup is a cynical, dialogue-driven marvel"
+  },
+  {
+    "movieId": 759,
+    "score": 0.75,
+    "reason": "Fair Game’s political double-crosses play out in sharp, low-key scheming"
+  }
+]

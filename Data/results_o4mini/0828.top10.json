@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "The Shining: family’s buried guilt seeps into everyday life as subtle dread pervades each moment"
+  },
+  {
+    "movieId": 444,
+    "score": 0.92,
+    "reason": "The Blob: town’s old mistake resurfaces in slow-burn horror that defies rational explanation"
+  },
+  {
+    "movieId": 44,
+    "score": 0.9,
+    "reason": "Dolores Claiborne: hidden family sins weigh heavy, manifesting in a pervasive atmosphere of wrongness"
+  },
+  {
+    "movieId": 109,
+    "score": 0.88,
+    "reason": "Frighteners, The: past violence refuses to stay buried, haunting the living with creeping unease"
+  },
+  {
+    "movieId": 40,
+    "score": 0.85,
+    "reason": "To Wong Foo, Thanks for Everything! Julie Newmar: underlying family conflicts emerge with oppressive pressure"
+  },
+  {
+    "movieId": 81,
+    "score": 0.83,
+    "reason": "Hudsucker Proxy: corporate family’s buried ambitions warp reality in uncanny, off-kilter tension"
+  },
+  {
+    "movieId": 86,
+    "score": 0.8,
+    "reason": "Remains of the Day: haunted English estate bears scars of its family’s unspoken transgressions"
+  },
+  {
+    "movieId": 64,
+    "score": 0.78,
+    "reason": "Shawshank Redemption: inmate bonds reveal how past betrayals echo in every corner of daily prison life"
+  },
+  {
+    "movieId": 5,
+    "score": 0.75,
+    "reason": "Copycat: detective’s hidden trauma seeps into present, unsettling each investigation step"
+  },
+  {
+    "movieId": 11,
+    "score": 0.72,
+    "reason": "Seven: serial killer’s psychopathology drags echoes of past misdeeds into the living world"
+  }
+]

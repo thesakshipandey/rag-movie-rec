@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 494,
+    "score": 0.98,
+    "reason": "A rapid-fire screwball comedy overflowing with razor-sharp wit and snappy dialogue"
+  },
+  {
+    "movieId": 481,
+    "score": 0.96,
+    "reason": "Witty, romantic comedy where sharp banter and charming repartee steal every scene"
+  },
+  {
+    "movieId": 482,
+    "score": 0.95,
+    "reason": "Iconic screwball farce with lightning-fast quips and uproarious mistaken identities"
+  },
+  {
+    "movieId": 216,
+    "score": 0.94,
+    "reason": "Beloved romantic comedy brimming with clever, quotable banter and poignant humor"
+  },
+  {
+    "movieId": 514,
+    "score": 0.93,
+    "reason": "Woody Allen’s neurotic, self-aware comedy where smart banter drives endearing laughter"
+  },
+  {
+    "movieId": 1204,
+    "score": 0.91,
+    "reason": "Michael Powell’s meta-comedy riffs on Hollywood with sparkling, self-referential humor"
+  },
+  {
+    "movieId": 659,
+    "score": 0.9,
+    "reason": "Madly funny, surreal satire with Groucho-style wordplay and anarchic wit"
+  },
+  {
+    "movieId": 517,
+    "score": 0.89,
+    "reason": "Brooklyn romance brimming with intelligent humor and charming, conversational sparkle"
+  },
+  {
+    "movieId": 25,
+    "score": 0.88,
+    "reason": "Flamboyant drag-club comedy alive with sharp wit and vivacious, uproarious dialogue"
+  },
+  {
+    "movieId": 494,
+    "score": 0.87,
+    "reason": "Classic newsroom comedy with nonstop wisecracks and gleefully over-the-top banter"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.94,
+    "reason": "Dark serial killer noir vibes",
+    "plot": ""
+  },
+  {
+    "movieId": 23,
+    "score": 0.92,
+    "reason": "Cynical urban descent in shadows",
+    "plot": ""
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "Bleak future under neon gloom",
+    "plot": ""
+  },
+  {
+    "movieId": 180,
+    "score": 0.88,
+    "reason": "War madness in murky darkness",
+    "plot": ""
+  },
+  {
+    "movieId": 200,
+    "score": 0.85,
+    "reason": "Psychological dread in isolated hotel",
+    "plot": ""
+  },
+  {
+    "movieId": 121,
+    "score": 0.83,
+    "reason": "World-ending paranoia at midnight",
+    "plot": ""
+  },
+  {
+    "movieId": 168,
+    "score": 0.8,
+    "reason": "Bleak medieval quest in stark light",
+    "plot": ""
+  },
+  {
+    "movieId": 541,
+    "score": 0.78,
+    "reason": "Grim interstellar war gothic tone",
+    "plot": ""
+  },
+  {
+    "movieId": 650,
+    "score": 0.75,
+    "reason": "Plague-haunted knight's somber journey",
+    "plot": ""
+  },
+  {
+    "movieId": 549,
+    "score": 0.72,
+    "reason": "Twilight struggles in postwar gloom",
+    "plot": ""
+  }
+]

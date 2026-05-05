@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Se7en blends Thriller and Mystery in a killer chase"
+  },
+  {
+    "movieId": 44,
+    "score": 0.9,
+    "reason": "Dolores Claiborne’s suspenseful small-town puzzle"
+  },
+  {
+    "movieId": 56,
+    "score": 0.8,
+    "reason": "Non-linear thriller with intertwined mysteries"
+  },
+  {
+    "movieId": 110,
+    "score": 0.7,
+    "reason": "Elephant drops in amid war-zone intrigue"
+  },
+  {
+    "movieId": 273,
+    "score": 0.6,
+    "reason": "Heat’s heist and cop duel pack both genres"
+  },
+  {
+    "movieId": 298,
+    "score": 0.5,
+    "reason": "Identity swap stirs psychological suspense"
+  },
+  {
+    "movieId": 329,
+    "score": 0.4,
+    "reason": "Desperate race for bone marrow turns tense"
+  },
+  {
+    "movieId": 566,
+    "score": 0.3,
+    "reason": "Legal thriller entwines political mystery"
+  },
+  {
+    "movieId": 748,
+    "score": 0.2,
+    "reason": "Saint’s spy game hides darker puzzle"
+  },
+  {
+    "movieId": 767,
+    "score": 0.1,
+    "reason": "Psychological portrait with puzzle core"
+  }
+]

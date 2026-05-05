@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 134,
+    "score": 0.94,
+    "reason": "Citizen Kane is a landmark drama of power and regret in early 20th-c. America."
+  },
+  {
+    "movieId": 133,
+    "score": 0.92,
+    "reason": "Gone with the Wind is an epic Civil War drama set on a Georgia plantation."
+  },
+  {
+    "movieId": 483,
+    "score": 0.9,
+    "reason": "Casablanca is a romantic wartime drama in a Moroccan café under Vichy rule."
+  },
+  {
+    "movieId": 607,
+    "score": 0.88,
+    "reason": "Rebecca unfolds gothic mystery and marital suspense in an English manor."
+  },
+  {
+    "movieId": 611,
+    "score": 0.86,
+    "reason": "Laura is a moody detective tale of obsession set in postwar New York."
+  },
+  {
+    "movieId": 489,
+    "score": 0.84,
+    "reason": "Notorious blends espionage and romance in wartime suspense."
+  },
+  {
+    "movieId": 604,
+    "score": 0.82,
+    "reason": "It Happened One Night is a classic screwball drama of love and pursuit."
+  },
+  {
+    "movieId": 513,
+    "score": 0.8,
+    "reason": "The Third Man captures post-war Vienna’s shadows in a masterful thriller."
+  },
+  {
+    "movieId": 484,
+    "score": 0.78,
+    "reason": "The Maltese Falcon is a hard-boiled detective drama of greed and murder."
+  },
+  {
+    "movieId": 615,
+    "score": 0.76,
+    "reason": "The 39 Steps is a taut Hitchcock thriller of espionage before WWII."
+  }
+]

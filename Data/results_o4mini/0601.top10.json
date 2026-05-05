@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "Cinema Paradiso’s sun-drenched memories of childhood fuel bittersweet film-lover nostalgia."
+  },
+  {
+    "movieId": 1209,
+    "score": 0.94,
+    "reason": "The Umbrellas of Cherbourg’s vivid jazz-tinged love story drips with tender longing."
+  },
+  {
+    "movieId": 959,
+    "score": 0.9,
+    "reason": "Dazed and Confused’s hazy 1970s summer vibe feels like a dream half-remembered."
+  },
+  {
+    "movieId": 215,
+    "score": 0.87,
+    "reason": "Field of Dreams’s pastoral magic and father-son warmth ache with gentle nostalgia."
+  },
+  {
+    "movieId": 955,
+    "score": 0.82,
+    "reason": "Before Sunrise’s wistful city wanderings capture the fleeting promise of youth."
+  },
+  {
+    "movieId": 86,
+    "score": 0.78,
+    "reason": "The Remains of the Day’s elegant reflections on duty and loss stir nostalgic ache."
+  },
+  {
+    "movieId": 204,
+    "score": 0.75,
+    "reason": "Back to the Future’s charming ’80s time-travel adventure sparkles with wistful joy."
+  },
+  {
+    "movieId": 655,
+    "score": 0.72,
+    "reason": "Stand by Me’s small-town childhood adventure throbs with bittersweet innocence."
+  },
+  {
+    "movieId": 137,
+    "score": 0.69,
+    "reason": "Big Night’s sumptuous celebration of friendship and food lingers with tender warmth."
+  },
+  {
+    "movieId": 170,
+    "score": 0.65,
+    "reason": "Cinema Paradiso’s final flood of film reels feels like a half-remembered dream."
+  }
+]

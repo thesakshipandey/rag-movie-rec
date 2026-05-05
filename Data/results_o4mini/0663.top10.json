@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 234,
+    "score": 0.99,
+    "reason": "The shark remains unseen until gradual glimpses, building tension through sound and reactions"
+  },
+  {
+    "movieId": 183,
+    "score": 0.97,
+    "reason": "Alien is hidden in shadows and vents, revealed slowly to maximize dread"
+  },
+  {
+    "movieId": 264,
+    "score": 0.95,
+    "reason": "Mimic’s insect monsters lurk offscreen, stirring anxiety with clicks and rustles"
+  },
+  {
+    "movieId": 443,
+    "score": 0.93,
+    "reason": "The birds attack without warning, their presence felt in ominous silence"
+  },
+  {
+    "movieId": 444,
+    "score": 0.92,
+    "reason": "The amorphous blob grows unseen, its approach signaled by eerie score"
+  },
+  {
+    "movieId": 54,
+    "score": 0.9,
+    "reason": "Outbreak uses mounting panic and containment sounds to dread effect"
+  },
+  {
+    "movieId": 260,
+    "score": 0.88,
+    "reason": "Event Horizon teases cosmic horror through hallucinations and audio cues"
+  },
+  {
+    "movieId": 800,
+    "score": 0.87,
+    "reason": "In the Mouth of Madness builds dread via supernatural suggestion over visuals"
+  },
+  {
+    "movieId": 164,
+    "score": 0.85,
+    "reason": "The Abyss conceals its alien creature beneath the waves, heightening suspense"
+  },
+  {
+    "movieId": 565,
+    "score": 0.83,
+    "reason": "Village of the Damned’s eerie children remain silent for most of the film"
+  }
+]

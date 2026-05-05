@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 1.0,
+    "reason": "Grimy, revisionist western that deconstructs legend with moral nuance and stark realism."
+  },
+  {
+    "movieId": 177,
+    "score": 0.95,
+    "reason": "Epic spaghetti western known for its gritty duels and sweeping desert landscapes."
+  },
+  {
+    "movieId": 97,
+    "score": 0.9,
+    "reason": "Sweeping frontier epic that balances intimate character drama with vast Western vistas."
+  },
+  {
+    "movieId": 435,
+    "score": 0.85,
+    "reason": "Charismatic outlaw duo in a sun-soaked saga blending humor with high-stakes adventure."
+  },
+  {
+    "movieId": 646,
+    "score": 0.8,
+    "reason": "Lavish operatic western of vengeance and redemption set against monumental landscapes."
+  },
+  {
+    "movieId": 232,
+    "score": 0.75,
+    "reason": "High-energy modern western capturing youthful outlaw camaraderie and frontier justice."
+  },
+  {
+    "movieId": 470,
+    "score": 0.7,
+    "reason": "Raucous true-story western fueled by gunslinger showdowns and a battle for honor in an outlaw town."
+  },
+  {
+    "movieId": 661,
+    "score": 0.65,
+    "reason": "Classic moral showdown at high noon that defined the taut, existential western."
+  },
+  {
+    "movieId": 1188,
+    "score": 0.6,
+    "reason": "Sequel delivering adrenaline-fueled gunfights and lightning-fast outlaw action."
+  },
+  {
+    "movieId": 33,
+    "score": 0.55,
+    "reason": "Stylish neo-western in Mexico with guitar case gunfights and vengeful swagger."
+  }
+]

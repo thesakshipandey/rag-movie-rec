@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 147,
+    "score": 0.95,
+    "reason": "The Long Kiss Goodnight’s revenge scheme unfolds with icy precision"
+  },
+  {
+    "movieId": 79,
+    "score": 0.92,
+    "reason": "The Fugitive’s meticulous plan to expose betrayal feels satisfyingly cold"
+  },
+  {
+    "movieId": 203,
+    "score": 0.9,
+    "reason": "Unforgiven’s slow-burn retribution always lands with chilling control"
+  },
+  {
+    "movieId": 218,
+    "score": 0.88,
+    "reason": "Cape Fear’s patient plotting builds to a deeply gratifying reckoning"
+  },
+  {
+    "movieId": 641,
+    "score": 0.86,
+    "reason": "Paths of Glory’s judicial vengeance is exact, controlled, and just"
+  },
+  {
+    "movieId": 12,
+    "score": 0.84,
+    "reason": "The Usual Suspects’ labyrinthine con pays off in a masterful reveal"
+  },
+  {
+    "movieId": 79,
+    "score": 0.82,
+    "reason": "The Fugitive’s cat-and-mouse revenge chase is clinical and thrilling"
+  },
+  {
+    "movieId": 651,
+    "score": 0.8,
+    "reason": "Glory’s brothers-in-arms plot slowly weaves a powerful payoff"
+  },
+  {
+    "movieId": 643,
+    "score": 0.78,
+    "reason": "The Innocent’s turn of tables feels like a cold, exacting triumph"
+  },
+  {
+    "movieId": 192,
+    "score": 0.75,
+    "reason": "Raging Bull’s vengeance is delivered with quiet, brutal inevitability"
+  }
+]

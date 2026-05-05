@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.96,
+    "reason": "Composer-teacher crafts the perfect symphony in his classroom, one note at a time"
+  },
+  {
+    "movieId": 137,
+    "score": 0.94,
+    "reason": "Obsessive chef brothers perfect each dish ahead of a make-or-break banquet"
+  },
+  {
+    "movieId": 32,
+    "score": 0.92,
+    "reason": "Comic-book legend sketches each panel with meditative care in his cluttered studio"
+  },
+  {
+    "movieId": 53,
+    "score": 0.9,
+    "reason": "Couple’s slow rhythm as they choreograph a dance number feels hypnotically real"
+  },
+  {
+    "movieId": 1036,
+    "score": 0.88,
+    "reason": "Monk’s quest for silence and focus is revealed in every deliberate movement and ritual"
+  },
+  {
+    "movieId": 26,
+    "score": 0.85,
+    "reason": "Suburban brother plans a film script shot by shot, finding beauty in imperfect takes"
+  },
+  {
+    "movieId": 170,
+    "score": 0.82,
+    "reason": "Retired director’s return to his home village is a poetic study of memory and light"
+  },
+  {
+    "movieId": 86,
+    "score": 0.8,
+    "reason": "Dedicated butler’s seamless service unfolds in almost silent precision over decades"
+  },
+  {
+    "movieId": 548,
+    "score": 0.78,
+    "reason": "Design studio’s process in building a scale model unfolds like a quiet, rhythmic ballet"
+  },
+  {
+    "movieId": 1051,
+    "score": 0.75,
+    "reason": "Call-girl-turned-radio host refines each show script in near-silence, a craft in solitude"
+  }
+]

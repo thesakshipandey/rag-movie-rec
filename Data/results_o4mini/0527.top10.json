@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.98,
+    "reason": "Powerful Holocaust drama that sinks its claws into the heart with sobering, unforgettable emotion"
+  },
+  {
+    "movieId": 276,
+    "score": 0.96,
+    "reason": "A raw, unflinching portrait of love and loss that captures the ache of human fragility"
+  },
+  {
+    "movieId": 65,
+    "score": 0.95,
+    "reason": "Gentle small-town drama that undercuts its warmth with a tear-jerking portrait of family hardship"
+  },
+  {
+    "movieId": 9,
+    "score": 0.94,
+    "reason": "Stark death-row drama that delivers a gut-wrenching, cathartic exploration of guilt and redemption"
+  },
+  {
+    "movieId": 51,
+    "score": 0.93,
+    "reason": "Epic family saga charged with heartbreaking longing and majestic nostalgia"
+  },
+  {
+    "movieId": 287,
+    "score": 0.91,
+    "reason": "Tender caregiver drama that finds profound sorrow and gentle hope in human connection"
+  },
+  {
+    "movieId": 286,
+    "score": 0.9,
+    "reason": "Lush wartime romance woven with quiet severity and the sting of irreversible loss"
+  },
+  {
+    "movieId": 64,
+    "score": 0.89,
+    "reason": "Enduring prison friendship story that balances cruelty with a steady current of hope"
+  },
+  {
+    "movieId": 735,
+    "score": 0.88,
+    "reason": "A moving legal drama of courage and tragedy that pulls at every emotional thread"
+  },
+  {
+    "movieId": 69,
+    "score": 0.87,
+    "reason": "Heartwarming journey through American history that shines with bittersweet simplicity"
+  }
+]

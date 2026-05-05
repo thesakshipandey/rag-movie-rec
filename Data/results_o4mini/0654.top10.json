@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "True story of space survival with technical detail and no sci-fi gimmicks"
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "Realistic near-future thriller focusing on human vs. rogue android tech"
+  },
+  {
+    "movieId": 171,
+    "score": 0.88,
+    "reason": "1950s undersea thriller grounded in plausible deep-sea physics"
+  },
+  {
+    "movieId": 205,
+    "score": 0.85,
+    "reason": "WWII general grapples with strategic engineering challenges realistically"
+  },
+  {
+    "movieId": 464,
+    "score": 0.82,
+    "reason": "Indie explores artistic staging with no supernatural elements"
+  },
+  {
+    "movieId": 169,
+    "score": 0.8,
+    "reason": "Logistical thriller with attention to practical mechanical detail"
+  },
+  {
+    "movieId": 790,
+    "score": 0.78,
+    "reason": "Disabled man’s redemption without any paranormal sci-fi embellishments"
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "Expert sneaker-testing caper grounded in real-world technology"
+  },
+  {
+    "movieId": 590,
+    "score": 0.72,
+    "reason": "Submarine horror rooted in Cold War engineering plausibility"
+  },
+  {
+    "movieId": 197,
+    "score": 0.7,
+    "reason": "Vietnam-era psychological drama with procedural legal realism"
+  }
+]

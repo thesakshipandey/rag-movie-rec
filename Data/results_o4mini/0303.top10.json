@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "A witty, heartwarming adventure that's light on drama and full of clever charm."
+  },
+  {
+    "movieId": 4,
+    "score": 0.95,
+    "reason": "A smart crime comedy with quick wit and no heavy emotional toll."
+  },
+  {
+    "movieId": 16,
+    "score": 0.9,
+    "reason": "A playful French romantic comedy with sharp humor and gentle vibes."
+  },
+  {
+    "movieId": 3,
+    "score": 0.85,
+    "reason": "An anthology of quirky capers that keep you entertained without getting too heavy."
+  },
+  {
+    "movieId": 21,
+    "score": 0.8,
+    "reason": "A lighthearted adventure brimming with humor and nostalgia."
+  },
+  {
+    "movieId": 367,
+    "score": 0.75,
+    "reason": "A breezy, character-driven comedy that’s endlessly charming and fun."
+  },
+  {
+    "movieId": 66,
+    "score": 0.7,
+    "reason": "A warm romantic comedy that’s uplifting and easygoing."
+  },
+  {
+    "movieId": 25,
+    "score": 0.65,
+    "reason": "A vibrant, hilarious comedy with infectious energy and no gloom."
+  },
+  {
+    "movieId": 13,
+    "score": 0.6,
+    "reason": "A quirky Woody Allen comedy that’s witty and delightfully offbeat."
+  },
+  {
+    "movieId": 116,
+    "score": 0.55,
+    "reason": "A cozy British comedy-drama with eccentric characters and a gentle heart."
+  }
+]

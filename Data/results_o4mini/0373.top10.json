@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 1.0,
+    "reason": "Haunting historical epic that delivers an unforgettable emotional impact."
+  },
+  {
+    "movieId": 632,
+    "score": 0.95,
+    "reason": "Profound tragedy of impossible choice that cuts straight to the heart."
+  },
+  {
+    "movieId": 735,
+    "score": 0.9,
+    "reason": "Powerful drama of injustice and redemption that brings tears of compassion."
+  },
+  {
+    "movieId": 9,
+    "score": 0.85,
+    "reason": "Raw execution drama that grips you with its sobering emotional truth."
+  },
+  {
+    "movieId": 65,
+    "score": 0.8,
+    "reason": "Tender family portrait that aches with bittersweet sorrow and love."
+  },
+  {
+    "movieId": 371,
+    "score": 0.75,
+    "reason": "Intense mid-life romance that bleeds beauty and heartbreak."
+  },
+  {
+    "movieId": 86,
+    "score": 0.7,
+    "reason": "Quietly devastating tale that stirs deep, elegiac emotion."
+  },
+  {
+    "movieId": 51,
+    "score": 0.65,
+    "reason": "Epic family saga that weeps with loss and fierce love."
+  },
+  {
+    "movieId": 69,
+    "score": 0.6,
+    "reason": "Life-spanning journey that balances joy and heartache to tender effect."
+  },
+  {
+    "movieId": 402,
+    "score": 0.55,
+    "reason": "Ghostly love story that transforms grief into a cathartic embrace."
+  }
+]

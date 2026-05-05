@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 0.95,
+    "reason": "Shawshank Redemption – unjustly imprisoned man rebuilds hope through perseverance"
+  },
+  {
+    "movieId": 9,
+    "score": 0.93,
+    "reason": "Dead Man Walking – condemned inmate grapples honestly with guilt and faith"
+  },
+  {
+    "movieId": 76,
+    "score": 0.91,
+    "reason": "Carlito's Way – ex-criminal battles past demons on path to redemption"
+  },
+  {
+    "movieId": 276,
+    "score": 0.89,
+    "reason": "Leaving Las Vegas – self-destructive man must rediscover meaning in love"
+  },
+  {
+    "movieId": 272,
+    "score": 0.87,
+    "reason": "Good Will Hunting – math genius confronts trauma to earn emotional healing"
+  },
+  {
+    "movieId": 357,
+    "score": 0.85,
+    "reason": "One Flew Over the Cuckoo's Nest – defiant man finds humanity in bleak confinement"
+  },
+  {
+    "movieId": 23,
+    "score": 0.83,
+    "reason": "Taxi Driver – damaged vet seeks redemption in a corrupt cityscape"
+  },
+  {
+    "movieId": 531,
+    "score": 0.81,
+    "reason": "Shine – pianist’s obsession leads to breakdown, then personal rebirth"
+  },
+  {
+    "movieId": 287,
+    "score": 0.78,
+    "reason": "Marvin's Room – fractured family learns self-sacrifice through crisis"
+  },
+  {
+    "movieId": 317,
+    "score": 0.75,
+    "reason": "In the Name of the Father – man fights injustice to reclaim his life"
+  }
+]

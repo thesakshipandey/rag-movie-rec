@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 307,
+    "score": 1.0,
+    "reason": "Lawyer gains dark power in exchange for success at terrible cost"
+  },
+  {
+    "movieId": 1453,
+    "score": 0.95,
+    "reason": "Gangster’s revival sparks horrifying pact with the devil"
+  },
+  {
+    "movieId": 559,
+    "score": 0.9,
+    "reason": "Man gains immortality but discovers his soul’s tragic price"
+  },
+  {
+    "movieId": 217,
+    "score": 0.85,
+    "reason": "Woman seduced by immortal predator learns the cost of eternal love"
+  },
+  {
+    "movieId": 590,
+    "score": 0.8,
+    "reason": "Scientist’s quest for immortality unleashes monstrous curse"
+  },
+  {
+    "movieId": 76,
+    "score": 0.75,
+    "reason": "Criminal seeks freedom but pays a brutal moral toll"
+  },
+  {
+    "movieId": 160,
+    "score": 0.7,
+    "reason": "Salesmen sacrifice integrity for profit in ruthless corporate war"
+  },
+  {
+    "movieId": 270,
+    "score": 0.65,
+    "reason": "Genetic upgrades bring elite success at devastating personal cost"
+  },
+  {
+    "movieId": 125,
+    "score": 0.6,
+    "reason": "Man acquires superintelligence then faces dire side effects"
+  },
+  {
+    "movieId": 11,
+    "score": 0.55,
+    "reason": "Deadly killer’s riddle leads to shocking revelation of his twisted worldview"
+  }
+]

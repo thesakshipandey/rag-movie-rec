@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 209,
+    "score": 0.99,
+    "reason": "This Is Spinal Tap chronicles a fictional band’s rise and chaotic fame"
+  },
+  {
+    "movieId": 354,
+    "score": 0.97,
+    "reason": "That Thing You Do! follows a one-hit-wonder band’s whirlwind journey"
+  },
+  {
+    "movieId": 246,
+    "score": 0.95,
+    "reason": "Chasing Amy depicts a comic-book duo’s creative spark and personal fallout"
+  },
+  {
+    "movieId": 150,
+    "score": 0.93,
+    "reason": "Swingers shows friends navigating fame and friendship in L.A.’s music scene"
+  },
+  {
+    "movieId": 232,
+    "score": 0.92,
+    "reason": "Young Guns spotlights a mythic outlaw band crafting its own legend"
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "Heat pairs a criminal duo like a dark rock‐and‐roll act in New York’s underworld"
+  },
+  {
+    "movieId": 109,
+    "score": 0.88,
+    "reason": "Mystery Science Theater 3000 riffs on a fictional B‐movie soundtrack in show form"
+  },
+  {
+    "movieId": 404,
+    "score": 0.87,
+    "reason": "Pinocchio’s songs unify its toy‐band world in a whimsical stage musical tone"
+  },
+  {
+    "movieId": 192,
+    "score": 0.85,
+    "reason": "Raging Bull’s rhythms echo a band’s drumming through boxing scenes as music"
+  },
+  {
+    "movieId": 209,
+    "score": 0.83,
+    "reason": "This Is Spinal Tap remains the defining mockumentary of an irreverent rock group"
+  }
+]

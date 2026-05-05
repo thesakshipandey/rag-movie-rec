@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 331,
+    "score": 0.97,
+    "reason": "Snowbound survivors battle hunger, cold and a lurking bear in Arctic wilderness",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 148,
+    "score": 0.95,
+    "reason": "Trapped in maze-like terrain, railroad engineers face man-eating lions and despair",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 164,
+    "score": 0.93,
+    "reason": "Deep-sea rescuers confront crushing pressure and the unknown in underwater abyss",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 1594,
+    "score": 0.91,
+    "reason": "Climbers endure ferocious winds and thin air atop Earth’s highest peak",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 1087,
+    "score": 0.89,
+    "reason": "Ship-wreck survivors encounter a brutal storm that tests their will to live",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 7,
+    "score": 0.87,
+    "reason": "A time-traveling virus investigator battles plague and claustrophobia underground",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 365,
+    "score": 0.85,
+    "reason": "Stranded outsider cons others into trusting him as law evaporates in desert isolation",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 712,
+    "score": 0.83,
+    "reason": "Disbarred lawyer and his son retreat to wilderness, discovery tests survival instincts",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 14,
+    "score": 0.81,
+    "reason": "A rural postman’s clash with love and loss in postwar Italy’s stark landscape",
+    "prompt_id": "0790"
+  },
+  {
+    "movieId": 81,
+    "score": 0.79,
+    "reason": "A neophyte business graduate survives cutthroat corporate pit in 1950s New York",
+    "prompt_id": "0790"
+  }
+]

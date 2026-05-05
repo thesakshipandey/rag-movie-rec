@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 206,
+    "score": 0.98,
+    "reason": "Groundbreaking 1988 anime with mature themes and sci-fi violence"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.96,
+    "reason": "1995 anime noir exploring identity and consciousness"
+  },
+  {
+    "movieId": 101,
+    "score": 0.94,
+    "reason": "1981 anthology of adult-themed sci-fi and fantasy animation"
+  },
+  {
+    "movieId": 1555,
+    "score": 0.92,
+    "reason": "1995 stop-motion exploring existential adult themes"
+  },
+  {
+    "movieId": 1608,
+    "score": 0.9,
+    "reason": "1996 claymation crime caper with dark humor themes"
+  },
+  {
+    "movieId": 114,
+    "score": 0.4,
+    "reason": "Best-of animation compendium, includes mature Aardman shorts"
+  },
+  {
+    "movieId": 169,
+    "score": 0.38,
+    "reason": "1993 sequel with darker themes, less child-oriented romance"
+  },
+  {
+    "movieId": 99,
+    "score": 0.35,
+    "reason": "1937 classic animation noted for artistic depth and cultural impact"
+  },
+  {
+    "movieId": 402,
+    "score": 0.3,
+    "reason": "Animated illusions mixed with live-action, exploring ghostly betrayal"
+  },
+  {
+    "movieId": 414,
+    "score": 0.25,
+    "reason": "Live-action with animated sequences exploring Hollywood past"
+  }
+]

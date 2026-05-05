@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 30,
+    "score": 0.97,
+    "reason": "Belle de jour offers an intimate, existential character study of mid-’60s Parisian malaise."
+  },
+  {
+    "movieId": 1021,
+    "score": 0.94,
+    "reason": "8 1/2 is an iconic ’60s Italian slice-of-life into a filmmaker’s existential crisis."
+  },
+  {
+    "movieId": 135,
+    "score": 0.9,
+    "reason": "2001: A Space Odyssey meditates on purpose and humanity with cold, slice-of-life precision."
+  },
+  {
+    "movieId": 179,
+    "score": 0.88,
+    "reason": "A Clockwork Orange probes morality and identity in a stylized, postmodern ’60s setting."
+  },
+  {
+    "movieId": 435,
+    "score": 0.84,
+    "reason": "Butch Cassidy and the Sundance Kid deconstructs western myths with bittersweet character focus."
+  },
+  {
+    "movieId": 504,
+    "score": 0.82,
+    "reason": "Bonnie and Clyde’s 1960s drama reframes outlaw romance as a tragic, human-driven study."
+  },
+  {
+    "movieId": 525,
+    "score": 0.8,
+    "reason": "The Big Sleep’s cynical PI and mature pace make for an existential ’40s-style slice-of-life noir."
+  },
+  {
+    "movieId": 513,
+    "score": 0.78,
+    "reason": "The Third Man’s post-war Vienna is a haunting backdrop to a masterful philosophical study."
+  },
+  {
+    "movieId": 489,
+    "score": 0.76,
+    "reason": "Notorious examines personal conflict and loyalty in ’60s espionage with a subtle, human touch."
+  },
+  {
+    "movieId": 490,
+    "score": 0.74,
+    "reason": "To Catch a Thief offers a refined ’60s character study of identity and intrigue in Riviera life."
+  }
+]

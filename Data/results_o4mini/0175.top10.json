@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "Nightmare Before Christmas is a whimsical stop-motion tale set on Halloween Town."
+  },
+  {
+    "movieId": 219,
+    "score": 0.88,
+    "reason": "Nightmare on Elm Street blends horror and imagination around a dream-stalking villain."
+  },
+  {
+    "movieId": 1477,
+    "score": 0.86,
+    "reason": "Nightwatch offers a tension-filled thriller set in the eerie hours of a hospital morgue."
+  },
+  {
+    "movieId": 1243,
+    "score": 0.84,
+    "reason": "Night Flier thrills with a journalist’s chase after a vampire-like killer by night."
+  },
+  {
+    "movieId": 1226,
+    "score": 0.82,
+    "reason": "Night Falls on Manhattan is a gritty crime drama unfolding under the city’s nighttime skies."
+  },
+  {
+    "movieId": 312,
+    "score": 0.8,
+    "reason": "Midnight in the Garden of Good and Evil unspools a Southern gothic mystery under moonlight."
+  },
+  {
+    "movieId": 1618,
+    "score": 0.78,
+    "reason": "King of New York captures the city’s underworld as it comes alive at night."
+  },
+  {
+    "movieId": 636,
+    "score": 0.76,
+    "reason": "Escape from New York pits a renegade hero against the perils of a nighttime dystopia."
+  },
+  {
+    "movieId": 89,
+    "score": 0.74,
+    "reason": "Blade Runner explores a neon-lit future where the night holds both wonder and danger."
+  },
+  {
+    "movieId": 1622,
+    "score": 0.72,
+    "reason": "Parallel Worlds of Fantasy unites tales that unfold in the uncanny stillness of night."
+  }
+]

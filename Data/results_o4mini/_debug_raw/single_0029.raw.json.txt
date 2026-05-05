@@ -1,0 +1,18 @@
+{
+  "results": {
+    "0029": {
+      "top10": [
+        {"movieId": 160, "score": 0.95, "reason": "Desperate real-estate salesmen face a cutthroat sales contest, exposing moral compromises and toxic hustle culture."},
+        {"movieId": 77, "score": 0.93, "reason": "Mitch McDeere joins a high-stakes law firm and discovers moral rot beneath its lucrative veneer, corporate system villain."},
+        {"movieId": 58, "score": 0.90, "reason": "1950s TV quiz show rigging unravels as contestants betray ethics for fame, exposing rot in the entertainment machine."},
+        {"movieId": 81, "score": 0.88, "reason": "Mailroom recruit becomes pawn in a corporate boardroom game, skewering ambition-driven corporations and power grabs."},
+        {"movieId": 43, "score": 0.86, "reason": "Executive navigating a ruthless merger faces brutal power plays, showing how corporate culture demands moral sacrifice."},
+        {"movieId": 715, "score": 0.84, "reason": "Star TV journalist commits murder for the perfect story, a dark satire on media ambition and moral downfall."},
+        {"movieId": 237, "score": 0.82, "reason": "Sports agent’s relentless hustle for top clients leads to shocking concessions, revealing the darker side of ambition."},
+        {"movieId": 342, "score": 0.80, "reason": "Aspiring Hollywood producer learns that backstabbing and self-interest fuel the showbiz hustle behind every greenlight."},
+        {"movieId": 693, "score": 0.78, "reason": "Casino empire built on graft and human ruin, a vivid portrait of greed and moral decay in capitalist hustles."},
+        {"movieId": 134, "score": 0.76, "reason": "Newspaper tycoon’s rise and fall spotlights the corrupting influence of ambition and media power on personal integrity."}
+      ]
+    }
+  }
+}

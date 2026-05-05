@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.95,
+    "reason": "Controversial satire of media-fuelled violence"
+  },
+  {
+    "movieId": 56,
+    "score": 0.94,
+    "reason": "Interwoven crime stories in Tarantino’s iconic opus"
+  },
+  {
+    "movieId": 64,
+    "score": 0.93,
+    "reason": "Powerful prison drama about hope and friendship"
+  },
+  {
+    "movieId": 43,
+    "score": 0.92,
+    "reason": "Steamy corporate thriller of power and betrayal"
+  },
+  {
+    "movieId": 282,
+    "score": 0.91,
+    "reason": "Intense legal drama of justice and revenge"
+  },
+  {
+    "movieId": 566,
+    "score": 0.9,
+    "reason": "High-stakes political thriller with Harrison Ford"
+  },
+  {
+    "movieId": 782,
+    "score": 0.89,
+    "reason": "Raw crime drama set in a Ukrainian mob underworld"
+  },
+  {
+    "movieId": 943,
+    "score": 0.88,
+    "reason": "Gripping Paris heist thriller with dark undercurrents"
+  },
+  {
+    "movieId": 568,
+    "score": 0.87,
+    "reason": "Relentless bus survival against a bomber’s game"
+  },
+  {
+    "movieId": 68,
+    "score": 0.86,
+    "reason": "Dark fantasy revenge tale rooted in urban crime"
+  }
+]

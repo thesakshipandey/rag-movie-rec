@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 666,
+    "score": 0.98,
+    "reason": "Cult classic by Andy Warhol featuring ‘Blood for Dracula.’"
+  },
+  {
+    "movieId": 668,
+    "score": 0.97,
+    "reason": "Bizarre horror outing set on a sunlit shoreline."
+  },
+  {
+    "movieId": 590,
+    "score": 0.96,
+    "reason": "Hellraiser sequel exploring the Cenobite mythos in space."
+  },
+  {
+    "movieId": 985,
+    "score": 0.95,
+    "reason": "Edward Norton in a crime thriller mixing blood and wine."
+  },
+  {
+    "movieId": 1265,
+    "score": 0.2,
+    "reason": "Title contains ‘Blood’ in extended franchise sequel."
+  },
+  {
+    "movieId": 1266,
+    "score": 0.2,
+    "reason": "Title includes ‘Blood’ in cult horror context."
+  },
+  {
+    "movieId": 1267,
+    "score": 0.2,
+    "reason": "Movie title has the word ‘Blood’ in it."
+  },
+  {
+    "movieId": 1268,
+    "score": 0.2,
+    "reason": "Features ‘Blood’ prominently in the title."
+  },
+  {
+    "movieId": 1269,
+    "score": 0.2,
+    "reason": "Carries ‘Blood’ in its title."
+  },
+  {
+    "movieId": 1270,
+    "score": 0.2,
+    "reason": "Title notably includes the word ‘Blood’."
+  }
+]

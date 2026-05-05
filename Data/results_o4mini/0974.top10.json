@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 221,
+    "score": 0.9,
+    "reason": "Breaking the Waves: Unflinching portrait of love’s collapse and heart-shattering loss."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.85,
+    "reason": "Sliding Doors: Raw look at how one breakup can fracture every aspect of life."
+  },
+  {
+    "movieId": 955,
+    "score": 0.8,
+    "reason": "Before Sunrise: One night, two hearts drift apart—bittersweet and achingly real."
+  },
+  {
+    "movieId": 903,
+    "score": 0.75,
+    "reason": "Afterglow: Subtle drama of marriage tested by grief and the desperation to hold on."
+  },
+  {
+    "movieId": 255,
+    "score": 0.7,
+    "reason": "My Best Friend’s Wedding: Honest examination of love, betrayal, and the cost of letting go."
+  },
+  {
+    "movieId": 276,
+    "score": 0.65,
+    "reason": "Leaving Las Vegas: A raw plunge into self-destruction and the love that can’t save you."
+  },
+  {
+    "movieId": 221,
+    "score": 0.6,
+    "reason": "Breaking the Waves: Unflinching portrait of love’s collapse and heart-shattering loss."
+  },
+  {
+    "movieId": 718,
+    "score": 0.55,
+    "reason": "The Ice Storm: Suburban family drama that cuts deep into marital breakdown and regret."
+  },
+  {
+    "movieId": 221,
+    "score": 0.5,
+    "reason": "Breaking the Waves: Unflinching portrait of love’s collapse and heart-shattering loss."
+  },
+  {
+    "movieId": 903,
+    "score": 0.45,
+    "reason": "Afterglow: Subtle drama of marriage tested by grief and the desperation to hold on."
+  }
+]

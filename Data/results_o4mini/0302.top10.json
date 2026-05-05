@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 180,
+    "score": 1.0,
+    "reason": "Apocalypse Now immerses you in roaring rotor blades and thunderous jungle soundscapes."
+  },
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "Star Wars’ legendary John Williams score and alien sound design remain iconic."
+  },
+  {
+    "movieId": 82,
+    "score": 0.9,
+    "reason": "Jurassic Park’s roaring T-Rex and raptors redefine immersive creature audio."
+  },
+  {
+    "movieId": 96,
+    "score": 0.85,
+    "reason": "Terminator 2’s industrial metal clanks and booming explosions fill every channel."
+  },
+  {
+    "movieId": 135,
+    "score": 0.8,
+    "reason": "2001: A Space Odyssey’s orchestral swells and eerie silence highlight supreme sound design."
+  },
+  {
+    "movieId": 89,
+    "score": 0.75,
+    "reason": "Blade Runner’s ambient city noise and Vangelis score envelop you in neon-soaked L.A."
+  },
+  {
+    "movieId": 117,
+    "score": 0.7,
+    "reason": "The Rock’s fast-paced action and booming missile launches showcase dynamic mixes."
+  },
+  {
+    "movieId": 273,
+    "score": 0.65,
+    "reason": "Heat’s cityscapes crackle with gunfire, tires screeching, and sun-drenched ambience."
+  },
+  {
+    "movieId": 203,
+    "score": 0.6,
+    "reason": "Unforgiven’s measured western opening and sudden violence emphasize every sound detail."
+  },
+  {
+    "movieId": 176,
+    "score": 0.55,
+    "reason": "Aliens heightens terror with claustrophobic station hums and xenomorph shrieks."
+  }
+]

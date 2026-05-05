@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Engineers and astronauts race clockwork failures to coax a crippled spacecraft home with skill."
+  },
+  {
+    "movieId": 38,
+    "score": 0.93,
+    "reason": "An online analyst untangles cyber-threats with cool precision as every keystroke risks anonymity."
+  },
+  {
+    "movieId": 54,
+    "score": 0.91,
+    "reason": "Epidemiologists wage a laboratory war against a plague, every test a gamble on humanity’s future."
+  },
+  {
+    "movieId": 55,
+    "score": 0.89,
+    "reason": "A solitary marksman executes flawless rescues, his calm precision the only weapon against chaos."
+  },
+  {
+    "movieId": 161,
+    "score": 0.87,
+    "reason": "Ace pilots carve roaring arcs through the sky where split-second decisions mean life or death."
+  },
+  {
+    "movieId": 82,
+    "score": 0.85,
+    "reason": "Paleontologists decode ancient giants, their measured steps revealing perils beneath every fossil."
+  },
+  {
+    "movieId": 31,
+    "score": 0.83,
+    "reason": "Submarine officers calibrate nuclear codes under silent pressure where a single misstep ends the world."
+  },
+  {
+    "movieId": 89,
+    "score": 0.81,
+    "reason": "Blade-hunting detective dissects bioengineered menaces with methodical resolve under neon lights."
+  },
+  {
+    "movieId": 273,
+    "score": 0.79,
+    "reason": "Master thief and detective exchange bullets and wits in a high-stakes duel of professional prowess."
+  },
+  {
+    "movieId": 144,
+    "score": 0.77,
+    "reason": "A lone officer purges skyscraper terror with cool resolve when hostages hang in the balance."
+  }
+]

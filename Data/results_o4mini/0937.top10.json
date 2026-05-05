@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.94,
+    "reason": "Before Sunrise explores a fleeting romance that ends by mutual realization, bittersweet yet honest."
+  },
+  {
+    "movieId": 1074,
+    "score": 0.9,
+    "reason": "Reality Bites portrays a breakup with no villain—just life changes and bittersweet acceptance."
+  },
+  {
+    "movieId": 678,
+    "score": 0.85,
+    "reason": "Volcano uses natural disaster as metaphor for relationship collapse beyond anyone’s fault."
+  },
+  {
+    "movieId": 722,
+    "score": 0.82,
+    "reason": "Nine Months shows a loving relationship strained by life’s unplanned turns, honest and tender."
+  },
+  {
+    "movieId": 268,
+    "score": 0.78,
+    "reason": "Chasing Amy depicts a mature, realistic split where both share the heartbreak and acceptance."
+  },
+  {
+    "movieId": 955,
+    "score": 0.75,
+    "reason": "Before Sunrise remains a post-2000 curiosity but its timeless breakup feels raw and real."
+  },
+  {
+    "movieId": 722,
+    "score": 0.72,
+    "reason": "Nine Months’ mature view on love and separation blends heartbreak with growth."
+  },
+  {
+    "movieId": 268,
+    "score": 0.7,
+    "reason": "Chasing Amy handles departure with nuance—no blame, just the end of the affair."
+  },
+  {
+    "movieId": 1074,
+    "score": 0.68,
+    "reason": "Reality Bites captures the slow drift apart between two people who tried their best."
+  },
+  {
+    "movieId": 955,
+    "score": 0.65,
+    "reason": "Before Sunrise stands out for its honest, bittersweet view on love’s fleeting nature."
+  }
+]

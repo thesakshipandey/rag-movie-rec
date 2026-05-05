@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1194,
+    "score": 1.0,
+    "reason": "Before the Rain weaves past and present threads into a Balkan family’s buried trauma"
+  },
+  {
+    "movieId": 512,
+    "score": 0.95,
+    "reason": "Wings of Desire’s fractured narrative pieces together a grieving angel’s inner torment"
+  },
+  {
+    "movieId": 1410,
+    "score": 0.9,
+    "reason": "Harlem intercuts snapshots to reveal communal pain from differing perspectives"
+  },
+  {
+    "movieId": 59,
+    "score": 0.88,
+    "reason": "Three Colors: Red’s nonlinear intersects fates to explore shared regret and secrets"
+  },
+  {
+    "movieId": 1602,
+    "score": 0.85,
+    "reason": "A Woman in Love chronicles a family’s fractures through fragmented memory loops"
+  },
+  {
+    "movieId": 170,
+    "score": 0.82,
+    "reason": "Cinema Paradiso’s layers unveil childhood loss and reunion in interwoven flashbacks"
+  },
+  {
+    "movieId": 456,
+    "score": 0.8,
+    "reason": "Beverly Hills Ninja flips comedic viewpoints to reveal hidden emotional scars"
+  },
+  {
+    "movieId": 48,
+    "score": 0.78,
+    "reason": "Hoop Dreams uses shifting viewpoints to piece together two youths’ life struggles"
+  },
+  {
+    "movieId": 123,
+    "score": 0.75,
+    "reason": "Nightmare Before Christmas shifts between dream logic and real-world stakes to unveil Jack’s grief"
+  },
+  {
+    "movieId": 213,
+    "score": 0.74,
+    "reason": "Room with a View toggles past and present to unravel love’s elusive trauma"
+  }
+]

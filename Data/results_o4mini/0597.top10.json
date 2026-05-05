@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "A sweet-spoken pig’s cheerful charm and simple joys warm every heart"
+  },
+  {
+    "movieId": 94,
+    "score": 0.95,
+    "reason": "Resourceful youngster defends home against bumbling burglars with pure fun"
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Merry puppet pirate adventure brims with song, silliness, and good-natured fun"
+  },
+  {
+    "movieId": 1,
+    "score": 0.85,
+    "reason": "Lovable toys band together for playful adventures in a cozy, heartfelt tale"
+  },
+  {
+    "movieId": 78,
+    "score": 0.8,
+    "reason": "Boy and whale forge a gentle, uplifting friendship against easygoing waters"
+  },
+  {
+    "movieId": 112,
+    "score": 0.75,
+    "reason": "Loyal canine narrates a warm family journey home, full of fluffy comfort"
+  },
+  {
+    "movieId": 66,
+    "score": 0.7,
+    "reason": "Shy transit worker’s accidental heroism sparks a heartfelt, feel-good comedy"
+  },
+  {
+    "movieId": 420,
+    "score": 0.65,
+    "reason": "Whimsical cartoon girl’s journey through a fantastical wonderland delights"
+  },
+  {
+    "movieId": 418,
+    "score": 0.6,
+    "reason": "Classic fairy-tale innocence wrapped in timeless music and magic"
+  },
+  {
+    "movieId": 419,
+    "score": 0.55,
+    "reason": "Charming nanny brings music, whimsy, and warm family bonds to life"
+  }
+]

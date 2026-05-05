@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 132,
+    "score": 1.0,
+    "reason": "The Wizard of Oz takes viewers on a classic 1939 fantasy journey"
+  },
+  {
+    "movieId": 133,
+    "score": 0.95,
+    "reason": "Gone with the Wind evokes Civil War-era drama and romance"
+  },
+  {
+    "movieId": 134,
+    "score": 0.93,
+    "reason": "Citizen Kane explores the life of a media tycoon from 1941"
+  },
+  {
+    "movieId": 438,
+    "score": 0.91,
+    "reason": "Amityville 3-D revisits the haunted house lore of the early 1980s"
+  },
+  {
+    "movieId": 445,
+    "score": 0.89,
+    "reason": "The Body Snatcher showcases chilling 1945 gothic suspense"
+  },
+  {
+    "movieId": 1348,
+    "score": 0.87,
+    "reason": "Every Other Weekend dramatizes adult-child bonds in 1990"
+  },
+  {
+    "movieId": 441,
+    "score": 0.85,
+    "reason": "The Amityville Horror set the bar for house-based terror in 1979"
+  },
+  {
+    "movieId": 14,
+    "score": 0.83,
+    "reason": "Postino, Il captures post-war Italy with poetic grace"
+  },
+  {
+    "movieId": 30,
+    "score": 0.81,
+    "reason": "Belle de jour weaves 1967 surrealist erotic fantasies"
+  },
+  {
+    "movieId": 78,
+    "score": 0.79,
+    "reason": "Free Willy charms 1993 family audiences"
+  }
+]

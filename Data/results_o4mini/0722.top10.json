@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 70,
+    "score": 0.98,
+    "reason": "A charming 90s rom-com with witty banter and warm family moments"
+  },
+  {
+    "movieId": 88,
+    "score": 0.96,
+    "reason": "Sweet holiday-set romance full of cozy charm and heartfelt emotion"
+  },
+  {
+    "movieId": 274,
+    "score": 0.94,
+    "reason": "Gentle 90s comedy with a shy heroine finding unexpected love"
+  },
+  {
+    "movieId": 66,
+    "score": 0.92,
+    "reason": "Feel-good 90s rom-com mixing humor with tender, uplifting moments"
+  },
+  {
+    "movieId": 80,
+    "score": 0.9,
+    "reason": "Lighthearted 90s comedy with playful spirit and easy laughs"
+  },
+  {
+    "movieId": 41,
+    "score": 0.88,
+    "reason": "Family-friendly 90s comedy with goofy fun and affectionate humor"
+  },
+  {
+    "movieId": 37,
+    "score": 0.86,
+    "reason": "Quirky 90s comedy with an offbeat charm and gentle warmth"
+  },
+  {
+    "movieId": 25,
+    "score": 0.84,
+    "reason": "Bright comedy with heartfelt moments and inclusive warmth"
+  },
+  {
+    "movieId": 49,
+    "score": 0.82,
+    "reason": "Sweet romantic comedy with clever charm and a comfortable pace"
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Endearing British rom-com filled with gentle smiles and warmth"
+  }
+]

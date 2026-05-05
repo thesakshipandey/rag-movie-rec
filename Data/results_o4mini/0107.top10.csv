@@ -1,0 +1,11 @@
+movieId,score,reason
+10,1.0,"Courtly plotting, marriages and betrayals as Richard schemes in the shadows for England’s crown."
+52,0.95,"The Madness of King George shows ministers, royals and dukes jockeying for power during King George III’s crisis."
+136,0.9,"Mr. Smith Goes to Washington captures Senate lobbying, backroom deals and a lone filibuster against political machines."
+190,0.85,"Henry V portrays court conspiracies and political pressure in the lead-up to Agincourt, far from the battlefield."
+157,0.8,Paths of Glory depicts military tribunal politics and chain-of-command betrayals in a ruthless command structure.
+191,0.75,Amadeus peels back Habsburg court rivalries as Mozart and Salieri vie for imperial favor in whispered intrigues.
+199,0.7,Bridge on the River Kwai spotlights command politics and willful betrayals among POW officers far from home.
+205,0.65,Patton delves into a general’s political games and rivalries within the Allied high command during WWII.
+474,0.6,Dr. Strangelove satirizes Cold War brinkmanship with generals and politicians plotting nuclear gambits in secret.
+1530,0.55,"Jefferson in Paris reveals diplomatic maneuvering, salons and clandestine alliances on the eve of revolution."

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "Star Wars’s galaxy-spanning adventure sparks childlike wonder and awe."
+  },
+  {
+    "movieId": 82,
+    "score": 0.95,
+    "reason": "Jurassic Park delivers breathtaking thrills of prehistoric discovery."
+  },
+  {
+    "movieId": 174,
+    "score": 0.9,
+    "reason": "Raiders of the Lost Ark races through exotic locales on a pulse-pounding quest."
+  },
+  {
+    "movieId": 173,
+    "score": 0.85,
+    "reason": "The Princess Bride blends fairy-tale magic with swashbuckling, boundless fun."
+  },
+  {
+    "movieId": 132,
+    "score": 0.8,
+    "reason": "The Wizard of Oz transports you to a technicolor dream of endless possibility."
+  },
+  {
+    "movieId": 21,
+    "score": 0.75,
+    "reason": "Muppet Treasure Island’s playful spirit makes the pirate adventure gleam."
+  },
+  {
+    "movieId": 142,
+    "score": 0.7,
+    "reason": "Bedknobs and Broomsticks conjures enchantment with song, magic, and whimsy."
+  },
+  {
+    "movieId": 151,
+    "score": 0.65,
+    "reason": "Willy Wonka’s candy-coated world brims with fantastical, delicious surprises."
+  },
+  {
+    "movieId": 91,
+    "score": 0.6,
+    "reason": "The Nightmare Before Christmas fuses dark fantasy and wonder into a spellbinding realm."
+  },
+  {
+    "movieId": 548,
+    "score": 0.55,
+    "reason": "The NeverEnding Story beckons with epic magic and uncharted lands to explore."
+  }
+]

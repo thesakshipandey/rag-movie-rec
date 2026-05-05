@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "Babe’s pastoral idyll veils a bleak world of boundaries between human and animal oppression."
+  },
+  {
+    "movieId": 7,
+    "score": 0.95,
+    "reason": "Twelve Monkeys’s dystopian future feels grim and cracked under sterile subterranean tyranny."
+  },
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "The Nightmare Before Christmas melds gothic gloom with dystopian carnival undercurrents."
+  },
+  {
+    "movieId": 144,
+    "score": 0.85,
+    "reason": "Die Hard’s Nakatomi Plaza looms as a claustrophobic monument to corporate power and urban breakdown."
+  },
+  {
+    "movieId": 164,
+    "score": 0.8,
+    "reason": "The Abyss’s underwater city conjures an alien, oppressive society beyond the surface world."
+  },
+  {
+    "movieId": 176,
+    "score": 0.75,
+    "reason": "Aliens’s LV-426 colony base is a soulless industrial wasteland under alien corporate control."
+  },
+  {
+    "movieId": 532,
+    "score": 0.7,
+    "reason": "Kama Sutra: A Tale of Love hints at societal decay beneath opulent palaces in a rigid caste system."
+  },
+  {
+    "movieId": 1129,
+    "score": 0.65,
+    "reason": "Shoot the Moon’s fractured post-industrial towns reflect a society unraveling under personal desperation."
+  },
+  {
+    "movieId": 170,
+    "score": 0.6,
+    "reason": "Cinema Paradiso’s crumbling Italian village conceals the decay of shared cultural memory."
+  },
+  {
+    "movieId": 953,
+    "score": 0.55,
+    "reason": "Unstrung Heroes’s family home doubles as a decaying micro-utopia on the edge of emotional collapse."
+  }
+]

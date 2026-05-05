@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 1.0,
+    "reason": "Die Hard is a high-octane burst of adrenaline from start to finish"
+  },
+  {
+    "movieId": 161,
+    "score": 0.95,
+    "reason": "Top Gun’s roaring jets deliver an exhilarating rush"
+  },
+  {
+    "movieId": 568,
+    "score": 0.9,
+    "reason": "Speed keeps the tension screaming at breakneck pace"
+  },
+  {
+    "movieId": 121,
+    "score": 0.85,
+    "reason": "Independence Day sails you through an all-out action spectacle"
+  },
+  {
+    "movieId": 82,
+    "score": 0.8,
+    "reason": "Jurassic Park’s rampaging dinosaurs ignite pure excitement"
+  },
+  {
+    "movieId": 176,
+    "score": 0.75,
+    "reason": "Aliens propels you into relentless, pulse-pounding chaos"
+  },
+  {
+    "movieId": 204,
+    "score": 0.7,
+    "reason": "Back to the Future races forward with spirited fun and energy"
+  },
+  {
+    "movieId": 232,
+    "score": 0.65,
+    "reason": "Braveheart’s battle sequences roar with raw passion"
+  },
+  {
+    "movieId": 97,
+    "score": 0.6,
+    "reason": "Dances with Wolves charges your heart with sweeping scope"
+  },
+  {
+    "movieId": 176,
+    "score": 0.55,
+    "reason": "(Duplicate omitted)"
+  }
+]

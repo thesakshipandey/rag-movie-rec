@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 65,
+    "score": 0.95,
+    "reason": "Bitter-sweet exploration of family duty and identity.",
+    "title": "What's Eating Gilbert Grape?",
+    "year": "1993",
+    "plot": ""
+  },
+  {
+    "movieId": 1606,
+    "score": 0.9,
+    "reason": "Touching duet of ambition and healing through music.",
+    "title": "Dream Man",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 1287,
+    "score": 0.85,
+    "reason": "Whimsical tale of boy and magical car in 90s fantasy.",
+    "title": "Ed",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 1023,
+    "score": 0.8,
+    "reason": "Carol’s journey to self-discovery and unexpected family.",
+    "title": "My Favorite Year",
+    "year": "1982",
+    "plot": ""
+  },
+  {
+    "movieId": 1173,
+    "score": 0.75,
+    "reason": "Portrait of a pop-culture icon wrestling with fame.",
+    "title": "Jackie Brown",
+    "year": "1997",
+    "plot": ""
+  },
+  {
+    "movieId": 219,
+    "score": 0.7,
+    "reason": "Night-time terror that redefined slasher suspense.",
+    "title": "A Nightmare on Elm Street",
+    "year": "1984",
+    "plot": ""
+  },
+  {
+    "movieId": 1689,
+    "score": 0.65,
+    "reason": "Eerie survival horror with questions that linger.",
+    "title": "The Shining",
+    "year": "1980",
+    "plot": ""
+  },
+  {
+    "movieId": 569,
+    "score": 0.6,
+    "reason": "Psychological chiller probing human fears intimately.",
+    "title": "Wolf",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 454,
+    "score": 0.55,
+    "reason": "Intense psychological exploration of loss and recovery.",
+    "title": "Bastard Out of Carolina",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 907,
+    "score": 0.5,
+    "reason": "Survivor’s moral puzzle in a community torn by mistrust.",
+    "title": "Vermin",
+    "year": "1998",
+    "plot": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.95,
+    "reason": "Epic battle scenes that inspire raw, triumphant drive."
+  },
+  {
+    "movieId": 176,
+    "score": 0.93,
+    "reason": "Relentless, pulse-pounding action against overwhelming odds."
+  },
+  {
+    "movieId": 161,
+    "score": 0.91,
+    "reason": "High-flying aerial dogfights for full-throttle energy."
+  },
+  {
+    "movieId": 96,
+    "score": 0.89,
+    "reason": "Non-stop futuristic action and relentless pace."
+  },
+  {
+    "movieId": 144,
+    "score": 0.87,
+    "reason": "Classic skyscraper siege delivering continuous adrenaline."
+  },
+  {
+    "movieId": 568,
+    "score": 0.85,
+    "reason": "High-stakes thriller on a speeding bus, pulse quickening."
+  },
+  {
+    "movieId": 298,
+    "score": 0.83,
+    "reason": "High-octane action and frenetic chases throughout."
+  },
+  {
+    "movieId": 233,
+    "score": 0.81,
+    "reason": "Battleship takeover with combat at every bold turn."
+  },
+  {
+    "movieId": 31,
+    "score": 0.79,
+    "reason": "Tense submarine showdown fueling relentless suspense."
+  },
+  {
+    "movieId": 28,
+    "score": 0.77,
+    "reason": "Race against time in space, triumphant final-lifeline push."
+  }
+]

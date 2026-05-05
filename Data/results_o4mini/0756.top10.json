@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.98,
+    "reason": "Monumental meditation on humanity and technology in visual poetry"
+  },
+  {
+    "movieId": 89,
+    "score": 0.96,
+    "reason": "Melancholic neo-noir that questions what it means to be human"
+  },
+  {
+    "movieId": 269,
+    "score": 0.94,
+    "reason": "Gene-themed parable on identity and destiny in a precise future"
+  },
+  {
+    "movieId": 258,
+    "score": 0.92,
+    "reason": "Science-meets-spirit in a quest for cosmic understanding"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Time-tossed drama probing fate, memory, and the price of knowledge"
+  },
+  {
+    "movieId": 175,
+    "score": 0.88,
+    "reason": "Kafkaesque bureaucracy and surreal dreams in a totalitarian state"
+  },
+  {
+    "movieId": 39,
+    "score": 0.86,
+    "reason": "Disturbing tech noir exploring memory, guilt, and the soul"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.84,
+    "reason": "Philosophical android inquiry into consciousness and identity"
+  },
+  {
+    "movieId": 62,
+    "score": 0.82,
+    "reason": "Gate transports ideas about power, faith, and the unknown"
+  },
+  {
+    "movieId": 92,
+    "score": 0.8,
+    "reason": "Violent love-story noir with existential sci-fi undercurrents"
+  }
+]

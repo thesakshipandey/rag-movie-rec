@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 141,
+    "score": 0.95,
+    "reason": "Reference to '20,000' in the title"
+  },
+  {
+    "movieId": 314,
+    "score": 0.93,
+    "reason": "Features '3' as a numeral"
+  },
+  {
+    "movieId": 226,
+    "score": 0.91,
+    "reason": "‘2’ in the title of a sequel"
+  },
+  {
+    "movieId": 343,
+    "score": 0.89,
+    "reason": "'8' embedded in the title"
+  },
+  {
+    "movieId": 568,
+    "score": 0.87,
+    "reason": "'1994' in title representing a number"
+  },
+  {
+    "movieId": 555,
+    "score": 0.85,
+    "reason": "Uses 'I' and 'II' numerals"
+  },
+  {
+    "movieId": 541,
+    "score": 0.83,
+    "reason": "Numeric reference in title"
+  },
+  {
+    "movieId": 161,
+    "score": 0.81,
+    "reason": "‘Top Gun’ sequel uses 'II'"
+  },
+  {
+    "movieId": 204,
+    "score": 0.79,
+    "reason": "Time-travel sequel uses 'II'"
+  },
+  {
+    "movieId": 335,
+    "score": 0.77,
+    "reason": "Features a number in the title"
+  }
+]

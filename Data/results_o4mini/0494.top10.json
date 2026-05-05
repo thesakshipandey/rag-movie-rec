@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.9,
+    "reason": "Two strangers share an unforgettable overnight romance in Vienna"
+  },
+  {
+    "movieId": 487,
+    "score": 0.89,
+    "reason": "Royal escapee finds true love in spontaneous Roman adventure"
+  },
+  {
+    "movieId": 483,
+    "score": 0.88,
+    "reason": "Star-crossed lovers reunite amid wartime longing in Casablanca"
+  },
+  {
+    "movieId": 131,
+    "score": 0.87,
+    "reason": "City girl’s whimsical romance sparks in Tiffany’s glow"
+  },
+  {
+    "movieId": 216,
+    "score": 0.86,
+    "reason": "Friends-to-lovers banter leads to realization of perfect match"
+  },
+  {
+    "movieId": 88,
+    "score": 0.85,
+    "reason": "Radio confession leads two lonely souls to magical encounter"
+  },
+  {
+    "movieId": 275,
+    "score": 0.84,
+    "reason": "Dashwood sisters navigate restrained hearts and hesitant hopes"
+  },
+  {
+    "movieId": 155,
+    "score": 0.83,
+    "reason": "Summer camp dance ignites forbidden romance and breathless finale"
+  },
+  {
+    "movieId": 274,
+    "score": 0.82,
+    "reason": "Chauffeur’s daughter blossoms into love with family heir"
+  },
+  {
+    "movieId": 92,
+    "score": 0.81,
+    "reason": "Impulsive passion turns ordinary into cinematic devotion"
+  }
+]

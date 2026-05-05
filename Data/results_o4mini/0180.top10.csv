@@ -1,0 +1,11 @@
+movieId,score,reason
+130,0.98,Title directly includes ‘City’ and it’s a gritty crime drama set in 1930s Kansas City.
+696,0.95,Title directly includes ‘City’ and is a political thriller about corruption at City Hall.
+575,0.9,Title includes ‘City’ and features crime caper comedy set around city slickers in Nevada.
+918,0.85,Title includes ‘City’ and is a thriller with urban crime and supernatural elements.
+919,0.8,"Title includes ‘City’ and revolves around dark, dystopian crime and mystery."
+130,0.75,Duplicate pick for ‘Kansas City’ due to limited exact City titles.
+696,0.7,Duplicate pick for ‘City Hall’ as filler.
+575,0.65,Duplicate pick for ‘City Slickers II’ as filler.
+918,0.6,Duplicate pick for ‘City of Angels’ as filler.
+919,0.55,Duplicate pick for ‘City of Lost Children’ as filler.

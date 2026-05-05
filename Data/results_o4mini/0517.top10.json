@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Endearing toy camaraderie that feels like the truest of lifelong bonds."
+  },
+  {
+    "movieId": 140,
+    "score": 0.93,
+    "reason": "Three pets’ determined journey home radiates loyal friendship warmth."
+  },
+  {
+    "movieId": 42,
+    "score": 0.91,
+    "reason": "Convenience-store banter among old friends feels utterly lived-in and real."
+  },
+  {
+    "movieId": 655,
+    "score": 0.89,
+    "reason": "Four boys’ nostalgic road trip sealed with shared secrets and laughter."
+  },
+  {
+    "movieId": 21,
+    "score": 0.87,
+    "reason": "Beloved Muppets and orphan’s grand adventure brimming with joyful mischief."
+  },
+  {
+    "movieId": 169,
+    "score": 0.85,
+    "reason": "Ingenious inventor and his dog share heartfelt, hilarious collaboration."
+  },
+  {
+    "movieId": 189,
+    "score": 0.83,
+    "reason": "Cheese-moon escapade captures pure pleasure of creative, trusting partnership."
+  },
+  {
+    "movieId": 186,
+    "score": 0.81,
+    "reason": "Brothers reunited by music and mayhem in stirring blues-powered friendship."
+  },
+  {
+    "movieId": 238,
+    "score": 0.79,
+    "reason": "Bumbling bank robbers turned duo spark madcap schemes with genuine heart."
+  },
+  {
+    "movieId": 400,
+    "score": 0.77,
+    "reason": "Lovable kids’ club antics unfold with honest warmth and silly loyalty."
+  }
+]

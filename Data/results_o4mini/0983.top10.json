@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 317,
+    "score": 0.98,
+    "reason": "Powerful true-story drama of wrongful conviction and resilience in In the Name of the Father"
+  },
+  {
+    "movieId": 79,
+    "score": 0.92,
+    "reason": "Dr. Kimble fights a corrupt system to prove his innocence in The Fugitive"
+  },
+  {
+    "movieId": 320,
+    "score": 0.9,
+    "reason": "Documentary exposing wrongful convictions of teens in Paradise Lost"
+  },
+  {
+    "movieId": 735,
+    "score": 0.88,
+    "reason": "A lawyer battles systemic AIDS discrimination in Philadelphia"
+  },
+  {
+    "movieId": 591,
+    "score": 0.85,
+    "reason": "Ambitious lawyer defends a teen falsely accused in Primal Fear"
+  },
+  {
+    "movieId": 203,
+    "score": 0.82,
+    "reason": "Retired gunslingers expose police corruption in Unforgiven"
+  },
+  {
+    "movieId": 319,
+    "score": 0.8,
+    "reason": "Media baron vs. free speech in The People vs. Larry Flynt"
+  },
+  {
+    "movieId": 258,
+    "score": 0.78,
+    "reason": "SETI scientist fights disbelief to reveal the truth in Contact"
+  },
+  {
+    "movieId": 566,
+    "score": 0.75,
+    "reason": "Reporters uncover TV quiz-show fraud and scandal in Quiz Show"
+  },
+  {
+    "movieId": 144,
+    "score": 0.72,
+    "reason": "Journalist uncovers Nazi war crimes and the fight for justice in Schindler's List"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 183,
+    "score": 0.98,
+    "reason": "Alien’s plot centers on a xenomorph aboard the Nostromo, pure sci-fi terror."
+  },
+  {
+    "movieId": 176,
+    "score": 0.96,
+    "reason": "Aliens pits Ripley against extraterrestrial hordes in a space-based siege."
+  },
+  {
+    "movieId": 665,
+    "score": 0.94,
+    "reason": "Alien³ continues the fortress-in-space horror against alien threat."
+  },
+  {
+    "movieId": 343,
+    "score": 0.92,
+    "reason": "Alien: Resurrection revives the iconic creature in deep-space terror."
+  },
+  {
+    "movieId": 62,
+    "score": 0.9,
+    "reason": "Stargate introduces cosmic travel through an ancient device in space."
+  },
+  {
+    "movieId": 28,
+    "score": 0.88,
+    "reason": "Apollo 13 depicts a real‐life space mission gone awry against the void."
+  },
+  {
+    "movieId": 135,
+    "score": 0.86,
+    "reason": "2001: A Space Odyssey explores enigmatic monoliths and human evolution in space."
+  },
+  {
+    "movieId": 449,
+    "score": 0.84,
+    "reason": "Star Trek: The Motion Picture follows a mysterious space cloud investigation."
+  },
+  {
+    "movieId": 228,
+    "score": 0.82,
+    "reason": "The Wrath of Khan focuses on genetic engineering and space pursuit."
+  },
+  {
+    "movieId": 222,
+    "score": 0.8,
+    "reason": "Star Trek: First Contact dramatizes first contact with an alien collective."
+  }
+]

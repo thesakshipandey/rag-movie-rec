@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 62,
+    "score": 0.95,
+    "reason": "Simple yet gripping quest for an ancient portal keeps you unsure who to trust"
+  },
+  {
+    "movieId": 112,
+    "score": 0.92,
+    "reason": "Good cop, bad cop blur in this tense thriller with deep moral ambiguity"
+  },
+  {
+    "movieId": 473,
+    "score": 0.9,
+    "reason": "Human-ape bond complicates right and wrong in a sympathetic, gray-area drama"
+  },
+  {
+    "movieId": 516,
+    "score": 0.88,
+    "reason": "Small-town newspaper uncovers scandal that forces readers to question morality"
+  },
+  {
+    "movieId": 314,
+    "score": 0.85,
+    "reason": "Young ninjas grapple with loyalty and betrayal in a charged coming-of-age thriller"
+  },
+  {
+    "movieId": 880,
+    "score": 0.83,
+    "reason": "Close-knit family drama turns tense when a deadly secret comes to light"
+  },
+  {
+    "movieId": 329,
+    "score": 0.8,
+    "reason": "Father’s desperate crusade against a syndicate opens doors to moral compromise"
+  },
+  {
+    "movieId": 1233,
+    "score": 0.78,
+    "reason": "A pirate detective drags you into a sea of gray-area justice and ambiguous loyalties"
+  },
+  {
+    "movieId": 1133,
+    "score": 0.75,
+    "reason": "Futuristic cloning law rogue explores a chilling moral maze with no clear heroes"
+  },
+  {
+    "movieId": 1270,
+    "score": 0.72,
+    "reason": "Surreal biotech thriller tests boundaries of right and wrong in a dark moral jungle"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1027,
+    "score": 0.98,
+    "reason": "1995 chess-crunch drama on the rivalry between teacher and prodigy."
+  },
+  {
+    "movieId": 1220,
+    "score": 0.96,
+    "reason": "1997 tennis drama of coach-player obsession and competition."
+  },
+  {
+    "movieId": 462,
+    "score": 0.94,
+    "reason": "1992 Taiwanese family chronicling personal strains in tight circles."
+  },
+  {
+    "movieId": 46,
+    "score": 0.92,
+    "reason": "1994 ballet aficionados locked in mutual fascination."
+  },
+  {
+    "movieId": 472,
+    "score": 0.9,
+    "reason": "1996 knightly epic on a deadly tournament of honor and art."
+  },
+  {
+    "movieId": 467,
+    "score": 0.88,
+    "reason": "1993 mobster’s son pushed to extremes in a hazy code of loyalty."
+  },
+  {
+    "movieId": 170,
+    "score": 0.86,
+    "reason": "1988 nostalgic homage to cinema—competition of art and craft."
+  },
+  {
+    "movieId": 754,
+    "score": 0.84,
+    "reason": "1997 thriller of rival intelligence officers in deadly chess match."
+  },
+  {
+    "movieId": 101,
+    "score": 0.82,
+    "reason": "1981 anthology of competitive duels in dark sci-fi vignettes."
+  },
+  {
+    "movieId": 155,
+    "score": 0.8,
+    "reason": "1987 dance rivalry set to emotional stakes, not montage-driven."
+  }
+]

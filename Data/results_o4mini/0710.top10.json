@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "Epic World War II psychological odyssey blending grand conflict and personal crisis"
+  },
+  {
+    "movieId": 511,
+    "score": 0.95,
+    "reason": "Stunning desert landscapes frame the epic rise of a war hero"
+  },
+  {
+    "movieId": 173,
+    "score": 0.93,
+    "reason": "Fairy-tale romance across borders with lush period detail"
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "Moving saga of friendship and cinema in postwar Sicily"
+  },
+  {
+    "movieId": 385,
+    "score": 0.88,
+    "reason": "Baroque passion and political intrigue in interwar France"
+  },
+  {
+    "movieId": 57,
+    "score": 0.85,
+    "reason": "Political madness and royal decline in opulent court drama"
+  },
+  {
+    "movieId": 599,
+    "score": 0.83,
+    "reason": "Courtroom saga of power struggles amid Cold War tension"
+  },
+  {
+    "movieId": 199,
+    "score": 0.8,
+    "reason": "Soldiers’ resilience against brutal chains in classic war drama"
+  },
+  {
+    "movieId": 312,
+    "score": 0.78,
+    "reason": "Savannah’s haunting murder sparks an engrossing southern thriller"
+  },
+  {
+    "movieId": 39,
+    "score": 0.75,
+    "reason": "Cybernetic chase across war-torn future landscapes"
+  }
+]

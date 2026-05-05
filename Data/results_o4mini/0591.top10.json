@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 512,
+    "score": 0.98,
+    "reason": "Angelic, dreamlike wandering through a hushed city that floats between night and dawn."
+  },
+  {
+    "movieId": 691,
+    "score": 0.96,
+    "reason": "Disorienting visuals and shifting shadows conjure a drifting fever dream at twilight."
+  },
+  {
+    "movieId": 919,
+    "score": 0.94,
+    "reason": "Surreal carnival of visuals and dreams that feels like a half-remembered midnight vision."
+  },
+  {
+    "movieId": 1072,
+    "score": 0.92,
+    "reason": "Quirky, hallucinatory journey that drifts like a half-remembered fever dream."
+  },
+  {
+    "movieId": 537,
+    "score": 0.9,
+    "reason": "Hypnotic, late-night road trip through lost souls that unfolds like a wandering reverie."
+  },
+  {
+    "movieId": 479,
+    "score": 0.88,
+    "reason": "Spiraling nightmares in misty vistas that float on the edge of memory and desire."
+  },
+  {
+    "movieId": 420,
+    "score": 0.86,
+    "reason": "Whimsical, off-kilter world where reality and dreams blur in floating nonsense."
+  },
+  {
+    "movieId": 91,
+    "score": 0.84,
+    "reason": "Ethereal stop-motion that floats between unsettling and enchanting like a half-remembered lullaby."
+  },
+  {
+    "movieId": 131,
+    "score": 0.82,
+    "reason": "Pulsing neo-noir dreamscape that drifts in and out of coherence like a forgotten memory."
+  },
+  {
+    "movieId": 324,
+    "score": 0.8,
+    "reason": "Grotesque, surreal horror that undulates like a fevered nightmare slipping through your mind."
+  }
+]

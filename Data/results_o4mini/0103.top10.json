@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 691,
+    "score": 1.0,
+    "reason": "Protagonist’s memories are overwritten repeatedly, questioning the core of his identity."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.95,
+    "reason": "A cyborg grapples with human memories and wonders if her consciousness is her own."
+  },
+  {
+    "movieId": 298,
+    "score": 0.9,
+    "reason": "Two men swap faces and lives, forcing each to confront who they truly are."
+  },
+  {
+    "movieId": 657,
+    "score": 0.85,
+    "reason": "A soldier’s brainwashed identity resurfaces, blurring truth and self."
+  },
+  {
+    "movieId": 39,
+    "score": 0.8,
+    "reason": "Technology allows reliving others’ memories, erasing boundaries of self."
+  },
+  {
+    "movieId": 195,
+    "score": 0.75,
+    "reason": "A cop rebuilt as a cyborg struggles with losing his humanity piece by piece."
+  },
+  {
+    "movieId": 96,
+    "score": 0.7,
+    "reason": "A shape-shifting android explores what remains when body and mind transform."
+  },
+  {
+    "movieId": 89,
+    "score": 0.65,
+    "reason": "A replicant seeks the truth of her implanted past to define her own personhood."
+  },
+  {
+    "movieId": 270,
+    "score": 0.6,
+    "reason": "He alters his genes and identity to fit in, questioning what makes him ‘real.’"
+  },
+  {
+    "movieId": 999,
+    "score": 0.55,
+    "reason": "Each morning he wakes with no memory, so he must rebuild who he is every day."
+  }
+]

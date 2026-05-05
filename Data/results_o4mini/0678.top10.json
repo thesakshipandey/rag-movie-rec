@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1240,
+    "score": 0.98,
+    "reason": "Ghost in the Shell probes complex adult themes of consciousness and identity."
+  },
+  {
+    "movieId": 206,
+    "score": 0.96,
+    "reason": "Akira’s brutal cyberpunk vision tackles nihilism far beyond child’s play."
+  },
+  {
+    "movieId": 101,
+    "score": 0.94,
+    "reason": "Heavy Metal’s dark vignettes indulge in adult sci-fi horror and surrealism."
+  },
+  {
+    "movieId": 214,
+    "score": 0.92,
+    "reason": "Pink Floyd’s animated tour through madness stands as a mature rock opera film."
+  },
+  {
+    "movieId": 548,
+    "score": 0.9,
+    "reason": "NeverEnding Story III’s stakes are high, and its layered fantasy is far from kid-spoof."
+  },
+  {
+    "movieId": 1555,
+    "score": 0.88,
+    "reason": "Secret Adventures of Tom Thumb blends dark stop-motion with mature themes."
+  },
+  {
+    "movieId": 626,
+    "score": 0.86,
+    "reason": "Swiss Family Robinson’s perilous survival saga unfolds in lush animated wonder."
+  },
+  {
+    "movieId": 501,
+    "score": 0.84,
+    "reason": "Dumbo’s emotional depth and loss resonate well beyond simple children’s tale."
+  },
+  {
+    "movieId": 103,
+    "score": 0.82,
+    "reason": "Butch Cassidy animated tribute captures outlaw grit in a hand-drawn saga."
+  },
+  {
+    "movieId": 432,
+    "score": 0.8,
+    "reason": "Fantasia’s orchestral surrealism and abstract sequences brim with adult imagination."
+  }
+]

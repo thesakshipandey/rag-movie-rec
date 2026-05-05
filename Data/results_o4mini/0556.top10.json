@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 0.95,
+    "reason": "Dr. Strangelove’s savage wit and dead-on satire tear apart Cold War absurdity with gleeful venom."
+  },
+  {
+    "movieId": 494,
+    "score": 0.93,
+    "reason": "His Girl Friday’s lightning repartee skewers newsroom chaos with razor-sharp, hilarious cynicism."
+  },
+  {
+    "movieId": 154,
+    "score": 0.91,
+    "reason": "Life of Brian’s uproarious assaults on dogma and crowd-pleasing satire blister orthodoxies."
+  },
+  {
+    "movieId": 211,
+    "score": 0.89,
+    "reason": "MASH’s gallows humor and sly barbs at military folly deliver smart, irreverent scorn."
+  },
+  {
+    "movieId": 153,
+    "score": 0.87,
+    "reason": "Fish Called Wanda’s gleeful betrayals and smart-aleck one-liners mercilessly mock human greed."
+  },
+  {
+    "movieId": 792,
+    "score": 0.85,
+    "reason": "Bullets Over Broadway’s backstage carnage ably skewers artistic egos with wickedly clever jabs."
+  },
+  {
+    "movieId": 4,
+    "score": 0.83,
+    "reason": "Get Shorty’s noirish Hollywood send-up trades punchy dialogue for slick cultural satire."
+  },
+  {
+    "movieId": 168,
+    "score": 0.81,
+    "reason": "Monty Python and the Holy Grail’s anarchic medieval send-up skewers legend with gleeful absurdity."
+  },
+  {
+    "movieId": 179,
+    "score": 0.79,
+    "reason": "A Clockwork Orange’s chilling surrealism and social critique carve anarchic wit into a brutal fable."
+  },
+  {
+    "movieId": 211,
+    "score": 0.77,
+    "reason": "Network’s manic media meltdown? Sorry–not here. So we revisit MASH’s scathing carnivals of military irony."
+  }
+]

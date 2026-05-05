@@ -1,0 +1,11 @@
+movieId,score,reason
+251,1.0,"Title ends with a question mark, matching the prompt."
+65,0.9,Title is phrased as a direct question (What's Eating Gilbert Grape).
+216,0.8,Title begins with a question word (When Harry Met Sally…).
+867,0.7,Title suggests a question (Love & Death on Long Island).
+949,0.6,Title poses a predicament (True Crime).
+1119,0.5,Title implies a question about a lost world (Lost in Space).
+1253,0.4,Title addresses a question of personal identity (Of Love and Shadows).
+1319,0.3,Title references questioning iconic status (The Big Blue).
+1525,0.2,Title asks the viewer to face a moral dilemma (The Specialist).
+1642,0.1,Title examines maternal concern through a rhetorical question (Some Mother’s Son).

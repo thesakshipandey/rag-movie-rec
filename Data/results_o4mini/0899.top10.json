@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 499,
+    "score": 1.0,
+    "reason": "Cat on a Hot Tin Roof’s crumbling plantation home and doomed romance ooze gothic secrets and passion."
+  },
+  {
+    "movieId": 197,
+    "score": 0.95,
+    "reason": "The Graduate’s suburban setting and tragic love create a quietly unsettling, atmospheric romance."
+  },
+  {
+    "movieId": 40,
+    "score": 0.9,
+    "reason": "To Wong Foo’s drag-queen pilgrimage evokes a haunted grandeur in isolated, secretive small-town retreats."
+  },
+  {
+    "movieId": 480,
+    "score": 0.85,
+    "reason": "North by Northwest’s remote Mount Rushmore chase injects gothic suspense into an iconic American landmark."
+  },
+  {
+    "movieId": 167,
+    "score": 0.8,
+    "reason": "Brother Minister: The Assassination of Malcolm X blends political mystery with spiritual dread in austere locales."
+  },
+  {
+    "movieId": 30,
+    "score": 0.75,
+    "reason": "Belle de jour uses a Paris mansion’s shadows to cloak a forbidden, ill-fated romance."
+  },
+  {
+    "movieId": 486,
+    "score": 0.7,
+    "reason": "Sabrina’s stately Long Island estate conceals class divides and a bittersweet sense of impossible love."
+  },
+  {
+    "movieId": 102,
+    "score": 0.65,
+    "reason": "The Aristocats’ grand Parisian mansion juxtaposes looming secrets with warm, elegant period charm."
+  },
+  {
+    "movieId": 202,
+    "score": 0.6,
+    "reason": "Groundhog Day’s oppressive small-town loop replicates gothic confinement in a comedic-tragic romance."
+  },
+  {
+    "movieId": 534,
+    "score": 0.55,
+    "reason": "Traveller’s Southern gothic settings frame a doomed love story among con artists in dusty, secretive towns."
+  }
+]

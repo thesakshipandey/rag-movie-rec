@@ -1,0 +1,11 @@
+movieId,score,reason
+1,0.95,Starts with 'M'
+6,0.93,Title begins with 'M'
+13,0.91,Leads off with 'M'
+21,0.89,Begins with 'M'
+73,0.87,Starts with 'M'
+94,0.85,Title begins with 'M'
+111,0.83,Starts with 'M'
+119,0.81,Leads off with 'M'
+123,0.79,Starts with 'M'
+129,0.77,Begins with 'M'

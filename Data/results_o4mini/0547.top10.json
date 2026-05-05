@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 168,
+    "score": 0.95,
+    "reason": "Hilarious medieval mayhem that defies logic and brims with absurd quotable moments."
+  },
+  {
+    "movieId": 208,
+    "score": 0.92,
+    "reason": "Lovingly spoofed horror tropes and Morse code punchlines that leave you in stitches."
+  },
+  {
+    "movieId": 209,
+    "score": 0.9,
+    "reason": "Rockumentary genius with laugh-out-loud riffs and deadpan absurdity."
+  },
+  {
+    "movieId": 240,
+    "score": 0.88,
+    "reason": "Chaotic road-trip comedy packed with quotable one-liners and surreal humor."
+  },
+  {
+    "movieId": 249,
+    "score": 0.86,
+    "reason": "Groovy spy spoof oozing style, one-liners, and outrageous ’60s swagger."
+  },
+  {
+    "movieId": 186,
+    "score": 0.84,
+    "reason": "Roaring blues mayhem with razor-sharp wit and scenes that refuse to make sense."
+  },
+  {
+    "movieId": 153,
+    "score": 0.82,
+    "reason": "Perfectly timed con plots and stutters that turn every line into comedy gold."
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Indie comedy with off-beat banter and razor-sharp character quirks."
+  },
+  {
+    "movieId": 175,
+    "score": 0.78,
+    "reason": "Surreal dystopia where bizarre gags and quotable absurdity collide."
+  },
+  {
+    "movieId": 154,
+    "score": 0.76,
+    "reason": "Satirical zeal and sacred cows set aflame in uproarious biblical proportion."
+  }
+]

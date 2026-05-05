@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 436,
+    "score": 1.0,
+    "reason": "Iconic 80s horror with groundbreaking practical werewolf effects"
+  },
+  {
+    "movieId": 201,
+    "score": 0.95,
+    "reason": "Genuinely chilling zombies with masterful practical gore effects"
+  },
+  {
+    "movieId": 200,
+    "score": 0.92,
+    "reason": "Tense, dread-filled atmosphere and classic practical horror in isolated setting"
+  },
+  {
+    "movieId": 219,
+    "score": 0.9,
+    "reason": "Nightmarish killer brings unrelenting terror with practical puppet FX"
+  },
+  {
+    "movieId": 637,
+    "score": 0.88,
+    "reason": "Classic lycanthrope thriller with intense practical makeup effects"
+  },
+  {
+    "movieId": 668,
+    "score": 0.85,
+    "reason": "Bizarre beach monster film with unsettling practical creature work"
+  },
+  {
+    "movieId": 176,
+    "score": 0.82,
+    "reason": "Alien queen terror and claustrophobic practical sets heighten dread"
+  },
+  {
+    "movieId": 440,
+    "score": 0.78,
+    "reason": "Grim 80s haunted-house sequel driven by eerie practical FX"
+  },
+  {
+    "movieId": 438,
+    "score": 0.75,
+    "reason": "Camp meets fright: creepy practical creature in 3-D beach horror"
+  },
+  {
+    "movieId": 444,
+    "score": 0.7,
+    "reason": "Unnerving gelatinous horror that feels grounded thanks to practical FX"
+  }
+]

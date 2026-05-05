@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.95,
+    "reason": "Powerful portrayal of courage and loss, profound humanism that leaves a lasting emotional impact."
+  },
+  {
+    "movieId": 416,
+    "score": 0.9,
+    "reason": "Heartfelt tale of loyalty and sacrifice on the frontier, raw emotion and bittersweet resolution."
+  },
+  {
+    "movieId": 509,
+    "score": 0.88,
+    "reason": "Triumph over adversity through unwavering love and resilience, deeply moving true story."
+  },
+  {
+    "movieId": 65,
+    "score": 0.87,
+    "reason": "Tender family drama with subtle humor, poignant performances that reveal quiet sorrow."
+  },
+  {
+    "movieId": 9,
+    "score": 0.85,
+    "reason": "Compassionate journey toward redemption and forgiveness, wrenching yet profound."
+  },
+  {
+    "movieId": 286,
+    "score": 0.84,
+    "reason": "Lush, tragic romance amid war’s ruins, mournful beauty and emotional depth."
+  },
+  {
+    "movieId": 170,
+    "score": 0.83,
+    "reason": "Nostalgic ode to film and friendship, bittersweet warmth that lingers long after the credits."
+  },
+  {
+    "movieId": 51,
+    "score": 0.82,
+    "reason": "Epic family saga of love and loss, sweeping landscapes underscore heartfelt emotion."
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "Gentle portrait of a teacher’s dedication, accumulating small triumphs into touching legacy."
+  },
+  {
+    "movieId": 196,
+    "score": 0.79,
+    "reason": "Inspiring call to seize the day, tender mentoring and heartbreaking consequences."
+  }
+]

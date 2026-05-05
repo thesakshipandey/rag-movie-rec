@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1252,
+    "score": 0.98,
+    "reason": "1963 Franco-Italian court intrigue around Nazi secrets"
+  },
+  {
+    "movieId": 905,
+    "score": 0.96,
+    "reason": "1998 French-American duel of ideals in a royal court setting"
+  },
+  {
+    "movieId": 807,
+    "score": 0.94,
+    "reason": "1993 gritty American courtroom drama with political stakes"
+  },
+  {
+    "movieId": 755,
+    "score": 0.9,
+    "reason": "1995 family rescue drama with political propaganda subtext"
+  },
+  {
+    "movieId": 651,
+    "score": 0.88,
+    "reason": "1989 civil rights political battle recounted in documentary style"
+  },
+  {
+    "movieId": 320,
+    "score": 0.85,
+    "reason": "1996 US legal conspiracy doc with high-stakes political cover-up"
+  },
+  {
+    "movieId": 181,
+    "score": 0.8,
+    "reason": "1983 UK sci-fi with Cold War allegory and political tension"
+  },
+  {
+    "movieId": 587,
+    "score": 0.75,
+    "reason": "1993 period espionage tale of IRA and MI5 intrigue"
+  },
+  {
+    "movieId": 1282,
+    "score": 0.7,
+    "reason": "1996 legal drama unraveling political murder cover-up"
+  },
+  {
+    "movieId": 745,
+    "score": 0.65,
+    "reason": "1972 British dark comedy on class and power dynamics"
+  }
+]

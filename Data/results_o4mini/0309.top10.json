@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "An iconic space opera with epic scope, thrilling battles, and timeless adventure."
+  },
+  {
+    "movieId": 82,
+    "score": 0.95,
+    "reason": "A groundbreaking dinosaur spectacle that delivers nonstop wonder and excitement."
+  },
+  {
+    "movieId": 121,
+    "score": 0.9,
+    "reason": "A massive alien-invasion blockbuster with high-stakes action and crowd-pleasing thrills."
+  },
+  {
+    "movieId": 257,
+    "score": 0.85,
+    "reason": "A fast-paced sci-fi comedy packed with galactic action and irreverent humor."
+  },
+  {
+    "movieId": 222,
+    "score": 0.8,
+    "reason": "A rousing Starfleet adventure that blends time travel, action, and heroism."
+  },
+  {
+    "movieId": 204,
+    "score": 0.75,
+    "reason": "A time-travel classic overflowing with fun, energy, and unforgettable moments."
+  },
+  {
+    "movieId": 96,
+    "score": 0.7,
+    "reason": "A high-octane sci-fi action epic with relentless pace and spectacular effects."
+  },
+  {
+    "movieId": 117,
+    "score": 0.65,
+    "reason": "A rock-solid action thriller on Alcatraz packed with daring stunts and suspense."
+  },
+  {
+    "movieId": 118,
+    "score": 0.6,
+    "reason": "A thrilling chase with tornadoes, adrenaline-fueled stunts, and heart-pounding action."
+  },
+  {
+    "movieId": 250,
+    "score": 0.55,
+    "reason": "A colorful sci-fi whirlwind of humor, action, and fantastical thrills."
+  }
+]

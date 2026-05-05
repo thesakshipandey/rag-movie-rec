@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "Pablo Neruda starts fresh in a tiny Italian isle, learning life’s small joys in a peaceful village."
+  },
+  {
+    "movieId": 116,
+    "score": 0.92,
+    "reason": "After family loss, Flora moves to a quirky country estate to build a new life with gentle humor."
+  },
+  {
+    "movieId": 137,
+    "score": 0.9,
+    "reason": "Two brothers pour heart into one big Italian meal, with human-scale conflicts and cozy warmth."
+  },
+  {
+    "movieId": 45,
+    "score": 0.88,
+    "reason": "A widowed chef shares loving family dinners, finding comfort in simple, heartfelt cooking rituals."
+  },
+  {
+    "movieId": 304,
+    "score": 0.85,
+    "reason": "A girl caring for orphaned goose eggs on her uncle’s farm, finding solace and belonging in nature."
+  },
+  {
+    "movieId": 126,
+    "score": 0.83,
+    "reason": "A parolee opens a run-down grill in a small Maine town, brewing community bonds and gentle new beginnings."
+  },
+  {
+    "movieId": 19,
+    "score": 0.8,
+    "reason": "A matriarch returns to her post–WWII hometown, nurturing community ties with kindness and everyday warmth."
+  },
+  {
+    "movieId": 66,
+    "score": 0.78,
+    "reason": "A solitary fare collector in Chicago finds unexpected family bonds in a tender, low-stakes romance."
+  },
+  {
+    "movieId": 15,
+    "score": 0.75,
+    "reason": "A music teacher’s decades-long journey shows small triumphs and quiet transformation in a real-time classroom."
+  },
+  {
+    "movieId": 88,
+    "score": 0.72,
+    "reason": "A man uproots to Seattle with his son, sharing gentle holiday moments and small personal discoveries."
+  }
+]

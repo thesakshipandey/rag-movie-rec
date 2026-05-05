@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 0.98,
+    "reason": "Mind-bending sci-fi thriller swirling time and fate together"
+  },
+  {
+    "movieId": 324,
+    "score": 0.96,
+    "reason": "Surreal cerebral thriller that dismantles reality piece by piece"
+  },
+  {
+    "movieId": 12,
+    "score": 0.94,
+    "reason": "Masterful twist-driven mystery that upends everything at the end"
+  },
+  {
+    "movieId": 591,
+    "score": 0.92,
+    "reason": "Psychological legal thriller that shocks with every turn"
+  },
+  {
+    "movieId": 324,
+    "score": 0.9,
+    "reason": "Atmospheric mind-warping suspense with an unforgettable reveal"
+  },
+  {
+    "movieId": 760,
+    "score": 0.88,
+    "reason": "Claustrophobic sci-fi chaos that leaves you questioning everything"
+  },
+  {
+    "movieId": 561,
+    "score": 0.86,
+    "reason": "Futuristic thriller challenging perceptions and moral lines"
+  },
+  {
+    "movieId": 89,
+    "score": 0.84,
+    "reason": "Iconic neo-noir with existential dread and stunning mind games"
+  },
+  {
+    "movieId": 77,
+    "score": 0.82,
+    "reason": "Political thriller bending truth into a disorienting puzzle"
+  },
+  {
+    "movieId": 160,
+    "score": 0.8,
+    "reason": "Intense chamber drama warping reality with verbal and psychological duels"
+  }
+]

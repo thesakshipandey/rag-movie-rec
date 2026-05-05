@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 691,
+    "score": 0.9,
+    "reason": "Title includes 'Dark'"
+  },
+  {
+    "movieId": 124,
+    "score": 0.85,
+    "reason": "Title includes 'Shadow'"
+  },
+  {
+    "movieId": 984,
+    "score": 0.8,
+    "reason": "Title includes 'Shadow'"
+  },
+  {
+    "movieId": 1545,
+    "score": 0.75,
+    "reason": "Title is 'Shadows'"
+  },
+  {
+    "movieId": 1252,
+    "score": 0.7,
+    "reason": "Title includes 'Shadow'"
+  },
+  {
+    "movieId": 389,
+    "score": 0.3,
+    "reason": "Title includes 'Black,' a dark shade"
+  },
+  {
+    "movieId": 369,
+    "score": 0.28,
+    "reason": "Title includes 'Black,' meaning dark"
+  },
+  {
+    "movieId": 98,
+    "score": 0.25,
+    "reason": "Title includes 'Silence,' evokes shadowy mood"
+  },
+  {
+    "movieId": 64,
+    "score": 0.2,
+    "reason": "Title includes 'Shawshank,' features dark themes"
+  },
+  {
+    "movieId": 44,
+    "score": 0.15,
+    "reason": "Title includes 'Dolores,' evokes dark drama"
+  }
+]

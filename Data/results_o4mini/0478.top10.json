@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 121,
+    "score": 1.0,
+    "reason": "Earth unites to repel an alien invasion in an all-out global spectacle."
+  },
+  {
+    "movieId": 96,
+    "score": 0.95,
+    "reason": "A shape-shifting android ignites explosive battles to save mankind."
+  },
+  {
+    "movieId": 118,
+    "score": 0.9,
+    "reason": "Storm-chasing heroes race tornadoes in thunderous, adrenaline-charged pursuit."
+  },
+  {
+    "movieId": 161,
+    "score": 0.85,
+    "reason": "Top aviators push their jets to the limit in a high-octane aerial thrill ride."
+  },
+  {
+    "movieId": 50,
+    "score": 0.8,
+    "reason": "A farm boy’s rise becomes a galaxy-spanning triumph against tyranny."
+  },
+  {
+    "movieId": 82,
+    "score": 0.75,
+    "reason": "Park visitors face prehistoric giants in a heart-pounding fight for survival."
+  },
+  {
+    "movieId": 22,
+    "score": 0.7,
+    "reason": "A Scottish warrior rallies his countrymen for an earned hard-fought victory."
+  },
+  {
+    "movieId": 204,
+    "score": 0.65,
+    "reason": "A teen’s time-bending ride delivers pulse-pounding, world-saving adventure."
+  },
+  {
+    "movieId": 29,
+    "score": 0.6,
+    "reason": "A caped crusader’s clash with Gotham’s rogues ignites blockbuster spectacle."
+  },
+  {
+    "movieId": 172,
+    "score": 0.55,
+    "reason": "Heroes battle the Empire in icy depths for the galaxy’s fate."
+  }
+]

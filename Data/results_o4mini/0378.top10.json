@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 1.0,
+    "reason": "The Remains of the Day offers quiet reflection in a stately house awash with unspoken emotions."
+  },
+  {
+    "movieId": 170,
+    "score": 0.95,
+    "reason": "Cinema Paradiso’s nostalgic reverie invites you to savor every gentle moment of film and memory."
+  },
+  {
+    "movieId": 664,
+    "score": 0.9,
+    "reason": "Paris, Texas paints still desert streets in a profound tale of homecoming and silence."
+  },
+  {
+    "movieId": 512,
+    "score": 0.85,
+    "reason": "Wings of Desire drifts through poetic Berlin nights in a hushed, dreamlike embrace."
+  },
+  {
+    "movieId": 648,
+    "score": 0.8,
+    "reason": "The Quiet Man soothes with lush Irish landscapes and a slow-paced romance filled with gentle humor."
+  },
+  {
+    "movieId": 215,
+    "score": 0.75,
+    "reason": "Field of Dreams unfolds in sunlit cornfields, blending nostalgia and quiet wonder."
+  },
+  {
+    "movieId": 922,
+    "score": 0.7,
+    "reason": "Dead Man’s surreal river journey offers meditative pacing and haunting stillness."
+  },
+  {
+    "movieId": 463,
+    "score": 0.65,
+    "reason": "The Secret of Roan Inish drifts in salty breeze and folklore, a portrait of longing and calm."
+  },
+  {
+    "movieId": 15,
+    "score": 0.6,
+    "reason": "Mr. Holland’s Opus resonates with gentle rhythms of family, music, and the passage of time."
+  },
+  {
+    "movieId": 509,
+    "score": 0.55,
+    "reason": "My Left Foot breathes quiet resilience in a touching story of art, love, and unwavering spirit."
+  }
+]

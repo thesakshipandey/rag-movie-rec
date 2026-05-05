@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1222,
+    "score": 0.95,
+    "reason": "Legal fight over AI personhood pushes moral boundaries"
+  },
+  {
+    "movieId": 222,
+    "score": 0.92,
+    "reason": "Starfleet captain defends sentient android’s rights"
+  },
+  {
+    "movieId": 270,
+    "score": 0.9,
+    "reason": "Genetically chosen man battles prejudice as electronic proxy"
+  },
+  {
+    "movieId": 84,
+    "score": 0.88,
+    "reason": "Secret agency probes alien mind control and personhood"
+  },
+  {
+    "movieId": 329,
+    "score": 0.85,
+    "reason": "Father fights medical system treating his son as object"
+  },
+  {
+    "movieId": 438,
+    "score": 0.82,
+    "reason": "Journalist uncovers scientific personhood debate at Amityville"
+  },
+  {
+    "movieId": 128,
+    "score": 0.8,
+    "reason": "Top cop faces AI-level martial-arts androids’ moral claims"
+  },
+  {
+    "movieId": 325,
+    "score": 0.78,
+    "reason": "Couple explores AI companionship’s legal status"
+  },
+  {
+    "movieId": 743,
+    "score": 0.75,
+    "reason": "Walking nightmare questions soul of paranormal entity"
+  },
+  {
+    "movieId": 789,
+    "score": 0.72,
+    "reason": "Journalist stalks mysterious figures challenging humanity"
+  }
+]

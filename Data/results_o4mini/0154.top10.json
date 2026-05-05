@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.98,
+    "reason": "Blade Runner is gritty, dystopian sci-fi with philosophical depth, no fantasy elements."
+  },
+  {
+    "movieId": 176,
+    "score": 0.95,
+    "reason": "Aliens blends intense space horror and survival in a hard sci-fi setting."
+  },
+  {
+    "movieId": 195,
+    "score": 0.93,
+    "reason": "The Terminator melds time-travel tech with relentless realism, a hallmark of hard sci-fi."
+  },
+  {
+    "movieId": 636,
+    "score": 0.9,
+    "reason": "Escape from New York offers a bleak, near-future vision without any fantasy trappings."
+  },
+  {
+    "movieId": 164,
+    "score": 0.89,
+    "reason": "The Abyss features grounded underwater sci-fi and cutting-edge effects."
+  },
+  {
+    "movieId": 228,
+    "score": 0.87,
+    "reason": "Star Trek II: The Wrath of Khan focuses on cloning technology and moral sci-fi themes."
+  },
+  {
+    "movieId": 175,
+    "score": 0.85,
+    "reason": "Brazil presents a dark bureaucratic dystopia, firmly in the realm of hard science fiction."
+  },
+  {
+    "movieId": 193,
+    "score": 0.83,
+    "reason": "The Right Stuff chronicles the realistic early space program, no fantasy elements."
+  },
+  {
+    "movieId": 204,
+    "score": 0.8,
+    "reason": "Back to the Future offers time-travel grounded in pseudo-science, sans fantasy."
+  },
+  {
+    "movieId": 229,
+    "score": 0.78,
+    "reason": "Star Trek III: The Search for Spock explores mind-transfer tech in a serious sci-fi context."
+  }
+]

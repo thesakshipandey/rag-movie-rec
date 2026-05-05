@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 90,
+    "score": 0.95,
+    "reason": "A poet’s obsession with winning and one-upping rivals drives a darkly tense comedy-drama"
+  },
+  {
+    "movieId": 160,
+    "score": 0.92,
+    "reason": "Salesmen clash in a high-stakes contest for top real-estate leads, fueling tragic rivalry"
+  },
+  {
+    "movieId": 511,
+    "score": 0.9,
+    "reason": "Two pilots’ competitive bond fractures as one pursues political power and the other deadly ambition"
+  },
+  {
+    "movieId": 191,
+    "score": 0.88,
+    "reason": "Classical composer’s envy of Mozart escalates into a consuming, tragic rivalry"
+  },
+  {
+    "movieId": 157,
+    "score": 0.85,
+    "reason": "Boxer torn between loyalty and ambition in an obsessive struggle for greatness"
+  },
+  {
+    "movieId": 905,
+    "score": 0.83,
+    "reason": "Young writer’s rivalry with socialite pushes both to extremes in a biting drama"
+  },
+  {
+    "movieId": 372,
+    "score": 0.8,
+    "reason": "Friends bond over AIDS activism, but tensions rise as they vie for moral high ground"
+  },
+  {
+    "movieId": 632,
+    "score": 0.78,
+    "reason": "An FBI agent’s psychological duel with a charismatic psychopath unfolds with tragic stakes"
+  },
+  {
+    "movieId": 42,
+    "score": 0.75,
+    "reason": "Store clerks’ petty competitions escalate into absurdly tense conflicts"
+  },
+  {
+    "movieId": 853,
+    "score": 0.72,
+    "reason": "Underground strippers clash in a bizarre power play of showmanship and dark desire"
+  }
+]

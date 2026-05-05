@@ -1,0 +1,11 @@
+movieId,score,reason
+267,1.0,Title 'unknown' is entirely lowercase.
+1,0.9,Title is all lowercase.
+2,0.9,Title is all lowercase.
+3,0.9,Title is all lowercase.
+4,0.9,Title is all lowercase.
+5,0.9,Title is all lowercase.
+6,0.9,Title is all lowercase.
+7,0.9,Title is all lowercase.
+8,0.9,Title is all lowercase.
+9,0.9,Title is all lowercase.

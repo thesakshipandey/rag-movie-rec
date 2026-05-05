@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Se7en’s dark procedural drags you down a spiraling rabbit hole of paranoia."
+  },
+  {
+    "movieId": 5,
+    "score": 0.92,
+    "reason": "Copycat’s meticulous investigation traps you in mounting suspense and dread."
+  },
+  {
+    "movieId": 12,
+    "score": 0.88,
+    "reason": "The Usual Suspects’s labyrinthine mystery fuels obsessive “what-if” paranoia."
+  },
+  {
+    "movieId": 302,
+    "score": 0.85,
+    "reason": "L.A. Confidential’s tangled web of corruption deepens into conspiratorial dread."
+  },
+  {
+    "movieId": 38,
+    "score": 0.82,
+    "reason": "The Net’s creeping cyber-invasion turns every click into paranoid terror."
+  },
+  {
+    "movieId": 654,
+    "score": 0.78,
+    "reason": "Chinatown’s harmonic lies and hidden agendas breed investigative unease."
+  },
+  {
+    "movieId": 672,
+    "score": 0.75,
+    "reason": "Candyman’s legend-hunting obsession drags its investigator toward a murderous abyss."
+  },
+  {
+    "movieId": 31,
+    "score": 0.72,
+    "reason": "Crimson Tide’s submarine suspense tightens like a vice on truth and suspicion."
+  },
+  {
+    "movieId": 656,
+    "score": 0.69,
+    "reason": "M’s city-wide manhunt traps everyone in a net of suspicion and fear."
+  },
+  {
+    "movieId": 11,
+    "score": 0.65,
+    "reason": "Se7en’s relentless countdown leaves no room for peace of mind."
+  }
+]

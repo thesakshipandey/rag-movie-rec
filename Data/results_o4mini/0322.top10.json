@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 216,
+    "score": 0.99,
+    "reason": "Billy Crystal and Meg Ryan’s warm chemistry and witty banter make this a timeless, hopeful romance."
+  },
+  {
+    "movieId": 66,
+    "score": 0.98,
+    "reason": "Sandra Bullock’s sweet, earnest lead performance anchors this charming, romantic comedy."
+  },
+  {
+    "movieId": 88,
+    "score": 0.97,
+    "reason": "Tom Hanks and Meg Ryan’s uplifting, feel-good love story shines with genuine chemistry and warmth."
+  },
+  {
+    "movieId": 255,
+    "score": 0.96,
+    "reason": "Julia Roberts radiates charm and hope in this spirited, sweet story of love and self-discovery."
+  },
+  {
+    "movieId": 487,
+    "score": 0.95,
+    "reason": "Audrey Hepburn’s luminous, Oscar-winning performance turns this romantic fantasy into a joyful classic."
+  },
+  {
+    "movieId": 604,
+    "score": 0.94,
+    "reason": "Claudette Colbert and Clark Gable bring infectious optimism to this Oscar-winning, feel-good romantic comedy."
+  },
+  {
+    "movieId": 173,
+    "score": 0.93,
+    "reason": "Robin Wright and Cary Elwes infuse this fairytale romance with endless heart and whimsical hope."
+  },
+  {
+    "movieId": 354,
+    "score": 0.92,
+    "reason": "Adam Sandler and Drew Barrymore’s sweet chemistry revitalizes this playful, nostalgia-soaked romantic comedy."
+  },
+  {
+    "movieId": 283,
+    "score": 0.91,
+    "reason": "Gwyneth Paltrow’s spirited, heartfelt lead brings warmth to this delightful, uplifting Jane Austen adaptation."
+  },
+  {
+    "movieId": 275,
+    "score": 0.9,
+    "reason": "Emma Thompson anchors this tender, hopeful tale of love and sisterhood with a quietly radiant performance."
+  }
+]

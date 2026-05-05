@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 951,
+    "score": 0.95,
+    "reason": "A boy unlocks magic with a secret cupboard, racing to protect his tiny friend from doubt."
+  },
+  {
+    "movieId": 755,
+    "score": 0.92,
+    "reason": "Siblings find a mysterious board game that unleashes wild dangers they must outsmart."
+  },
+  {
+    "movieId": 655,
+    "score": 0.9,
+    "reason": "Four boys trek into the woods over summer to solve the mystery of a missing boy’s body."
+  },
+  {
+    "movieId": 400,
+    "score": 0.88,
+    "reason": "A rambunctious gang of kids scheme and stumble through backyard adventures and petty rivalries."
+  },
+  {
+    "movieId": 142,
+    "score": 0.86,
+    "reason": "Three evacuee siblings on summer break discover secrets while riding in magical coach buses."
+  },
+  {
+    "movieId": 1469,
+    "score": 0.84,
+    "reason": "Orphaned twins chase pirate legends and bullies to claim hidden treasure maps."
+  },
+  {
+    "movieId": 140,
+    "score": 0.82,
+    "reason": "Housepets embark on a road trip in nature, dodging wild hunters to find their way home."
+  },
+  {
+    "movieId": 21,
+    "score": 0.8,
+    "reason": "Muppets set sail on a treasure hunt, facing shady foes and trusting their own resourcefulness."
+  },
+  {
+    "movieId": 946,
+    "score": 0.78,
+    "reason": "Adult friends recall childhood summers unraveling mysteries that bond them forever."
+  },
+  {
+    "movieId": 42,
+    "score": 0.76,
+    "reason": "Clerks at a corner store catch rumors of buried secrets in town, plotting to uncover them."
+  }
+]

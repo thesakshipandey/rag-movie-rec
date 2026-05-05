@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 143,
+    "score": 0.95,
+    "reason": "Classic World War II combat drama"
+  },
+  {
+    "movieId": 157,
+    "score": 0.93,
+    "reason": "Vietnam War infantry experience"
+  },
+  {
+    "movieId": 180,
+    "score": 0.91,
+    "reason": "Vietnam War riverboat mission"
+  },
+  {
+    "movieId": 199,
+    "score": 0.89,
+    "reason": "WWII POW camp in Asia"
+  },
+  {
+    "movieId": 205,
+    "score": 0.87,
+    "reason": "WWII general in North Africa"
+  },
+  {
+    "movieId": 211,
+    "score": 0.85,
+    "reason": "Korean War surgical combat setting"
+  },
+  {
+    "movieId": 239,
+    "score": 0.83,
+    "reason": "WWII espionage thriller"
+  },
+  {
+    "movieId": 257,
+    "score": 0.81,
+    "reason": "Cold War espionage action"
+  },
+  {
+    "movieId": 265,
+    "score": 0.79,
+    "reason": "Cold War submarine pursuit"
+  },
+  {
+    "movieId": 378,
+    "score": 0.77,
+    "reason": "Contemporary submarine rescue mission"
+  }
+]

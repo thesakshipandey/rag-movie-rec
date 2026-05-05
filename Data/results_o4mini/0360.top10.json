@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Dark, twisty serial killer thriller with relentless tension"
+  },
+  {
+    "movieId": 12,
+    "score": 0.91,
+    "reason": "Ingenious crime caper with razor-sharp twists and a legendary reveal"
+  },
+  {
+    "movieId": 5,
+    "score": 0.82,
+    "reason": "Psychologically intense suspense as a profiler hunts a copycat killer"
+  },
+  {
+    "movieId": 591,
+    "score": 0.73,
+    "reason": "Legal thriller full of courtroom intrigue and shocking revelations"
+  },
+  {
+    "movieId": 159,
+    "score": 0.64,
+    "reason": "Seductive thriller with a gripping cat-and-mouse between detective and suspect"
+  },
+  {
+    "movieId": 98,
+    "score": 0.55,
+    "reason": "Haunting psychological chase with a brilliant mind game at its core"
+  },
+  {
+    "movieId": 568,
+    "score": 0.46,
+    "reason": "High-octane ride that never lets up once the bus hits a speed threshold"
+  },
+  {
+    "movieId": 7,
+    "score": 0.37,
+    "reason": "Mind-bending sci-fi thriller that keeps you guessing on every jump"
+  },
+  {
+    "movieId": 54,
+    "score": 0.28,
+    "reason": "Medical thriller with escalating stakes in race-against-time survival"
+  },
+  {
+    "movieId": 333,
+    "score": 0.19,
+    "reason": "Psychological puzzle of reality and control in a chilling, twisty plot"
+  }
+]

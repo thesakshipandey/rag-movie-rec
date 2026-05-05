@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 181,
+    "score": 0.95,
+    "reason": "Bright family adventure on Tatooine with hope."
+  },
+  {
+    "movieId": 50,
+    "score": 0.92,
+    "reason": "Original space opera full of wonder and optimism."
+  },
+  {
+    "movieId": 172,
+    "score": 0.9,
+    "reason": "Charming ensemble in a whimsical desert joust."
+  },
+  {
+    "movieId": 219,
+    "score": 0.88,
+    "reason": "Groundbreaking horror with suburban nightmare vibes."
+  },
+  {
+    "movieId": 236,
+    "score": 0.85,
+    "reason": "Dark comedy on political scandal with wit."
+  },
+  {
+    "movieId": 446,
+    "score": 0.83,
+    "reason": "Haunted mansion building dread through atmosphere."
+  },
+  {
+    "movieId": 451,
+    "score": 0.8,
+    "reason": "Energetic musical set in 1950s summer romance."
+  },
+  {
+    "movieId": 479,
+    "score": 0.78,
+    "reason": "Optimistic romantic comedy by Woody Allen."
+  },
+  {
+    "movieId": 503,
+    "score": 0.75,
+    "reason": "Political drama in the cutthroat 1970s."
+  },
+  {
+    "movieId": 12,
+    "score": 0.72,
+    "reason": "Witty, twisty crime caper with sharp dialogue."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "2001: A Space Odyssey is the ultimate high-concept, ideas-driven sci-fi masterpiece."
+  },
+  {
+    "movieId": 89,
+    "score": 0.95,
+    "reason": "Blade Runner probes identity and ethics in a visionary sci-noir future."
+  },
+  {
+    "movieId": 175,
+    "score": 0.9,
+    "reason": "Brazil presents a labyrinthine dystopia melding satire and surreal world-building."
+  },
+  {
+    "movieId": 49,
+    "score": 0.85,
+    "reason": "Star Wars (1977) redefined space opera with imaginative, conceptual world-building."
+  },
+  {
+    "movieId": 82,
+    "score": 0.8,
+    "reason": "Jurassic Park explores bio-ethical concepts with groundbreaking grounded sci-fi."
+  },
+  {
+    "movieId": 176,
+    "score": 0.75,
+    "reason": "Aliens examines technology versus nature in relentless, high-concept terror."
+  },
+  {
+    "movieId": 91,
+    "score": 0.7,
+    "reason": "The Nightmare Before Christmas blends stop-motion fantasy with profound conceptual themes."
+  },
+  {
+    "movieId": 251,
+    "score": 0.65,
+    "reason": "The Fifth Element fuses futuristic ideas with inventive world design and social satire."
+  },
+  {
+    "movieId": 89,
+    "score": 0.6,
+    "reason": "Blade Runner’s replicant concept remains a high-water mark of thought-provoking sci-fi."
+  },
+  {
+    "movieId": 135,
+    "score": 0.55,
+    "reason": "2001: A Space Odyssey’s monolith sequence challenges the boundaries of cinematic ideas."
+  }
+]

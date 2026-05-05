@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 94,
+    "score": 1.0,
+    "reason": "Kevin McCallister defends his home from burglars at Christmastime"
+  },
+  {
+    "movieId": 63,
+    "score": 0.95,
+    "reason": "A man becomes Santa Claus on Christmas Eve"
+  },
+  {
+    "movieId": 378,
+    "score": 0.9,
+    "reason": "A department store’s Thanksgiving Day Parade and Christmas Eve magic"
+  },
+  {
+    "movieId": 91,
+    "score": 0.88,
+    "reason": "Jack Skellington discovers Christmas Town"
+  },
+  {
+    "movieId": 144,
+    "score": 0.85,
+    "reason": "John McClane battles terrorists at a Christmas party"
+  },
+  {
+    "movieId": 226,
+    "score": 0.83,
+    "reason": "McClane returns to save Christmas at the airport"
+  },
+  {
+    "movieId": 85,
+    "score": 0.8,
+    "reason": "A couple’s Christmas Eve dinner gets hilariously out of hand"
+  },
+  {
+    "movieId": 66,
+    "score": 0.78,
+    "reason": "A lonely woman’s life changes on Christmas Eve"
+  },
+  {
+    "movieId": 633,
+    "score": 0.75,
+    "reason": "A miserly man learns the true meaning of Christmas"
+  },
+  {
+    "movieId": 378,
+    "score": 0.72,
+    "reason": "A department store’s Thanksgiving Day Parade and Christmas Eve magic"
+  }
+]

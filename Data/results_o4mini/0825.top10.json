@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Usual Suspects: mastermind’s chess‐like team assembly and one twist that topples the entire scheme"
+  },
+  {
+    "movieId": 239,
+    "score": 0.92,
+    "reason": "Sneakers: genius codebreakers rally for the perfect electronic heist, until one flaw derails them"
+  },
+  {
+    "movieId": 194,
+    "score": 0.9,
+    "reason": "Sting, The: con artists bring together a crack team for a seamless con that unravels at the last moment"
+  },
+  {
+    "movieId": 405,
+    "score": 0.88,
+    "reason": "Mission: Impossible: slick recruitment, meticulous planning and the unexpected glitch mid‐operation"
+  },
+  {
+    "movieId": 156,
+    "score": 0.85,
+    "reason": "Reservoir Dogs: colored‐code crew and razor‐sharp plan meet chaos when loyalties fray at first blood"
+  },
+  {
+    "movieId": 4,
+    "score": 0.83,
+    "reason": "Get Shorty: Miami fixer’s Hollywood heist dreams collide with one unpredictable plot twist"
+  },
+  {
+    "movieId": 273,
+    "score": 0.8,
+    "reason": "Heat: professional crooks execute a high‐concept robbery, only to watch minute detail turn catastrophe"
+  },
+  {
+    "movieId": 58,
+    "score": 0.78,
+    "reason": "Quiz Show: behind‐the‐scenes rigging of a national game show, where every calculated move provokes ruin"
+  },
+  {
+    "movieId": 194,
+    "score": 0.75,
+    "reason": "Sting, The (repeat): expert grifters’ flawless plan undone by one ransacked detail"
+  },
+  {
+    "movieId": 12,
+    "score": 0.72,
+    "reason": "Usual Suspects (repeat): perfect con team’s seamless setup gets sabotaged at the last turn"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 1.0,
+    "reason": "Amadeus – grand, reflective tale of genius and envy"
+  },
+  {
+    "movieId": 258,
+    "score": 0.95,
+    "reason": "Contact – contemplative sci-fi on our place in the cosmos"
+  },
+  {
+    "movieId": 1607,
+    "score": 0.9,
+    "reason": "Kundun – lyrical reflection on exile and faith"
+  },
+  {
+    "movieId": 313,
+    "score": 0.85,
+    "reason": "Titanic – epic romance and tragedy that lingers in memory"
+  },
+  {
+    "movieId": 654,
+    "score": 0.8,
+    "reason": "Chinatown – moody, thoughtful noir of corruption and fate"
+  },
+  {
+    "movieId": 175,
+    "score": 0.75,
+    "reason": "Brazil – satirical dreamscape of bureaucratic despair"
+  },
+  {
+    "movieId": 527,
+    "score": 0.7,
+    "reason": "Gandhi – meditative biopic on peace and sacrifice"
+  },
+  {
+    "movieId": 479,
+    "score": 0.65,
+    "reason": "Vertigo – psychological spiral of obsession and longing"
+  },
+  {
+    "movieId": 607,
+    "score": 0.6,
+    "reason": "Rebecca – haunting study of memory and hidden truths"
+  },
+  {
+    "movieId": 205,
+    "score": 0.55,
+    "reason": "Patton – introspective portrait of authority and isolation"
+  }
+]

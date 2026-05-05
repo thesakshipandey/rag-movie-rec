@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 274,
+    "score": 0.95,
+    "reason": "Sabrina: she and David clash over social differences before falling for each other"
+  },
+  {
+    "movieId": 313,
+    "score": 0.9,
+    "reason": "Titanic: aristocrat Rose and stowaway Jack initially misunderstand each other"
+  },
+  {
+    "movieId": 82,
+    "score": 0.85,
+    "reason": "Jurassic Park: scientists clash over park safety before working together"
+  },
+  {
+    "movieId": 64,
+    "score": 0.8,
+    "reason": "Shawshank Redemption: prisoners clash with guards before forging bond"
+  },
+  {
+    "movieId": 49,
+    "score": 0.75,
+    "reason": "Star Wars: Luke and Han bicker before becoming allies"
+  },
+  {
+    "movieId": 70,
+    "score": 0.7,
+    "reason": "Four Weddings and a Funeral: Charles and Caroline spar before falling in love"
+  },
+  {
+    "movieId": 72,
+    "score": 0.65,
+    "reason": "Mask: meek Stanley and his alter ego clash before bonding"
+  },
+  {
+    "movieId": 88,
+    "score": 0.6,
+    "reason": "Sleepless in Seattle: skeptical Annie and Sam collide through fate"
+  },
+  {
+    "movieId": 156,
+    "score": 0.55,
+    "reason": "Fish Called Wanda: con artists feud before finding love"
+  },
+  {
+    "movieId": 137,
+    "score": 0.5,
+    "reason": "Big Night: brothers clash over dinner before emotional reconciliation"
+  }
+]

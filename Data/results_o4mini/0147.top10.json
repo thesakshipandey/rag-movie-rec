@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 258,
+    "score": 0.95,
+    "reason": "Dr. Arroway decodes a message from an extraterrestrial civilization using linguistics; every misinterpretation risks everything."
+  },
+  {
+    "movieId": 222,
+    "score": 0.9,
+    "reason": "Picard and his crew face the Borg, needing precise communication to prevent humanity’s future from being rewritten by a cybernetic enemy."
+  },
+  {
+    "movieId": 135,
+    "score": 0.89,
+    "reason": "Discovery crew must interpret alien signals from a mysterious monolith to understand an incomprehensible extraterrestrial intelligence."
+  },
+  {
+    "movieId": 230,
+    "score": 0.88,
+    "reason": "Kirk’s crew must learn to interpret whale songs to communicate with a probe, making language the key to saving Earth."
+  },
+  {
+    "movieId": 164,
+    "score": 0.85,
+    "reason": "Deep-sea explorers grapple with first contact and struggle to interpret nonverbal alien signals before mutual trust is lost."
+  },
+  {
+    "movieId": 355,
+    "score": 0.83,
+    "reason": "Scientists study a mysterious sphere and decipher its silent, alien telepathic messages, where each error could be deadly."
+  },
+  {
+    "movieId": 62,
+    "score": 0.8,
+    "reason": "Archaeologists and militaries race to decode the Stargate’s alien inscriptions to travel across space and avoid cosmic catastrophe."
+  },
+  {
+    "movieId": 257,
+    "score": 0.75,
+    "reason": "Agents face hidden alien infiltrators and rely on translating bizarre alien dialects to maintain secrecy and prevent interstellar conflict."
+  },
+  {
+    "movieId": 97,
+    "score": 0.7,
+    "reason": "Lieutenant Dunbar learns the Lakota language, where subtle cues can mean survival or disaster on the edge of the American frontier."
+  },
+  {
+    "movieId": 542,
+    "score": 0.65,
+    "reason": "John Smith must decipher Powhatan language to bridge two worlds, where a single mistranslation can lead to tragedy."
+  }
+]

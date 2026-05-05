@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 389,
+    "score": 0.95,
+    "reason": "Tween detective in creepy haunted dollhouse."
+  },
+  {
+    "movieId": 107,
+    "score": 0.92,
+    "reason": "Period drama about a scandal and fate."
+  },
+  {
+    "movieId": 100,
+    "score": 0.9,
+    "reason": "Darkly comic crime in snowy Minnesota."
+  },
+  {
+    "movieId": 667,
+    "score": 0.88,
+    "reason": "Abduction thriller set in isolated wilderness."
+  },
+  {
+    "movieId": 179,
+    "score": 0.85,
+    "reason": "Iconic psychological horror in a remote hotel."
+  },
+  {
+    "movieId": 447,
+    "score": 0.83,
+    "reason": "Classic home invasion story with tension."
+  },
+  {
+    "movieId": 435,
+    "score": 0.8,
+    "reason": "Western odyssey with gritty frontier danger."
+  },
+  {
+    "movieId": 151,
+    "score": 0.78,
+    "reason": "Eerie spoil-the-world sci-fi in a maze-like setting."
+  },
+  {
+    "movieId": 587,
+    "score": 0.75,
+    "reason": "Legal thriller questions truth in isolation."
+  },
+  {
+    "movieId": 157,
+    "score": 0.72,
+    "reason": "Vietnam Vets in hostile jungle combat zone."
+  }
+]

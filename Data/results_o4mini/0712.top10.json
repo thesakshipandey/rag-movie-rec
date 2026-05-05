@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "The Shining’s slow descent into madness drenches every corridor in dread."
+  },
+  {
+    "movieId": 443,
+    "score": 0.95,
+    "reason": "The Birds turns sunny seaside charm into unrelenting, brooding terror."
+  },
+  {
+    "movieId": 185,
+    "score": 0.93,
+    "reason": "Psycho’s moody hotel sequences ooze gothic suspense and psychological dread."
+  },
+  {
+    "movieId": 674,
+    "score": 0.9,
+    "reason": "Cat People builds erotic tension and eerie atmosphere without gore."
+  },
+  {
+    "movieId": 616,
+    "score": 0.88,
+    "reason": "Night of the Living Dead traps characters in darkness, fear, and hopelessness."
+  },
+  {
+    "movieId": 635,
+    "score": 0.85,
+    "reason": "The Fog creeps in at night with quiet menace and seething suspense."
+  },
+  {
+    "movieId": 444,
+    "score": 0.83,
+    "reason": "The Blob’s silent spread through town is an unsettling slow burn."
+  },
+  {
+    "movieId": 675,
+    "score": 0.8,
+    "reason": "Nosferatu’s shadowy ghoul lurks in dark corners with primal dread."
+  },
+  {
+    "movieId": 448,
+    "score": 0.78,
+    "reason": "The Omen’s whispered prophecy and ominous gloom smother every scene."
+  },
+  {
+    "movieId": 441,
+    "score": 0.75,
+    "reason": "The Amityville Horror’s haunted house vibe drips with oppressive unease."
+  }
+]

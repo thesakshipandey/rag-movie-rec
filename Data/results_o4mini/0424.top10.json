@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 568,
+    "score": 1.0,
+    "reason": "An explosive bus race keeps you breathless while gore stays offscreen."
+  },
+  {
+    "movieId": 480,
+    "score": 0.95,
+    "reason": "A mistaken-identity chase across America is pure, thrilling Hitchcock suspense."
+  },
+  {
+    "movieId": 79,
+    "score": 0.9,
+    "reason": "A fugitive’s cat-and-mouse flight is heart-pounding without graphic violence."
+  },
+  {
+    "movieId": 945,
+    "score": 0.85,
+    "reason": "A witty heist with charming twists and clever tension at every turn."
+  },
+  {
+    "movieId": 300,
+    "score": 0.8,
+    "reason": "Hijacked Air Force One delivers nonstop thrills with a clean action style."
+  },
+  {
+    "movieId": 405,
+    "score": 0.75,
+    "reason": "High-tech espionage and daring stunts keep you on edge, blood kept to a minimum."
+  },
+  {
+    "movieId": 144,
+    "score": 0.7,
+    "reason": "One man against terrorists in a skyscraper delivers relentless suspense."
+  },
+  {
+    "movieId": 871,
+    "score": 0.65,
+    "reason": "A marshal hunts a killer across America in a tense, fast-paced thriller."
+  },
+  {
+    "movieId": 185,
+    "score": 0.6,
+    "reason": "A mind-bending motel murder keeps you guessing amid Hitchcockian chills."
+  },
+  {
+    "movieId": 38,
+    "score": 0.55,
+    "reason": "A cyber-thriller where identity and isolation create constant, clean suspense."
+  }
+]

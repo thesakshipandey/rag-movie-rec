@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 237,
+    "score": 0.98,
+    "reason": "Sports agent’s process-driven underdog journey in Jerry Maguire"
+  },
+  {
+    "movieId": 286,
+    "score": 0.92,
+    "reason": "Assembling winning team behind the scenes in The English Patient"
+  },
+  {
+    "movieId": 252,
+    "score": 0.9,
+    "reason": "Strategic rescue mission’s process over glory in The Lost World: Jurassic Park"
+  },
+  {
+    "movieId": 118,
+    "score": 0.88,
+    "reason": "Tornado-chasing strategy and team focus in Twister"
+  },
+  {
+    "movieId": 48,
+    "score": 0.85,
+    "reason": "Scout’s long-term underdog strive in Hoop Dreams"
+  },
+  {
+    "movieId": 137,
+    "score": 0.82,
+    "reason": "Culinary duo’s plan and perseverance in Big Night"
+  },
+  {
+    "movieId": 239,
+    "score": 0.8,
+    "reason": "Clever caper’s planning focus in Sneakers"
+  },
+  {
+    "movieId": 44,
+    "score": 0.78,
+    "reason": "Tea-channel host’s career win in Strictly Ballroom"
+  },
+  {
+    "movieId": 164,
+    "score": 0.75,
+    "reason": "Documentary’s patient strategic vision in Maya Lin: A Strong Clear Vision"
+  },
+  {
+    "movieId": 87,
+    "score": 0.72,
+    "reason": "Young genius and mentorship process in Searching for Bobby Fischer"
+  }
+]

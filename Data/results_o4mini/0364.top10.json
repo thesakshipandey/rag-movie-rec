@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Uplifting tale of toys finding friendship and purpose"
+  },
+  {
+    "movieId": 66,
+    "score": 0.91,
+    "reason": "Warm romantic comedy that celebrates kindness and serendipity"
+  },
+  {
+    "movieId": 88,
+    "score": 0.82,
+    "reason": "Sweet holiday romance brimming with gentle humor and hope"
+  },
+  {
+    "movieId": 216,
+    "score": 0.73,
+    "reason": "Charming study of friendship and love that celebrates life’s joys"
+  },
+  {
+    "movieId": 202,
+    "score": 0.64,
+    "reason": "Heartfelt comedy about second chances and embracing the moment"
+  },
+  {
+    "movieId": 143,
+    "score": 0.55,
+    "reason": "Timeless musical bursting with joy, song, and uplifting spirit"
+  },
+  {
+    "movieId": 132,
+    "score": 0.46,
+    "reason": "Enchanting fantasy of home and belonging that warms the heart"
+  },
+  {
+    "movieId": 705,
+    "score": 0.37,
+    "reason": "Delightful musical celebrating love, laughter, and dancing in the rain"
+  },
+  {
+    "movieId": 419,
+    "score": 0.28,
+    "reason": "Magical nanny story that restores family joy and wonder"
+  },
+  {
+    "movieId": 451,
+    "score": 0.19,
+    "reason": "Feel-good romance set to catchy tunes in 1950s high school"
+  }
+]

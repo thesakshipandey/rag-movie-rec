@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.9,
+    "reason": "Poignant mourning and graceful solitude create gentle ache"
+  },
+  {
+    "movieId": 86,
+    "score": 0.89,
+    "reason": "Subtle regret and suppressed longing suffuse every moment"
+  },
+  {
+    "movieId": 14,
+    "score": 0.88,
+    "reason": "Poetic correspondence evokes sweet nostalgia"
+  },
+  {
+    "movieId": 20,
+    "score": 0.87,
+    "reason": "Understated passion and concealed sorrows linger softly"
+  },
+  {
+    "movieId": 19,
+    "score": 0.86,
+    "reason": "Generational warmth tinged with bittersweet reflection"
+  },
+  {
+    "movieId": 45,
+    "score": 0.85,
+    "reason": "Family dinners brim with savory warmth and quiet regret"
+  },
+  {
+    "movieId": 512,
+    "score": 0.83,
+    "reason": "Angelic wanderers ponder longing amidst muted streets"
+  },
+  {
+    "movieId": 357,
+    "score": 0.82,
+    "reason": "Quiet bonds form amid institutional stillness"
+  },
+  {
+    "movieId": 70,
+    "score": 0.81,
+    "reason": "Touching humor punctuated by heartfelt farewells"
+  },
+  {
+    "movieId": 221,
+    "score": 0.8,
+    "reason": "Devotional love meets tragedy in an austere seaside town"
+  }
+]

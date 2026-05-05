@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.98,
+    "reason": "A crushing, methodical descent into primal dread that makes every shadow feel threatening."
+  },
+  {
+    "movieId": 53,
+    "score": 0.96,
+    "reason": "Unflinching, savage satire that plunges you into a violent spiral you can’t shake off."
+  },
+  {
+    "movieId": 200,
+    "score": 0.94,
+    "reason": "Psychological horror that burrows into your mind, leaving an unnerving sense of emptiness."
+  },
+  {
+    "movieId": 183,
+    "score": 0.92,
+    "reason": "Claustrophobic sci-fi terror that taps into a deep, inescapable existential fear of the unknown."
+  },
+  {
+    "movieId": 260,
+    "score": 0.9,
+    "reason": "Space horror so disturbing it lingers like a nightmare you can’t wake from."
+  },
+  {
+    "movieId": 616,
+    "score": 0.88,
+    "reason": "Black-and-white zombie terror that still evokes a raw, intangible dread decades later."
+  },
+  {
+    "movieId": 234,
+    "score": 0.86,
+    "reason": "A simple beach day twisted into primal fear of the unseen stalking the deep."
+  },
+  {
+    "movieId": 672,
+    "score": 0.84,
+    "reason": "An urban legend come to life that haunts you long after the credits roll."
+  },
+  {
+    "movieId": 288,
+    "score": 0.82,
+    "reason": "Meta-slasher that sinks its claws into a lingering fear of being watched and hunted."
+  },
+  {
+    "movieId": 98,
+    "score": 0.8,
+    "reason": "Chilling cat-and-mouse with Hannibal that leaves a cavernous dread in the wake of its quiet menace."
+  }
+]

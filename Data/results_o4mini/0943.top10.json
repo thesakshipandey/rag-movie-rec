@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 38,
+    "score": 0.93,
+    "reason": "The Net – modern paranoia about identity theft and online surveillance"
+  },
+  {
+    "movieId": 39,
+    "score": 0.91,
+    "reason": "Strange Days – voyeuristic tech makes memories weapons in tense modern thriller"
+  },
+  {
+    "movieId": 145,
+    "score": 0.88,
+    "reason": "The Lawnmower Man – VR gone wrong, blurring reality and technology"
+  },
+  {
+    "movieId": 195,
+    "score": 0.85,
+    "reason": "The Terminator – AI assailant in today’s urban landscape feels eerily close"
+  },
+  {
+    "movieId": 269,
+    "score": 0.82,
+    "reason": "Gattaca – genetic surveillance and biotech obsession, claustrophobic atmosphere"
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "Twelve Monkeys – modern disease control meets paranoid future-tech echoes"
+  },
+  {
+    "movieId": 82,
+    "score": 0.78,
+    "reason": "Jurassic Park – data science run amok, tension from unexpected tech failure"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.76,
+    "reason": "Ghost in the Shell – AI identity crisis in a hyper-surveilled cityscape"
+  },
+  {
+    "movieId": 267,
+    "score": 0.74,
+    "reason": "Unknown – digital identity theft thriller set across modern Berlin"
+  },
+  {
+    "movieId": 260,
+    "score": 0.72,
+    "reason": "Event Horizon – deep-space tech horror with psychological dread"
+  }
+]

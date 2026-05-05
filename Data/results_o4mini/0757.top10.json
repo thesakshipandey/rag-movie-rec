@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 91,
+    "score": 0.98,
+    "reason": "Charming stop-motion fantasy under 80 minutes, endlessly rewatchable"
+  },
+  {
+    "movieId": 169,
+    "score": 0.96,
+    "reason": "Brilliant short caper with Wallace & Gromit’s impeccable timing"
+  },
+  {
+    "movieId": 190,
+    "score": 0.94,
+    "reason": "Rushing Shakespeare in under 100 thrilling minutes with duel stakes"
+  },
+  {
+    "movieId": 131,
+    "score": 0.92,
+    "reason": "Sparkling Hepburn romance with fewer than 100 minutes of delight"
+  },
+  {
+    "movieId": 478,
+    "score": 0.9,
+    "reason": "Witty screwball charm in less than 100 minutes of bed-room politics"
+  },
+  {
+    "movieId": 482,
+    "score": 0.88,
+    "reason": "Zany musical mash-up in brisk, hilarious under-90 adventure"
+  },
+  {
+    "movieId": 552,
+    "score": 0.86,
+    "reason": "Creepshow horror anthology that hits hard without overstaying welcome"
+  },
+  {
+    "movieId": 708,
+    "score": 0.84,
+    "reason": "Groundbreaking mumblecore-ish comedy in under 90 minimalist minutes"
+  },
+  {
+    "movieId": 743,
+    "score": 0.82,
+    "reason": "Gritty urban revenge thrills in a compact, high-octane crime tale"
+  },
+  {
+    "movieId": 172,
+    "score": 0.8,
+    "reason": "Heartfelt musical magic in a tight-knit cinematic cappella"
+  }
+]

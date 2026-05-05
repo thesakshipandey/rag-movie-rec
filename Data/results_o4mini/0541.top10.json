@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 959,
+    "score": 1.0,
+    "reason": "Languid 1970s odyssey of aimless teens under a sun-drenched Texas sky"
+  },
+  {
+    "movieId": 93,
+    "score": 0.95,
+    "reason": "Wry, off-kilter portrait of seventh-grade angst in suburban New Jersey"
+  },
+  {
+    "movieId": 772,
+    "score": 0.9,
+    "reason": "Raw, unflinching look at teenage impulsiveness and vulnerability in urban streets"
+  },
+  {
+    "movieId": 34,
+    "score": 0.85,
+    "reason": "Hazy, hyper-stylized journey through 90s youth nihilism and ennui"
+  },
+  {
+    "movieId": 1428,
+    "score": 0.8,
+    "reason": "Disaffected young friends drift through suburban malaise and fractured dreams"
+  },
+  {
+    "movieId": 305,
+    "score": 0.75,
+    "reason": "Crystalline slice of 1970s New England suburban disillusionment and longing"
+  },
+  {
+    "movieId": 150,
+    "score": 0.7,
+    "reason": "Neon-lit nights capturing post-grunge emptiness and flirtatious unpredictability"
+  },
+  {
+    "movieId": 196,
+    "score": 0.65,
+    "reason": "Wistful boarding-school drama where youth clings to beauty against looming conformity"
+  },
+  {
+    "movieId": 537,
+    "score": 0.6,
+    "reason": "Dreamy road trip through hazy margins of youth and searching hearts"
+  },
+  {
+    "movieId": 506,
+    "score": 0.55,
+    "reason": "Iconic portrait of 1950s teen restlessness and unspoken yearnings"
+  }
+]

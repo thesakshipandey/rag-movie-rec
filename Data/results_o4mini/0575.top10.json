@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 780,
+    "score": 1.0,
+    "reason": "Dumb & Dumber’s two dimwits on a cross-country trip deliver nonstop slapstick."
+  },
+  {
+    "movieId": 80,
+    "score": 0.98,
+    "reason": "Hot Shots! Part Deux bombs every sense with absurd, over-the-top gags."
+  },
+  {
+    "movieId": 41,
+    "score": 0.96,
+    "reason": "Billy Madison’s childish antics repeat grades for maximum goofy payoff."
+  },
+  {
+    "movieId": 763,
+    "score": 0.94,
+    "reason": "Happy Gilmore’s hockey-to-golf chaos is uproariously no-stakes fun."
+  },
+  {
+    "movieId": 67,
+    "score": 0.92,
+    "reason": "Ace Ventura’s pet-obsessed sleuth unleashes unhinged, zany energy."
+  },
+  {
+    "movieId": 249,
+    "score": 0.9,
+    "reason": "Austin Powers’s swinging sixties spy shtick oozes cheeky camp humor."
+  },
+  {
+    "movieId": 240,
+    "score": 0.88,
+    "reason": "Beavis and Butt-Head Do America shrugs off logic for juvenile laughs."
+  },
+  {
+    "movieId": 154,
+    "score": 0.86,
+    "reason": "Monty Python’s Life of Brian blends surreal silliness with outrageous wit."
+  },
+  {
+    "movieId": 395,
+    "score": 0.84,
+    "reason": "Robin Hood: Men in Tights fires punny arrows straight into slapstick territory."
+  },
+  {
+    "movieId": 1178,
+    "score": 0.82,
+    "reason": "Major Payne’s ex-Marine meets kids for a hilariously over-the-top ride."
+  }
+]

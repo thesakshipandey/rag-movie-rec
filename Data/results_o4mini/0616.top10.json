@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Warm-hearted adventure that feels like a cozy embrace in a world of friendly, familiar faces."
+  },
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Gentle countryside charm and a lovable pig’s journey offer down-home comfort and simple joy."
+  },
+  {
+    "movieId": 78,
+    "score": 0.9,
+    "reason": "A young boy’s friendship with an orca brings soothing wonder and tender moments."
+  },
+  {
+    "movieId": 88,
+    "score": 0.88,
+    "reason": "A sweet, snow-kissed romance that feels like a comforting chat by the fireside."
+  },
+  {
+    "movieId": 66,
+    "score": 0.86,
+    "reason": "Lighthearted holiday magic and warm banter make this a gentle, feel-good escape."
+  },
+  {
+    "movieId": 393,
+    "score": 0.84,
+    "reason": "Hilarious family antics wrapped in a loving, goofy spirit that soothes the soul."
+  },
+  {
+    "movieId": 272,
+    "score": 0.82,
+    "reason": "Grounded performances and uplifting friendship threads craft a nurturing cinematic hug."
+  },
+  {
+    "movieId": 255,
+    "score": 0.8,
+    "reason": "Charming wit and heartfelt warmth turn a spilled plan into a deliciously cozy romance."
+  },
+  {
+    "movieId": 15,
+    "score": 0.78,
+    "reason": "A teacher’s life-affirming journey offers gentle tunes and soft reflections on belonging."
+  },
+  {
+    "movieId": 102,
+    "score": 0.76,
+    "reason": "Delightful feline capers in Paris deliver playful comfort and easy smiles."
+  }
+]

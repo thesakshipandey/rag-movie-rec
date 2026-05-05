@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 72,
+    "score": 0.95,
+    "reason": "Gritty '70s surveillance and paranoia."
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "Taxi driver drawn into conspiracy whirl."
+  },
+  {
+    "movieId": 180,
+    "score": 0.85,
+    "reason": "War zone intrigue, 'who can you trust?' vibe."
+  },
+  {
+    "movieId": 37,
+    "score": 0.8,
+    "reason": "Supernatural paranoia, 70s-era edge."
+  },
+  {
+    "movieId": 163,
+    "score": 0.75,
+    "reason": "International diamond mystery, trust issues."
+  },
+  {
+    "movieId": 236,
+    "score": 0.7,
+    "reason": "Sinister small-town corruption of 70s feel."
+  },
+  {
+    "movieId": 438,
+    "score": 0.65,
+    "reason": "Investigative reporter in deadly conspiracy."
+  },
+  {
+    "movieId": 434,
+    "score": 0.6,
+    "reason": "Cold War alien threat, distrust everywhere."
+  },
+  {
+    "movieId": 442,
+    "score": 0.55,
+    "reason": "Parish priest murder, small-town suspicion."
+  },
+  {
+    "movieId": 445,
+    "score": 0.5,
+    "reason": "Medical theft conspiracy in remote setting."
+  }
+]

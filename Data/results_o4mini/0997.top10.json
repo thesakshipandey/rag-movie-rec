@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 0.98,
+    "reason": "Salieri’s all-consuming envy drives an obsessive duel to outshine prodigy Mozart"
+  },
+  {
+    "movieId": 431,
+    "score": 0.95,
+    "reason": "Immortals clash over centuries in an epic contest where only one can survive"
+  },
+  {
+    "movieId": 284,
+    "score": 0.93,
+    "reason": "A former prodigy risks everything to prove himself against his cynical mentor"
+  },
+  {
+    "movieId": 87,
+    "score": 0.9,
+    "reason": "A chess savant battles obsession in a high-stakes quest for intellectual supremacy"
+  },
+  {
+    "movieId": 48,
+    "score": 0.88,
+    "reason": "Two young basketball hopefuls confront the pressures of dream and rivalry in pursuit of glory"
+  },
+  {
+    "movieId": 51,
+    "score": 0.86,
+    "reason": "Brother against brother as love and duty collide on the brutal frontier of early twentieth-century America"
+  },
+  {
+    "movieId": 22,
+    "score": 0.84,
+    "reason": "Wallace’s fierce campaign for freedom sparks an unrelenting feud with England’s fiercest king"
+  },
+  {
+    "movieId": 31,
+    "score": 0.81,
+    "reason": "A clash of wills aboard a nuclear submarine tests loyalty in a tense captain–first officer showdown"
+  },
+  {
+    "movieId": 273,
+    "score": 0.79,
+    "reason": "A meticulous detective and a driven thief wage a relentless cerebral battle across city streets"
+  },
+  {
+    "movieId": 205,
+    "score": 0.77,
+    "reason": "A general’s fierce ambition ignites a ruthless conflict for command in wartime Europe"
+  }
+]

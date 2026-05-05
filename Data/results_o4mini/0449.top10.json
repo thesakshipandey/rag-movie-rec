@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 780,
+    "score": 1.0,
+    "reason": "Perfectly absurd buddy comedy with nonstop silly gags and infectious high-energy schtick."
+  },
+  {
+    "movieId": 67,
+    "score": 0.95,
+    "reason": "Eccentric detective hijinks turn animal rescues into riotous, laugh-a-minute nonsense."
+  },
+  {
+    "movieId": 249,
+    "score": 0.9,
+    "reason": "Over-the-top spy spoof that gleefully embraces outrageous plots and slapstick flair."
+  },
+  {
+    "movieId": 154,
+    "score": 0.85,
+    "reason": "Hilarious biblical satire that mixes clever wordplay with delightfully absurd scenarios."
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Slice-of-life comedy brimming with cranky wit and offbeat, laugh-out-loud dialogue."
+  },
+  {
+    "movieId": 153,
+    "score": 0.75,
+    "reason": "Sharp heist caper filled with witty banter, cross-cultural misunderstandings, and comic twists."
+  },
+  {
+    "movieId": 41,
+    "score": 0.7,
+    "reason": "Spoof-tastic absurdity with a dimwitted hero conquering every ridiculous obstacle in sight."
+  },
+  {
+    "movieId": 80,
+    "score": 0.65,
+    "reason": "War movie send-up so over-the-top it becomes absurdly hilarious from start to finish."
+  },
+  {
+    "movieId": 410,
+    "score": 0.6,
+    "reason": "Irreverent bowling comedy full of eccentric characters and maximal-silliness supreme."
+  },
+  {
+    "movieId": 240,
+    "score": 0.55,
+    "reason": "Animated duo’s road trip hijinks deliver nonstop juvenile humor and pure comedic chaos."
+  }
+]

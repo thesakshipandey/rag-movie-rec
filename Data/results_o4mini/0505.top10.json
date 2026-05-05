@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 0.98,
+    "reason": "Unbreakable spirit triumphs against the odds in a gripping prison saga."
+  },
+  {
+    "movieId": 22,
+    "score": 0.96,
+    "reason": "Ruthless rebellion that topples tyranny with fierce, sweeping heroism."
+  },
+  {
+    "movieId": 468,
+    "score": 0.95,
+    "reason": "Underdog’s unshakeable spirit shines in a small-town football miracle."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.94,
+    "reason": "Endearing Jamaican bobsledders defy expectations to seize victory."
+  },
+  {
+    "movieId": 28,
+    "score": 0.93,
+    "reason": "Inspirational true story of teamwork overcoming near-impossible odds."
+  },
+  {
+    "movieId": 51,
+    "score": 0.92,
+    "reason": "Epic brotherhood saga with triumph over tragedy on the sweeping plains."
+  },
+  {
+    "movieId": 520,
+    "score": 0.91,
+    "reason": "Ingenious POW escape that outwits its captors in a masterful breakout."
+  },
+  {
+    "movieId": 79,
+    "score": 0.9,
+    "reason": "Relentless chase that restores faith as justice snaps back in place."
+  },
+  {
+    "movieId": 215,
+    "score": 0.89,
+    "reason": "Dreams of redemption and reconciliation fulfilled with soaring grace."
+  },
+  {
+    "movieId": 193,
+    "score": 0.88,
+    "reason": "Visionary pioneers conquer the final frontier and redefine possibility."
+  }
+]

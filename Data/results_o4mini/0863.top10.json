@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Babe for its profound bond between farmer and pig, showing trust and communication on the rugged farm"
+  },
+  {
+    "movieId": 1066,
+    "score": 0.92,
+    "reason": "Balto captures a sled dog’s grit and loyalty in a life-saving mission in harsh Alaskan wilderness"
+  },
+  {
+    "movieId": 304,
+    "score": 0.9,
+    "reason": "Fly Away Home shows a girl guiding geese home, forging deep, nonverbal trust in untamed skies"
+  },
+  {
+    "movieId": 78,
+    "score": 0.88,
+    "reason": "Free Willy’s bond between boy and orca in rescue missions feels earthy, instinctual, and moving"
+  },
+  {
+    "movieId": 389,
+    "score": 0.85,
+    "reason": "Black Beauty explores a boy’s silent understanding with his workhorse amid pastoral life’s trials"
+  },
+  {
+    "movieId": 140,
+    "score": 0.82,
+    "reason": "Homeward Bound: The Incredible Journey follows devoted pets trusting each other across rugged terrain"
+  },
+  {
+    "movieId": 97,
+    "score": 0.79,
+    "reason": "Dances with Wolves features a soldier’s silent, profound alliance with a wolf in wild frontier"
+  },
+  {
+    "movieId": 35,
+    "score": 0.75,
+    "reason": "Free Willy 2 continues the powerful, wordless partnership between Jesse and Willy against nature’s odds"
+  },
+  {
+    "movieId": 110,
+    "score": 0.72,
+    "reason": "Operation Dumbo Drop portrays Green Berets relying on an elephant’s instincts in wartime, a rugged trust"
+  },
+  {
+    "movieId": 112,
+    "score": 0.7,
+    "reason": "Flipper depicts a boy’s deep, nonverbal connection with a dolphin in seaside rescue adventures"
+  }
+]

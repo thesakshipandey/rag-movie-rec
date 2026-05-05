@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 55,
+    "score": 1.0,
+    "reason": "A lone hitman’s precision and unwavering skill drive a masterful tale of silent resolve"
+  },
+  {
+    "movieId": 273,
+    "score": 0.95,
+    "reason": "Meticulous heist sequences showcase flawless execution at every perfectly timed step"
+  },
+  {
+    "movieId": 193,
+    "score": 0.9,
+    "reason": "Top test pilots’ disciplined daring yields historic breakthroughs in high-speed flight"
+  },
+  {
+    "movieId": 127,
+    "score": 0.85,
+    "reason": "Mafia mastermind’s calculated genius unfolds in a taut, impeccably orchestrated power play"
+  },
+  {
+    "movieId": 187,
+    "score": 0.8,
+    "reason": "Parallel rises of a crime lord and his son reveal unmatched mastery in criminal enterprise"
+  },
+  {
+    "movieId": 205,
+    "score": 0.75,
+    "reason": "A legendary general’s strategic brilliance reshapes a war with disciplined, decisive command"
+  },
+  {
+    "movieId": 265,
+    "score": 0.7,
+    "reason": "Submarine defector’s cunning gamble and naval precision deliver edge-of-your-seat satisfaction"
+  },
+  {
+    "movieId": 194,
+    "score": 0.65,
+    "reason": "Con artists’ flawless deception and synchronized cons play out in a clever, complex sting"
+  },
+  {
+    "movieId": 28,
+    "score": 0.6,
+    "reason": "NASA and astronauts’ seamless teamwork and split-second precision deliver a triumphant return"
+  },
+  {
+    "movieId": 693,
+    "score": 0.55,
+    "reason": "High-stakes gambling rigged with cold calculation and ruthless negotiation"
+  }
+]

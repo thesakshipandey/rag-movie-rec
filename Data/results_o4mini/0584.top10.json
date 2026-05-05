@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 1.0,
+    "reason": "Relentless manhunt across Chicago for an innocent man on the run keeps the heart racing."
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "A space survival thriller that masterfully conveys desperation and panic under pressure."
+  },
+  {
+    "movieId": 118,
+    "score": 0.9,
+    "reason": "Adrenaline-fueled tornado chase that immerses you in the chaos of running for your life."
+  },
+  {
+    "movieId": 568,
+    "score": 0.85,
+    "reason": "High-speed thriller on a runaway bus, every second counts in this pulse-pounding ride."
+  },
+  {
+    "movieId": 82,
+    "score": 0.8,
+    "reason": "Isolated island, unleashed dinosaurs, and frantic survival at every turn."
+  },
+  {
+    "movieId": 144,
+    "score": 0.75,
+    "reason": "An everyman trapped in a skyscraper under siege delivers non-stop tension and grit."
+  },
+  {
+    "movieId": 226,
+    "score": 0.7,
+    "reason": "Airport under threat, McClane fights a relentless enemy to save loved ones."
+  },
+  {
+    "movieId": 164,
+    "score": 0.65,
+    "reason": "Underwater thriller of discovery and survival against an unknown force."
+  },
+  {
+    "movieId": 636,
+    "score": 0.6,
+    "reason": "Futuristic chase across a maximum security prison island, epic running-for-your-life stakes."
+  },
+  {
+    "movieId": 331,
+    "score": 0.55,
+    "reason": "Marooned in the Alaskan wild, a billionaire and his companions face ruthless elements."
+  }
+]

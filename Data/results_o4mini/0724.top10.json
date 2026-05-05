@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.98,
+    "reason": "Clever non-linear mystery with one of cinema’s greatest twists"
+  },
+  {
+    "movieId": 302,
+    "score": 0.96,
+    "reason": "Intricate period noir with sharp dialogue and unexpected revelations"
+  },
+  {
+    "movieId": 7,
+    "score": 0.94,
+    "reason": "Mind-bending sci-fi mystery that keeps you guessing to the end"
+  },
+  {
+    "movieId": 79,
+    "score": 0.92,
+    "reason": "Relentless thriller with twists that subvert every expectation"
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "Dark psychological puzzle with a haunting, unpredictable conclusion"
+  },
+  {
+    "movieId": 324,
+    "score": 0.88,
+    "reason": "Surreal neo-noir that blurs reality in a deeply suspenseful way"
+  },
+  {
+    "movieId": 761,
+    "score": 0.86,
+    "reason": "Urgent ticking-clock thriller with clever high-stakes twists"
+  },
+  {
+    "movieId": 591,
+    "score": 0.84,
+    "reason": "Legal thriller packed with hidden motives and final reveals"
+  },
+  {
+    "movieId": 87,
+    "score": 0.82,
+    "reason": "Poignant drama with an intricate investigation that surprises"
+  },
+  {
+    "movieId": 272,
+    "score": 0.8,
+    "reason": "Heartfelt drama with layered secrets and a moving, unexpected close"
+  }
+]

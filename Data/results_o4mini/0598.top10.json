@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Unraveling a twisting mystery leaves you questioning every clue long after"
+  },
+  {
+    "movieId": 654,
+    "score": 0.95,
+    "reason": "Corruption and deceit in 1930s L.A. end with an ambiguous climax that lingers"
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "Haunting chase through neon-soaked streets raises profound questions of humanity"
+  },
+  {
+    "movieId": 59,
+    "score": 0.85,
+    "reason": "Chance encounters in a fractured society leave the soul’s longings unresolved"
+  },
+  {
+    "movieId": 61,
+    "score": 0.8,
+    "reason": "A tale of marriage and revenge in war-torn Europe, steeped in moral uncertainty"
+  },
+  {
+    "movieId": 60,
+    "score": 0.75,
+    "reason": "Grieving composer’s journey raises questions about fate, memory, and moral choice"
+  },
+  {
+    "movieId": 591,
+    "score": 0.7,
+    "reason": "Courtroom thriller blurs truth and manipulation in a gripping, morally gray case"
+  },
+  {
+    "movieId": 223,
+    "score": 0.65,
+    "reason": "Paroled killer’s quiet presence challenges notions of redemption and justice"
+  },
+  {
+    "movieId": 325,
+    "score": 0.6,
+    "reason": "Intersecting lives collide in a dark comedy where innocence and blame entwine"
+  },
+  {
+    "movieId": 479,
+    "score": 0.55,
+    "reason": "Obsession and uncertainty whirl in a dizzying tale of identity and desire"
+  }
+]

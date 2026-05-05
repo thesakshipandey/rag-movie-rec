@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 640,
+    "score": 0.98,
+    "reason": "Opulent period sets and lavish costumes ooze decadent luxury"
+  },
+  {
+    "movieId": 30,
+    "score": 0.95,
+    "reason": "Elegant Parisian visuals and sumptuous cinematography exude sensual luxury"
+  },
+  {
+    "movieId": 46,
+    "score": 0.93,
+    "reason": "Sensual nightclub setting with lush cinematography and mood-driven rhythms"
+  },
+  {
+    "movieId": 191,
+    "score": 0.91,
+    "reason": "Lavish 18th-century court scenes richly designed and magnificently detailed"
+  },
+  {
+    "movieId": 137,
+    "score": 0.88,
+    "reason": "Warm, vibrant food scenes celebrate life and indulgent artistry"
+  },
+  {
+    "movieId": 14,
+    "score": 0.86,
+    "reason": "Poetic Italian island vistas framed in luminous, romantic sunlight"
+  },
+  {
+    "movieId": 51,
+    "score": 0.83,
+    "reason": "Sweeping Western landscapes bathed in golden light feel epic and indulgent"
+  },
+  {
+    "movieId": 175,
+    "score": 0.8,
+    "reason": "Surreal, highly stylized dystopian tableaux brimming with lavish visual flair"
+  },
+  {
+    "movieId": 86,
+    "score": 0.77,
+    "reason": "Graceful period detail and genteel elegance create a sumptuous atmosphere"
+  },
+  {
+    "movieId": 512,
+    "score": 0.75,
+    "reason": "Dreamlike Berlin scenes glow with luminous cinematography and poetic detail"
+  }
+]

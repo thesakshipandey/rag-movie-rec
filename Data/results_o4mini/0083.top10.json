@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "Angela’s online world collapses when her digital identity is stolen, leaving her utterly alone."
+  },
+  {
+    "movieId": 39,
+    "score": 0.9,
+    "reason": "Lenny’s illicit neural recordings isolate him as he relives others’ lives and loses his own."
+  },
+  {
+    "movieId": 976,
+    "score": 0.85,
+    "reason": "A virtual killer escapes its program, trapping the detective in a digital hell of his own making."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.8,
+    "reason": "A sentient android detective grapples with identity, estranged from human connection."
+  },
+  {
+    "movieId": 260,
+    "score": 0.75,
+    "reason": "A spaceship’s AI ensnares its crew in a VR nightmare far from any human contact."
+  },
+  {
+    "movieId": 355,
+    "score": 0.7,
+    "reason": "Explorers studying an alien orb slip into a subconscious realm, severed from the physical world."
+  },
+  {
+    "movieId": 324,
+    "score": 0.65,
+    "reason": "A musician’s harassment case spirals into a twisted virtual theatre, estranging him from real life."
+  },
+  {
+    "movieId": 333,
+    "score": 0.6,
+    "reason": "A life immersed in a staged reality show leaves the star incapable of genuine human bonds."
+  },
+  {
+    "movieId": 691,
+    "score": 0.55,
+    "reason": "A man’s memory wiped by mysterious forces, he drifts through a city of shadows, utterly isolated."
+  },
+  {
+    "movieId": 7,
+    "score": 0.5,
+    "reason": "Time-travel paradox severs a man from his past and loved ones, leaving him trapped alone in the future."
+  }
+]

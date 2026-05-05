@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 0.98,
+    "reason": "The Fugitive’s relentless chase traps an innocent man in a system closing in"
+  },
+  {
+    "movieId": 64,
+    "score": 0.95,
+    "reason": "Shawshank Redemption shows wrongful imprisonment’s crushing, long-term injustice"
+  },
+  {
+    "movieId": 142,
+    "score": 0.92,
+    "reason": "Bedknobs and Broomsticks strands innocence amid bureaucratic cruelty and disbelief"
+  },
+  {
+    "movieId": 257,
+    "score": 0.9,
+    "reason": "Men in Black pits a reluctant recruit against mounting public fear and conspiracies"
+  },
+  {
+    "movieId": 801,
+    "score": 0.88,
+    "reason": "The Air Up There’s coach faces false accusations while his life and reputation unravel"
+  },
+  {
+    "movieId": 119,
+    "score": 0.85,
+    "reason": "Nightmare Before Christmas’s Jack awakens to a world that won’t believe his innocence"
+  },
+  {
+    "movieId": 60,
+    "score": 0.83,
+    "reason": "Three Colors: Blue’s Julie is condemned by fate and misunderstanding at every turn"
+  },
+  {
+    "movieId": 140,
+    "score": 0.8,
+    "reason": "Homeward Bound’s rescued pets wrestle with suspicion and longing in an uncaring system"
+  },
+  {
+    "movieId": 395,
+    "score": 0.78,
+    "reason": "Robin Hood: Men in Tights satirically shows mock injustice piling up against the hero"
+  },
+  {
+    "movieId": 359,
+    "score": 0.75,
+    "reason": "Assignment casts real-world paranoia as evidence mounts against one man labeled guilty"
+  }
+]

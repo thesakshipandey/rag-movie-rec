@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 196,
+    "score": 0.96,
+    "reason": "Weekend at Bernie’s teams mismatched buddies in wild road-trip comedy of errors"
+  },
+  {
+    "movieId": 340,
+    "score": 0.94,
+    "reason": "Boogie Nights pairs uneasy allies in a chaotic journey of healing and laughter"
+  },
+  {
+    "movieId": 46,
+    "score": 0.92,
+    "reason": "Exotica’s tense road leads to unexpected confessions and grudging connections"
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "Apollo 13’s lunar-leg pull bonds reluctant partners in high-stakes rescue"
+  },
+  {
+    "movieId": 42,
+    "score": 0.88,
+    "reason": "Clerks shows two clerks trapped in each other’s worlds while navigating petty crises"
+  },
+  {
+    "movieId": 659,
+    "score": 0.85,
+    "reason": "Fried Green Tomatoes unites opposites on a cross-country quest for freedom and friendship"
+  },
+  {
+    "movieId": 81,
+    "score": 0.83,
+    "reason": "The Hudsucker Proxy’s fast car trek sparks grudging trust amid madcap detours"
+  },
+  {
+    "movieId": 518,
+    "score": 0.8,
+    "reason": "Miller’s Crossing forces warring sides into an uneasy late-night alliance"
+  },
+  {
+    "movieId": 13,
+    "score": 0.77,
+    "reason": "Mighty Aphrodite pairs a writer and his eccentric sidekick on a bumpy creative roadtrip"
+  },
+  {
+    "movieId": 243,
+    "score": 0.74,
+    "reason": "Jungle2Jungle’s culture-clash odyssey builds tension into tender understanding"
+  }
+]

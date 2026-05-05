@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 0.98,
+    "reason": "Salieri’s admiration and jealousy spiral into a devastating mentor-protégé betrayal."
+  },
+  {
+    "movieId": 196,
+    "score": 0.95,
+    "reason": "A charismatic teacher’s guidance sours under idealistic young students’ ambitions."
+  },
+  {
+    "movieId": 698,
+    "score": 0.92,
+    "reason": "An old-school pedagogue confronts professional betrayal and disappointment."
+  },
+  {
+    "movieId": 272,
+    "score": 0.9,
+    "reason": "Psychologist guides a troubled genius until professional and personal resentments erupt."
+  },
+  {
+    "movieId": 12,
+    "score": 0.88,
+    "reason": "Criminals’ confessions expose a master manipulator undone by his own protégé’s cunning."
+  },
+  {
+    "movieId": 657,
+    "score": 0.85,
+    "reason": "Brainwashed soldier turns on his manipulators in a relentless study of power and deceit."
+  },
+  {
+    "movieId": 566,
+    "score": 0.82,
+    "reason": "Submarine captain vs. executive standoff tests the boundaries of authority and ethics."
+  },
+  {
+    "movieId": 31,
+    "score": 0.8,
+    "reason": "A naval commander and his executive clash over nuclear orders in a tense power struggle."
+  },
+  {
+    "movieId": 38,
+    "score": 0.78,
+    "reason": "Cyber-expert’s trusting protégé relationship fractures under high-stakes corporate betrayal."
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "A hacker’s mentorship in a rogue team descends into mistrust and moral conflict."
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason
+41,0.95,Title is two-word personal name 'Billy Madison'
+65,0.9,Title is two-word personal name 'Gilbert Grape'
+72,0.88,Title is two-word personal name 'Stanley Ipkiss'
+42,0.85,Title is two-word personal name 'Dante Hicks'
+263,0.83,Title is two-word personal name 'John Doe'
+37,0.8,Title is single-word personal name 'Nadja'
+91,0.78,Title is three-word but features 'Jack Skellington'
+131,0.75,Title is two-word personal name 'Holly Golightly'
+93,0.73,Title is two-word personal name 'Dawn Wiener'
+5,0.7,Title is two-word personal name 'Helen Hudson'

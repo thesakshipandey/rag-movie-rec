@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 1.0,
+    "reason": "Salieri and Mozart’s rivalry over musical genius drives them both to obsession and ruin without spilling a note of actual violence"
+  },
+  {
+    "movieId": 137,
+    "score": 0.9,
+    "reason": "Two immigrant brothers dueling over a single perfect feast make their kitchen the battlefield of their obsessive craft"
+  },
+  {
+    "movieId": 192,
+    "score": 0.85,
+    "reason": "A young piano prodigy and his domineering mentor clash in a symphony of talent that destroys as much as it inspires"
+  },
+  {
+    "movieId": 87,
+    "score": 0.8,
+    "reason": "Two chess whiz kids face off in a high-stakes game of intellect that consumes their lives far beyond the board"
+  },
+  {
+    "movieId": 160,
+    "score": 0.75,
+    "reason": "Cutthroat salesmen use every manipulative trick and fast talk in a duel over the ultimate real-estate prize"
+  },
+  {
+    "movieId": 246,
+    "score": 0.65,
+    "reason": "Comic book creators Holden and Banky battle for artistic integrity and romance in the panels of their own lives"
+  },
+  {
+    "movieId": 45,
+    "score": 0.6,
+    "reason": "A master chef and his daughters compete through Sunday feasts, where high cuisine and family pride lock horns"
+  },
+  {
+    "movieId": 58,
+    "score": 0.55,
+    "reason": "Contestants’ stakes rise with every answer in this true tale of quiz-show ambition poisoning the pursuit of truth"
+  },
+  {
+    "movieId": 44,
+    "score": 0.5,
+    "reason": "Ambitious city reporters fight for the big story, their deadlines and egos clashing like titans of the newsroom"
+  },
+  {
+    "movieId": 15,
+    "score": 0.45,
+    "reason": "A composer’s relentless drive to complete his magnum opus strains every relationship, making music his bitterest rival"
+  }
+]

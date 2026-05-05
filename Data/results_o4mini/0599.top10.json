@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "An expansive journey into the indifferent cosmos, evoking profound cosmic insignificance."
+  },
+  {
+    "movieId": 183,
+    "score": 0.92,
+    "reason": "Alien’s cold, unfeeling void traps its victims in a suffocating spaceship nightmare."
+  },
+  {
+    "movieId": 89,
+    "score": 0.88,
+    "reason": "Blade Runner’s rain-drenched dystopia underscores humanity’s smallness in a vast future."
+  },
+  {
+    "movieId": 691,
+    "score": 0.85,
+    "reason": "Dark City’s twisted urban labyrinth feels disorientingly controlled by an uncaring universe."
+  },
+  {
+    "movieId": 159,
+    "score": 0.82,
+    "reason": "Stalker’s enigmatic Zone creates creeping dread and existential unease at every turn."
+  },
+  {
+    "movieId": 260,
+    "score": 0.78,
+    "reason": "Event Horizon’s deep-space horror hints at an abyssal void beyond human comprehension."
+  },
+  {
+    "movieId": 200,
+    "score": 0.75,
+    "reason": "The Shining’s silent halls and unseen forces evoke a relentless, inescapable dread."
+  },
+  {
+    "movieId": 512,
+    "score": 0.72,
+    "reason": "Wings of Desire’s lonely angels observe humanity’s smallness against the city’s vastness."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.68,
+    "reason": "The Innocents’ haunted house traps the soul in a subtle, claustrophobic psychological horror."
+  },
+  {
+    "movieId": 135,
+    "score": 0.65,
+    "reason": "2001’s monolith scenes make us feel insignificant before unknowable cosmic forces."
+  }
+]

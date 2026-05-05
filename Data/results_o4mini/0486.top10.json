@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 496,
+    "score": 1.0,
+    "reason": "Small-town guardian angel inspires quiet, lasting change"
+  },
+  {
+    "movieId": 215,
+    "score": 0.95,
+    "reason": "Cornfield dreams spark unexpected acts of hope"
+  },
+  {
+    "movieId": 69,
+    "score": 0.9,
+    "reason": "Unassuming man’s simple kindness reshapes everyone’s fate"
+  },
+  {
+    "movieId": 15,
+    "score": 0.85,
+    "reason": "Dedicated teacher’s compassion plays out over decades"
+  },
+  {
+    "movieId": 318,
+    "score": 0.8,
+    "reason": "True heroism emerges in selfless rescue amid horror"
+  },
+  {
+    "movieId": 196,
+    "score": 0.75,
+    "reason": "Inspirational teacher unlocks young men’s hidden potential"
+  },
+  {
+    "movieId": 427,
+    "score": 0.7,
+    "reason": "Moral conviction shines in a quiet southern courtroom"
+  },
+  {
+    "movieId": 8,
+    "score": 0.65,
+    "reason": "Gentle pig’s unlikely friendship uplifts a grieving farm"
+  },
+  {
+    "movieId": 207,
+    "score": 0.6,
+    "reason": "Selfless devotion blooms from a poet’s unrequited love"
+  },
+  {
+    "movieId": 516,
+    "score": 0.55,
+    "reason": "Charming seaside community shows simple human kindness"
+  }
+]

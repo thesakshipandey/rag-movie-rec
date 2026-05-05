@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 0.95,
+    "reason": "Family dinners and silent tensions reveal simmering emotional shifts in Taipei household."
+  },
+  {
+    "movieId": 955,
+    "score": 0.93,
+    "reason": "Two strangers wander Vienna, sharing quiet conversations over a single night’s journey."
+  },
+  {
+    "movieId": 32,
+    "score": 0.91,
+    "reason": "Intimate documentary portraits capture an artist’s daily studio rituals and inner reflections."
+  },
+  {
+    "movieId": 170,
+    "score": 0.89,
+    "reason": "A filmmaker returns home, reliving childhood through nostalgia and small-town memories."
+  },
+  {
+    "movieId": 14,
+    "score": 0.87,
+    "reason": "A shy postman discovers poetry and quiet longing in his simple island mail route."
+  },
+  {
+    "movieId": 86,
+    "score": 0.85,
+    "reason": "A butler’s restrained daily duties conceal deep inner struggles and unspoken loyalties."
+  },
+  {
+    "movieId": 32,
+    "score": 0.84,
+    "reason": "Slices of creative life reveal solitary sketching sessions and private obsessions."
+  },
+  {
+    "movieId": 202,
+    "score": 0.82,
+    "reason": "A man relives the same mundane day over and over, finding small shifts in routine."
+  },
+  {
+    "movieId": 464,
+    "score": 0.8,
+    "reason": "A stalled rehearsal in a dusty theater highlights fleeting glances and unspoken regrets."
+  },
+  {
+    "movieId": 155,
+    "score": 0.78,
+    "reason": "A music teacher’s classroom becomes a canvas for small triumphs and quiet heartaches."
+  }
+]

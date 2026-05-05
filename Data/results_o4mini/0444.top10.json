@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 0.99,
+    "reason": "Dr. Kimble pieces together the truth about his wife’s murder in a relentlessly smart chase."
+  },
+  {
+    "movieId": 28,
+    "score": 0.97,
+    "reason": "The Apollo 13 crew’s methodical problem-solving feels like an intense, high-stakes puzzle come alive."
+  },
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "A web of lies unravels in a mind-bending finale you’ll want to rewatch just to catch every clue."
+  },
+  {
+    "movieId": 7,
+    "score": 0.93,
+    "reason": "Cole’s mission to save humanity threads past and present in a time-twisting mystery."
+  },
+  {
+    "movieId": 64,
+    "score": 0.91,
+    "reason": "Andy’s escape plan is a masterclass in patience and clever detail coming together."
+  },
+  {
+    "movieId": 58,
+    "score": 0.89,
+    "reason": "Quiz Show’s backstage scandal unfolds like a riveting whodunit built on everyday stakes."
+  },
+  {
+    "movieId": 82,
+    "score": 0.87,
+    "reason": "Jurassic Park’s unfolding disaster feels like deciphering nature’s deadly puzzle."
+  },
+  {
+    "movieId": 5,
+    "score": 0.85,
+    "reason": "Copycat’s hunt for a serial killer keeps personal stakes intimate, not exploitative."
+  },
+  {
+    "movieId": 124,
+    "score": 0.83,
+    "reason": "Lone Star’s generational secret is uncovered in carefully placed clues and rich local color."
+  },
+  {
+    "movieId": 272,
+    "score": 0.81,
+    "reason": "Will’s breakthroughs in therapy sessions build to a deeply satisfying, personal revelation."
+  }
+]

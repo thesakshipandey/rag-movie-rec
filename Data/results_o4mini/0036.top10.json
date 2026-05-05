@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 134,
+    "score": 0.95,
+    "reason": "A media magnate’s enigmatic final word sparks conflicting legends and a legacy built on a mystery no one can verify."
+  },
+  {
+    "movieId": 191,
+    "score": 0.92,
+    "reason": "Salieri’s obsession with Mozart probes genius, rumor and the personal toll behind a disputed musical legacy."
+  },
+  {
+    "movieId": 58,
+    "score": 0.9,
+    "reason": "A 1950s quiz show rigging scandal examines fame’s toll and the shifting narratives of a celebrated ‘first.’"
+  },
+  {
+    "movieId": 52,
+    "score": 0.88,
+    "reason": "King George’s madness is dramatized with empathy, highlighting disputed history and its crushing personal cost."
+  },
+  {
+    "movieId": 10,
+    "score": 0.86,
+    "reason": "A power-hungry king’s rise and fall, exploring how reputation and rumor reshape a controversial first ruler’s memory."
+  },
+  {
+    "movieId": 22,
+    "score": 0.85,
+    "reason": "William Wallace’s legendary stand is shown through obsession, bodily sacrifice and the blurred line between myth and fact."
+  },
+  {
+    "movieId": 193,
+    "score": 0.83,
+    "reason": "Test pilots’ race to be the first in space spotlights their obsession, bodily toll and the uncertain truth they left behind."
+  },
+  {
+    "movieId": 28,
+    "score": 0.8,
+    "reason": "Depicts a near-moon landing’s human drama and the ambiguous narratives that arose around a mission nearly lost to history."
+  },
+  {
+    "movieId": 89,
+    "score": 0.78,
+    "reason": "A detective’s hunt for life’s first synthetic humans examines identity, creation’s burden and the myths we build around ‘firsts.’"
+  },
+  {
+    "movieId": 135,
+    "score": 0.75,
+    "reason": "A cosmic odyssey captures humanity’s first contact with the unknown, its existential cost and the questions that can’t be answered."
+  }
+]

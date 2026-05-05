@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.98,
+    "reason": "Tense jury deliberations unfold in real time in a single room"
+  },
+  {
+    "movieId": 761,
+    "score": 0.96,
+    "reason": "High-stakes real-time rescue mission driven by a poisoned girl’s countdown"
+  },
+  {
+    "movieId": 661,
+    "score": 0.94,
+    "reason": "Real-time showdown in a deserted town at high noon, a complete story under 90 minutes"
+  },
+  {
+    "movieId": 178,
+    "score": 0.92,
+    "reason": "Locked-room drama reveals characters’ depths in under 90 minutes"
+  },
+  {
+    "movieId": 761,
+    "score": 0.9,
+    "reason": "Ticking-clock thriller kept within a single landmark building"
+  },
+  {
+    "movieId": 178,
+    "score": 0.88,
+    "reason": "Intense courtroom thriller, contained and under 100 minutes"
+  },
+  {
+    "movieId": 178,
+    "score": 0.86,
+    "reason": "All action in one setting, complete in less than 100 minutes"
+  },
+  {
+    "movieId": 178,
+    "score": 0.84,
+    "reason": "Claustrophobic, complete narrative in a single chamber"
+  },
+  {
+    "movieId": 761,
+    "score": 0.82,
+    "reason": "One-location thriller paced to fit under an hour and forty minutes"
+  },
+  {
+    "movieId": 178,
+    "score": 0.8,
+    "reason": "Minimal plot, confined setting, tight pacing under 100 minutes"
+  }
+]

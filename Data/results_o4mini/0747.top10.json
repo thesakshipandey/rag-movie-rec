@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 634,
+    "score": 1.0,
+    "reason": "Microcosmos – astonishing insect world in vivid close-ups"
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Apollo 13 – real-life space drama blending tension and wonder"
+  },
+  {
+    "movieId": 119,
+    "score": 0.9,
+    "reason": "Maya Lin… – visionary art and design in revealing documentary"
+  },
+  {
+    "movieId": 87,
+    "score": 0.85,
+    "reason": "Searching for Bobby Fischer – chess passion meets human insight"
+  },
+  {
+    "movieId": 48,
+    "score": 0.8,
+    "reason": "Hoop Dreams – intimate look at sport, society, and personal drive"
+  },
+  {
+    "movieId": 814,
+    "score": 0.75,
+    "reason": "A Great Day in Harlem – celebrating jazz heritage and culture"
+  },
+  {
+    "movieId": 320,
+    "score": 0.7,
+    "reason": "Paradise Lost – investigative take on real-world tragedy"
+  },
+  {
+    "movieId": 645,
+    "score": 0.65,
+    "reason": "Paris Is Burning – powerful cultural portrait with depth"
+  },
+  {
+    "movieId": 32,
+    "score": 0.6,
+    "reason": "Crumb – deep dive into creativity and obsession"
+  },
+  {
+    "movieId": 402,
+    "score": 0.55,
+    "reason": "Ghost – exploration of unseen worlds in classic documentary style"
+  }
+]

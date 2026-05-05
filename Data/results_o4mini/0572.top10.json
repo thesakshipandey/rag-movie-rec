@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "A family caretaker’s unraveling in an isolated hotel builds unsettling dread."
+  },
+  {
+    "movieId": 185,
+    "score": 0.97,
+    "reason": "A single location motel hides deep psychological terror."
+  },
+  {
+    "movieId": 607,
+    "score": 0.95,
+    "reason": "Gothic mansion looming over a grieving bride creates constant unease."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.93,
+    "reason": "Children’s nightmares and a haunted mansion in a tense black‐and‐white thriller."
+  },
+  {
+    "movieId": 675,
+    "score": 0.9,
+    "reason": "Silent horror of a survivor haunted by a vampire father."
+  },
+  {
+    "movieId": 91,
+    "score": 0.88,
+    "reason": "Enchanting stop‐motion world that’s more eerie than frightening."
+  },
+  {
+    "movieId": 559,
+    "score": 0.86,
+    "reason": "Atmospheric vampire tale steeped in sorrow and longing."
+  },
+  {
+    "movieId": 480,
+    "score": 0.84,
+    "reason": "Masterful build‐and‐release suspense in a high‐stakes chase."
+  },
+  {
+    "movieId": 218,
+    "score": 0.82,
+    "reason": "Sinister ex‐convict stalking a family home with pervasive tension."
+  },
+  {
+    "movieId": 632,
+    "score": 0.8,
+    "reason": "Ancient machine’s awakening offers creeping cosmic unease and mystery."
+  }
+]

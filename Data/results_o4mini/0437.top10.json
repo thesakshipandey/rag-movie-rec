@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 0.96,
+    "reason": "Satirical spin on nuclear dread served with manic, hilarious precision."
+  },
+  {
+    "movieId": 175,
+    "score": 0.93,
+    "reason": "Kafkaesque absurdity of bureaucracy that’s as funny as it is terrifying."
+  },
+  {
+    "movieId": 154,
+    "score": 0.9,
+    "reason": "Irreverent send-up of fate and faith with anarchic, gleeful wit."
+  },
+  {
+    "movieId": 433,
+    "score": 0.87,
+    "reason": "Teenage bile and sharp satire collide in a deliciously dark comedy."
+  },
+  {
+    "movieId": 347,
+    "score": 0.84,
+    "reason": "Politics and PR in the crosshairs of sharp, gallows-humored irony."
+  },
+  {
+    "movieId": 100,
+    "score": 0.81,
+    "reason": "Small-town crime meets deadpan humor in a deliciously twisted tale."
+  },
+  {
+    "movieId": 211,
+    "score": 0.78,
+    "reason": "War’s absurdity laid bare with a wisecracking, irreverent edge."
+  },
+  {
+    "movieId": 53,
+    "score": 0.75,
+    "reason": "Violent satire that laughs at apocalypse in neon bullets."
+  },
+  {
+    "movieId": 436,
+    "score": 0.72,
+    "reason": "Midnight laughs and full-moon horror blend in wickedly sharp balance."
+  },
+  {
+    "movieId": 158,
+    "score": 0.69,
+    "reason": "Morbid slapstick that finds comedy in darkly absurd circumstances."
+  }
+]

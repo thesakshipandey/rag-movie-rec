@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.98,
+    "reason": "1994 late-night convenience store banter comedy ensemble"
+  },
+  {
+    "movieId": 740,
+    "score": 0.96,
+    "reason": "1994 band-forming underdogs in uproarious heist of the heart"
+  },
+  {
+    "movieId": 153,
+    "score": 0.94,
+    "reason": "1988 jewel-thief screwball caper of bungling crooks"
+  },
+  {
+    "movieId": 238,
+    "score": 0.92,
+    "reason": "1987 slacker buddy road-trip with oddball criminal schemes"
+  },
+  {
+    "movieId": 680,
+    "score": 0.9,
+    "reason": "1997 low-budget fantasy comedy of modern magic realism"
+  },
+  {
+    "movieId": 290,
+    "score": 0.88,
+    "reason": "1997 satirical corporate caper of wedding-day chaos"
+  },
+  {
+    "movieId": 67,
+    "score": 0.85,
+    "reason": "1994 odd-couple detective farce with animal hijinks"
+  },
+  {
+    "movieId": 158,
+    "score": 0.82,
+    "reason": "1989 hapless duo farce with accidental murder tropes"
+  },
+  {
+    "movieId": 205,
+    "score": 0.8,
+    "reason": "1970 sharp political satirical comedy-drama romp"
+  },
+  {
+    "movieId": 162,
+    "score": 0.78,
+    "reason": "1981 dark military comedy about army base schemers"
+  }
+]

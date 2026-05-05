@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.85,
+    "reason": "Meticulous heist and twist ending, focus on aftermath and paranoia among conspirators"
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "Expert team pulls off perfect job then unravels as secrets emerge"
+  },
+  {
+    "movieId": 346,
+    "score": 0.7,
+    "reason": "Careful con executed cleanly, then betrayal and psychological fallout"
+  },
+  {
+    "movieId": 156,
+    "score": 0.65,
+    "reason": "Small‐scale robbery, then tension and mistrust tear the group apart"
+  },
+  {
+    "movieId": 273,
+    "score": 0.6,
+    "reason": "High‐stakes heist with intense focus on criminals’ psyche post‐job"
+  },
+  {
+    "movieId": 1478,
+    "score": 0.55,
+    "reason": "Kicked off twisted psychological spiral after successful score"
+  },
+  {
+    "movieId": 92,
+    "score": 0.5,
+    "reason": "Levity gives way to dark unraveling among conspirators after perfect execution"
+  },
+  {
+    "movieId": 49,
+    "score": 0.45,
+    "reason": "Absurd crime and trial aftermath parallels twisted fallout theme"
+  },
+  {
+    "movieId": 100,
+    "score": 0.4,
+    "reason": "Desperate man’s ill‐fated plan ends clean but leaves moral ruin"
+  },
+  {
+    "movieId": 802,
+    "score": 0.35,
+    "reason": "Heist‐style setup but main drama centres on psychological tension"
+  }
+]

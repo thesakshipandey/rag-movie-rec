@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0410": {
+      "top10": [
+        {"movieId": 1, "score": 0.98, "reason": "Playful odyssey of sentient toys rediscovering the magic of childhood imagination."},
+        {"movieId": 99, "score": 0.96, "reason": "Timeless fairy tale that transports you to a world of pure childhood wonder."},
+        {"movieId": 95, "score": 0.95, "reason": "Genie-powered adventure full of vibrant colors and boundless whimsy."},
+        {"movieId": 432, "score": 0.94, "reason": "Orchestral animation that transforms dreams and music into living wonder."},
+        {"movieId": 151, "score": 0.93, "reason": "Quirky confectionery fantasy brimming with childlike awe and joy."},
+        {"movieId": 173, "score": 0.92, "reason": "Playful sword-and-sorcery quest filled with romance and enchanting humor."},
+        {"movieId": 91, "score": 0.91, "reason": "Dark fantasy musical that captures the thrill and mystery of discovery."},
+        {"movieId": 423, "score": 0.90, "reason": "Heartwarming interstellar friendship evokes pure childhood wonder."},
+        {"movieId": 142, "score": 0.89, "reason": "Magical wartime yarn where ordinary objects come to life in delightful ways."},
+        {"movieId": 141, "score": 0.88, "reason": "Classic undersea adventure that inspires awe at the mysteries of discovery."}
+      ]
+    },
+    "0411": {
+      "top10": [
+        {"movieId": 14, "score": 0.98, "reason": "Gentle tale of poetic mentorship and unlikely friendship in a sleepy town."},
+        {"movieId": 86, "score": 0.96, "reason": "Quiet, elegant exploration of duty and regret in a stately English manor."},
+        {"movieId": 15, "score": 0.95, "reason": "Warm, unhurried chronicle of a teacher’s decades of small triumphs and connections."},
+        {"movieId": 45, "score": 0.94, "reason": "Four intimate meals reveal a family’s shifting bonds in quiet, beautiful detail."},
+        {"movieId": 509, "score": 0.93, "reason": "Bittersweet childhood odyssey told with tender humor and reflective calm."},
+        {"movieId": 170, "score": 0.92, "reason": "Lyrical tribute to cinema and memory in a nostalgic Sicilian village."},
+        {"movieId": 275, "score": 0.91, "reason": "Graceful adaptation of a classic novel focusing on love, loss, and quiet strength."},
+        {"movieId": 213, "score": 0.90, "reason": "Romantic period reverie where every look and gesture holds gentle meaning."},
+        {"movieId": 955, "score": 0.89, "reason": "Dialogue-driven meander through chance encounters under the Vienna sky."},
+        {"movieId": 116, "score": 0.88, "reason": "Charming period comedy unfolding at a leisurely pace with subtle wit."}
+      ]
+    },
+    "0412": {
+      "top10": [
+        {"movieId": 22, "score": 0.98, "reason": "Epic saga of vengeance that roars like a rallying cry for freedom."},
+        {"movieId": 203, "score": 0.96, "reason": "Gritty western revenge where a retired gunslinger defies the odds with precision."},
+        {"movieId": 68, "score": 0.95, "reason": "Vengeful resurrection of a fallen hero unleashes brutal justice in darkness."},
+        {"movieId": 33, "score": 0.94, "reason": "Lone gunslinger’s mission for blood-soaked retribution amid Mexican crime."},
+        {"movieId": 127, "score": 0.93, "reason": "Classic mafia vendetta where family loyalty ignites a storm of retribution."},
+        {"movieId": 187, "score": 0.92, "reason": "Dual-chronicle rise and revenge in the Mafia’s unforgiving underworld."},
+        {"movieId": 218, "score": 0.91, "reason": "Ominous return of a vengeful ex-convict sparks a chilling payback campaign."},
+        {"movieId": 23, "score": 0.90, "reason": "One man’s descent into madness becomes a ferocious crusade for brutal justice."},
+        {"movieId": 53, "score": 0.89, "reason": "An avenging couple unleashes unhinged fury in a twist-filled killing spree."},
+        {"movieId": 11, "score": 0.88, "reason": "Relentless hunt for a serial killer fueled by raw, visceral outrage."}
+      ]
+    },
+    "0413": {
+      "top10": [
+        {"movieId": 12, "score": 0.98, "reason": "Masterfully woven con game with a mind-bending final twist."},
+        {"movieId": 11, "score": 0.96, "reason": "Intricate detective hunt around deadly sins that keeps you guessing."},
+        {"movieId": 333, "score": 0.95, "reason": "High-stakes puzzle of betrayal and temptation that demands every second."},
+        {"movieId": 324, "score": 0.94, "reason": "Dreamlike noir mystery that unravels in haunting, unexpected ways."},
+        {"movieId": 302, "score": 0.93, "reason": "Gripping crime saga with layers of deception to untangle."},
+        {"movieId": 591, "score": 0.92, "reason": "Courtroom thriller with a shattering revelation that reframes everything."},
+        {"movieId": 98, "score": 0.91, "reason": "Psychological cat-and-mouse game with a final, shock-filled payoff."},
+        {"movieId": 159, "score": 0.90, "reason": "Seductive noir where every clue and misdirection sharpens the mystery."},
+        {"movieId": 293, "score": 0.89, "reason": "Undercover infiltration full of hidden agendas and surprising turns."},
+        {"movieId": 7, "score": 0.88, "reason": "Time-twisting conspiracy that demands your full attention to decode."}
+      ]
+    },
+    "0414": {
+      "top10": [
+        {"movieId": 959, "score": 0.98, "reason": "Laid-back 1970s teen roadtrip pulsating with restless energy and humor."},
+        {"movieId": 772, "score": 0.96, "reason": "Raw portrait of adolescence that stings with teenage uncertainty."},
+        {"movieId": 34, "score": 0.95, "reason": "Outrageous ’90s road wasteland trip capturing teen disaffection."},
+        {"movieId": 537, "score": 0.94, "reason": "Surreal, aimless odyssey of two hustlers searching for belonging."},
+        {"movieId": 475, "score": 0.93, "reason": "Adrenaline-fueled dive into the void of youth and addiction."},
+        {"movieId": 808, "score": 0.92, "reason": "Meandering slice-of-life that captures suburban ennui and absurdity."},
+        {"movieId": 955, "score": 0.91, "reason": "Nighttime wanderlust and intimate exchanges under city lights."},
+        {"movieId": 664, "score": 0.90, "reason": "Sparse, haunting journey of personal reinvention in a lonely desert."},
+        {"movieId": 324, "score": 0.89, "reason": "Hypnotic descent into fractured reality under neon-lit streets."},
+        {"movieId": 1502, "score": 0.88, "reason": "Urban tapestry of longing and dislocation under 2 AM neon glow."}
+      ]
+    },
+    "0503": {
+      "top10": [
+        {"movieId": 640, "score": 0.98, "reason": "Opulent crime-and-punishment fantasia that shocks with its grotesque beauty."},
+        {"movieId": 175, "score": 0.96, "reason": "Dystopian fever dream of bureaucratic decay, both mesmerizing and eerie."},
+        {"movieId": 260, "score": 0.95, "reason": "Tense, claustrophobic voyage into cosmic horror and human fragility."},
+        {"movieId": 183, "score": 0.94, "reason": "Iconic sci-fi terror that lingers with haunting, monolithic dread."},
+        {"movieId": 691, "score": 0.93, "reason": "Stylish, shadowy noir-fantasy that sends a chill through the psyche."},
+        {"movieId": 1411, "score": 0.92, "reason": "Campy future romp dripping in surreal design and unsettling whimsy."},
+        {"movieId": 922, "score": 0.91, "reason": "Brooding existential western in inky black and white, disquieting."},
+        {"movieId": 520, "score": 0.90, "reason": "All-star POW prison escape epic with stark tension and triumph."},
+        {"movieId": 432, "score": 0.89, "reason": "Avant-garde animation that conjures both wonder and creeping unease."},
+        {"movieId": 178, "score": 0.88, "reason": "Spare, meditative courtroom drama that pulses with moral unease."}
+      ]
+    },
+    "0504": {
+      "top10": [
+        {"movieId": 93, "score": 0.98, "reason": "Unflinching teen portrait of isolation, anger, and darkly comic survival."},
+        {"movieId": 1074, "score": 0.96, "reason": "Larry’s Gen-X malaise captures visible frustration and fleeting hope."},
+        {"movieId": 272, "score": 0.95, "reason": "Brash realism and raw humor illuminate a genius wrestling with his demons."},
+        {"movieId": 246, "score": 0.94, "reason": "Lyrical, messy love story that refuses to gloss over confusion and pain."},
+        {"movieId": 150, "score": 0.93, "reason": "Cocktail of weapons-grade wit and mid-life resetting anxieties."},
+        {"movieId": 42, "score": 0.92, "reason": "Low-fi slice of late-20s disillusionment and biting, relatable banter."},
+        {"movieId": 240, "score": 0.91, "reason": "Two slackers’ misadventures fuel frustration with a comedic slant."},
+        {"movieId": 772, "score": 0.90, "reason": "Unvarnished view of adolescent alienation with a pulse of hope."},
+        {"movieId": 237, "score": 0.89, "reason": "Quirky sports agent finds redemption in the absurd and unexpected."},
+        {"movieId": 655, "score": 0.88, "reason": "Small-town empathy for a family under pressure, both raw and redemptive."}
+      ]
+    },
+    "0505": {
+      "top10": [
+        {"movieId": 64, "score": 0.98, "reason": "Unbreakable spirit triumphs against the odds in a gripping prison saga."},
+        {"movieId": 22, "score": 0.96, "reason": "Ruthless rebellion that topples tyranny with fierce, sweeping heroism."},
+        {"movieId": 468, "score": 0.95, "reason": "Underdog’s unshakeable spirit shines in a small-town football miracle."},
+        {"movieId": 1035, "score": 0.94, "reason": "Endearing Jamaican bobsledders defy expectations to seize victory."},
+        {"movieId": 28, "score": 0.93, "reason": "Inspirational true story of teamwork overcoming near-impossible odds."},
+        {"movieId": 51, "score": 0.92, "reason": "Epic brotherhood saga with triumph over tragedy on the sweeping plains."},
+        {"movieId": 520, "score": 0.91, "reason": "Ingenious POW escape that outwits its captors in a masterful breakout."},
+        {"movieId": 79, "score": 0.90, "reason": "Relentless chase that restores faith as justice snaps back in place."},
+        {"movieId": 215, "score": 0.89, "reason": "Dreams of redemption and reconciliation fulfilled with soaring grace."},
+        {"movieId": 193, "score": 0.88, "reason": "Visionary pioneers conquer the final frontier and redefine possibility."}
+      ]
+    }
+  }
+}

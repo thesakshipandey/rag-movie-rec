@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 313,
+    "score": 0.95,
+    "reason": "Titanic’s sweeping romance, grandiose staging, and tragic climax sweep you headlong into aching destiny."
+  },
+  {
+    "movieId": 955,
+    "score": 0.93,
+    "reason": "Before Sunrise’s whispered confessions under Viennese moonlight capture pure, ephemeral enchantment."
+  },
+  {
+    "movieId": 133,
+    "score": 0.91,
+    "reason": "Gone with the Wind’s sweeping Civil War saga and indomitable passion engulf you in epic, romantic fervor."
+  },
+  {
+    "movieId": 421,
+    "score": 0.89,
+    "reason": "Romeo and Juliet’s timeless verses and star-crossed moments unleash a heart-stopping wave of longing."
+  },
+  {
+    "movieId": 483,
+    "score": 0.87,
+    "reason": "Casablanca’s smoky Casablanca nights and doomed love confessions swell with breathtaking romantic weight."
+  },
+  {
+    "movieId": 51,
+    "score": 0.85,
+    "reason": "Legends of the Fall’s majestic landscapes and soul-pounding love story ride the wind of longing."
+  },
+  {
+    "movieId": 241,
+    "score": 0.83,
+    "reason": "Last of the Mohicans’ heroic rescue across roaring rapids forges an unforgettable, tidal wave of devotion."
+  },
+  {
+    "movieId": 286,
+    "score": 0.81,
+    "reason": "The English Patient’s desert sunsets and aching flashbacks form a hauntingly romantic tapestry."
+  },
+  {
+    "movieId": 97,
+    "score": 0.79,
+    "reason": "Dances with Wolves’ epic prairie vistas and cross-cultural bond conjure a rousing, sweeping romance."
+  },
+  {
+    "movieId": 164,
+    "score": 0.77,
+    "reason": "Apocalypse Now’s Mad Willard journey may shock, but its brooding finale kindles a strange, cinematic longing."
+  }
+]

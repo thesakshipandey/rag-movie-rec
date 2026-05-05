@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Se7en’s grim hunt for a serial killer ratchets tension to suffocating extremes."
+  },
+  {
+    "movieId": 195,
+    "score": 0.95,
+    "reason": "Terminator’s relentless machine vs. man chase never lets up the adrenaline."
+  },
+  {
+    "movieId": 176,
+    "score": 0.92,
+    "reason": "Aliens turns claustrophobic corridors into a non-stop pulse of terror."
+  },
+  {
+    "movieId": 234,
+    "score": 0.9,
+    "reason": "Jaws’s looming menace turns innocent waters into a pit of unrelenting dread."
+  },
+  {
+    "movieId": 159,
+    "score": 0.88,
+    "reason": "Basic Instinct’s smoldering cat-and-mouse is taut with cinematic edge."
+  },
+  {
+    "movieId": 568,
+    "score": 0.85,
+    "reason": "Speed kicks off with full throttle thrills and never looks back."
+  },
+  {
+    "movieId": 273,
+    "score": 0.83,
+    "reason": "Heat’s high-stakes heists explode in pure, unbreakable tension."
+  },
+  {
+    "movieId": 325,
+    "score": 0.8,
+    "reason": "Crash plunges into urban chaos with electrifying moral collision."
+  },
+  {
+    "movieId": 219,
+    "score": 0.78,
+    "reason": "Nightmare on Elm Street blends dream logic and mounting dread flawlessly."
+  },
+  {
+    "movieId": 479,
+    "score": 0.75,
+    "reason": "Vertigo’s psychological grip tightens with every spiraling shot."
+  }
+]

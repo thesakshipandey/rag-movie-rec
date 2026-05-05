@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 28,
+    "score": 1.0,
+    "reason": "Astronauts confront cascading failures in space and must jury-rig solutions to return home.",
+    "year": "1995"
+  },
+  {
+    "movieId": 31,
+    "score": 0.95,
+    "reason": "Submarine officers locked underwater debate launch orders to avert nuclear disaster.",
+    "year": "1995"
+  },
+  {
+    "movieId": 178,
+    "score": 0.9,
+    "reason": "Twelve jurors locked in a room debate a verdict, unraveling doubt through heated discussion.",
+    "year": "1957"
+  },
+  {
+    "movieId": 568,
+    "score": 0.85,
+    "reason": "Bus passengers and driver must outwit a terrorist’s bomb by keeping speed above 50 mph.",
+    "year": "1994"
+  },
+  {
+    "movieId": 234,
+    "score": 0.8,
+    "reason": "Passengers and crew stranded at 30,000 ft must solve mechanical chaos to land safely.",
+    "year": "1980"
+  },
+  {
+    "movieId": 144,
+    "score": 0.75,
+    "reason": "One cop in a skyscraper must outthink terrorists to free hostages and regain control.",
+    "year": "1988"
+  },
+  {
+    "movieId": 505,
+    "score": 0.7,
+    "reason": "A wife and detective navigate a single house to expose a clever murder plot.",
+    "year": "1954"
+  },
+  {
+    "movieId": 355,
+    "score": 0.65,
+    "reason": "A team trapped in an underwater station encounters a mysterious sphere that demands logic to escape.",
+    "year": "1998"
+  },
+  {
+    "movieId": 233,
+    "score": 0.6,
+    "reason": "A cook on a battleship uses wit and grit to thwart terrorists holding the ship hostage.",
+    "year": "1992"
+  },
+  {
+    "movieId": 1228,
+    "score": 0.55,
+    "reason": "An ex-soldier on a hijacked train must outsmart criminals to save passengers.",
+    "year": "1995"
+  }
+]

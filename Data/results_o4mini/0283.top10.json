@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 9,
+    "score": 0.95,
+    "reason": "Intense emotional death row drama",
+    "plot": ""
+  },
+  {
+    "movieId": 60,
+    "score": 0.93,
+    "reason": "Powerful grief and rebirth story",
+    "plot": ""
+  },
+  {
+    "movieId": 86,
+    "score": 0.9,
+    "reason": "Quiet sacrifice evokes deep tears",
+    "plot": ""
+  },
+  {
+    "movieId": 191,
+    "score": 0.88,
+    "reason": "Mozart rivalry brings poignant loss",
+    "plot": ""
+  },
+  {
+    "movieId": 215,
+    "score": 0.85,
+    "reason": "Haunting baseball faith journey",
+    "plot": ""
+  },
+  {
+    "movieId": 196,
+    "score": 0.83,
+    "reason": "Heartbreaking boarding school saga",
+    "plot": ""
+  },
+  {
+    "movieId": 127,
+    "score": 0.8,
+    "reason": "Crime epic with emotional depth",
+    "plot": ""
+  },
+  {
+    "movieId": 204,
+    "score": 0.78,
+    "reason": "Time-travel longing and regret",
+    "plot": ""
+  },
+  {
+    "movieId": 287,
+    "score": 0.75,
+    "reason": "Family illness tests devotion",
+    "plot": ""
+  },
+  {
+    "movieId": 318,
+    "score": 0.72,
+    "reason": "Real-life rescue triumph and tearjerker",
+    "plot": ""
+  }
+]

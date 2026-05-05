@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 255,
+    "score": 0.9,
+    "reason": "My Best Friend's Wedding is a heartfelt romantic comedy with charming leads and witty banter."
+  },
+  {
+    "movieId": 354,
+    "score": 0.88,
+    "reason": "The Wedding Singer mixes ’80s nostalgia and romance with Adam Sandler’s comedic charm."
+  },
+  {
+    "movieId": 216,
+    "score": 0.86,
+    "reason": "When Harry Met Sally... is a benchmark rom-com with sharp dialogue and timeless chemistry."
+  },
+  {
+    "movieId": 88,
+    "score": 0.84,
+    "reason": "Sleepless in Seattle balances heartfelt romance and gentle humor set against a wintry backdrop."
+  },
+  {
+    "movieId": 70,
+    "score": 0.82,
+    "reason": "Four Weddings and a Funeral offers a delightful blend of British wit and romantic mishaps."
+  },
+  {
+    "movieId": 274,
+    "score": 0.8,
+    "reason": "Sabrina charms with its modern Cinderella story and endearing romantic moments."
+  },
+  {
+    "movieId": 319,
+    "score": 0.78,
+    "reason": "Everyone Says I Love You is a playful musical rom-com filled with witty family dynamics."
+  },
+  {
+    "movieId": 411,
+    "score": 0.76,
+    "reason": "The Nutty Professor offers a sweet romance wrapped in slapstick comedy."
+  },
+  {
+    "movieId": 111,
+    "score": 0.74,
+    "reason": "The Truth About Cats & Dogs blends witty radio banter with a tender love story."
+  },
+  {
+    "movieId": 249,
+    "score": 0.72,
+    "reason": "Austin Powers: International Man of Mystery romps with retro humor and playful romance."
+  }
+]

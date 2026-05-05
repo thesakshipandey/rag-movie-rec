@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 240,
+    "score": 0.94,
+    "reason": "Animated duo mismatched, hilarious banter leads to friendship."
+  },
+  {
+    "movieId": 938,
+    "score": 0.92,
+    "reason": "Two hitmen clash until they bond on a road trip."
+  },
+  {
+    "movieId": 248,
+    "score": 0.9,
+    "reason": "Assassin forced into partnership with rival, witty clash ensues."
+  },
+  {
+    "movieId": 259,
+    "score": 0.88,
+    "reason": "Jungle lord teams with city gal, culture shock and funny fights."
+  },
+  {
+    "movieId": 791,
+    "score": 0.86,
+    "reason": "Slacker swapped into rural Texas, odd couple dynamic sparkles."
+  },
+  {
+    "movieId": 93,
+    "score": 0.84,
+    "reason": "Teen buddies coerce babysitter buddy, grudging respect grows."
+  },
+  {
+    "movieId": 239,
+    "score": 0.82,
+    "reason": "Hackers forced to team up with rival, sharp tech banter."
+  },
+  {
+    "movieId": 382,
+    "score": 0.8,
+    "reason": "Drag queen mismatches collide on desert road trip."
+  },
+  {
+    "movieId": 223,
+    "score": 0.78,
+    "reason": "Gentle giant and ex-con work a case, warm comedic chemistry."
+  },
+  {
+    "movieId": 853,
+    "score": 0.75,
+    "reason": "Oddball roommates become business partners, laughable strife."
+  }
+]

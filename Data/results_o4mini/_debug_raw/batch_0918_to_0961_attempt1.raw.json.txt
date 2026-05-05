@@ -1,0 +1,74 @@
+{
+  "results": {
+    "0918": {
+      "top10": [
+        {"movieId": 30, "score": 0.95, "reason": "Belle de jour blends surreal fantasy and melancholy drama in a visually stunning Parisian setting."},
+        {"movieId": 59, "score": 0.93, "reason": "Three Colors: Red offers symbolic, non-linear storytelling and vibrant visuals to ponder long after viewing."},
+        {"movieId": 60, "score": 0.92, "reason": "Three Colors: Blue is a poetic, moody exploration of grief with stunning, meditative imagery."},
+        {"movieId": 61, "score": 0.90, "reason": "Three Colors: White delivers an offbeat, symbolic drama rich in visual metaphors and melancholy charm."},
+        {"movieId": 170, "score": 0.88, "reason": "Cinema Paradiso’s nostalgic, lyrical style and evocative cinematography linger in the mind."},
+        {"movieId": 171, "score": 0.87, "reason": "Delicatessen is a darkly surreal, visually inventive fable with haunting, symbolic resonance."},
+        {"movieId": 855, "score": 0.85, "reason": "Diva is a dreamlike French thriller with lush visuals and enigmatic symbolism."},
+        {"movieId": 1005, "score": 0.83, "reason": "The Double Life of Veronique’s dreamlike dual narrative and exquisite imagery stay with you."},
+        {"movieId": 1056, "score": 0.82, "reason": "Cronos offers poetic, atmospheric horror with rich visual symbolism and a haunting mood."},
+        {"movieId": 1595, "score": 0.80, "reason": "Stalker’s enigmatic, slow-burn vision and unsettling imagery demand contemplation."}
+      ]
+    },
+    "0958": {
+      "top10": [
+        {"movieId": 919, "score": 0.95, "reason": "The City of Lost Children is a lush, surreal fairy-tale with haunting, symbolic visuals."},
+        {"movieId": 45, "score": 0.93, "reason": "Eat Drink Man Woman’s elegant cinematography and poetic silences evoke a gentle, dreamlike sadness."},
+        {"movieId": 171, "score": 0.91, "reason": "Delicatessen’s stylized sets and symbolic imagery create a dark, atmospheric fairy-tale mood."},
+        {"movieId": 855, "score": 0.90, "reason": "Diva’s hypnotic soundtrack and shadowy visuals craft an intoxicating, melancholic dreamscape."},
+        {"movieId": 1005, "score": 0.88, "reason": "The Double Life of Veronique’s ethereal tone and rich symbolism feel like a waking dream."},
+        {"movieId": 1006, "score": 0.87, "reason": "JLG/JLG blends real and reel life in a fluid, art-house collage that feels hypnotically lush."},
+        {"movieId": 1056, "score": 0.85, "reason": "Cronos’ baroque portrait of mortality and desire is hauntingly poetic and visually striking."},
+        {"movieId": 1595, "score": 0.84, "reason": "Stalker’s unsettling landscapes and slow pacing create an otherworldly, dreamlike dread."},
+        {"movieId": 1459, "score": 0.82, "reason": "Madame Butterfly’s operatic visuals and lyrical pace exude a bittersweet, poetic melancholy."},
+        {"movieId": 434, "score": 0.80, "reason": "Forbidden Planet’s psychedelic sets and classical score evoke a retro-futuristic dreamworld."}
+      ]
+    },
+    "0959": {
+      "top10": [
+        {"movieId": 58, "score": 0.95, "reason": "Quiz Show explores 1950s television ethics and its impact on ordinary lives with period authenticity."},
+        {"movieId": 28, "score": 0.93, "reason": "Apollo 13 dramatizes the moon-mission crisis and its ripple effect on families back home."},
+        {"movieId": 193, "score": 0.91, "reason": "The Right Stuff immerses you in early astronaut trials and the cultural shift of the space race."},
+        {"movieId": 49, "score": 0.90, "reason": "I.Q. dramatizes early intelligence testing’s effect on a scientist and her working-class suitor."},
+        {"movieId": 136, "score": 0.88, "reason": "Mr. Smith Goes to Washington shows how a lone idealist’s actions reshape political norms."},
+        {"movieId": 14, "score": 0.87, "reason": "Il Postino captures postwar Italy’s bond-forging postal innovation and its poetic social uplift."},
+        {"movieId": 15, "score": 0.85, "reason": "Mr. Holland’s Opus portrays a music teacher’s quiet revolution in students’ lives over decades."},
+        {"movieId": 286, "score": 0.84, "reason": "The English Patient immerses you in wartime medical advances and lives irrevocably altered by conflict."},
+        {"movieId": 54, "score": 0.82, "reason": "Outbreak examines a viral scourge and its societal fallout with scientific and human authenticity."},
+        {"movieId": 371, "score": 0.80, "reason": "The Bridges of Madison County explores new emotional landscapes reshaping an Iowa farming family."}
+      ]
+    },
+    "0960": {
+      "top10": [
+        {"movieId": 260, "score": 0.95, "reason": "Event Horizon delivers cosmic horror in deep space, where reality unravels in unsettling visions."},
+        {"movieId": 324, "score": 0.93, "reason": "Lost Highway conjures inexplicable dread with dream logic and otherworldly atmosphere."},
+        {"movieId": 164, "score": 0.91, "reason": "The Abyss blends deep-sea terror and unfathomable alien presence in immersive isolation."},
+        {"movieId": 183, "score": 0.90, "reason": "Alien’s primal fear and cosmic unknowability redefine cinematic horror."},
+        {"movieId": 434, "score": 0.88, "reason": "Forbidden Planet’s eerie sci-fi setting and invisible threat seep into the psyche."},
+        {"movieId": 665, "score": 0.87, "reason": "Alien³ traps you in a grim industrial station with grotesque creatures and existential dread."},
+        {"movieId": 343, "score": 0.85, "reason": "Alien: Resurrection fuses gothic horror with speculative science in a chilling future lab."},
+        {"movieId": 616, "score": 0.83, "reason": "Night of the Living Dead’s relentless, nihilistic terror of the undead mirrors cosmic indifference."},
+        {"movieId": 464, "score": 0.82, "reason": "Vanya on 42nd Street dissolves reality in a meta-dream space where identity slips away."},
+        {"movieId": 1286, "score": 0.80, "reason": "Madame Magritte’s surreal imagery disturbs with uncanny, dream-logic terror."}
+      ]
+    },
+    "0961": {
+      "top10": [
+        {"movieId": 12, "score": 0.95, "reason": "The Usual Suspects’ intricate heist setup unravels into chaos in the most satisfying way."},
+        {"movieId": 100, "score": 0.93, "reason": "Fargo’s perfect-gone-wrong kidnapping plot mixes dark comedy with mounting tension."},
+        {"movieId": 153, "score": 0.91, "reason": "A Fish Called Wanda juggles a jewel heist with back-stabbing mishaps in riotous fashion."},
+        {"movieId": 156, "score": 0.90, "reason": "Reservoir Dogs turns a simple robbery into a brilliantly chaotic meltdown of egos."},
+        {"movieId": 129, "score": 0.88, "reason": "Bound’s con-perfect plans spin wildly out of control as alliances shift and betrayals bloom."},
+        {"movieId": 4, "score": 0.87, "reason": "Get Shorty’s Miami-to-Hollywood caper goes awry with hilarious, stress-charged misfires."},
+        {"movieId": 27, "score": 0.85, "reason": "Bad Boys throws two detectives into a riotous, combustible pursuit full of comic chaos."},
+        {"movieId": 346, "score": 0.83, "reason": "Jackie Brown’s smuggling plan splinters into comedic mayhem under Höhne’s cunning manipulation."},
+        {"movieId": 456, "score": 0.82, "reason": "Beverly Hills Ninja’s slapstick heist spoof keeps missteps hilariously on edge."},
+        {"movieId": 1067, "score": 0.80, "reason": "Bottle Rocket’s bungled thefts spark a chaotic, laugh-out-loud spiral of vintage caper comedy."}
+      ]
+    }
+  }
+}

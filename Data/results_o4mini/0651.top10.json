@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 77,
+    "score": 0.95,
+    "reason": "Young lawyer drawn into firm’s dark secrets defending guilty partners"
+  },
+  {
+    "movieId": 591,
+    "score": 0.9,
+    "reason": "Defense attorney faces moral chasm prosecuting apparent child murderer"
+  },
+  {
+    "movieId": 282,
+    "score": 0.88,
+    "reason": "Lawyer defends accused rapists in racially charged trial with gray motives"
+  },
+  {
+    "movieId": 307,
+    "score": 0.85,
+    "reason": "Slick lawyer joins devilish firm hiding monstrous client’s guilt"
+  },
+  {
+    "movieId": 58,
+    "score": 0.82,
+    "reason": "Quiz show lawyer maneuvers through media-fuelled wrongdoing in courtroom"
+  },
+  {
+    "movieId": 1210,
+    "score": 0.8,
+    "reason": "Hotshot prosecutor uncovers ugly truths about privileged allies"
+  },
+  {
+    "movieId": 502,
+    "score": 0.78,
+    "reason": "Law office power struggle ensnares moral lines when defending corrupt clients"
+  },
+  {
+    "movieId": 427,
+    "score": 0.75,
+    "reason": "Idealistic lawyer fights to exonerate man framed by justice system"
+  },
+  {
+    "movieId": 160,
+    "score": 0.72,
+    "reason": "Ethical dilemmas in high-stakes property case push lawyer to edges"
+  },
+  {
+    "movieId": 234,
+    "score": 0.7,
+    "reason": "Viral outbreak courtroom stirs legal gray areas in panic-ridden state"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 896,
+    "score": 0.98,
+    "reason": "Small-town lawyer uncovers a devastating secret after a school bus tragedy"
+  },
+  {
+    "movieId": 147,
+    "score": 0.95,
+    "reason": "A schoolteacher with amnesia returns home to unearth a hidden past and mounting danger"
+  },
+  {
+    "movieId": 126,
+    "score": 0.93,
+    "reason": "A parolee’s new life in a tight-knit town hides darker sins beneath its quiet surface"
+  },
+  {
+    "movieId": 315,
+    "score": 0.9,
+    "reason": "A teen’s discovery of a neighbor’s hidden identity erupts into a chilling personal reckoning"
+  },
+  {
+    "movieId": 44,
+    "score": 0.88,
+    "reason": "A widow’s secret history surfaces in a claustrophobic Maine community"
+  },
+  {
+    "movieId": 124,
+    "score": 0.86,
+    "reason": "A deputy unravels buried truths after an unexpected bone discovery in a desert outpost"
+  },
+  {
+    "movieId": 100,
+    "score": 0.84,
+    "reason": "A lowlife’s desperate plan exposes greed and murder in a snowbound Midwestern town"
+  },
+  {
+    "movieId": 914,
+    "score": 0.81,
+    "reason": "A high school scandal unearths long-held lies behind a wealthy Florida facade"
+  },
+  {
+    "movieId": 332,
+    "score": 0.79,
+    "reason": "A detective races to save his niece and uncover a secret serial abductor"
+  },
+  {
+    "movieId": 281,
+    "score": 0.77,
+    "reason": "A family rafting trip becomes a nightmare when they stumble on a river’s deadly secret"
+  }
+]

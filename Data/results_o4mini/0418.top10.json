@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "A poetic, melancholic journey across Vienna that feels like a long indie dream."
+  },
+  {
+    "movieId": 1203,
+    "score": 0.94,
+    "reason": "A gorgeously sung-through romance that drips with poignant, musical longing."
+  },
+  {
+    "movieId": 246,
+    "score": 0.93,
+    "reason": "A bittersweet indie comedy that hums with emotional honesty and playful wit."
+  },
+  {
+    "movieId": 150,
+    "score": 0.92,
+    "reason": "Coolly stylish, this road-trip comedy blends humor and heart in perfect measure."
+  },
+  {
+    "movieId": 1262,
+    "score": 0.9,
+    "reason": "A wry, slice-of-life tale that captures the small moments like a moody song."
+  },
+  {
+    "movieId": 171,
+    "score": 0.88,
+    "reason": "A darkly comic fable of city life with a quirky rhythm all its own."
+  },
+  {
+    "movieId": 170,
+    "score": 0.87,
+    "reason": "A nostalgic ode to film that resonates like a bittersweet melody."
+  },
+  {
+    "movieId": 964,
+    "score": 0.85,
+    "reason": "A tender, reflective story of love and loss set to a gentle emotional refrain."
+  },
+  {
+    "movieId": 464,
+    "score": 0.84,
+    "reason": "A haunting, intimate adaptation that plays like a slow-burning indie tune."
+  },
+  {
+    "movieId": 45,
+    "score": 0.83,
+    "reason": "A deliciously warm family drama that feels as lyrical as a comfort song."
+  }
+]

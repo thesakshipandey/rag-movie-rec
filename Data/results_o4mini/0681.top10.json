@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 189,
+    "score": 0.98,
+    "reason": "Animated duo journey to the moon in search of cheese, under 90 minutes"
+  },
+  {
+    "movieId": 190,
+    "score": 0.96,
+    "reason": "Shakespearean legend transformed into lyrical animation under 90 minutes"
+  },
+  {
+    "movieId": 191,
+    "score": 0.94,
+    "reason": "Mozart’s turbulent life captured in animated segments well under 90 minutes"
+  },
+  {
+    "movieId": 196,
+    "score": 0.92,
+    "reason": "Inspirational boarding school tale in concise animated form"
+  },
+  {
+    "movieId": 199,
+    "score": 0.9,
+    "reason": "Prison horror expressed in short, surreal animated sequences"
+  },
+  {
+    "movieId": 202,
+    "score": 0.88,
+    "reason": "Groundhog Day’s time-loop journey wrapped up in well under 90 minutes"
+  },
+  {
+    "movieId": 206,
+    "score": 0.86,
+    "reason": "Cyberpunk odyssey in fast-paced, under-100-minute animated feature"
+  },
+  {
+    "movieId": 208,
+    "score": 0.84,
+    "reason": "Classic frankenstein spoof delivered in swift, comedic animation"
+  },
+  {
+    "movieId": 211,
+    "score": 0.82,
+    "reason": "M*A*S*H animated parody of a journey through wartime absurdity"
+  },
+  {
+    "movieId": 214,
+    "score": 0.8,
+    "reason": "Musician’s hallucinatory journey through psyche in concise animated form"
+  }
+]

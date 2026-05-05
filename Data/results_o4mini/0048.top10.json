@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 17,
+    "score": 0.95,
+    "reason": "Criminals and a pastor’s family must band together in a vampire‐infested bar to survive an unexpected siege"
+  },
+  {
+    "movieId": 99,
+    "score": 0.9,
+    "reason": "Snow White and seven dwarfs form a warm, makeshift family after a fearsome evil queen’s plot throws them together"
+  },
+  {
+    "movieId": 1035,
+    "score": 0.88,
+    "reason": "Four Jamaican sprinters unexpectedly become a bobsled team and learn to trust each other on the icy track"
+  },
+  {
+    "movieId": 28,
+    "score": 0.87,
+    "reason": "An Apollo spacecraft’s malfunction strands astronauts who must unite and rely on one another to get home"
+  },
+  {
+    "movieId": 355,
+    "score": 0.85,
+    "reason": "A team of scientists trapped in an underwater station must support each other to face eerie anomalies"
+  },
+  {
+    "movieId": 62,
+    "score": 0.83,
+    "reason": "Military and scientific specialists thrust through a Stargate into an alien world find solace in their unlikely group"
+  },
+  {
+    "movieId": 56,
+    "score": 0.8,
+    "reason": "A botched heist traps strangers in a warehouse, forcing them into an uneasy alliance to uncover the traitor among them"
+  },
+  {
+    "movieId": 1,
+    "score": 0.75,
+    "reason": "Beloved toys become inadvertent strangers on a cross‐country trip and slowly forge a new bond as a makeshift family"
+  },
+  {
+    "movieId": 171,
+    "score": 0.7,
+    "reason": "In a decaying apartment block, eccentric tenants unite against bizarre threats, forming unexpected community ties"
+  },
+  {
+    "movieId": 173,
+    "score": 0.65,
+    "reason": "Mismatched adventurers on a quest to rescue a princess bicker and bond, creating their own quirky fellowship"
+  }
+]

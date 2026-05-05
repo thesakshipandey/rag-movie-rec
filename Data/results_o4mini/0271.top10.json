@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "Heartfelt family drama about a music teacher juggling career and home, easy to follow."
+  },
+  {
+    "movieId": 65,
+    "score": 0.9,
+    "reason": "Touching tale of small-town family caring for a brother with special needs."
+  },
+  {
+    "movieId": 371,
+    "score": 0.88,
+    "reason": "Emotional mature romance about love and duty in an Iowa family."
+  },
+  {
+    "movieId": 66,
+    "score": 0.87,
+    "reason": "Charming romantic comedy with warm family moments and easy humor."
+  },
+  {
+    "movieId": 88,
+    "score": 0.86,
+    "reason": "Witty, feel-good romance with lovable characters and heartwarming family ties."
+  },
+  {
+    "movieId": 699,
+    "score": 0.85,
+    "reason": "Classic coming-of-age story following sisters through joy, grief, and sisterhood."
+  },
+  {
+    "movieId": 136,
+    "score": 0.84,
+    "reason": "Inspirational tale of small-town hero fighting corruption with idealism and humor."
+  },
+  {
+    "movieId": 417,
+    "score": 0.83,
+    "reason": "Light-hearted family comedy about twins scheming to reunite their parents."
+  },
+  {
+    "movieId": 170,
+    "score": 0.82,
+    "reason": "Sweet ode to friendship and family set around a small-town movie theater."
+  },
+  {
+    "movieId": 51,
+    "score": 0.8,
+    "reason": "Epic tale of brothers and family tested by war and love in early 20th-century America."
+  }
+]

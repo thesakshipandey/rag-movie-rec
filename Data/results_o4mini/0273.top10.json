@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 59,
+    "score": 0.95,
+    "reason": "Philosophical ensemble drama exploring fate and connection in Geneva."
+  },
+  {
+    "movieId": 60,
+    "score": 0.92,
+    "reason": "Poignant meditation on grief and freedom from a master of French cinema."
+  },
+  {
+    "movieId": 61,
+    "score": 0.9,
+    "reason": "Darkly comedic drama on marriage and revenge with clever insights."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.88,
+    "reason": "Stylish, lyrical Hong Kong tale blending romance and urban isolation."
+  },
+  {
+    "movieId": 1499,
+    "score": 0.86,
+    "reason": "Moving portrait of rural Indian family life with lyrical realism."
+  },
+  {
+    "movieId": 170,
+    "score": 0.84,
+    "reason": "Rich, nostalgic Italian drama celebrating love of cinema and community."
+  },
+  {
+    "movieId": 86,
+    "score": 0.82,
+    "reason": "Subtle British drama pondering duty and suppressed emotion in a grand house."
+  },
+  {
+    "movieId": 921,
+    "score": 0.8,
+    "reason": "Epic Chinese saga of love and betrayal amid cultural upheaval."
+  },
+  {
+    "movieId": 1629,
+    "score": 0.78,
+    "reason": "Complex political parable blending dark humor with sharp social critique."
+  },
+  {
+    "movieId": 285,
+    "score": 0.76,
+    "reason": "Intimate British drama exploring secrets and forgiveness in a tight-knit family."
+  }
+]

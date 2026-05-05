@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 0.95,
+    "reason": "Swashbuckling quest with pirates, clear good vs evil, witty magic and adventure"
+  },
+  {
+    "movieId": 95,
+    "score": 0.93,
+    "reason": "Street urchin embarks on magical lamp quest, exhilarating and effortless fun"
+  },
+  {
+    "movieId": 132,
+    "score": 0.91,
+    "reason": "Farm girl’s whirlwind journey to Oz is pure fantastical escapism and adventure"
+  },
+  {
+    "movieId": 755,
+    "score": 0.89,
+    "reason": "Exhilarating board-game quest with wild magic unleashed in a real-world adventure"
+  },
+  {
+    "movieId": 250,
+    "score": 0.87,
+    "reason": "Lone hero races to assemble elemental power against a cosmic evil, zero drama needed"
+  },
+  {
+    "movieId": 62,
+    "score": 0.85,
+    "reason": "Sidereal gate quest pits explorers against alien foes in classic good vs evil fun"
+  },
+  {
+    "movieId": 91,
+    "score": 0.83,
+    "reason": "Skeleton king’s Christmas quest in eerie fantasy lands, simple and thrilling"
+  },
+  {
+    "movieId": 472,
+    "score": 0.81,
+    "reason": "Knights and dragon band together on a noble quest in a magical fantasy world"
+  },
+  {
+    "movieId": 184,
+    "score": 0.79,
+    "reason": "Time-traveler’s pulp-action quest for a mystic book, outrageous and adrenaline-pumping"
+  },
+  {
+    "movieId": 21,
+    "score": 0.77,
+    "reason": "Muppet mates hunt pirate treasure with slapstick magic and buoyant adventure"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1127,
+    "score": 1.0,
+    "reason": "A man’s idyllic life unravels in a perfectly constructed reality."
+  },
+  {
+    "movieId": 603,
+    "score": 0.95,
+    "reason": "Rear Window’s voyeuristic suspense among deceptively calm neighbors."
+  },
+  {
+    "movieId": 691,
+    "score": 0.9,
+    "reason": "Dark City’s normal world warping into unsettling conspiracies."
+  },
+  {
+    "movieId": 175,
+    "score": 0.88,
+    "reason": "Brazil’s bureaucratic absurdity twisting everyday existence."
+  },
+  {
+    "movieId": 23,
+    "score": 0.85,
+    "reason": "Taxi Driver’s simmering paranoia behind neon city facades."
+  },
+  {
+    "movieId": 324,
+    "score": 0.83,
+    "reason": "Lost Highway’s uncanny shift from mundane to menacing."
+  },
+  {
+    "movieId": 89,
+    "score": 0.8,
+    "reason": "Blade Runner’s rain-soaked city harboring hidden inhuman secrets."
+  },
+  {
+    "movieId": 182,
+    "score": 0.78,
+    "reason": "Goodfellas’ charismatic world hiding brutality underneath."
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Pulp Fiction’s casual chats erupt into violent, surreal consequences."
+  },
+  {
+    "movieId": 498,
+    "score": 0.73,
+    "reason": "The African Queen’s tranquil voyage revealing unpredictable horrors."
+  }
+]

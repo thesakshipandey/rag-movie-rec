@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 1.0,
+    "reason": "Lonely taxi driver’s descent into madness offers no easy relief"
+  },
+  {
+    "movieId": 654,
+    "score": 0.95,
+    "reason": "Private investigator’s quest for truth unravels a corrupt underbelly"
+  },
+  {
+    "movieId": 276,
+    "score": 0.9,
+    "reason": "An alcoholic screenwriter’s self-destruction plays out in Vegas"
+  },
+  {
+    "movieId": 180,
+    "score": 0.85,
+    "reason": "Vietnam War mission spirals into hallucinatory nightmare"
+  },
+  {
+    "movieId": 175,
+    "score": 0.8,
+    "reason": "Bureaucracy and fantasy collide in a surreal dystopia"
+  },
+  {
+    "movieId": 616,
+    "score": 0.75,
+    "reason": "Survivors barricade themselves as the undead breach every boundary"
+  },
+  {
+    "movieId": 475,
+    "score": 0.7,
+    "reason": "Heroin-soaked lives collapse in a raw and unflinching portrait"
+  },
+  {
+    "movieId": 89,
+    "score": 0.65,
+    "reason": "Bleak future cityscape hides a hunt that questions what it means to be human"
+  },
+  {
+    "movieId": 188,
+    "score": 0.6,
+    "reason": "Drill-sargeant’s brutal boot camp erodes recruits’ spirits"
+  },
+  {
+    "movieId": 9,
+    "score": 0.55,
+    "reason": "Unforgiving look at a condemned man’s final days offers no redemption"
+  }
+]

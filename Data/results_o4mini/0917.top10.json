@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 88,
+    "score": 0.95,
+    "reason": "Shy architect and widower’s son spark a radio-born romance full of yearning and hope"
+  },
+  {
+    "movieId": 216,
+    "score": 0.93,
+    "reason": "Friends slowly ignite into romance, every scene charged with longing and catharsis"
+  },
+  {
+    "movieId": 955,
+    "score": 0.91,
+    "reason": "Chance meeting on a train unfolds into one night of electric tension and hopeful promise"
+  },
+  {
+    "movieId": 740,
+    "score": 0.89,
+    "reason": "Governess and master circle each other in a consuming, quietly intense courtship"
+  },
+  {
+    "movieId": 275,
+    "score": 0.87,
+    "reason": "Sisters’ intertwining hearts collide in a sumptuous dance of unspoken desire"
+  },
+  {
+    "movieId": 14,
+    "score": 0.85,
+    "reason": "Postman’s heartfelt letters ignite a tender, slow-burn love against political odds"
+  },
+  {
+    "movieId": 207,
+    "score": 0.83,
+    "reason": "Poet’s hidden devotion fuels a bittersweet chase of hearts and dramatic reveals"
+  },
+  {
+    "movieId": 1429,
+    "score": 0.81,
+    "reason": "Two path-crossed lovers race fate in parallel tales of missed and seized moments"
+  },
+  {
+    "movieId": 49,
+    "score": 0.79,
+    "reason": "Quirky mathematician woos smart beauty in a flirtatious, emotionally charged dance"
+  },
+  {
+    "movieId": 295,
+    "score": 0.77,
+    "reason": "Unlikely runner and downtrodden waitress face split-second encounters and enduring hope"
+  }
+]

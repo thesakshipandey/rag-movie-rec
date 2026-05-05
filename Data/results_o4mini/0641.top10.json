@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "Three Colors: Blue offers a poetic meditation on grief, memory, and rebirth in hushed, haunting visuals."
+  },
+  {
+    "movieId": 86,
+    "score": 0.95,
+    "reason": "The Remains of the Day unfolds in stillness, reflecting regret and memory within an exquisite manor."
+  },
+  {
+    "movieId": 512,
+    "score": 0.9,
+    "reason": "Wings of Desire drifts through Berlin’s quiet streets in a lyrical, contemplative ode to unseen longing."
+  },
+  {
+    "movieId": 464,
+    "score": 0.85,
+    "reason": "Vanya on 42nd Street turns an empty theatre into a tender meditation on loss and vanished youth."
+  },
+  {
+    "movieId": 14,
+    "score": 0.8,
+    "reason": "Il Postino paints a gentle portrait of friendship, poetry, and longing by the sea in soft, glowing hues."
+  },
+  {
+    "movieId": 170,
+    "score": 0.75,
+    "reason": "Cinema Paradiso lovingly recalls childhood, memory, and the magic of film in tender Sicilian light."
+  },
+  {
+    "movieId": 955,
+    "score": 0.7,
+    "reason": "Before Sunrise savors fleeting connection and bittersweet memory on the quiet streets of Vienna."
+  },
+  {
+    "movieId": 276,
+    "score": 0.65,
+    "reason": "Leaving Las Vegas unveils raw grief with haunting, melancholic visuals in a near-silent descent."
+  },
+  {
+    "movieId": 462,
+    "score": 0.6,
+    "reason": "Like Water for Chocolate blends memory and longing through poetic, sensual imagery in a kitchen realm."
+  },
+  {
+    "movieId": 45,
+    "score": 0.55,
+    "reason": "Eat Drink Man Woman stews in family rituals and silent yearnings with sumptuous, melancholy grace."
+  }
+]

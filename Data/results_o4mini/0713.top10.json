@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "2001: A Space Odyssey mesmerizes with grand ideas and cosmic wonder."
+  },
+  {
+    "movieId": 89,
+    "score": 0.95,
+    "reason": "Blade Runner’s rain-soaked streets and philosophical replicant questions linger."
+  },
+  {
+    "movieId": 258,
+    "score": 0.92,
+    "reason": "Contact ponders humanity’s place in the cosmos with awe-inspiring quiet."
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Twelve Monkeys weaves mind-bending time-travel puzzles over frantic urgency."
+  },
+  {
+    "movieId": 270,
+    "score": 0.88,
+    "reason": "Gattaca’s sleek future raises ethics questions more than it raises lasers."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.85,
+    "reason": "Ghost in the Shell explores identity and consciousness beneath a digital skin."
+  },
+  {
+    "movieId": 691,
+    "score": 0.83,
+    "reason": "Dark City’s shadowy metropolis unravels reality with thoughtful style."
+  },
+  {
+    "movieId": 355,
+    "score": 0.8,
+    "reason": "Sphere’s oceanic mystery probes the limits of human understanding."
+  },
+  {
+    "movieId": 92,
+    "score": 0.78,
+    "reason": "True Romance’s off-beat sci-fi touches fuel a quirky, introspective ride."
+  },
+  {
+    "movieId": 203,
+    "score": 0.75,
+    "reason": "Unforgiven rethinks the western mythos with contemplative power."
+  }
+]

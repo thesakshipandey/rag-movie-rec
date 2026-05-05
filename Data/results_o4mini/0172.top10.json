@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Charming animated adventure for all ages."
+  },
+  {
+    "movieId": 71,
+    "score": 0.95,
+    "reason": "Epic animated musical with heartwarming coming-of-age story."
+  },
+  {
+    "movieId": 95,
+    "score": 0.93,
+    "reason": "Genie-fueled animated comedy with magical family fun."
+  },
+  {
+    "movieId": 8,
+    "score": 0.9,
+    "reason": "Delightful talking-pig tale full of warmth and humor."
+  },
+  {
+    "movieId": 21,
+    "score": 0.88,
+    "reason": "Swashbuckling puppet comedy perfect for families."
+  },
+  {
+    "movieId": 419,
+    "score": 0.85,
+    "reason": "Whimsical musical featuring a magical nanny."
+  },
+  {
+    "movieId": 418,
+    "score": 0.83,
+    "reason": "Timeless animated fairy tale about kindness and magic."
+  },
+  {
+    "movieId": 420,
+    "score": 0.8,
+    "reason": "Fantastical animated journey through a whimsical world."
+  },
+  {
+    "movieId": 78,
+    "score": 0.77,
+    "reason": "Uplifting story of a boy and a captive whale’s friendship."
+  },
+  {
+    "movieId": 140,
+    "score": 0.75,
+    "reason": "Heartwarming animal adventure of loyal pets."
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason
+16,0.95,French-language romantic comedy
+45,0.93,Taipei-set comedy in Mandarin
+60,0.91,French dialogue in romantic drama
+59,0.89,French-language European drama
+86,0.87,English but filmed in France
+79,0.85,"English dialogue, not French"
+320,0.83,"Documentary, not comedic"
+68,0.81,English animation
+38,0.79,English thriller
+132,0.77,English family musical

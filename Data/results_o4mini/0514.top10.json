@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "Warm orchestral journey of teaching and composing that inspires fully."
+  },
+  {
+    "movieId": 191,
+    "score": 0.93,
+    "reason": "Passionate rivalry and genius unearthed amid glittering concert halls."
+  },
+  {
+    "movieId": 137,
+    "score": 0.9,
+    "reason": "Two chefs racing time to plate perfection in a night that defines them."
+  },
+  {
+    "movieId": 196,
+    "score": 0.88,
+    "reason": "Inspirational classroom ignites poetic rebellion and shared discovery."
+  },
+  {
+    "movieId": 32,
+    "score": 0.86,
+    "reason": "Underground artist’s obsessive creativity fueled by blues and ink."
+  },
+  {
+    "movieId": 209,
+    "score": 0.84,
+    "reason": "Mockumentary rock band craft absurd stagecraft in riotous collaboration."
+  },
+  {
+    "movieId": 705,
+    "score": 0.82,
+    "reason": "Song, dance and laughter collide in a backstage burst of creative joy."
+  },
+  {
+    "movieId": 47,
+    "score": 0.8,
+    "reason": "Unlikely Hollywood underdog fueled by sheer will to make cinema magic."
+  },
+  {
+    "movieId": 21,
+    "score": 0.78,
+    "reason": "Muppet crew’s high-sea musical romp powered by inventive teamwork."
+  },
+  {
+    "movieId": 42,
+    "score": 0.76,
+    "reason": "Day-in-the-life of quick-witted clerks creating chaos with playful banter."
+  }
+]

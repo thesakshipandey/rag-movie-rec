@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 3,
+    "score": 0.95,
+    "reason": "A bellhop’s New Year’s Eve turns surreal as eccentric guests collide in four chaotic hotel rooms."
+  },
+  {
+    "movieId": 150,
+    "score": 0.93,
+    "reason": "A tight-knit group navigates LA’s nightlife in one frenzied night where every choice sparks new possibilities."
+  },
+  {
+    "movieId": 469,
+    "score": 0.9,
+    "reason": "Overlapping L.A. stories weave a mosaic of chance encounters, urgent needs, and fleeting connections."
+  },
+  {
+    "movieId": 353,
+    "score": 0.88,
+    "reason": "A ragtag crew boards a luxury liner, then battles sea monsters, intertwining destinies before dawn."
+  },
+  {
+    "movieId": 56,
+    "score": 0.85,
+    "reason": "Intersecting L.A. criminals and dreamers collide in a non-linear night of pulp-style violence and dark humor."
+  },
+  {
+    "movieId": 53,
+    "score": 0.83,
+    "reason": "Media-fueled killers, journalists, and a nation of voyeurs converge in a hallucinatory spree of sensationalism."
+  },
+  {
+    "movieId": 12,
+    "score": 0.8,
+    "reason": "A police lineup sparks a twisting night where five criminals’ destinies converge in the brink of a big score."
+  },
+  {
+    "movieId": 959,
+    "score": 0.78,
+    "reason": "One absurd summer day in 1976 brings a web of teen dreams, mischief, and comic detours across a single cityscape."
+  },
+  {
+    "movieId": 469,
+    "score": 0.77,
+    "reason": "Creatively bent L.A. lives intersect in a chaos-magnetic tapestry of broken dreams and hopeful reversals."
+  },
+  {
+    "movieId": 150,
+    "score": 0.76,
+    "reason": "Returning home’s last-call energy unites friends, foes, and strangers in a promising, electric night."
+  }
+]

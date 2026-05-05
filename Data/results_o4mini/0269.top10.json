@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 128,
+    "score": 1.0,
+    "reason": "Longest catalogue title in data (>70 chars)"
+  },
+  {
+    "movieId": 254,
+    "score": 0.9,
+    "reason": "Batman & Robin’s overlong subtitle"
+  },
+  {
+    "movieId": 90,
+    "score": 0.8,
+    "reason": "So I Married an Axe Murderer’s extended title"
+  },
+  {
+    "movieId": 250,
+    "score": 0.7,
+    "reason": "The Fifth Element’s parenthetical title"
+  },
+  {
+    "movieId": 146,
+    "score": 0.6,
+    "reason": "Hoop Dreams extended documentary title"
+  },
+  {
+    "movieId": 249,
+    "score": 0.5,
+    "reason": "Austin Powers: International Man of Mystery"
+  },
+  {
+    "movieId": 167,
+    "score": 0.4,
+    "reason": "Monty Python and the Holy Grail’s subtitles"
+  },
+  {
+    "movieId": 236,
+    "score": 0.3,
+    "reason": "Long title of Malcolm X documentary"
+  },
+  {
+    "movieId": 69,
+    "score": 0.2,
+    "reason": "Forrest Gump’s long plot intro"
+  },
+  {
+    "movieId": 209,
+    "score": 0.1,
+    "reason": "This Is Spinal Tap’s descriptive subtitle"
+  }
+]

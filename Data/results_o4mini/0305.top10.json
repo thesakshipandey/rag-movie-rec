@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 511,
+    "score": 1.0,
+    "reason": "A sweeping epic of ambition and adventure with stunning desert vistas."
+  },
+  {
+    "movieId": 199,
+    "score": 0.95,
+    "reason": "A grand wartime saga rich in tension, sacrifice, and unforgettable imagery."
+  },
+  {
+    "movieId": 526,
+    "score": 0.9,
+    "reason": "A monumental historical epic of faith, revenge, and breathtaking scale."
+  },
+  {
+    "movieId": 135,
+    "score": 0.85,
+    "reason": "A visionary sci-fi odyssey that unfolds with majestic scope and wonder."
+  },
+  {
+    "movieId": 177,
+    "score": 0.8,
+    "reason": "A gritty, iconic Western epic defined by its stark landscapes and tension."
+  },
+  {
+    "movieId": 480,
+    "score": 0.75,
+    "reason": "A sophisticated Hitchcock thriller full of suspense and elegant style."
+  },
+  {
+    "movieId": 185,
+    "score": 0.7,
+    "reason": "A masterful psychological thriller that set the standard for the genre."
+  },
+  {
+    "movieId": 479,
+    "score": 0.65,
+    "reason": "An entrancing psychological drama exploring obsession in dreamlike L.A."
+  },
+  {
+    "movieId": 178,
+    "score": 0.6,
+    "reason": "A riveting courtroom drama that plays out in real time with fierce intensity."
+  },
+  {
+    "movieId": 646,
+    "score": 0.55,
+    "reason": "An epic Western of mythic proportions with haunting score and grandeur."
+  }
+]

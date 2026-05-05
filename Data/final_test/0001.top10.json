@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 333,
+    "score": 0.95,
+    "reason": "Billionaire drawn into mysterious 'game' unravels reality-bending conspiracy."
+  },
+  {
+    "movieId": 800,
+    "score": 0.93,
+    "reason": "Investigator probes horror author's disappearance, uncovering a reality-shattering mystery."
+  },
+  {
+    "movieId": 1159,
+    "score": 0.92,
+    "reason": "Guide leads two clients into a forbidden Zone to uncover metaphysical truths."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.9,
+    "reason": "Major Kusanagi investigates a hacker, questioning identity and the nature of consciousness."
+  },
+  {
+    "movieId": 1651,
+    "score": 0.88,
+    "reason": "Engineer entangled in an elaborate con while safeguarding his mysterious invention."
+  },
+  {
+    "movieId": 134,
+    "score": 0.87,
+    "reason": "Reporter investigates the meaning of 'Rosebud,' uncovering the enigma behind a tycoon's life."
+  },
+  {
+    "movieId": 774,
+    "score": 0.85,
+    "reason": "Detective drawn into a celestial war, investigating a hidden battle between angels."
+  },
+  {
+    "movieId": 1471,
+    "score": 0.82,
+    "reason": "Resuscitated dealer experiences haunting visions, probing psychic clues about life and death."
+  },
+  {
+    "movieId": 1422,
+    "score": 0.8,
+    "reason": "Hospital shift turns into an identity puzzle as two men uncover a chilling personal conspiracy."
+  },
+  {
+    "movieId": 328,
+    "score": 0.78,
+    "reason": "Taxi driver pursues government conspiracies, uncovering unsettling schemes beyond simple crime."
+  }
+]

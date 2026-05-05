@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1408,
+    "score": 1.0,
+    "reason": "Sliding Doors splits two timelines where a missed train shapes a couple’s destiny with near misses and final connection."
+  },
+  {
+    "movieId": 88,
+    "score": 0.93,
+    "reason": "Sleepless in Seattle follows two strangers whose intertwined lives nearly meet until a fateful radio plea brings them together."
+  },
+  {
+    "movieId": 955,
+    "score": 0.87,
+    "reason": "Before Sunrise captures two travelers who almost miss their moment until a chance decision lets them truly connect in Vienna."
+  },
+  {
+    "movieId": 59,
+    "score": 0.81,
+    "reason": "Three Colours: Red explores two lives linked by tiny accidents and eavesdropped calls before an unexpected meeting."
+  },
+  {
+    "movieId": 815,
+    "score": 0.75,
+    "reason": "One Fine Day lets a single dad and busy mom collide in a whirlwind of near misses across New York before love finally wins."
+  },
+  {
+    "movieId": 781,
+    "score": 0.69,
+    "reason": "French Kiss is a romantic misadventure of missed flights and near-meets before one last gesture seals their bond."
+  },
+  {
+    "movieId": 66,
+    "score": 0.63,
+    "reason": "While You Were Sleeping shows two paths converging as a chance rescue and holiday mix-up nearly keep them apart before they meet."
+  },
+  {
+    "movieId": 918,
+    "score": 0.57,
+    "reason": "City of Angels portrays an angel and human skirting each other’s world until fate grants a fleeting chance encounter."
+  },
+  {
+    "movieId": 237,
+    "score": 0.51,
+    "reason": "Jerry Maguire features star-crossed lives and near-missed rendezvous before a heartfelt plea brings two souls together."
+  },
+  {
+    "movieId": 1680,
+    "score": 0.45,
+    "reason": "Sliding Doors (duplicate entry) illustrates how split-second moments can keep lovers apart until timing finally shifts."
+  }
+]

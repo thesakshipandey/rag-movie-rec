@@ -1,0 +1,18 @@
+{
+  "results": {
+    "0004": {
+      "top10": [
+        {"movieId": 955, "score": 1.00, "reason": "Two strangers share an ephemeral, poetic connection over one night wandering a city, their unspoken bond lingering after dawn"},
+        {"movieId": 1429, "score": 0.95, "reason": "Fragmented tales of urban longing and almost-love painted in dreamy, fleeting encounters beneath neon lights"},
+        {"movieId": 512, "score": 0.93, "reason": "Angelic observer and mortal share silent, weighty glances in a hauntingly beautiful cityscape"},
+        {"movieId": 1339, "score": 0.90, "reason": "A twist of fate divides one couple; their near-misses and unspoken regrets echo like watercolor washes"},
+        {"movieId": 86, "score": 0.88, "reason": "Quiet dignity and suppressed desire between butler and housekeeper create a profound, lingering tension"},
+        {"movieId": 213, "score": 0.86, "reason": "Genteel Edwardian romance unfolds in soft hues of longing, glances speaking more than words ever could"},
+        {"movieId": 60, "score": 0.84, "reason": "Melancholy beauty and unuttered yearning abound as a grieving woman navigates loss and new, cautious intimacy"},
+        {"movieId": 516, "score": 0.82, "reason": "A stranger’s gentle fascination in a sleepy village blooms in silent moments framed by misty seascapes"},
+        {"movieId": 20, "score": 0.80, "reason": "Victorian restraint and subtle glances paint an intimate portrait of unfulfilled longing"},
+        {"movieId": 251, "score": 0.78, "reason": "A reserved soul finds unexpected sparks in quiet dance lessons, their silent chemistry in every glance"}
+      ]
+    }
+  }
+}

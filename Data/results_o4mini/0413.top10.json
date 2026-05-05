@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.98,
+    "reason": "Masterfully woven con game with a mind-bending final twist."
+  },
+  {
+    "movieId": 11,
+    "score": 0.96,
+    "reason": "Intricate detective hunt around deadly sins that keeps you guessing."
+  },
+  {
+    "movieId": 333,
+    "score": 0.95,
+    "reason": "High-stakes puzzle of betrayal and temptation that demands every second."
+  },
+  {
+    "movieId": 324,
+    "score": 0.94,
+    "reason": "Dreamlike noir mystery that unravels in haunting, unexpected ways."
+  },
+  {
+    "movieId": 302,
+    "score": 0.93,
+    "reason": "Gripping crime saga with layers of deception to untangle."
+  },
+  {
+    "movieId": 591,
+    "score": 0.92,
+    "reason": "Courtroom thriller with a shattering revelation that reframes everything."
+  },
+  {
+    "movieId": 98,
+    "score": 0.91,
+    "reason": "Psychological cat-and-mouse game with a final, shock-filled payoff."
+  },
+  {
+    "movieId": 159,
+    "score": 0.9,
+    "reason": "Seductive noir where every clue and misdirection sharpens the mystery."
+  },
+  {
+    "movieId": 293,
+    "score": 0.89,
+    "reason": "Undercover infiltration full of hidden agendas and surprising turns."
+  },
+  {
+    "movieId": 7,
+    "score": 0.88,
+    "reason": "Time-twisting conspiracy that demands your full attention to decode."
+  }
+]

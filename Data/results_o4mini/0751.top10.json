@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 484,
+    "score": 0.99,
+    "reason": "Classic noir with sharp dialogue and smoky atmosphere, Humphrey Bogart’s iconic detective feel"
+  },
+  {
+    "movieId": 525,
+    "score": 0.97,
+    "reason": "Bogart and Bacall’s cynical, witty banter in a shadowy private eye thriller"
+  },
+  {
+    "movieId": 493,
+    "score": 0.95,
+    "reason": "Sleek, speedy wit and urban intrigue with a detective couple at its sparkling best"
+  },
+  {
+    "movieId": 513,
+    "score": 0.93,
+    "reason": "Atmospheric postwar mystery with iconic zither score and moral ambiguity"
+  },
+  {
+    "movieId": 494,
+    "score": 0.91,
+    "reason": "Rapid-fire screwball comedy meets caper investigation in urbane newspaper world"
+  },
+  {
+    "movieId": 480,
+    "score": 0.89,
+    "reason": "Hitchcock’s sleek espionage thriller full of smart set‐piece tension"
+  },
+  {
+    "movieId": 603,
+    "score": 0.87,
+    "reason": "Masterful suspense as a photographer spies on secrets from his apartment window"
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "Tense, tightly scripted courtroom standoff revealing layers of human motive"
+  },
+  {
+    "movieId": 253,
+    "score": 0.83,
+    "reason": "Gripping postwar morality tale with brooding detective elements and stark visuals"
+  },
+  {
+    "movieId": 185,
+    "score": 0.81,
+    "reason": "Hitchcock’s black-and-white shocker redefining psychological suspense"
+  }
+]

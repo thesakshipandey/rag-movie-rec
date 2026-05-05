@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "Classic Italian coming-of-age tale celebrating cinema’s magic in postwar Sicily"
+  },
+  {
+    "movieId": 171,
+    "score": 0.95,
+    "reason": "Iconic French black comedy about survival and dark humor in a cramped apartment block"
+  },
+  {
+    "movieId": 30,
+    "score": 0.94,
+    "reason": "Sensual French drama exploring a bored housewife’s secret daytime life"
+  },
+  {
+    "movieId": 928,
+    "score": 0.93,
+    "reason": "Atmospheric Cantonese crime romance exploring love and fate in Hong Kong’s night streets"
+  },
+  {
+    "movieId": 45,
+    "score": 0.92,
+    "reason": "Taiwanese Mandarin-language family drama centered on food, tradition, and generational bonds"
+  },
+  {
+    "movieId": 59,
+    "score": 0.91,
+    "reason": "French-language film exploring chance encounters and human connection under the color red"
+  },
+  {
+    "movieId": 60,
+    "score": 0.9,
+    "reason": "Poignant French exploration of grief and personal freedom after tragedy"
+  },
+  {
+    "movieId": 61,
+    "score": 0.89,
+    "reason": "Polish-French dark comedy about love, loss, and a quest for revenge"
+  },
+  {
+    "movieId": 198,
+    "score": 0.88,
+    "reason": "Stylish French thriller about a young woman transformed into a government assassin"
+  },
+  {
+    "movieId": 14,
+    "score": 0.87,
+    "reason": "Enchanting Italian romantic drama of a postman who befriends poet Pablo Neruda"
+  }
+]

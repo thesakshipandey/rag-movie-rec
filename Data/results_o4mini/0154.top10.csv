@@ -1,0 +1,11 @@
+movieId,score,reason
+89,0.98,"Blade Runner is gritty, dystopian sci-fi with philosophical depth, no fantasy elements."
+176,0.95,Aliens blends intense space horror and survival in a hard sci-fi setting.
+195,0.93,"The Terminator melds time-travel tech with relentless realism, a hallmark of hard sci-fi."
+636,0.9,"Escape from New York offers a bleak, near-future vision without any fantasy trappings."
+164,0.89,The Abyss features grounded underwater sci-fi and cutting-edge effects.
+228,0.87,Star Trek II: The Wrath of Khan focuses on cloning technology and moral sci-fi themes.
+175,0.85,"Brazil presents a dark bureaucratic dystopia, firmly in the realm of hard science fiction."
+193,0.83,"The Right Stuff chronicles the realistic early space program, no fantasy elements."
+204,0.8,"Back to the Future offers time-travel grounded in pseudo-science, sans fantasy."
+229,0.78,Star Trek III: The Search for Spock explores mind-transfer tech in a serious sci-fi context.

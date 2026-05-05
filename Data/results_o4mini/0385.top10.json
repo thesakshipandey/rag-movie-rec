@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 48,
+    "score": 1.0,
+    "reason": "Hoop Dreams portrays raw basketball ambition and sacrifice"
+  },
+  {
+    "movieId": 468,
+    "score": 0.95,
+    "reason": "Rudy embodies the underdog’s unbreakable football spirit"
+  },
+  {
+    "movieId": 215,
+    "score": 0.9,
+    "reason": "Field of Dreams captures the magic payoff of baseball faith"
+  },
+  {
+    "movieId": 28,
+    "score": 0.85,
+    "reason": "Apollo 13 is a high-stakes mission with real-life tension"
+  },
+  {
+    "movieId": 237,
+    "score": 0.8,
+    "reason": "Jerry Maguire celebrates the fierce drive of sports loyalty"
+  },
+  {
+    "movieId": 161,
+    "score": 0.75,
+    "reason": "Top Gun’s aerial combat delivers pure adrenaline and grit"
+  },
+  {
+    "movieId": 568,
+    "score": 0.7,
+    "reason": "Speed is a relentless, high-octane ride from start to finish"
+  },
+  {
+    "movieId": 144,
+    "score": 0.65,
+    "reason": "Die Hard’s unyielding heroism is a masterclass in one-man grit"
+  },
+  {
+    "movieId": 234,
+    "score": 0.6,
+    "reason": "Jaws’s shark suspense is an elemental survival challenge"
+  },
+  {
+    "movieId": 820,
+    "score": 0.55,
+    "reason": "Space Jam fuses basketball competition with joyful chaos"
+  }
+]

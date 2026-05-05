@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 258,
+    "score": 0.99,
+    "reason": "First-contact drama probing real alien communication in Contact"
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "Realistic space mission and human-machine dialogue in Gattaca"
+  },
+  {
+    "movieId": 230,
+    "score": 0.85,
+    "reason": "Peaceful alien message and time travel contemplation in Star Trek IV: The Voyage Home"
+  },
+  {
+    "movieId": 84,
+    "score": 0.82,
+    "reason": "CIA agent investigates genuine UFO landing in The Puppet Masters"
+  },
+  {
+    "movieId": 929,
+    "score": 0.8,
+    "reason": "Child’s longing friendship across species in Starman"
+  },
+  {
+    "movieId": 135,
+    "score": 0.78,
+    "reason": "Awe-filled monolith first contact questions in 2001: A Space Odyssey"
+  },
+  {
+    "movieId": 645,
+    "score": 0.75,
+    "reason": "Documentary of encounters and communication in Paris Is Burning"
+  },
+  {
+    "movieId": 621,
+    "score": 0.72,
+    "reason": "Civil War isolation meets moral code in Davy Crockett, King of the Wild Frontier"
+  },
+  {
+    "movieId": 443,
+    "score": 0.7,
+    "reason": "Bright pastoral dread in The Birds’ subtle human-nature tension"
+  },
+  {
+    "movieId": 571,
+    "score": 0.68,
+    "reason": "Tech thriller on memory and identity in Kalifornia"
+  }
+]

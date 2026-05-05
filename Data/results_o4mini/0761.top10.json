@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.96,
+    "reason": "Apollo 13 delivers quietly triumphant drama as real-life astronauts overcome near-impossible odds"
+  },
+  {
+    "movieId": 22,
+    "score": 0.95,
+    "reason": "Braveheart inspires with true-life courage and victory amid epic odds and stirring triumph"
+  },
+  {
+    "movieId": 509,
+    "score": 0.94,
+    "reason": "My Left Foot celebrates real-life triumph over disability with tender, quietly uplifting drama"
+  },
+  {
+    "movieId": 468,
+    "score": 0.93,
+    "reason": "Rudy portrays real-life grit and goals achieved against all odds in a heartfelt, inspirational tale"
+  },
+  {
+    "movieId": 527,
+    "score": 0.92,
+    "reason": "Gandhi offers uplifting true-story drama of one man’s peaceful triumph over oppression"
+  },
+  {
+    "movieId": 205,
+    "score": 0.91,
+    "reason": "Patton delivers bold true military leadership and a triumphant, quietly stirring wartime journey"
+  },
+  {
+    "movieId": 223,
+    "score": 0.9,
+    "reason": "Sling Blade follows a man’s journey from darkness to redemption in a quietly triumphant true-life drama"
+  },
+  {
+    "movieId": 250,
+    "score": 0.89,
+    "reason": "The Fifth Element breathes hopeful adventure into a true-life-inspired battle to save humanity"
+  },
+  {
+    "movieId": 48,
+    "score": 0.88,
+    "reason": "Hoop Dreams captures true sports grit and uplifting triumph over adversity in real life"
+  },
+  {
+    "movieId": 15,
+    "score": 0.87,
+    "reason": "Mr. Holland’s Opus is a gentle true-story drama of a teacher’s lasting legacy and quiet triumph"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 209,
+    "score": 0.96,
+    "reason": "Mockumentary about Spinal Tap’s rise and fall—hilarious, tragic genius."
+  },
+  {
+    "movieId": 281,
+    "score": 0.93,
+    "reason": "Family drama set to music—genius pianist’s personal ups and tragic downs."
+  },
+  {
+    "movieId": 191,
+    "score": 0.9,
+    "reason": "Mozart and Salieri’s rivalry—intense, tragic genius spotlight."
+  },
+  {
+    "movieId": 227,
+    "score": 0.87,
+    "reason": "Hot jazz pianist trades all for fame and pays the emotional price."
+  },
+  {
+    "movieId": 542,
+    "score": 0.84,
+    "reason": "Animated musical underdog’s rise—and fallout from stardom’s sharp edge."
+  },
+  {
+    "movieId": 381,
+    "score": 0.81,
+    "reason": "Bullying meets ambition—Small-town bandmates chase dreams at great cost."
+  },
+  {
+    "movieId": 36,
+    "score": 0.78,
+    "reason": "Bright teen’s love of art and music turns darkly on genius and obsession."
+  },
+  {
+    "movieId": 111,
+    "score": 0.75,
+    "reason": "Renowned composer’s ‘unbearable lightness’ of genius and tragic love."
+  },
+  {
+    "movieId": 191,
+    "score": 0.72,
+    "reason": "(Duplicate entry—replaced.)"
+  },
+  {
+    "movieId": 138,
+    "score": 0.69,
+    "reason": "Outcast musicians form authentic sound—tragedy shadows creative spark."
+  }
+]

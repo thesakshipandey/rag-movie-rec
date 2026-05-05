@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 156,
+    "score": 0.98,
+    "reason": "Meticulous team recruited for diamond heist in classic Tarantino style"
+  },
+  {
+    "movieId": 92,
+    "score": 0.95,
+    "reason": "Crime duo plots Broadway heist with patient, intricate planning"
+  },
+  {
+    "movieId": 129,
+    "score": 0.93,
+    "reason": "Ex-con and lover assemble crew for high-stakes safecracker caper"
+  },
+  {
+    "movieId": 346,
+    "score": 0.9,
+    "reason": "Grizzled thief builds his own outlaw ensemble for final score"
+  },
+  {
+    "movieId": 56,
+    "score": 0.88,
+    "reason": "Interlocking crime narratives converge on one audacious robbery"
+  },
+  {
+    "movieId": 273,
+    "score": 0.85,
+    "reason": "Strategic bank job becomes tense chess game of criminals vs authorities"
+  },
+  {
+    "movieId": 327,
+    "score": 0.83,
+    "reason": "Corrupt cops drafted into a daring armored-car take-down operation"
+  },
+  {
+    "movieId": 12,
+    "score": 0.8,
+    "reason": "Ensemble criminals team up in police–FBI standoff caper"
+  },
+  {
+    "movieId": 239,
+    "score": 0.78,
+    "reason": "Ethical hackers assembled pour over every security flaw before strike"
+  },
+  {
+    "movieId": 1303,
+    "score": 0.75,
+    "reason": "Ex-cons recruit old partners to pull off last payback heist"
+  }
+]

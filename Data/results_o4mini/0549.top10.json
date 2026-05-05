@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.94,
+    "reason": "Cool-cut dialogue, retro stylings and iconic soundtrack that define effortless swagger."
+  },
+  {
+    "movieId": 156,
+    "score": 0.92,
+    "reason": "Sharp suits, snappy banter and a soundtrack that still oozes coolly dangerous vibe."
+  },
+  {
+    "movieId": 249,
+    "score": 0.9,
+    "reason": "Groovy ’60s flair, elevator rock and a hero who wears confidence like an outfit."
+  },
+  {
+    "movieId": 235,
+    "score": 0.88,
+    "reason": "Elvis-sized cheeky fun, retro tunes and neon chaos that scream bombastic cool."
+  },
+  {
+    "movieId": 161,
+    "score": 0.86,
+    "reason": "High-speed jets, cocky one-liners and a theme song that defined ’80s cool."
+  },
+  {
+    "movieId": 90,
+    "score": 0.84,
+    "reason": "Beat poetry and 90s San Francisco swagger blend into quirky indie cool."
+  },
+  {
+    "movieId": 91,
+    "score": 0.82,
+    "reason": "Darkly whimsical animation meets catchy musical numbers in gothic-chic style."
+  },
+  {
+    "movieId": 50,
+    "score": 0.8,
+    "reason": "Timeless space opera with stylistic bravura, unforgettable score, pure epic cool."
+  },
+  {
+    "movieId": 222,
+    "score": 0.78,
+    "reason": "Sweeping space drama with sleek starship design and ’90s sci-fi bravado."
+  },
+  {
+    "movieId": 249,
+    "score": 0.76,
+    "reason": "Austin’s retro suits and sax-heavy theme track ooze confident camp cool."
+  }
+]

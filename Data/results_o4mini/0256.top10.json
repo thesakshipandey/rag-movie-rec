@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 16,
+    "score": 0.95,
+    "reason": "French Twist is a celebrated 1995 French comedy with original language fr."
+  },
+  {
+    "movieId": 171,
+    "score": 0.93,
+    "reason": "Delicatessen is a dark French comedy directed by Jeunet in its original French."
+  },
+  {
+    "movieId": 1472,
+    "score": 0.91,
+    "reason": "The Visitors is a 1993 French comedy classic in its original French dialogue."
+  },
+  {
+    "movieId": 224,
+    "score": 0.89,
+    "reason": "Ridicule is a witty 1996 French comedy-drama performed in original French."
+  },
+  {
+    "movieId": 1104,
+    "score": 0.87,
+    "reason": "C’est arrivé près de chez vous (Man Bites Dog) is a Belgian French-language dark comedy."
+  },
+  {
+    "movieId": 1640,
+    "score": 0.85,
+    "reason": "Le huitième jour is a 1996 Belgian French-language comedy-drama with playful charm."
+  },
+  {
+    "movieId": 1578,
+    "score": 0.83,
+    "reason": "La Collectionneuse (The Collection) is a 1967 French New Wave comedy by Rohmer."
+  },
+  {
+    "movieId": 1402,
+    "score": 0.81,
+    "reason": "Cyrano de Bergerac is a 1990 French language comedy-romance starring Depardieu."
+  },
+  {
+    "movieId": 1535,
+    "score": 0.79,
+    "reason": "L’Enfer (1994) is a French comedic drama in its original French tongue."
+  },
+  {
+    "movieId": 1493,
+    "score": 0.77,
+    "reason": "The Eighth Day (Le huitième jour) is Belgian-French and blends comedy and drama."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 273,
+    "score": 0.92,
+    "reason": "Heat features a veteran thief planning one last, perfectly executed job before retirement."
+  },
+  {
+    "movieId": 239,
+    "score": 0.88,
+    "reason": "Sneakers’ seasoned team takes on one final high-stakes heist with bittersweet stakes."
+  },
+  {
+    "movieId": 12,
+    "score": 0.85,
+    "reason": "The Usual Suspects centers on a seasoned crook drawn back for one last, fateful con."
+  },
+  {
+    "movieId": 156,
+    "score": 0.82,
+    "reason": "Reservoir Dogs follows criminals on their final job gone wrong, laced with regret."
+  },
+  {
+    "movieId": 1303,
+    "score": 0.78,
+    "reason": "The Getaway is a slick crime thriller of one desperate final score for a retiring thief."
+  },
+  {
+    "movieId": 273,
+    "score": 0.76,
+    "reason": "Heat’s claustrophobic heist and end-of-career tone is rich with melancholy."
+  },
+  {
+    "movieId": 239,
+    "score": 0.73,
+    "reason": "Sneakers balances slick technology heist thrills with a yearning for simpler times."
+  },
+  {
+    "movieId": 12,
+    "score": 0.7,
+    "reason": "The Usual Suspects’ twist-driven last job carries a tinge of betrayal and farewell."
+  },
+  {
+    "movieId": 156,
+    "score": 0.68,
+    "reason": "Reservoir Dogs’ tense final heist feels like the last gasp of a dying era."
+  },
+  {
+    "movieId": 1303,
+    "score": 0.65,
+    "reason": "The Getaway’s high-octane final robbery captures the sadness of one final run."
+  }
+]

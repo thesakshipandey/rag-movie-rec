@@ -1,0 +1,11 @@
+movieId,score,reason
+251,0.9,"Shall We Dance? (1996) features a literal question mark in its title, inviting a playful query."
+216,0.8,When Harry Met Sally... (1989) famously ponders a question of love and friendship.
+65,0.7,What's Eating Gilbert Grape (1993) poses a rhetorical question about personal and family struggles.
+946,0.6,Barbarella (1968) opens with a whimsical query about galactic salvation? (title implies quest).
+947,0.5,The Big Blue (1988) hints at mystery beyond its serene surface? (title’s mood invites wonder).
+1226,0.4,Man of the Year (1995) asks who truly deserves that title? (title implies competition).
+172,0.3,Eat Drink Man Woman (1994) questions tradition through food? (title suggests a discourse).
+70,0.2,Four Weddings and a Funeral (1994) balances celebration with mourning? (title evokes contrast).
+202,0.1,Groundhog Day (1993) wonders about repeating time? (concept poses existential question).
+155,0.05,Dirty Dancing (1987) asks if passion can transcend convention? (title hints at challenge).

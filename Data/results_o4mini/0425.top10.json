@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 1.0,
+    "reason": "William Wallace rallies a nation with raw passion and unforgettable battles."
+  },
+  {
+    "movieId": 527,
+    "score": 0.95,
+    "reason": "Gandhi’s nonviolent fight for freedom inspires change against all odds."
+  },
+  {
+    "movieId": 136,
+    "score": 0.9,
+    "reason": "An idealistic senator takes on Washington’s corruption in a powerful stand."
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "Twelve jurors unite to defy prejudice in a gripping fight for justice."
+  },
+  {
+    "movieId": 511,
+    "score": 0.8,
+    "reason": "One man’s desert diplomacy reshapes an empire in a sweeping epic."
+  },
+  {
+    "movieId": 427,
+    "score": 0.75,
+    "reason": "A young lawyer defends equality in the face of deep-seated bias."
+  },
+  {
+    "movieId": 318,
+    "score": 0.7,
+    "reason": "A businessman risks everything to save lives, igniting his own moral revolution."
+  },
+  {
+    "movieId": 750,
+    "score": 0.65,
+    "reason": "The fight for freedom on the high seas rallies hearts with fierce resolve."
+  },
+  {
+    "movieId": 31,
+    "score": 0.6,
+    "reason": "A clash of wills on a submarine tests duty and conscience under unbearable pressure."
+  },
+  {
+    "movieId": 124,
+    "score": 0.55,
+    "reason": "A small town unravels dark secrets in a riveting crime drama of public vs private truth."
+  }
+]

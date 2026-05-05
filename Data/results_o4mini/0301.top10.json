@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 182,
+    "score": 1.0,
+    "reason": "GoodFellas delivers unflinching, street-level crime drama from start to finish."
+  },
+  {
+    "movieId": 273,
+    "score": 0.95,
+    "reason": "Heat pits a master thief against a relentless detective in a hyper-realistic crime epic."
+  },
+  {
+    "movieId": 302,
+    "score": 0.9,
+    "reason": "L.A. Confidential uncovers Hollywood corruption with razor-sharp dialogue and grit."
+  },
+  {
+    "movieId": 76,
+    "score": 0.85,
+    "reason": "Carlito’s Way follows an ex-con’s desperate bid for redemption in the crime underworld."
+  },
+  {
+    "movieId": 293,
+    "score": 0.8,
+    "reason": "Donnie Brasco portrays undercover turmoil inside the mafia’s inner circles."
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Pulp Fiction weaves intersecting crime tales with dark humor and moral ambiguity."
+  },
+  {
+    "movieId": 12,
+    "score": 0.7,
+    "reason": "The Usual Suspects hinges on criminal schemers and an unforgettable twist."
+  },
+  {
+    "movieId": 156,
+    "score": 0.65,
+    "reason": "Reservoir Dogs delves into trust and betrayal among heist-bound criminals."
+  },
+  {
+    "movieId": 23,
+    "score": 0.6,
+    "reason": "Taxi Driver explores urban crime through the eyes of a disturbed, lone vigilante."
+  },
+  {
+    "movieId": 11,
+    "score": 0.55,
+    "reason": "Seven unites police procedural with a grim exploration of humanity’s darkest side."
+  }
+]

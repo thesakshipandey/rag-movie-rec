@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 16,
+    "score": 0.95,
+    "reason": "A bawdy, heartfelt tale of love’s messy, complicated twists."
+  },
+  {
+    "movieId": 45,
+    "score": 0.94,
+    "reason": "A sumptuous family drama exploring love’s imperfections and connections."
+  },
+  {
+    "movieId": 65,
+    "score": 0.92,
+    "reason": "A tender portrait of family burdens and the search for genuine connection."
+  },
+  {
+    "movieId": 66,
+    "score": 0.9,
+    "reason": "A sweet, offbeat romance filled with warm humor and real, awkward moments."
+  },
+  {
+    "movieId": 275,
+    "score": 0.89,
+    "reason": "A beautifully restrained study of heartbreak and romantic longing."
+  },
+  {
+    "movieId": 283,
+    "score": 0.88,
+    "reason": "A witty, emotional Austen adaptation about love’s uncertain path."
+  },
+  {
+    "movieId": 371,
+    "score": 0.87,
+    "reason": "A poignant, romantic glimpse of missed chances and late blooming love."
+  },
+  {
+    "movieId": 955,
+    "score": 0.86,
+    "reason": "A spontaneous connection and quiet honesty define this road romance."
+  },
+  {
+    "movieId": 14,
+    "score": 0.85,
+    "reason": "A lyrical, bittersweet tale of love’s unlikely and complicated bonds."
+  },
+  {
+    "movieId": 251,
+    "score": 0.84,
+    "reason": "A tender dance of new love and vulnerability against a charming backdrop."
+  }
+]

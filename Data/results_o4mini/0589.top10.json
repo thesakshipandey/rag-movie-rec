@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 133,
+    "score": 1.0,
+    "reason": "A sweeping Civil War epic imbued with grandeur, nostalgia, and lost innocence."
+  },
+  {
+    "movieId": 511,
+    "score": 0.95,
+    "reason": "A commanding World War I saga of desert vistas and epic personal tragedy."
+  },
+  {
+    "movieId": 483,
+    "score": 0.9,
+    "reason": "Timeless wartime romance set in a smoky cafe, drenched in film-noir atmosphere."
+  },
+  {
+    "movieId": 527,
+    "score": 0.85,
+    "reason": "A majestic biopic capturing Gandhi’s weighty vision and turbulent era."
+  },
+  {
+    "movieId": 190,
+    "score": 0.8,
+    "reason": "Rousing Shakespeare adaptation steeped in medieval pageantry and pathos."
+  },
+  {
+    "movieId": 526,
+    "score": 0.75,
+    "reason": "Biblical spectacle of vengeance and redemption in ancient Rome."
+  },
+  {
+    "movieId": 427,
+    "score": 0.7,
+    "reason": "Tender Depression-era drama that feels both intimate and historically vast."
+  },
+  {
+    "movieId": 51,
+    "score": 0.65,
+    "reason": "Multi-generational epic of nature’s majesty and human longing."
+  },
+  {
+    "movieId": 97,
+    "score": 0.6,
+    "reason": "Lyrical frontier romance capturing the vastness and melancholy of the plains."
+  },
+  {
+    "movieId": 191,
+    "score": 0.55,
+    "reason": "Opulent musical biopic set amid the glitz and decadence of 18th-century Vienna."
+  }
+]

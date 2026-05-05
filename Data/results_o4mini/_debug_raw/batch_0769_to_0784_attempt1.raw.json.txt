@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0769": {
+      "top10": [
+        {"movieId": 132, "score": 0.10, "reason": "Early Hollywood landmark with visual humor and without modern dialogue."},
+        {"movieId": 133, "score": 0.09, "reason": "Dusty period comedy requiring minimal sound design, feels timeless."},
+        {"movieId": 136, "score": 0.09, "reason": "Classic screwball elements and archaic dialogue evoking silent-era style."},
+        {"movieId": 178, "score": 0.08, "reason": "Unadorned staging and moral play echo silent simplicity."},
+        {"movieId": 189, "score": 0.08, "reason": "Wordless orchestration and scenic tableau mirror silent visuals."},
+        {"movieId": 190, "score": 0.07, "reason": "Atmospheric, minimal sound design highlights visual storytelling."},
+        {"movieId": 191, "score": 0.07, "reason": "Flashbacks narrated without heavy dialogue, reminiscent of silent pacing."},
+        {"movieId": 192, "score": 0.06, "reason": "Black-and-white aesthetic and physical performance dominate storytelling."},
+        {"movieId": 193, "score": 0.06, "reason": "Strong emphasis on visual spectacle over spoken dialogue."},
+        {"movieId": 194, "score": 0.05, "reason": "Action-driven narrative with little reliance on sound, very visual."}
+      ]
+    },
+    "0770": {
+      "top10": [
+        {"movieId": 178, "score": 0.95, "reason": "Intense jury room drama hinging on critical dialogue and suspense."},
+        {"movieId": 58, "score": 0.90, "reason": "Factual courtroom intrigue with clever legal maneuvering and payoff."},
+        {"movieId": 591, "score": 0.88, "reason": "Psychological thriller that builds tension around a murder trial."},
+        {"movieId": 9, "score": 0.87, "reason": "Powerful death-penalty drama driven by courtroom confrontations."},
+        {"movieId": 79, "score": 0.85, "reason": "High-stakes man-hunt rooted in false conviction and legal jeopardy."},
+        {"movieId": 44, "score": 0.82, "reason": "Single-location drama exploring dark secrets under courtroom scrutiny."},
+        {"movieId": 136, "score": 0.80, "reason": "Idealistic outsider faces political forces in Senate hearing."},
+        {"movieId": 302, "score": 0.78, "reason": "Noir crime narrative with legal underpinnings and revealed truths."},
+        {"movieId": 5, "score": 0.75, "reason": "Serial-killer expert drawn into trials that test her forensics acumen."},
+        {"movieId": 676, "score": 0.72, "reason": "Historical trial examination showing power dynamics in justice."}
+      ]
+    },
+    "0771": {
+      "top10": [
+        {"movieId": 53, "score": 0.93, "reason": "Chaotic violence and dark humor in a self-aware crime spree."},
+        {"movieId": 209, "score": 0.91, "reason": "Mockumentary style satire with biting cynicism and lowbrow comedy."},
+        {"movieId": 154, "score": 0.89, "reason": "Heretical humor and sharp social satire from a storied British troupe."},
+        {"movieId": 67, "score": 0.87, "reason": "Gross-out sight gags and outrageous premise push moral boundaries."},
+        {"movieId": 190, "score": 0.85, "reason": "Psychological edge with disturbing overtones and wicked humor."},
+        {"movieId": 39, "score": 0.83, "reason": "Noir-tinged dark comedy with scathing social commentary."},
+        {"movieId": 123, "score": 0.82, "reason": "Blending horror and humor in a twisted supernatural tale."},
+        {"movieId": 359, "score": 0.80, "reason": "Clever wordplay and sardonic tone driving criminal intrigue."},
+        {"movieId": 329, "score": 0.78, "reason": "Thriller-comedy with biting irony and morally skewed characters."},
+        {"movieId": 467, "score": 0.75, "reason": "Mix of violence and dry wit in a gritty urban revenge story."}
+      ]
+    },
+    "0772": {
+      "top10": [
+        {"movieId": 59, "score": 0.95, "reason": "Sumptuous cinematography transforms each frame into living art."},
+        {"movieId": 170, "score": 0.93, "reason": "Nostalgic visual poetry captures timeless romance in old-world beauty."},
+        {"movieId": 549, "score": 0.90, "reason": "Hauntingly surreal dreamscapes that mesmerize with painterly composition."},
+        {"movieId": 132, "score": 0.88, "reason": "Iconic colors and inventive visual design enrich every scene."},
+        {"movieId": 203, "score": 0.87, "reason": "Dark atmosphere and striking imagery fuse in a modern noir masterpiece."},
+        {"movieId": 426, "score": 0.85, "reason": "Animated wonder weaving phantasmagoric visuals into a vivid tapestry."},
+        {"movieId": 650, "score": 0.83, "reason": "Timeless allegory bathed in stark monochrome and surreal montage."},
+        {"movieId": 535, "score": 0.81, "reason": "Inventive production design immerses you in a kinetic urban fantasia."},
+        {"movieId": 135, "score": 0.80, "reason": "Expansive space vistas as stark and beautiful as any canvas."},
+        {"movieId": 161, "score": 0.78, "reason": "Stylized action set-pieces shot with arresting kinetic flair."}
+      ]
+    },
+    "0773": {
+      "top10": [
+        {"movieId": 184, "score": 0.94, "reason": "Chainsaw mayhem meets campy one-liners in 90s creature heaven."},
+        {"movieId": 201, "score": 0.92, "reason": "Splatter spectacle balanced by comedic wit and over-the-top gore."},
+        {"movieId": 234, "score": 0.91, "reason": "Small-town terror with a giant shark and a healthy dose of cheesiness."},
+        {"movieId": 404, "score": 0.89, "reason": "Innocent CGI beastie chases leads to slapstick scares and laughs."},
+        {"movieId": 590, "score": 0.88, "reason": "Mutant menace at sea with tongue-in-cheek thrills."},
+        {"movieId": 43, "score": 0.86, "reason": "Semi-sentient creature in big city causes chaos with a wink."},
+        {"movieId": 260, "score": 0.84, "reason": "Sci-fi beast unleashed amid mayhem and gleeful absurdity."},
+        {"movieId": 669, "score": 0.82, "reason": "Laboratory monster is as goofy as it is spine-tingling."},
+        {"movieId": 553, "score": 0.80, "reason": "Undersea horror with big CG beast and pulpy thrills."},
+        {"movieId": 353, "score": 0.78, "reason": "Sea-based terror spliced with 90s action-horror flair."}
+      ]
+    },
+    "0774": {
+      "top10": [
+        {"movieId": 203, "score": 0.95, "reason": "Unrelenting portrayal of grief and moral collapse."},
+        {"movieId": 332, "score": 0.93, "reason": "Bleak documentary-style character study with no redemption."},
+        {"movieId": 411, "score": 0.91, "reason": "Dark biopic layered in familial decay and despair."},
+        {"movieId": 384, "score": 0.89, "reason": "Black comedy that slowly pulls all the light out of its world."},
+        {"movieId": 630, "score": 0.87, "reason": "Bittersweet wartime drama steeped in sorrow and regret."},
+        {"movieId": 618, "score": 0.85, "reason": "Monochrome chamber piece suffused with loss."},
+        {"movieId": 367, "score": 0.83, "reason": "Satirical bitterness masking profound disillusionment."},
+        {"movieId": 703, "score": 0.82, "reason": "Quiet domestic tragedy that simmers into bleakness."},
+        {"movieId": 1083, "score": 0.80, "reason": "Undercover thriller that drains hope until no light remains."},
+        {"movieId": 946, "score": 0.78, "reason": "1980s cult movie that subverts joy into emptiness."}
+      ]
+    },
+    "0783": {
+      "top10": [
+        {"movieId": 1325, "score": 0.95, "reason": "Isolation and paranoia in a remote mission build crushing dread."},
+        {"movieId": 924, "score": 0.93, "reason": "Sleeper cell breakdown in jungle camp, tension over unseen threat."},
+        {"movieId": 837, "score": 0.90, "reason": "Claustrophobic bunker setting and escalating mistrust."},
+        {"movieId": 566, "score": 0.88, "reason": "Societal collapse outside leaves survivors in bleak standoff."},
+        {"movieId": 70, "score": 0.86, "reason": "Social microsociety under siege, quiet suspense unspooled."},
+        {"movieId": 450, "score": 0.84, "reason": "Spaceship refuge sealed off, psychological cat-and-mouse."},
+        {"movieId": 635, "score": 0.82, "reason": "Fog-shrouded town besieged, dread without jump scares."},
+        {"movieId": 616, "score": 0.80, "reason": "Small boarding house under siege, mounting fear."},
+        {"movieId": 1417, "score": 0.78, "reason": "Post-plague stronghold crumbles under unseen pressure."},
+        {"movieId": 423, "score": 0.75, "reason": "Isolation and surreal dread in alien-infested town."}
+      ]
+    },
+    "0784": {
+      "top10": [
+        {"movieId": 240, "score": 0.94, "reason": "Animated duo mismatched, hilarious banter leads to friendship."},
+        {"movieId": 938, "score": 0.92, "reason": "Two hitmen clash until they bond on a road trip."},
+        {"movieId": 248, "score": 0.90, "reason": "Assassin forced into partnership with rival, witty clash ensues."},
+        {"movieId": 259, "score": 0.88, "reason": "Jungle lord teams with city gal, culture shock and funny fights."},
+        {"movieId": 791, "score": 0.86, "reason": "Slacker swapped into rural Texas, odd couple dynamic sparkles."},
+        {"movieId": 93, "score": 0.84, "reason": "Teen buddies coerce babysitter buddy, grudging respect grows."},
+        {"movieId": 239, "score": 0.82, "reason": "Hackers forced to team up with rival, sharp tech banter."},
+        {"movieId": 382, "score": 0.80, "reason": "Drag queen mismatches collide on desert road trip."},
+        {"movieId": 223, "score": 0.78, "reason": "Gentle giant and ex-con work a case, warm comedic chemistry."},
+        {"movieId": 853, "score": 0.75, "reason": "Oddball roommates become business partners, laughable strife."}
+      ]
+    }
+  }
+}

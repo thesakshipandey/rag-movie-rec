@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Pulp Fiction slams from one tense crime vignette to the next with razor-sharp dialogue and cynicism"
+  },
+  {
+    "movieId": 302,
+    "score": 0.95,
+    "reason": "L.A. Confidential exposes raw corruption in 1950s LA with brutal, cynical power plays"
+  },
+  {
+    "movieId": 182,
+    "score": 0.93,
+    "reason": "Goodfellas delivers unflinching, gritty mob drama without a shred of romantic sugarcoating"
+  },
+  {
+    "movieId": 693,
+    "score": 0.91,
+    "reason": "Casino pits ruthless crime lords and cops in a high-stakes, merciless underworld drama"
+  },
+  {
+    "movieId": 273,
+    "score": 0.89,
+    "reason": "Heat pits master criminals and cops in an unrelenting, cynical duel of wits and bullets"
+  },
+  {
+    "movieId": 76,
+    "score": 0.87,
+    "reason": "Carlito’s Way crafts raw street-wise crime drama with no-romance focus on loyalty and betrayal"
+  },
+  {
+    "movieId": 11,
+    "score": 0.85,
+    "reason": "Seven chills with merciless detectives chasing a twisted killer in slick, unromantic tension"
+  },
+  {
+    "movieId": 53,
+    "score": 0.83,
+    "reason": "Natural Born Killers delivers savage, stylish crime carnage with zero sentimental romance"
+  },
+  {
+    "movieId": 156,
+    "score": 0.8,
+    "reason": "Reservoir Dogs traps criminals in a claustrophobic crime standoff drenched in cynical violence"
+  },
+  {
+    "movieId": 293,
+    "score": 0.78,
+    "reason": "Donnie Brasco exposes undercover mafia life in a gritty crime drama with no rom-com relief"
+  }
+]

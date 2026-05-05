@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 121,
+    "score": 0.95,
+    "reason": "Alien invasion blockbuster"
+  },
+  {
+    "movieId": 299,
+    "score": 0.93,
+    "reason": "Elite marine thriller"
+  },
+  {
+    "movieId": 121,
+    "score": 0.9,
+    "reason": "Extraterrestrial spectacle"
+  },
+  {
+    "movieId": 233,
+    "score": 0.88,
+    "reason": "Battleship under hijack suspense"
+  },
+  {
+    "movieId": 280,
+    "score": 0.86,
+    "reason": "High-octane newsroom action"
+  },
+  {
+    "movieId": 298,
+    "score": 0.84,
+    "reason": "FBI agent swaps face with terrorist"
+  },
+  {
+    "movieId": 777,
+    "score": 0.82,
+    "reason": "Action detective vs ancient monster"
+  },
+  {
+    "movieId": 300,
+    "score": 0.8,
+    "reason": "Air Force One under siege"
+  },
+  {
+    "movieId": 121,
+    "score": 0.78,
+    "reason": "Global alien attack"
+  },
+  {
+    "movieId": 444,
+    "score": 0.76,
+    "reason": "Island survival against deadly blob"
+  }
+]

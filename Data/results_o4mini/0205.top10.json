@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 16,
+    "score": 0.99,
+    "reason": "Original French comedy-drama set in southern France with French dialogue"
+  },
+  {
+    "movieId": 30,
+    "score": 0.98,
+    "reason": "Iconic French New Wave film with French-language performances"
+  },
+  {
+    "movieId": 59,
+    "score": 0.97,
+    "reason": "French-language drama from the Three Colors trilogy"
+  },
+  {
+    "movieId": 60,
+    "score": 0.96,
+    "reason": "French original, part of Three Colors trilogy, dialogues in French"
+  },
+  {
+    "movieId": 61,
+    "score": 0.95,
+    "reason": "French-language film concluding Kieslowski’s Three Colors trilogy"
+  },
+  {
+    "movieId": 165,
+    "score": 0.94,
+    "reason": "French pastoral drama Jean de Florette in its original French"
+  },
+  {
+    "movieId": 166,
+    "score": 0.93,
+    "reason": "Sequel to Jean de Florette, French plot and dialogue"
+  },
+  {
+    "movieId": 171,
+    "score": 0.92,
+    "reason": "Dark comedy set in a French delicatessen, spoken in French"
+  },
+  {
+    "movieId": 198,
+    "score": 0.91,
+    "reason": "French-language vampire drama set in Paris"
+  },
+  {
+    "movieId": 224,
+    "score": 0.9,
+    "reason": "Satirical French court comedy delivered in French"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "Il Postino’s gentle seaside poetry and soft-spoken longing float like mist over the soul."
+  },
+  {
+    "movieId": 86,
+    "score": 0.93,
+    "reason": "The Remains of the Day’s hushed regrets and restrained devotion unfold in exquisite melancholy."
+  },
+  {
+    "movieId": 170,
+    "score": 0.91,
+    "reason": "Cinema Paradiso’s nostalgic echoes and twilight cinema vignettes evoke a bittersweet hush."
+  },
+  {
+    "movieId": 60,
+    "score": 0.89,
+    "reason": "Three Colors: Blue’s muted palette and intimate grief sequence drift in contemplative sorrow."
+  },
+  {
+    "movieId": 464,
+    "score": 0.87,
+    "reason": "Vanya on 42nd Street’s faded theatre walls and whispered performances brim with wistful ache."
+  },
+  {
+    "movieId": 664,
+    "score": 0.85,
+    "reason": "Paris, Texas’s wide-open skies and silent reunions echo a profound ache of lost home."
+  },
+  {
+    "movieId": 221,
+    "score": 0.83,
+    "reason": "Breaking the Waves’s raw emotional depths pulse with quiet sorrow and fragile devotion."
+  },
+  {
+    "movieId": 584,
+    "score": 0.81,
+    "reason": "The Secret Garden’s overgrown beauty and gentle wonder unfurl a tenderly melancholic charm."
+  },
+  {
+    "movieId": 51,
+    "score": 0.79,
+    "reason": "Legends of the Fall’s rugged vistas and unspoken love carry a mournful, windswept ache."
+  },
+  {
+    "movieId": 286,
+    "score": 0.77,
+    "reason": "The English Patient’s desert vistas and longing gazes leave a haunting, understated ache."
+  }
+]

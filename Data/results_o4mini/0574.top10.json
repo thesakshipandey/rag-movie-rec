@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 1.0,
+    "reason": "A middle‐school teacher draws on steadfast dedication to shape young lives."
+  },
+  {
+    "movieId": 304,
+    "score": 0.97,
+    "reason": "A young girl’s unwavering courage leads geese on a journey of survival."
+  },
+  {
+    "movieId": 126,
+    "score": 0.95,
+    "reason": "A woman finds purpose through quiet work and community rebirth."
+  },
+  {
+    "movieId": 8,
+    "score": 0.93,
+    "reason": "A determined pig proves anything is possible with steadfast heart."
+  },
+  {
+    "movieId": 64,
+    "score": 0.9,
+    "reason": "A man endures years in prison with dignity and hope intact."
+  },
+  {
+    "movieId": 140,
+    "score": 0.88,
+    "reason": "A dog’s perseverance and unbreakable spirit guide three friends home."
+  },
+  {
+    "movieId": 272,
+    "score": 0.86,
+    "reason": "A prodigy battles his past and finds inner strength through friendship."
+  },
+  {
+    "movieId": 86,
+    "score": 0.84,
+    "reason": "A loyal butler upholds his principles despite personal sacrifice."
+  },
+  {
+    "movieId": 477,
+    "score": 0.82,
+    "reason": "A young girl’s resilience and imagination sustain her through hardship."
+  },
+  {
+    "movieId": 699,
+    "score": 0.8,
+    "reason": "A dreamer’s quiet resolve amid blizzards finds meaning in small victories."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 37,
+    "score": 1.0,
+    "reason": "Nadja’s decaying New York apartment is a claustrophobic gothic maze of secrets."
+  },
+  {
+    "movieId": 44,
+    "score": 0.95,
+    "reason": "Dolores Claiborne’s tiny Maine island traps everyone in a web of suspicion."
+  },
+  {
+    "movieId": 1177,
+    "score": 0.9,
+    "reason": "Evergreen’s boarded-up psychiatric ward becomes a suffocating stage for corruption."
+  },
+  {
+    "movieId": 1226,
+    "score": 0.85,
+    "reason": "Dante’s Peak’s kitschy small town collapses under volcanic chaos and hidden ties."
+  },
+  {
+    "movieId": 1278,
+    "score": 0.8,
+    "reason": "Mortal Kombat’s tournament island turns intimate battlegrounds into claustrophobic cages."
+  },
+  {
+    "movieId": 1399,
+    "score": 0.75,
+    "reason": "Stranger in the House’s sleepy English village turns sinister as buried pasts surface."
+  },
+  {
+    "movieId": 1095,
+    "score": 0.7,
+    "reason": "Speculator’s incinerated town sets a tight, suffocating backdrop for personal betrayals."
+  },
+  {
+    "movieId": 1306,
+    "score": 0.65,
+    "reason": "American Strays’s roadside diner becomes a linchpin for confessions that bind and suffocate."
+  },
+  {
+    "movieId": 902,
+    "score": 0.6,
+    "reason": "The Big Lebowski’s Crestwood Estates feels like a pressured labyrinth of local secrets."
+  },
+  {
+    "movieId": 1425,
+    "score": 0.55,
+    "reason": "Bushwhacked’s gated suburban banks snare small-town ambitions in a web of police intrigue."
+  }
+]

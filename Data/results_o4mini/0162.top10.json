@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Starts with 'M'"
+  },
+  {
+    "movieId": 6,
+    "score": 0.93,
+    "reason": "Title begins with 'M'"
+  },
+  {
+    "movieId": 13,
+    "score": 0.91,
+    "reason": "Leads off with 'M'"
+  },
+  {
+    "movieId": 21,
+    "score": 0.89,
+    "reason": "Begins with 'M'"
+  },
+  {
+    "movieId": 73,
+    "score": 0.87,
+    "reason": "Starts with 'M'"
+  },
+  {
+    "movieId": 94,
+    "score": 0.85,
+    "reason": "Title begins with 'M'"
+  },
+  {
+    "movieId": 111,
+    "score": 0.83,
+    "reason": "Starts with 'M'"
+  },
+  {
+    "movieId": 119,
+    "score": 0.81,
+    "reason": "Leads off with 'M'"
+  },
+  {
+    "movieId": 123,
+    "score": 0.79,
+    "reason": "Starts with 'M'"
+  },
+  {
+    "movieId": 129,
+    "score": 0.77,
+    "reason": "Begins with 'M'"
+  }
+]

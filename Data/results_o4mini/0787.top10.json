@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.97,
+    "reason": "A businessman witnesses the Holocaust’s horrors through the eyes of those he employs",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 651,
+    "score": 0.95,
+    "reason": "The valor and loss of an African-American regiment during the Civil War, seen up close",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 199,
+    "score": 0.93,
+    "reason": "British POWs forced to build a bridge endure the small cruelties of daily camp life",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 86,
+    "score": 0.91,
+    "reason": "A devoted English butler reflects on fifty years of service under scrutiny and regret",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 241,
+    "score": 0.89,
+    "reason": "A frontier guide protects two sisters from war’s chaos, focusing on intimate survival moments",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 286,
+    "score": 0.87,
+    "reason": "A dying nurse cares for a mysterious patient against the backdrop of WWII Italy’s everyday brutality",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 97,
+    "score": 0.85,
+    "reason": "A Union officer makes peace with a Plains tribe amid the grinding ordeal of frontier isolation",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 22,
+    "score": 0.83,
+    "reason": "A commoner’s fight to survive under English rule during the First Scottish War of Independence",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 515,
+    "score": 0.81,
+    "reason": "A submarine crew faces isolation and mistrust in a Cold War sea crucible",
+    "prompt_id": "0787"
+  },
+  {
+    "movieId": 493,
+    "score": 0.79,
+    "reason": "A country butler’s loyalty clashes with personal conscience in pre-war England",
+    "prompt_id": "0787"
+  }
+]

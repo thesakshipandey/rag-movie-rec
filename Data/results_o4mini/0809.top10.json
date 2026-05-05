@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 0.95,
+    "reason": "The Fugitive’s relentless manhunt feels like a single, heart-racing chase"
+  },
+  {
+    "movieId": 33,
+    "score": 0.92,
+    "reason": "Desperado’s extended, stylish gunplay hits with unflinching intensity"
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "Heat’s heist aftermath and downtown shootout are raw, grounded combat"
+  },
+  {
+    "movieId": 96,
+    "score": 0.88,
+    "reason": "Terminator 2’s T-1000 pursuit is a cold, visceral pursuit with no CGI excess"
+  },
+  {
+    "movieId": 568,
+    "score": 0.86,
+    "reason": "Speed’s single bus chase never lets up on tension or impact"
+  },
+  {
+    "movieId": 802,
+    "score": 0.84,
+    "reason": "Hard Target’s brutal hand-to-hand combat in the bayou is uncomfortably real"
+  },
+  {
+    "movieId": 27,
+    "score": 0.82,
+    "reason": "Bad Boys’ highway brawl is a gritty, explosive free-for-all"
+  },
+  {
+    "movieId": 405,
+    "score": 0.8,
+    "reason": "Mission: Impossible’s train hijacking plays out as nonstop practical suspense"
+  },
+  {
+    "movieId": 298,
+    "score": 0.78,
+    "reason": "Face/Off’s final duel is bone-crunching, grounded and relentless"
+  },
+  {
+    "movieId": 144,
+    "score": 0.75,
+    "reason": "Die Hard’s elevator and rooftop fights feel every bone-shattering moment"
+  }
+]

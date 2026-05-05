@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "A small police lineup lie escalates into a massive conspiracy engulfing all involved."
+  },
+  {
+    "movieId": 58,
+    "score": 0.93,
+    "reason": "A TV quiz show lie sparks a scandal that ruins careers and lives."
+  },
+  {
+    "movieId": 43,
+    "score": 0.91,
+    "reason": "A workplace lie about harassment spirals into a public legal battle."
+  },
+  {
+    "movieId": 294,
+    "score": 0.89,
+    "reason": "A lawyer’s habitual lies backfire, dismantling his career and family bond."
+  },
+  {
+    "movieId": 591,
+    "score": 0.87,
+    "reason": "A criminal’s false confession unravels a murder investigation from within."
+  },
+  {
+    "movieId": 1651,
+    "score": 0.85,
+    "reason": "A patent developer’s lie about ownership triggers corporate deceit and betrayal."
+  },
+  {
+    "movieId": 628,
+    "score": 0.83,
+    "reason": "Friends’ prankish lies over estate lead to theft, murder, and justice undone."
+  },
+  {
+    "movieId": 347,
+    "score": 0.81,
+    "reason": "A manufactured war drama grows until it consumes a presidency and public trust."
+  },
+  {
+    "movieId": 158,
+    "score": 0.79,
+    "reason": "A prank to fake a corpse goes terribly wrong, forcing friends to maintain a deadly charade."
+  },
+  {
+    "movieId": 239,
+    "score": 0.77,
+    "reason": "A security flaw snowballs into a cross-country chase to prevent mass data theft."
+  }
+]

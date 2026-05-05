@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 451,
+    "score": 0.98,
+    "reason": "High-energy 1950s musical with catchy songs and nonstop dance fun"
+  },
+  {
+    "movieId": 367,
+    "score": 0.96,
+    "reason": "Bright, witty teen comedy that’s stylish, playful and endlessly quotable"
+  },
+  {
+    "movieId": 249,
+    "score": 0.94,
+    "reason": "Over-the-top ’60s spy spoof bursting with color, dance and cheeky humor"
+  },
+  {
+    "movieId": 150,
+    "score": 0.92,
+    "reason": "Charismatic comedy celebrating friendship, nightlife and retro charm"
+  },
+  {
+    "movieId": 257,
+    "score": 0.9,
+    "reason": "Slick sci-fi buddy adventure packed with aliens, jumpsuits and flair"
+  },
+  {
+    "movieId": 240,
+    "score": 0.88,
+    "reason": "Crude, rapid-fire road trip with irreverent humor and relentless energy"
+  },
+  {
+    "movieId": 25,
+    "score": 0.86,
+    "reason": "Gleefully flamboyant comedy full of colorful characters and joyous camp"
+  },
+  {
+    "movieId": 41,
+    "score": 0.84,
+    "reason": "Goofy schoolboy antics and absurd challenges deliver pure 90s mayhem"
+  },
+  {
+    "movieId": 763,
+    "score": 0.82,
+    "reason": "Unconventional sports comedy with slapstick gags and crowd-pleasing chaos"
+  },
+  {
+    "movieId": 21,
+    "score": 0.8,
+    "reason": "Family-friendly puppet pirate romp with songs and swashbuckling fun"
+  }
+]

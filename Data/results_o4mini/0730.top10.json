@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Twisty con-artist caper driven by psychological intrigue"
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "Mind-bending thriller that blurs reality in San Francisco"
+  },
+  {
+    "movieId": 356,
+    "score": 0.85,
+    "reason": "Gripping courtroom drama with a young lawyer’s moral crucible"
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "High-tension courtroom battle with a chilling twist"
+  },
+  {
+    "movieId": 654,
+    "score": 0.75,
+    "reason": "Dark noir mystery peeling back L.A. underworld layers"
+  },
+  {
+    "movieId": 302,
+    "score": 0.7,
+    "reason": "1950s L.A. police saga layered with political intrigue"
+  },
+  {
+    "movieId": 38,
+    "score": 0.65,
+    "reason": "Cyber-thriller that turns online life into high stakes"
+  },
+  {
+    "movieId": 5,
+    "score": 0.6,
+    "reason": "Psychological serial-killer hunt through foggy San Francisco"
+  },
+  {
+    "movieId": 322,
+    "score": 0.55,
+    "reason": "White House hostage drama driven by tense atmosphere"
+  },
+  {
+    "movieId": 402,
+    "score": 0.5,
+    "reason": "Supernatural romance with suspenseful, eerie undertones"
+  }
+]

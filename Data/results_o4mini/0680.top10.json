@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 0.98,
+    "reason": "Postal worker forms a fleeting bond with a poet in remote Italian village"
+  },
+  {
+    "movieId": 253,
+    "score": 0.96,
+    "reason": "Model and lover share minimalistic, poetic conversations in Hong Kong"
+  },
+  {
+    "movieId": 18,
+    "score": 0.94,
+    "reason": "Child and irritable shopkeeper forge brief, cross-cultural connection in Tehran"
+  },
+  {
+    "movieId": 45,
+    "score": 0.92,
+    "reason": "Silent widow and her daughters share heartfelt moments over minimal dialogue"
+  },
+  {
+    "movieId": 59,
+    "score": 0.9,
+    "reason": "French student and retired judge explore chance connection in Geneva"
+  },
+  {
+    "movieId": 13,
+    "score": 0.88,
+    "reason": "Dry Greek-style humor frames a brief encounter with deep emotional resonance"
+  },
+  {
+    "movieId": 562,
+    "score": 0.86,
+    "reason": "Courtroom comedy about chance meetings and fleeting human connections"
+  },
+  {
+    "movieId": 83,
+    "score": 0.84,
+    "reason": "Quick wit and chance meeting in minimal-plot Shakespearean setting"
+  },
+  {
+    "movieId": 114,
+    "score": 0.82,
+    "reason": "Stop-motion vignette of fleeting encounters across cultural divides"
+  },
+  {
+    "movieId": 2,
+    "score": 0.8,
+    "reason": "Spy duo’s brief alliance overseas offers minimal plot, rich dialogue"
+  }
+]

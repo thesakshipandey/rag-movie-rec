@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 1.0,
+    "reason": "Clueless epitomizes late-90s high school romance with cliques, makeover scenes, and a big prom payoff."
+  },
+  {
+    "movieId": 36,
+    "score": 0.9,
+    "reason": "Mad Love captures senior-year crushes and a transformative high school romance vibe."
+  },
+  {
+    "movieId": 66,
+    "score": 0.85,
+    "reason": "While You Were Sleeping blends comedy and romance around a bus station holiday twist."
+  },
+  {
+    "movieId": 255,
+    "score": 0.8,
+    "reason": "My Best Friend's Wedding offers classic rom-com comfort in a wedding-and-high-school nostalgia mix."
+  },
+  {
+    "movieId": 274,
+    "score": 0.78,
+    "reason": "Sabrina is a charming 90s rom-com about a chauffeur’s daughter finding love among Manhattan elites."
+  },
+  {
+    "movieId": 275,
+    "score": 0.75,
+    "reason": "Sense and Sensibility delivers witty period romance and family drama that feels like a comfort watch."
+  },
+  {
+    "movieId": 237,
+    "score": 0.7,
+    "reason": "Jerry Maguire mixes sports drama with heartfelt romance that resonates like a classic comfort film."
+  },
+  {
+    "movieId": 249,
+    "score": 0.65,
+    "reason": "Austin Powers blends romance and comedy with a playful nod to 60s teen tropes and makeovers."
+  },
+  {
+    "movieId": 254,
+    "score": 0.6,
+    "reason": "Batman & Robin offers campy romance amid a comedic action-packed storyline."
+  },
+  {
+    "movieId": 46,
+    "score": 0.55,
+    "reason": "French Twist is a lighthearted French comedy-romance with quirky characters and heartfelt moments."
+  }
+]

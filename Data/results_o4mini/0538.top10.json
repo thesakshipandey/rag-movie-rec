@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "Elegiac study of duty and regret in postwar English manor"
+  },
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "Poetic, intimate portrait of a postwar Italian isle through young postman's eyes"
+  },
+  {
+    "movieId": 19,
+    "score": 0.9,
+    "reason": "Quietly observes postwar Dutch village life with warmth and generational depth"
+  },
+  {
+    "movieId": 20,
+    "score": 0.85,
+    "reason": "Delicate Victorian tale of naturalist entangled in forbidden aristocratic passions"
+  },
+  {
+    "movieId": 275,
+    "score": 0.8,
+    "reason": "Tender Regency drama of dashed hopes and refined manners"
+  },
+  {
+    "movieId": 283,
+    "score": 0.75,
+    "reason": "Crisp, witty Jane Austen adaptation centred on matchmaking and social nuance"
+  },
+  {
+    "movieId": 387,
+    "score": 0.7,
+    "reason": "Lush Gilded Age romance exploring love constrained by rigid society"
+  },
+  {
+    "movieId": 60,
+    "score": 0.65,
+    "reason": "Meditative Paris-set study of grief and renewal in quiet, artful tones"
+  },
+  {
+    "movieId": 52,
+    "score": 0.6,
+    "reason": "Intimate glimpse of royal vulnerability and courtly intrigue in 18th century England"
+  },
+  {
+    "movieId": 49,
+    "score": 0.55,
+    "reason": "Charming, cerebral romance entwining love and intellectual pursuit in midcentury Cambridge"
+  }
+]

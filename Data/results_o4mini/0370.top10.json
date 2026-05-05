@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "Nostalgic Italian drama with a complete, moving story of love for cinema."
+  },
+  {
+    "movieId": 248,
+    "score": 0.95,
+    "reason": "Sharp, standalone dark comedy about a hitman’s midlife crisis and reunion."
+  },
+  {
+    "movieId": 1127,
+    "score": 0.9,
+    "reason": "Complete satirical drama following one man’s journey from illusion to reality."
+  },
+  {
+    "movieId": 276,
+    "score": 0.85,
+    "reason": "Unflinching, self-contained romance of tragic depths and raw humanity."
+  },
+  {
+    "movieId": 531,
+    "score": 0.8,
+    "reason": "True-life musical drama with a beginning, middle, and triumphant emotional arc."
+  },
+  {
+    "movieId": 64,
+    "score": 0.75,
+    "reason": "Powerful friendship drama that builds to a perfect, self-contained payoff."
+  },
+  {
+    "movieId": 196,
+    "score": 0.7,
+    "reason": "Inspirational tale of self-expression and legacy in a neatly resolved school setting."
+  },
+  {
+    "movieId": 197,
+    "score": 0.65,
+    "reason": "Stand-alone satirical romance capturing one man’s search for purpose."
+  },
+  {
+    "movieId": 202,
+    "score": 0.6,
+    "reason": "Ingenious, self-contained time loop comedy with a rich character journey."
+  },
+  {
+    "movieId": 955,
+    "score": 0.55,
+    "reason": "Enchanting standalone romance unfolding in a single Vienna night."
+  }
+]

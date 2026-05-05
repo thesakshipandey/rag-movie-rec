@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "A butler’s unwavering loyalty unfolds against a stately English manor."
+  },
+  {
+    "movieId": 191,
+    "score": 0.95,
+    "reason": "Court composer Salieri’s rivalry with Mozart sings of Baroque grandeur."
+  },
+  {
+    "movieId": 275,
+    "score": 0.9,
+    "reason": "A family’s fortunes turn amid Regency-era drawing rooms and whispered intrigues."
+  },
+  {
+    "movieId": 740,
+    "score": 0.85,
+    "reason": "A governess navigates Victorian moors in a drama rich with period detail."
+  },
+  {
+    "movieId": 387,
+    "score": 0.8,
+    "reason": "A lawyer’s genteel New York life crumbles into a web of 1870s social rivalries."
+  },
+  {
+    "movieId": 170,
+    "score": 0.75,
+    "reason": "A child’s love for cinema brings postwar Sicilian streets to vibrant life."
+  },
+  {
+    "movieId": 51,
+    "score": 0.7,
+    "reason": "A sweeping family saga unfolds across early 20th-century American plains."
+  },
+  {
+    "movieId": 208,
+    "score": 0.65,
+    "reason": "A mad scientist’s castle hums with 1930s Gothic flair and comic invention."
+  },
+  {
+    "movieId": 131,
+    "score": 0.6,
+    "reason": "A Manhattan socialite dances and dreams beneath 1960s Tiffany’s marquees."
+  },
+  {
+    "movieId": 371,
+    "score": 0.55,
+    "reason": "A cross-country journey reveals early 20th-century Americana in full bloom."
+  }
+]

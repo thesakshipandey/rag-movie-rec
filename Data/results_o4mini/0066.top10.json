@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "Widowed mother tells daughter’s story through lingering glances"
+  },
+  {
+    "movieId": 695,
+    "score": 0.95,
+    "reason": "Married sisters share silent longing across decades"
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "Therapist watches her loss from afar, grief unspoken"
+  },
+  {
+    "movieId": 891,
+    "score": 0.85,
+    "reason": "Twin sisters’ love remains hidden in coded gazes"
+  },
+  {
+    "movieId": 873,
+    "score": 0.8,
+    "reason": "Mistaken identity sparks unspoken yearning between strangers"
+  },
+  {
+    "movieId": 623,
+    "score": 0.75,
+    "reason": "Child’s quiet devotion to ice cream man speaks volumes"
+  },
+  {
+    "movieId": 60,
+    "score": 0.7,
+    "reason": "Widow’s silent grief conveyed in what’s left unsaid"
+  },
+  {
+    "movieId": 695,
+    "score": 0.65,
+    "reason": "Sisters separated by war express love in fleeting moments"
+  },
+  {
+    "movieId": 949,
+    "score": 0.6,
+    "reason": "Young woman finds quiet rebellion in others’ lives"
+  },
+  {
+    "movieId": 703,
+    "score": 0.55,
+    "reason": "Woman’s silent search for her lost cat reflects deeper loss"
+  }
+]

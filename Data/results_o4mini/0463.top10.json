@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 0.98,
+    "reason": "Princess Bride delivers earnest, lighthearted adventure with whimsy and safe peril fitting childhood summer dreams."
+  },
+  {
+    "movieId": 21,
+    "score": 0.95,
+    "reason": "Muppet Treasure Island offers playful pirate mystery and heartfelt innocence in a family-friendly adventure."
+  },
+  {
+    "movieId": 622,
+    "score": 0.93,
+    "reason": "Swiss Family Robinson features sincere resourcefulness and gentle peril as siblings adventure on a deserted island."
+  },
+  {
+    "movieId": 8,
+    "score": 0.91,
+    "reason": "Babe’s earnest farmyard journey feels like a warm summer adventure full of mild danger and pure-hearted charm."
+  },
+  {
+    "movieId": 94,
+    "score": 0.89,
+    "reason": "Home Alone combines kid mischief and safe obstacles in a cozy, sincere holiday adventure with no cynicism."
+  },
+  {
+    "movieId": 142,
+    "score": 0.87,
+    "reason": "Bedknobs & Broomsticks brings earnest magic, whimsical peril, and a child’s wonder on a fantastical summer journey."
+  },
+  {
+    "movieId": 204,
+    "score": 0.85,
+    "reason": "Back to the Future captures sincere kid adventure with time-travel thrills, light peril, and earnest heart."
+  },
+  {
+    "movieId": 140,
+    "score": 0.83,
+    "reason": "Fly Away Home presents a tender coming-of-age adventure across summer landscapes, safe yet stirring."
+  },
+  {
+    "movieId": 510,
+    "score": 0.81,
+    "reason": "Magnificent Seven’s classic western quest feels like a bold, earnest adventure with camaraderie and mild danger."
+  },
+  {
+    "movieId": 51,
+    "score": 0.79,
+    "reason": "Legends of the Fall portrays sincere family adventure against vast landscapes, evoking nostalgic youthful freedom."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.98,
+    "reason": "Playful odyssey of sentient toys rediscovering the magic of childhood imagination."
+  },
+  {
+    "movieId": 99,
+    "score": 0.96,
+    "reason": "Timeless fairy tale that transports you to a world of pure childhood wonder."
+  },
+  {
+    "movieId": 95,
+    "score": 0.95,
+    "reason": "Genie-powered adventure full of vibrant colors and boundless whimsy."
+  },
+  {
+    "movieId": 432,
+    "score": 0.94,
+    "reason": "Orchestral animation that transforms dreams and music into living wonder."
+  },
+  {
+    "movieId": 151,
+    "score": 0.93,
+    "reason": "Quirky confectionery fantasy brimming with childlike awe and joy."
+  },
+  {
+    "movieId": 173,
+    "score": 0.92,
+    "reason": "Playful sword-and-sorcery quest filled with romance and enchanting humor."
+  },
+  {
+    "movieId": 91,
+    "score": 0.91,
+    "reason": "Dark fantasy musical that captures the thrill and mystery of discovery."
+  },
+  {
+    "movieId": 423,
+    "score": 0.9,
+    "reason": "Heartwarming interstellar friendship evokes pure childhood wonder."
+  },
+  {
+    "movieId": 142,
+    "score": 0.89,
+    "reason": "Magical wartime yarn where ordinary objects come to life in delightful ways."
+  },
+  {
+    "movieId": 141,
+    "score": 0.88,
+    "reason": "Classic undersea adventure that inspires awe at the mysteries of discovery."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 494,
+    "score": 1.0,
+    "reason": "Rapid-fire screwball wit from newspaper’s fastest talker"
+  },
+  {
+    "movieId": 482,
+    "score": 0.95,
+    "reason": "Crosby and Monroe’s comedic genius spark non-stop laughs"
+  },
+  {
+    "movieId": 216,
+    "score": 0.9,
+    "reason": "Iconic banter questioning men and women over time"
+  },
+  {
+    "movieId": 4,
+    "score": 0.85,
+    "reason": "Mob meets movies in this smooth, quick-witted crime comedy"
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Indie banter filled with pop culture riffs and droll humor"
+  },
+  {
+    "movieId": 153,
+    "score": 0.75,
+    "reason": "Hilarious heist comedy with stutter and animal antics"
+  },
+  {
+    "movieId": 209,
+    "score": 0.7,
+    "reason": "Rock-documentary parody overflowing with sharp jabs"
+  },
+  {
+    "movieId": 111,
+    "score": 0.65,
+    "reason": "Charming gender-swap comedy packed with smart quips"
+  },
+  {
+    "movieId": 255,
+    "score": 0.6,
+    "reason": "Wedding chaos and zippy one-liners in romantic uproar"
+  },
+  {
+    "movieId": 319,
+    "score": 0.55,
+    "reason": "Ensemble musical comedy brimming with witty asides"
+  }
+]

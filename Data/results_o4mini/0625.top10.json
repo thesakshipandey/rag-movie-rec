@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 185,
+    "score": 0.98,
+    "reason": "Psychological tension builds as reality and delusion blur around its central heroine"
+  },
+  {
+    "movieId": 489,
+    "score": 0.96,
+    "reason": "Dream-logic terror keeps you guessing whether visions are real or in his mind"
+  },
+  {
+    "movieId": 479,
+    "score": 0.93,
+    "reason": "Slow-burn dread as a man’s insomnia-induced hallucinations unravel"
+  },
+  {
+    "movieId": 198,
+    "score": 0.9,
+    "reason": "Mysterious assassin keeps both hero and audience guessing what’s real"
+  },
+  {
+    "movieId": 124,
+    "score": 0.88,
+    "reason": "Lonely cabbie’s descent into paranoia where nightmares feel real"
+  },
+  {
+    "movieId": 565,
+    "score": 0.85,
+    "reason": "Eerie stillness and doubts over mind control create creeping unease"
+  },
+  {
+    "movieId": 448,
+    "score": 0.82,
+    "reason": "Brooding atmosphere heightens mistrust of each other and the uncanny"
+  },
+  {
+    "movieId": 674,
+    "score": 0.8,
+    "reason": "Sultry horror where cult secrets may only exist in protagonist’s mind"
+  },
+  {
+    "movieId": 1243,
+    "score": 0.78,
+    "reason": "Morgue watchman questions even his own senses during grim nocturnal shift"
+  },
+  {
+    "movieId": 124,
+    "score": 0.75,
+    "reason": "Shadowed streets and whispered conspiracy leave hero unsure of reality"
+  }
+]

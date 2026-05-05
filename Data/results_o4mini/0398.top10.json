@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 1.0,
+    "reason": "Apollo 13’s race-against-time urgency holds every bolt and breath in tension."
+  },
+  {
+    "movieId": 31,
+    "score": 0.95,
+    "reason": "Crimson Tide traps you in a claustrophobic submarine where every command matters."
+  },
+  {
+    "movieId": 265,
+    "score": 0.9,
+    "reason": "The Hunt for Red October sails with taut strategy and silent teamwork under fire."
+  },
+  {
+    "movieId": 685,
+    "score": 0.85,
+    "reason": "Executive Decision’s high-stakes hijack unfolds with surgical precision."
+  },
+  {
+    "movieId": 233,
+    "score": 0.8,
+    "reason": "Under Siege turns a warship into a pressure cooker where every move counts."
+  },
+  {
+    "movieId": 205,
+    "score": 0.75,
+    "reason": "Patton’s battlefield command scenes surge with disciplined unity under fire."
+  },
+  {
+    "movieId": 199,
+    "score": 0.7,
+    "reason": "Bridge on the River Kwai forges camaraderie and nerve under relentless pressure."
+  },
+  {
+    "movieId": 188,
+    "score": 0.65,
+    "reason": "Full Metal Jacket drills into the polished routine and raw intensity of war."
+  },
+  {
+    "movieId": 54,
+    "score": 0.6,
+    "reason": "Outbreak’s every decision carries life-or-death weight amid a viral meltdown."
+  },
+  {
+    "movieId": 355,
+    "score": 0.55,
+    "reason": "Sphere’s trapped psychology and precise teamwork create a taut, unseen threat."
+  }
+]

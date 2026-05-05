@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "All-star jury room thriller built on escalating tension.",
+    "title": "12 Angry Men",
+    "year": "1957",
+    "plot": ""
+  },
+  {
+    "movieId": 160,
+    "score": 0.93,
+    "reason": "Cutthroat office drama unfolding like a fierce stage play.",
+    "title": "Glengarry Glen Ross",
+    "year": "1992",
+    "plot": ""
+  },
+  {
+    "movieId": 464,
+    "score": 0.9,
+    "reason": "Intimate play rehearsal film in a dilapidated theatre.",
+    "title": "Vanya on 42nd Street",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 92,
+    "score": 0.88,
+    "reason": "Tense heist lineup drama driven by sharp, confined dialogue.",
+    "title": "The Usual Suspects",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 142,
+    "score": 0.86,
+    "reason": "Multi-layered homebound mystery that grips in every confined corner.",
+    "title": "Bedknobs and Broomsticks",
+    "year": "1971",
+    "plot": ""
+  },
+  {
+    "movieId": 158,
+    "score": 0.84,
+    "reason": "Stuck in one house, dark comedy-thriller thrives on banter.",
+    "title": "Weekend at Bernie's",
+    "year": "1989",
+    "plot": ""
+  },
+  {
+    "movieId": 285,
+    "score": 0.82,
+    "reason": "Family rivalry drama in one living room setting.",
+    "title": "Secrets & Lies",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 472,
+    "score": 0.8,
+    "reason": "Clash of worlds in a small schoolhouse, dialogue-driven drama.",
+    "title": "Dragonheart",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 600,
+    "score": 0.78,
+    "reason": "Shipwreck drama mostly set aboard a single ship locale.",
+    "title": "Daniel Defoe's Robinson Crusoe",
+    "year": "1997",
+    "plot": ""
+  },
+  {
+    "movieId": 500,
+    "score": 0.75,
+    "reason": "Orphanage story with rich dialogue in confined farm and river.",
+    "title": "Four Days in September",
+    "year": "1997",
+    "plot": ""
+  }
+]

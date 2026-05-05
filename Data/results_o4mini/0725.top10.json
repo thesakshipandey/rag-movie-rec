@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 132,
+    "score": 0.98,
+    "reason": "Timeless fantasy adventure with magical charm and epic sweep"
+  },
+  {
+    "movieId": 173,
+    "score": 0.96,
+    "reason": "Witty fairy-tale quest with humor, magic, and swashbuckling fun"
+  },
+  {
+    "movieId": 241,
+    "score": 0.94,
+    "reason": "Sweeping frontier epic packed with heroic adventure and heart"
+  },
+  {
+    "movieId": 465,
+    "score": 0.92,
+    "reason": "Enchanting jungle adventure full of wonder and brave feats"
+  },
+  {
+    "movieId": 1518,
+    "score": 0.9,
+    "reason": "Imaginative fantasy romance with heartfelt emotional journey"
+  },
+  {
+    "movieId": 382,
+    "score": 0.88,
+    "reason": "Joyful road-trip epic blending humor, music, and adventure"
+  },
+  {
+    "movieId": 826,
+    "score": 0.86,
+    "reason": "Heroic quest with high-adventure and a noble spirit of wonder"
+  },
+  {
+    "movieId": 113,
+    "score": 0.84,
+    "reason": "Historical odyssey with grand vistas and human resilience"
+  },
+  {
+    "movieId": 232,
+    "score": 0.82,
+    "reason": "Action-packed western adventure with bold camaraderie"
+  },
+  {
+    "movieId": 174,
+    "score": 0.8,
+    "reason": "Classic Indiana Jones adventure brimming with globe-trotting thrills"
+  }
+]

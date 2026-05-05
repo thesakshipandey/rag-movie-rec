@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.98,
+    "reason": "Travis Bickle’s descent into urban paranoia is thick with surveillance and hidden threats."
+  },
+  {
+    "movieId": 12,
+    "score": 0.96,
+    "reason": "Web of corruption and witness in New York, a stranger is someone you can’t trust."
+  },
+  {
+    "movieId": 180,
+    "score": 0.94,
+    "reason": "Colonel’s mind-bending river mission haunted by covert listening posts and unseen watchers."
+  },
+  {
+    "movieId": 157,
+    "score": 0.92,
+    "reason": "Jungle ambush shakes loyalties, every look feels like a wiretap waiting to be tripped."
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "Kaiser Soze’s myth is the ultimate system you can’t escape from once you glimpse its shadow."
+  },
+  {
+    "movieId": 39,
+    "score": 0.88,
+    "reason": "New LA underbelly recordings reveal a state conspiracy you almost can’t unhear."
+  },
+  {
+    "movieId": 38,
+    "score": 0.86,
+    "reason": "Online alter-ego draws deeper into a net of government tracking."
+  },
+  {
+    "movieId": 333,
+    "score": 0.84,
+    "reason": "Billionaire’s game injects you into a system that won’t let you exit once you sign on."
+  },
+  {
+    "movieId": 324,
+    "score": 0.82,
+    "reason": "Dread-cloaked messages and watched phone calls collapse your sense of reality."
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "Vindictive senator plotting in shadows, statute of secrecy seals every mouth."
+  }
+]

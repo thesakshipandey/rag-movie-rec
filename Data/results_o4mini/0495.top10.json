@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1065,
+    "score": 1.0,
+    "reason": "Purely visual, slow cinematic flow with meditative pacing and minimal dialogue."
+  },
+  {
+    "movieId": 60,
+    "score": 0.95,
+    "reason": "Quiet, contemplative drama exploring grief with meticulous framing and calm tone."
+  },
+  {
+    "movieId": 955,
+    "score": 0.93,
+    "reason": "One long conversation unfolds gently in evocative nocturnal cityscapes."
+  },
+  {
+    "movieId": 512,
+    "score": 0.91,
+    "reason": "Poetic, gentle narration and serene urban imagery create a deliberate atmosphere."
+  },
+  {
+    "movieId": 664,
+    "score": 0.89,
+    "reason": "Spare dialogue and vast desert vistas convey reflective, unhurried storytelling."
+  },
+  {
+    "movieId": 86,
+    "score": 0.87,
+    "reason": "Understated performances and precise period detail evoke calm restraint."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "Warm nostalgia and quiet reverie in a small‐town film-lover’s dream."
+  },
+  {
+    "movieId": 20,
+    "score": 0.83,
+    "reason": "Deliberate period rhythms and intimate character focus offer serene engagement."
+  },
+  {
+    "movieId": 97,
+    "score": 0.81,
+    "reason": "Expansive natural settings and gentle pacing foster a soothing emotional journey."
+  },
+  {
+    "movieId": 119,
+    "score": 0.79,
+    "reason": "Slow‐burn romance with graceful composure and unhurried visual poetry."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 153,
+    "score": 1.0,
+    "reason": "Hilarious caper about a jewel heist unraveling when a small-time con meets far more deadly criminals."
+  },
+  {
+    "movieId": 194,
+    "score": 0.9,
+    "reason": "Classic Depression-era grifters plan one last big con against a ruthless crime boss with unexpected twists."
+  },
+  {
+    "movieId": 642,
+    "score": 0.85,
+    "reason": "Follows a mother-and-son con team navigating loyalty and betrayal in a dangerously high-stakes scheme."
+  },
+  {
+    "movieId": 12,
+    "score": 0.8,
+    "reason": "Ingenious criminal lineup turns into a deadly game of deception when the target proves far more dangerous."
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "Charming hackers pull off one final digital heist, only to discover their target hides lethal secrets."
+  },
+  {
+    "movieId": 1067,
+    "score": 0.7,
+    "reason": "Lovable small-time thieves attempt a grand caper that spirals wildly out of control in unexpected ways."
+  },
+  {
+    "movieId": 129,
+    "score": 0.65,
+    "reason": "A slick ex-con and her partner hatch a daring casino con that becomes far more perilous than they bargained for."
+  },
+  {
+    "movieId": 156,
+    "score": 0.6,
+    "reason": "A diamond heist goes awry when a routine con meets violent complications and the crew must improvise or die."
+  },
+  {
+    "movieId": 273,
+    "score": 0.55,
+    "reason": "Elite bank robbers score big on one final job, only to face a relentless cop who pushes their scheme to the limit."
+  },
+  {
+    "movieId": 105,
+    "score": 0.5,
+    "reason": "A small-time scammer in uniform stages elaborate cons on his fellow soldiers before targeting something far bigger."
+  }
+]

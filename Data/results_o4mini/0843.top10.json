@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 0.96,
+    "reason": "Time-traveler’s warnings about a future pandemic dismissed as delusion, isolation mounting"
+  },
+  {
+    "movieId": 38,
+    "score": 0.94,
+    "reason": "Reclusive code expert’s online reality warps as a malicious hacker erases her identity"
+  },
+  {
+    "movieId": 25,
+    "score": 0.92,
+    "reason": "Drag club owner uncovers dark conspiracy but finds every ally might be turning her story around"
+  },
+  {
+    "movieId": 52,
+    "score": 0.9,
+    "reason": "King’s inexplicable madness sparks rumors, but no one believes the truth behind his condition"
+  },
+  {
+    "movieId": 722,
+    "score": 0.87,
+    "reason": "Journalist’s chance encounter unveils secret government plot, but every source contradicts her"
+  },
+  {
+    "movieId": 786,
+    "score": 0.85,
+    "reason": "Gambler on the run suspects he’s been set up by a cabal no one else admits exists"
+  },
+  {
+    "movieId": 259,
+    "score": 0.83,
+    "reason": "Jungle adventurer discovers a hidden plot in the rainforest, though no official records confirm it"
+  },
+  {
+    "movieId": 602,
+    "score": 0.8,
+    "reason": "Artist’s radical memorial exhibit hints at cover-up of a national tragedy, dismissed as fantasy"
+  },
+  {
+    "movieId": 253,
+    "score": 0.78,
+    "reason": "Model in Hong Kong stumbles on secret surveillance experiments, then everyone denies the program’s reality"
+  },
+  {
+    "movieId": 343,
+    "score": 0.75,
+    "reason": "FBI agent hunts killer who slips unseen through guarded corridors, leaves no evidence — and no believers"
+  }
+]

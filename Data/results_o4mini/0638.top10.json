@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.99,
+    "reason": "Savage satirical bloodbath skewering media sensationalism"
+  },
+  {
+    "movieId": 554,
+    "score": 0.98,
+    "reason": "Giant aquatic threat parodying consumer culture’s excess"
+  },
+  {
+    "movieId": 404,
+    "score": 0.97,
+    "reason": "Eloquent dark comedy lambasting modern celebrity worship"
+  },
+  {
+    "movieId": 448,
+    "score": 0.96,
+    "reason": "Genealogical game show mockumentary on legal absurdity"
+  },
+  {
+    "movieId": 532,
+    "score": 0.95,
+    "reason": "Opulent erotic critique of gender and societal taboos"
+  },
+  {
+    "movieId": 322,
+    "score": 0.94,
+    "reason": "Grim comic doc skewering punk-era rock excess"
+  },
+  {
+    "movieId": 464,
+    "score": 0.93,
+    "reason": "Meta-theatrical satire of art’s self-serious pretensions"
+  },
+  {
+    "movieId": 352,
+    "score": 0.92,
+    "reason": "Spoof of celebrity mania set to Spice Girls’ pop flip"
+  },
+  {
+    "movieId": 547,
+    "score": 0.91,
+    "reason": "Chilling real-life poison story turned darkly comedic"
+  },
+  {
+    "movieId": 789,
+    "score": 0.9,
+    "reason": "Media-savvy con-crew drama deconstructing sensationalism"
+  }
+]

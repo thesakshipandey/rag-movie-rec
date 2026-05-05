@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.99,
+    "reason": "1982 ambiguous dread in rain-soaked sci-fi cityscape"
+  },
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "1980 haunted hotel drama with psychological uncertainty"
+  },
+  {
+    "movieId": 437,
+    "score": 0.96,
+    "reason": "1992 psychological cabin horror, is it real or madness?"
+  },
+  {
+    "movieId": 201,
+    "score": 0.94,
+    "reason": "1987 cabin terror blending hallucination and myth"
+  },
+  {
+    "movieId": 547,
+    "score": 0.92,
+    "reason": "1995 Czech serial killer study edged with surreal dread"
+  },
+  {
+    "movieId": 383,
+    "score": 0.9,
+    "reason": "1994 Flintstones spin-off in bizarre suburban nightmare"
+  },
+  {
+    "movieId": 666,
+    "score": 0.88,
+    "reason": "1974 surreal vampire homage with dreamlike menace"
+  },
+  {
+    "movieId": 675,
+    "score": 0.85,
+    "reason": "1922 silent film vampire myth lurking in shadows"
+  },
+  {
+    "movieId": 433,
+    "score": 0.82,
+    "reason": "1989 suburban drug satire with creeping horror undertone"
+  },
+  {
+    "movieId": 679,
+    "score": 0.8,
+    "reason": "1981 comedic werewolf ambiguity blurs reality"
+  }
+]

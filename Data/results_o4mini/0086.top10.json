@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "Family isolated in eerie hotel with growing madness and dread"
+  },
+  {
+    "movieId": 446,
+    "score": 0.95,
+    "reason": "Couple’s summer home warps into oppressive, malevolent force"
+  },
+  {
+    "movieId": 201,
+    "score": 0.93,
+    "reason": "Remote cabin unleashes creeping terror and dark humor"
+  },
+  {
+    "movieId": 44,
+    "score": 0.91,
+    "reason": "Widow’s rural Maine home harbors unspoken horrors"
+  },
+  {
+    "movieId": 185,
+    "score": 0.89,
+    "reason": "Suburban home becomes site of mounting psychological dread"
+  },
+  {
+    "movieId": 106,
+    "score": 0.87,
+    "reason": "Quarantine schoolhouse hides sinister, suffocating terror"
+  },
+  {
+    "movieId": 443,
+    "score": 0.85,
+    "reason": "Quiet coastal town besieged by relentless, inexplicable assaults"
+  },
+  {
+    "movieId": 11,
+    "score": 0.82,
+    "reason": "City under serial killer’s slow, crushing moral weight"
+  },
+  {
+    "movieId": 670,
+    "score": 0.79,
+    "reason": "Invasion of alien seed pods spreads silent, existential horror"
+  },
+  {
+    "movieId": 446,
+    "score": 0.95,
+    "reason": "Couple’s summer home warps into oppressive, malevolent force"
+  }
+]

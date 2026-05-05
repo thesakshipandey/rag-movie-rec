@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 209,
+    "score": 0.95,
+    "reason": "Mockumentary about a rock band haunted by past glory and struggling with one defining hit song."
+  },
+  {
+    "movieId": 214,
+    "score": 0.9,
+    "reason": "Portrait of a rock star tormented by memories of a single, culture-defining album."
+  },
+  {
+    "movieId": 1232,
+    "score": 0.85,
+    "reason": "Behind-the-scenes documentary of a pop star overshadowed by her breakthrough persona."
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "Composer-turned-teacher grapples with legacy of a signature composition and fading fame."
+  },
+  {
+    "movieId": 1153,
+    "score": 0.75,
+    "reason": "Drama about early band members yearning for past success after one life-changing hit."
+  },
+  {
+    "movieId": 814,
+    "score": 0.7,
+    "reason": "Documentary on jazz legends remembered for their era-defining performances and one signature style."
+  },
+  {
+    "movieId": 32,
+    "score": 0.65,
+    "reason": "Unconventional portrait of an underground artist fixated on blues records and a singular musical passion."
+  },
+  {
+    "movieId": 186,
+    "score": 0.6,
+    "reason": "Brothers rekindle their one-hit blues act while living unremarkable lives outside the limelight."
+  },
+  {
+    "movieId": 209,
+    "score": 0.55,
+    "reason": "(Duplicate entry omitted)"
+  },
+  {
+    "movieId": 804,
+    "score": 0.5,
+    "reason": "Story of a struggling actor turned reluctant star haunted by a past cinematic hit and lost identity."
+  }
+]

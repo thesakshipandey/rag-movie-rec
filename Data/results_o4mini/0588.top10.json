@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 1.0,
+    "reason": "Epic justice tale of righteous fury and sweeping battlefield revenge."
+  },
+  {
+    "movieId": 203,
+    "score": 0.95,
+    "reason": "Bleak western darkly exploring moral vengeance in a lawless land."
+  },
+  {
+    "movieId": 147,
+    "score": 0.9,
+    "reason": "Action-packed thrill ride of a mother’s quest to reclaim her stolen past."
+  },
+  {
+    "movieId": 298,
+    "score": 0.85,
+    "reason": "Explosive face-swap thriller where payback becomes a personal war."
+  },
+  {
+    "movieId": 68,
+    "score": 0.8,
+    "reason": "Grim, operatic revenge saga delivered with haunting, gothic flair."
+  },
+  {
+    "movieId": 53,
+    "score": 0.75,
+    "reason": "Violent spree soaked in cinematic style, serving a potent revenge fantasy."
+  },
+  {
+    "movieId": 218,
+    "score": 0.7,
+    "reason": "Brooding legal suspense fueled by a man’s determined crusade for payback."
+  },
+  {
+    "movieId": 144,
+    "score": 0.65,
+    "reason": "High-octane holiday action where one cop’s fury takes on an entire building."
+  },
+  {
+    "movieId": 55,
+    "score": 0.6,
+    "reason": "Clutch punch drama of a lone hitman balancing justice outside the law."
+  },
+  {
+    "movieId": 127,
+    "score": 0.55,
+    "reason": "Subtle underworld epic where loyalty and vengeance collide in measured style."
+  }
+]

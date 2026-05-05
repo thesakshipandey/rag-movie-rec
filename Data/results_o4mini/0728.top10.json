@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Pixar’s groundbreaking adventure filled with toy-sized wonder and heart"
+  },
+  {
+    "movieId": 423,
+    "score": 0.9,
+    "reason": "Beloved alien friendship tale that captures childhood awe and magic"
+  },
+  {
+    "movieId": 95,
+    "score": 0.8,
+    "reason": "Animated treasure of wonder and fun in an Arabian Nights-inspired world"
+  },
+  {
+    "movieId": 173,
+    "score": 0.7,
+    "reason": "Playful fairy-tale romp packed with swordplay, humor, and romance"
+  },
+  {
+    "movieId": 94,
+    "score": 0.65,
+    "reason": "Holiday hijinks as a child defends home from bumbling burglars"
+  },
+  {
+    "movieId": 78,
+    "score": 0.6,
+    "reason": "Boy bonds with orca in a heartfelt tale of friendship and adventure"
+  },
+  {
+    "movieId": 71,
+    "score": 0.55,
+    "reason": "Epic coming-of-age saga set on the African savannah with stirring songs"
+  },
+  {
+    "movieId": 21,
+    "score": 0.5,
+    "reason": "Muppet-powered pirate voyage bursting with slapstick and song"
+  },
+  {
+    "movieId": 755,
+    "score": 0.45,
+    "reason": "Jungle board game brought to life in a thrilling wild adventure"
+  },
+  {
+    "movieId": 140,
+    "score": 0.35,
+    "reason": "Faithful animal journey across Canada forging an unbreakable bond"
+  }
+]

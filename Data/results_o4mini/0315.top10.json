@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.98,
+    "reason": "Se7en’s grim atmosphere and relentless pursuit of sin deliver a truly bleak, twisty thriller"
+  },
+  {
+    "movieId": 12,
+    "score": 0.96,
+    "reason": "The Usual Suspects’ intricate plotting and cynical edge culminate in one of cinema’s most infamous twists"
+  },
+  {
+    "movieId": 23,
+    "score": 0.94,
+    "reason": "Taxi Driver’s dark descent into urban madness and brooding cynicism define moody thriller cinema"
+  },
+  {
+    "movieId": 5,
+    "score": 0.92,
+    "reason": "Copycat’s tense cat-and-mouse game in rainy San Francisco creates a palpable sense of dread"
+  },
+  {
+    "movieId": 98,
+    "score": 0.9,
+    "reason": "The Silence of the Lambs’ chilling interplay and oppressive tone craft a memorably bleak thriller"
+  },
+  {
+    "movieId": 53,
+    "score": 0.88,
+    "reason": "Natural Born Killers’ savage satire and cynical violence subvert expectations in a darkly stylish ride"
+  },
+  {
+    "movieId": 273,
+    "score": 0.86,
+    "reason": "Heat’s simmering heist drama and brooding character clashes deliver relentless, moody tension"
+  },
+  {
+    "movieId": 100,
+    "score": 0.84,
+    "reason": "Fargo’s dark humor, snow-bound isolation and twisted crime narrative evoke bleak, unforgettable chills"
+  },
+  {
+    "movieId": 302,
+    "score": 0.82,
+    "reason": "L.A. Confidential’s rainy streets and covert corruption paint a cynical, atmospheric crime epic"
+  },
+  {
+    "movieId": 333,
+    "score": 0.8,
+    "reason": "The Game’s uneasy paranoia and convoluted twists leave a disorienting, darkly charged aftermath"
+  }
+]

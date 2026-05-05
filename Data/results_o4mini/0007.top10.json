@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.98,
+    "reason": "Jurors in a homicide trial must choose between convicting with uncertain evidence or freeing a potentially guilty teen."
+  },
+  {
+    "movieId": 44,
+    "score": 0.96,
+    "reason": "A mother faces the impossible decision of killing her abusive husband to protect her child."
+  },
+  {
+    "movieId": 31,
+    "score": 0.94,
+    "reason": "A submarine captain must defy or obey orders to launch nuclear missiles, each choice risking countless lives."
+  },
+  {
+    "movieId": 11,
+    "score": 0.92,
+    "reason": "A detective must choose to follow protocol or use lethal force to stop a calculating serial killer."
+  },
+  {
+    "movieId": 127,
+    "score": 0.9,
+    "reason": "An honest family man must betray his own kin or uphold justice, risking personal ruin."
+  },
+  {
+    "movieId": 136,
+    "score": 0.88,
+    "reason": "A rookie senator must decide between honest reform or political compromise to expose deep corruption."
+  },
+  {
+    "movieId": 318,
+    "score": 0.86,
+    "reason": "A factory owner must risk his fortune and safety to shelter the oppressed under a brutal regime."
+  },
+  {
+    "movieId": 179,
+    "score": 0.84,
+    "reason": "A violent criminal must choose between losing his free will or returning to his former brutality."
+  },
+  {
+    "movieId": 203,
+    "score": 0.82,
+    "reason": "A reformed gunslinger must decide if taking up arms again is justified to save the innocent."
+  },
+  {
+    "movieId": 22,
+    "score": 0.8,
+    "reason": "A warrior must choose between loyalty to his king or fighting for his adopted people’s freedom."
+  }
+]

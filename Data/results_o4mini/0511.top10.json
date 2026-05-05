@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Masterful nonlinear thriller with one twist that rewires everything."
+  },
+  {
+    "movieId": 11,
+    "score": 0.93,
+    "reason": "Dark detective hunt with shocking reveals and “ah-ha” moments."
+  },
+  {
+    "movieId": 333,
+    "score": 0.9,
+    "reason": "Mind-bending conspiracy that blurs reality in elaborate puzzles."
+  },
+  {
+    "movieId": 239,
+    "score": 0.88,
+    "reason": "Tech-heist thriller full of clever codebreaking twists."
+  },
+  {
+    "movieId": 7,
+    "score": 0.86,
+    "reason": "Time-travel mystery connecting fishy clues across timelines."
+  },
+  {
+    "movieId": 302,
+    "score": 0.84,
+    "reason": "Layered police corruption saga with penetrating revelations."
+  },
+  {
+    "movieId": 87,
+    "score": 0.8,
+    "reason": "Chess-drama sharpening mind with every move."
+  },
+  {
+    "movieId": 58,
+    "score": 0.78,
+    "reason": "True-story quiz scandal unravels hidden schemes piece by piece."
+  },
+  {
+    "movieId": 258,
+    "score": 0.76,
+    "reason": "Cosmic message puzzle that rewards careful listening."
+  },
+  {
+    "movieId": 5,
+    "score": 0.74,
+    "reason": "Serial-killer cat-and-mouse case that toys with your expectations."
+  }
+]

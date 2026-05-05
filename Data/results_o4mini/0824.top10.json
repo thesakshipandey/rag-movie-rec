@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 0.95,
+    "reason": "Princess Bride: intricate court intrigues, whispered pacts and double crosses in a whimsical kingdom"
+  },
+  {
+    "movieId": 168,
+    "score": 0.92,
+    "reason": "Monty Python’s Holy Grail: sly aristocratic scheming meets absurd betrayals in medieval realms"
+  },
+  {
+    "movieId": 10,
+    "score": 0.9,
+    "reason": "Richard III: poison‐pen politicking and backroom alliances in a noirish royal power play"
+  },
+  {
+    "movieId": 1197,
+    "score": 0.88,
+    "reason": "Queen Margot: Baroque palace intrigues, secret alliances and ruthless betrayals in 16th century France"
+  },
+  {
+    "movieId": 627,
+    "score": 0.85,
+    "reason": "Robin Hood: Prince of Thieves: court machinations and hidden loyalties pepper this outlaw’s royal gambit"
+  },
+  {
+    "movieId": 491,
+    "score": 0.83,
+    "reason": "Adventures of Robin Hood: classic castle politics, undercover scouts and scheming barons in medieval England"
+  },
+  {
+    "movieId": 395,
+    "score": 0.8,
+    "reason": "Robin Hood: Men in Tights: high‐stakes burgling plots and palace betrayals spiced with sly comedy"
+  },
+  {
+    "movieId": 175,
+    "score": 0.78,
+    "reason": "Brazil: surreal bureaucratic courtships and conspiracies in a dystopian regime’s shadow"
+  },
+  {
+    "movieId": 605,
+    "score": 0.75,
+    "reason": "Meet Me in St. Louis: undercurrents of society and status shifts behind genteel turn‐of‐century façades"
+  },
+  {
+    "movieId": 213,
+    "score": 0.72,
+    "reason": "Room with a View: Victorian social maneuvering, unspoken pacts and genteel betrayals in Edwardian drawing rooms"
+  }
+]

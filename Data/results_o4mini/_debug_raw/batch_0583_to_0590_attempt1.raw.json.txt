@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0583": {
+      "top10": [
+        {"movieId":173,"score":1.0,"reason":"A timeless fairytale romance that delivers whimsy, wit, and a perfect happily-ever-after."},
+        {"movieId":216,"score":0.95,"reason":"A charming exploration of friendships blossoming into romance over years."},
+        {"movieId":66,"score":0.9,"reason":"An endearing mistaken identity love story filled with sweet humor and heart."},
+        {"movieId":88,"score":0.85,"reason":"A warm, witty tale of healing and romance with a storybook ending."},
+        {"movieId":70,"score":0.8,"reason":"Witty British ensemble romance that builds delightful tension and joy."},
+        {"movieId":274,"score":0.75,"reason":"A charming remake with sweetness, sophistication, and gentle romance."},
+        {"movieId":155,"score":0.7,"reason":"A nostalgic dance romance that sparks swoony chemistry and joy."},
+        {"movieId":739,"score":0.65,"reason":"A modern fairy-tale romance brimming with charm and happy endings."},
+        {"movieId":69,"score":0.6,"reason":"A touching journey of love transcending time with heartfelt warmth."},
+        {"movieId":709,"score":0.55,"reason":"A flamboyant dance romance that twirls with joy and sweet affection."}
+      ]
+    },
+    "0584": {
+      "top10": [
+        {"movieId":79,"score":1.0,"reason":"Relentless manhunt across Chicago for an innocent man on the run keeps the heart racing."},
+        {"movieId":28,"score":0.95,"reason":"A space survival thriller that masterfully conveys desperation and panic under pressure."},
+        {"movieId":118,"score":0.9,"reason":"Adrenaline-fueled tornado chase that immerses you in the chaos of running for your life."},
+        {"movieId":568,"score":0.85,"reason":"High-speed thriller on a runaway bus, every second counts in this pulse-pounding ride."},
+        {"movieId":82,"score":0.8,"reason":"Isolated island, unleashed dinosaurs, and frantic survival at every turn."},
+        {"movieId":144,"score":0.75,"reason":"An everyman trapped in a skyscraper under siege delivers non-stop tension and grit."},
+        {"movieId":226,"score":0.7,"reason":"Airport under threat, McClane fights a relentless enemy to save loved ones."},
+        {"movieId":164,"score":0.65,"reason":"Underwater thriller of discovery and survival against an unknown force."},
+        {"movieId":636,"score":0.6,"reason":"Futuristic chase across a maximum security prison island, epic running-for-your-life stakes."},
+        {"movieId":331,"score":0.55,"reason":"Marooned in the Alaskan wild, a billionaire and his companions face ruthless elements."}
+      ]
+    },
+    "0585": {
+      "top10": [
+        {"movieId":60,"score":1.0,"reason":"Quiet, introspective drama of loss and rediscovery set in serene European landscapes."},
+        {"movieId":14,"score":0.95,"reason":"A poetic tale of love and longing against the sun-drenched beauty of 1950s Italy."},
+        {"movieId":170,"score":0.9,"reason":"A nostalgic ode to cinema with lush Italian village vistas and gentle reflection."},
+        {"movieId":664,"score":0.85,"reason":"A slow-burning meditation on isolation and reconnection across the American West."},
+        {"movieId":51,"score":0.8,"reason":"A sweeping family saga rich in atmospheric period detail and quiet sorrow."},
+        {"movieId":46,"score":0.75,"reason":"Hypnotic, moody exploration of grief and desire in a neon-lit urban sanctuary."},
+        {"movieId":86,"score":0.7,"reason":"Elegant study of duty and regret in Edwardian England, all in hushed tones."},
+        {"movieId":59,"score":0.65,"reason":"An atmospheric chamber piece with lush visuals and poetic pacing."},
+        {"movieId":1558,"score":0.6,"reason":"Gentle biographical portrait woven with archival footage into a visual poem."},
+        {"movieId":1630,"score":0.55,"reason":"A lyrical exploration of memory and place in postcolonial North Africa."}
+      ]
+    },
+    "0586": {
+      "top10": [
+        {"movieId":12,"score":1.0,"reason":"A masterclass in misdirection and revelation with one of cinema’s greatest twists."},
+        {"movieId":11,"score":0.95,"reason":"A relentless, cerebral manhunt that unravels a darkly ingenious criminal puzzle."},
+        {"movieId":58,"score":0.9,"reason":"True story quiz scandal delivers sharp wit and incisive legal maneuvering."},
+        {"movieId":98,"score":0.85,"reason":"Brilliant mind games between an elite FBI trainee and a genius psychiatrist."},
+        {"movieId":272,"score":0.8,"reason":"A raw tale of genius and therapy that celebrates true intellectual achievement."},
+        {"movieId":87,"score":0.75,"reason":"A touching chess drama that captures the beauty of a young genius’s mind."},
+        {"movieId":77,"score":0.7,"reason":"Tense legal thriller showcasing razor-sharp courtroom strategy and intrigue."},
+        {"movieId":49,"score":0.65,"reason":"Lighthearted romance sparking from real scientific genius and wit."},
+        {"movieId":7,"score":0.6,"reason":"Time-traveling enigma that challenges your mind at every turn."},
+        {"movieId":56,"score":0.55,"reason":"Nonlinear storytelling filled with clever dialogue and expert plotting."}
+      ]
+    },
+    "0587": {
+      "top10": [
+        {"movieId":171,"score":1.0,"reason":"Grotesque comedy set in a surreal apartment block with macabre, whimsical flair."},
+        {"movieId":175,"score":0.95,"reason":"Disturbing dystopian satire drenched in dark humor and bizarre invention."},
+        {"movieId":179,"score":0.9,"reason":"Futuristic black comedy steeped in stylized violence and mind-bending visuals."},
+        {"movieId":154,"score":0.85,"reason":"Blasphemous rockumentary parody that dissects fame with absurdist wit."},
+        {"movieId":91,"score":0.8,"reason":"Fantastical stop-motion musical that blurs the line between Halloween and Christmas."},
+        {"movieId":37,"score":0.75,"reason":"Dreamlike low-budget horror with minimal lines and haunting imagery."},
+        {"movieId":663,"score":0.7,"reason":"Deadpan fable of an android cowboy offering outsider insights in modern Manhattan."},
+        {"movieId":855,"score":0.65,"reason":"High-fashion musical horror that melds glamour with gory surrealism."},
+        {"movieId":206,"score":0.6,"reason":"Landmark anime boasting hallucinatory art and cyberpunk disorientation."},
+        {"movieId":919,"score":0.55,"reason":"Visually arresting sci-fi fantasy with nightmarish puppets and dream logic."}
+      ]
+    },
+    "0588": {
+      "top10": [
+        {"movieId":22,"score":1.0,"reason":"Epic justice tale of righteous fury and sweeping battlefield revenge."},
+        {"movieId":203,"score":0.95,"reason":"Bleak western darkly exploring moral vengeance in a lawless land."},
+        {"movieId":147,"score":0.9,"reason":"Action-packed thrill ride of a mother’s quest to reclaim her stolen past."},
+        {"movieId":298,"score":0.85,"reason":"Explosive face-swap thriller where payback becomes a personal war."},
+        {"movieId":68,"score":0.8,"reason":"Grim, operatic revenge saga delivered with haunting, gothic flair."},
+        {"movieId":53,"score":0.75,"reason":"Violent spree soaked in cinematic style, serving a potent revenge fantasy."},
+        {"movieId":218,"score":0.7,"reason":"Brooding legal suspense fueled by a man’s determined crusade for payback."},
+        {"movieId":144,"score":0.65,"reason":"High-octane holiday action where one cop’s fury takes on an entire building."},
+        {"movieId":55,"score":0.6,"reason":"Clutch punch drama of a lone hitman balancing justice outside the law."},
+        {"movieId":127,"score":0.55,"reason":"Subtle underworld epic where loyalty and vengeance collide in measured style."}
+      ]
+    },
+    "0589": {
+      "top10": [
+        {"movieId":133,"score":1.0,"reason":"A sweeping Civil War epic imbued with grandeur, nostalgia, and lost innocence."},
+        {"movieId":511,"score":0.95,"reason":"A commanding World War I saga of desert vistas and epic personal tragedy."},
+        {"movieId":483,"score":0.9,"reason":"Timeless wartime romance set in a smoky cafe, drenched in film-noir atmosphere."},
+        {"movieId":527,"score":0.85,"reason":"A majestic biopic capturing Gandhi’s weighty vision and turbulent era."},
+        {"movieId":190,"score":0.8,"reason":"Rousing Shakespeare adaptation steeped in medieval pageantry and pathos."},
+        {"movieId":526,"score":0.75,"reason":"Biblical spectacle of vengeance and redemption in ancient Rome."},
+        {"movieId":427,"score":0.7,"reason":"Tender Depression-era drama that feels both intimate and historically vast."},
+        {"movieId":51,"score":0.65,"reason":"Multi-generational epic of nature’s majesty and human longing."},
+        {"movieId":97,"score":0.6,"reason":"Lyrical frontier romance capturing the vastness and melancholy of the plains."},
+        {"movieId":191,"score":0.55,"reason":"Opulent musical biopic set amid the glitz and decadence of 18th-century Vienna."}
+      ]
+    },
+    "0590": {
+      "top10": [
+        {"movieId":1,"score":1.0,"reason":"Charming tale of misplaced toys forging a heartfelt, makeshift family bond."},
+        {"movieId":8,"score":0.95,"reason":"Sweet farmyard adventure about an unlikely hero and his adoptive animal family."},
+        {"movieId":21,"score":0.9,"reason":"Pirate comedy where a ragtag crew becomes the ultimate found family on the high seas."},
+        {"movieId":99,"score":0.85,"reason":"Classic fairytale of camaraderie between a princess and her seven devoted companions."},
+        {"movieId":140,"score":0.8,"reason":"Loyal pets embark on a perilous journey together, proving friendship knows no bounds."},
+        {"movieId":400,"score":0.75,"reason":"Wholesome childhood antics reminding you that misfit loyalty conquers all."},
+        {"movieId":465,"score":0.7,"reason":"Delightful animated romp celebrating friendships across wild, untamed landscapes."},
+        {"movieId":383,"score":0.65,"reason":"Stone-age family comedy that places prehistoric misfits at the heart of warm hilarity."},
+        {"movieId":386,"score":0.6,"reason":"Offbeat, affectionate look at an eccentric family like no other."},
+        {"movieId":139,"score":0.55,"reason":"Light-hearted race car caper where a mismatched trio becomes an unlikely team."}
+      ]
+    }
+  }
+}

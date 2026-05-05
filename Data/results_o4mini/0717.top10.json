@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 1.0,
+    "reason": "The Fugitive races from the first frame with pulse-pounding chase after chase."
+  },
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "Die Hard slams you into an airborne burst of non-stop action in a single tower."
+  },
+  {
+    "movieId": 568,
+    "score": 0.92,
+    "reason": "Speed shoves you into a runaway bus with no brakes and zero chance to breathe."
+  },
+  {
+    "movieId": 226,
+    "score": 0.9,
+    "reason": "Die Hard 2’s airport siege kicks off at full tilt and never stops moving."
+  },
+  {
+    "movieId": 159,
+    "score": 0.88,
+    "reason": "Basic Instinct’s cat-and-mouse game propels you straight into high-voltage thrills."
+  },
+  {
+    "movieId": 273,
+    "score": 0.85,
+    "reason": "Heat’s heist sequences and razor-sharp confrontations keep the pulse racing."
+  },
+  {
+    "movieId": 33,
+    "score": 0.83,
+    "reason": "Desperado’s guitar-charged vendetta fires off in a blaze of gunplay."
+  },
+  {
+    "movieId": 302,
+    "score": 0.8,
+    "reason": "L.A. Confidential slices through L.A.’s corrupt underbelly with brisk precision."
+  },
+  {
+    "movieId": 333,
+    "score": 0.78,
+    "reason": "The Game hooks you from the opening card trick into a relentless mind-bending ride."
+  },
+  {
+    "movieId": 159,
+    "score": 0.75,
+    "reason": "Basic Instinct’s cat-and-mouse game propels you straight into high-voltage thrills."
+  }
+]

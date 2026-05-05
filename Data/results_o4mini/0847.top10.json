@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.99,
+    "reason": "A masterclass heist with betrayal and a final twist that leaves you speechless"
+  },
+  {
+    "movieId": 239,
+    "score": 0.97,
+    "reason": "A high-tech caper teeming with tension as a team races to pull off one last score"
+  },
+  {
+    "movieId": 129,
+    "score": 0.95,
+    "reason": "A late-night scheme explodes into a gripping cat-and-mouse heist full of surprises"
+  },
+  {
+    "movieId": 58,
+    "score": 0.93,
+    "reason": "A meticulously rigged quiz show con that unravels with mounting paranoia and intrigue"
+  },
+  {
+    "movieId": 4,
+    "score": 0.91,
+    "reason": "A slick Miami-to-Las Vegas caper where a loan shark spins Hollywood into his high-stakes game"
+  },
+  {
+    "movieId": 2,
+    "score": 0.89,
+    "reason": "A daring infiltration of a Soviet base with stakes that spin out of control"
+  },
+  {
+    "movieId": 273,
+    "score": 0.87,
+    "reason": "A tense diamond heist pitting meticulous thieves against dogged detectives"
+  },
+  {
+    "movieId": 693,
+    "score": 0.85,
+    "reason": "A riveting tale of casino kingpins and the ultimate play for control of Atlantic City"
+  },
+  {
+    "movieId": 405,
+    "score": 0.83,
+    "reason": "An elite team executes a flawless infiltration to snatch state secrets in plain sight"
+  },
+  {
+    "movieId": 291,
+    "score": 0.81,
+    "reason": "A master thief forced into a deadly game of cat and mouse with the President’s inner circle"
+  }
+]

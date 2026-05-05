@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.96,
+    "reason": "A heist outfit unravels as greed and paranoia expose each member’s darkest betrayal."
+  },
+  {
+    "movieId": 156,
+    "score": 0.94,
+    "reason": "A gang’s botched robbery forces them to suspect each other when things go violently wrong."
+  },
+  {
+    "movieId": 273,
+    "score": 0.92,
+    "reason": "An elite crew’s final score crumbles under mistrust as personal demons take control."
+  },
+  {
+    "movieId": 239,
+    "score": 0.9,
+    "reason": "A tight-knit team of codebreakers is torn apart when secrets leak and loyalties shift."
+  },
+  {
+    "movieId": 129,
+    "score": 0.88,
+    "reason": "Ex-cons plot a diamond job that collapses under the weight of double-crosses."
+  },
+  {
+    "movieId": 55,
+    "score": 0.86,
+    "reason": "A lone operative’s undercover mission fails when allies’ greed fractures the plan."
+  },
+  {
+    "movieId": 76,
+    "score": 0.84,
+    "reason": "A crime boss’s last job backfires as envy and suspicion poison his closest allies."
+  },
+  {
+    "movieId": 33,
+    "score": 0.82,
+    "reason": "A mysterious stranger pulls a band of drifters into a dangerous plot fueled by betrayal."
+  },
+  {
+    "movieId": 943,
+    "score": 0.8,
+    "reason": "A seasoned thief’s final con unravels when former partners turn on each other."
+  },
+  {
+    "movieId": 4,
+    "score": 0.78,
+    "reason": "Small-time criminal dives into Hollywood’s underbelly, only to face backstabbing co-horts."
+  }
+]

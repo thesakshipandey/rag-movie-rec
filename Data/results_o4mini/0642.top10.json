@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.98,
+    "reason": "Witty banter among convenience store clerks with deadpan humor and surprising warmth"
+  },
+  {
+    "movieId": 81,
+    "score": 0.95,
+    "reason": "Corporate satire in an absurd 1950s office, dry wit meets heartfelt moments"
+  },
+  {
+    "movieId": 3,
+    "score": 0.93,
+    "reason": "Four self-contained hotel vignettes with awkward, offbeat humor and a soft center"
+  },
+  {
+    "movieId": 4,
+    "score": 0.91,
+    "reason": "Hitman in Hollywood tropes subverted with sly, charming comedy and genuine heart"
+  },
+  {
+    "movieId": 85,
+    "score": 0.89,
+    "reason": "Bitter marital squabbles escalate in a single house with darkly comic undertones"
+  },
+  {
+    "movieId": 1007,
+    "score": 0.87,
+    "reason": "Quirky small-town theater rehearsals deliver awkward laughs and heartfelt camaraderie"
+  },
+  {
+    "movieId": 175,
+    "score": 0.85,
+    "reason": "Nightmarish bureaucracy lampooned with dry, existential humor and subtle warmth"
+  },
+  {
+    "movieId": 154,
+    "score": 0.83,
+    "reason": "Satirical religious romp with surreal humor and surprising empathy"
+  },
+  {
+    "movieId": 136,
+    "score": 0.81,
+    "reason": "Idealistic senator’s office politics sketched with wry humor and underlying compassion"
+  },
+  {
+    "movieId": 175,
+    "score": 0.79,
+    "reason": "Kafkaesque office world rendered with bleak comedy and human yearning"
+  }
+]

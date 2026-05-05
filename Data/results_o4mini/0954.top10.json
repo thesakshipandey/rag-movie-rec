@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 0.95,
+    "reason": "A man returns to prison life while unraveling dark secrets of his friend’s death"
+  },
+  {
+    "movieId": 44,
+    "score": 0.92,
+    "reason": "Widow returns to a small Maine town and uncovers simmering tensions beneath its quiet surface"
+  },
+  {
+    "movieId": 760,
+    "score": 0.9,
+    "reason": "FBI informant in isolated jungle encounters deadly pursuit and hidden betrayals"
+  },
+  {
+    "movieId": 386,
+    "score": 0.88,
+    "reason": "A devoted housewife’s idyllic life in Connecticut masks a lethal family conspiracy"
+  },
+  {
+    "movieId": 44,
+    "score": 0.88,
+    "reason": "(repeat) Widow returns to a small Maine town and uncovers simmering tensions beneath its quiet surface"
+  },
+  {
+    "movieId": 1029,
+    "score": 0.85,
+    "reason": "A trial draws a family back to a grim hometown secret, exposing long-buried resentments"
+  },
+  {
+    "movieId": 485,
+    "score": 0.83,
+    "reason": "A high-society orphan navigates scandal and betrayal in a stifling American city"
+  },
+  {
+    "movieId": 300,
+    "score": 0.8,
+    "reason": "President’s airplane forced down, revealing hidden corruption in a claustrophobic setting"
+  },
+  {
+    "movieId": 140,
+    "score": 0.78,
+    "reason": "Pets’ perilous journey home hides darker human secrets in a nostalgic small-town thriller"
+  },
+  {
+    "movieId": 378,
+    "score": 0.75,
+    "reason": "A stranger’s claims at a boarding house stir suspicion and uncover buried tragedies"
+  }
+]

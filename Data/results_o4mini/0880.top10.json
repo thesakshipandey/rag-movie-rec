@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.98,
+    "reason": "Toy Story blends sharp humor, heartfelt friendship, and a smart plot that all ages adore."
+  },
+  {
+    "movieId": 8,
+    "score": 0.94,
+    "reason": "Babe charms with a sweet story of loyalty and humor that delights kids and adults alike."
+  },
+  {
+    "movieId": 140,
+    "score": 0.92,
+    "reason": "Homeward Bound celebrates friendship and adventure with gentle humor and a heartwarming plot."
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Muppet Treasure Island mixes clever humor for grown-ups with a fun, adventure-driven story."
+  },
+  {
+    "movieId": 71,
+    "score": 0.88,
+    "reason": "The Lion King offers rich characters, real stakes, and humor that appeals across generations."
+  },
+  {
+    "movieId": 95,
+    "score": 0.86,
+    "reason": "Aladdin’s smart humor, adventurous friendship, and timeless story satisfy kids and parents."
+  },
+  {
+    "movieId": 465,
+    "score": 0.82,
+    "reason": "The Jungle Book combines playful adventure, strong friendship, and wit that resonates with all ages."
+  },
+  {
+    "movieId": 473,
+    "score": 0.8,
+    "reason": "James and the Giant Peach balances charming animation and clever adult humor in a friendship tale."
+  },
+  {
+    "movieId": 538,
+    "score": 0.78,
+    "reason": "Anastasia weaves a smart, loyalty-driven story with humor that both children and grown-ups enjoy."
+  },
+  {
+    "movieId": 473,
+    "score": 0.76,
+    "reason": "James and the Giant Peach balances charming animation and clever adult humor in a friendship tale."
+  }
+]

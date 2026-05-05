@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.98,
+    "reason": "Blade Runner’s minimal dialogue amplifies its moody, immersive world."
+  },
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "2001’s extended vistas speak volumes—visual odyssey beyond words."
+  },
+  {
+    "movieId": 176,
+    "score": 0.92,
+    "reason": "Aliens’ tense exploration—visuals and sound drive primal survival."
+  },
+  {
+    "movieId": 132,
+    "score": 0.89,
+    "reason": "Wizard’s wordless journey—surreal imagery crafts this dreamy quest."
+  },
+  {
+    "movieId": 122,
+    "score": 0.86,
+    "reason": "Moses’ silent traverse through amphibious underworld—visceral immersion."
+  },
+  {
+    "movieId": 124,
+    "score": 0.83,
+    "reason": "Deserted town’s silence is deafening—minimal words, maximum dread."
+  },
+  {
+    "movieId": 599,
+    "score": 0.8,
+    "reason": "Daniel Crusoe’s silent resilience defines his isolation and survival."
+  },
+  {
+    "movieId": 649,
+    "score": 0.77,
+    "reason": "Con men wander Alaskan wilderness—show don’t tell survival tale."
+  },
+  {
+    "movieId": 1053,
+    "score": 0.74,
+    "reason": "Silent wanderer’s odyssey across lost horizons—soundful solitude."
+  },
+  {
+    "movieId": 101,
+    "score": 0.71,
+    "reason": "Heavy Metal’s vignette flow—evocative visuals outrun any dialogue."
+  }
+]

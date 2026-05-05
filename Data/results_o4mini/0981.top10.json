@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.98,
+    "reason": "Clerks’ slacker crew bonds through retail drudgery—comfort in shared chaos."
+  },
+  {
+    "movieId": 381,
+    "score": 0.95,
+    "reason": "Bullying survivors find sisterhood and solace in their quirky circle."
+  },
+  {
+    "movieId": 1068,
+    "score": 0.92,
+    "reason": "A child’s perspective weaves family ties into tender communal warmth."
+  },
+  {
+    "movieId": 705,
+    "score": 0.89,
+    "reason": "Four women’s friendship blooms between Broadway rehearsals and heartfelt flaws."
+  },
+  {
+    "movieId": 1252,
+    "score": 0.86,
+    "reason": "Sisters raise orphaned boy—found family in poetic shared burdens."
+  },
+  {
+    "movieId": 1233,
+    "score": 0.83,
+    "reason": "Rue’s unlikely household finds connection beyond blood ties."
+  },
+  {
+    "movieId": 864,
+    "score": 0.8,
+    "reason": "Two former presidents teaming up—bond forged in unlikely camaraderie."
+  },
+  {
+    "movieId": 1140,
+    "score": 0.77,
+    "reason": "D.A. and chief form odd couple bonding over healing community wounds."
+  },
+  {
+    "movieId": 833,
+    "score": 0.74,
+    "reason": "Orphan turns caretaker—found family in rambunctious zoo adventures."
+  },
+  {
+    "movieId": 53,
+    "score": 0.71,
+    "reason": "Outlaw couple’s devotion finds nontraditional family in shared outlaw life."
+  }
+]

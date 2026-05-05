@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 1.0,
+    "reason": "Salieri and Mozart’s fierce, obsessive rivalry highlights genius pitted against genius with deep respect and seething envy."
+  },
+  {
+    "movieId": 192,
+    "score": 0.95,
+    "reason": "Jake LaMotta’s brutal boxing rivalry drives him to obsession, costing him everything he holds dear."
+  },
+  {
+    "movieId": 161,
+    "score": 0.92,
+    "reason": "Maverick and Iceman’s fighter pilot showdown blends adrenaline, ego clashes, and grudging respect."
+  },
+  {
+    "movieId": 87,
+    "score": 0.9,
+    "reason": "Two young chess prodigies push each other to the edge, driven by obsession and mutual admiration."
+  },
+  {
+    "movieId": 193,
+    "score": 0.88,
+    "reason": "Test pilots duel for NASA’s top spot, enduring mortal danger and fierce camaraderie in their quest to excel."
+  },
+  {
+    "movieId": 160,
+    "score": 0.86,
+    "reason": "Cutthroat real estate agents wage psychological warfare in a ruthless competition for the best leads."
+  },
+  {
+    "movieId": 237,
+    "score": 0.84,
+    "reason": "Sports agent Jerry Maguire fights for his star, blending fierce rivalry with deep, conflicted loyalty."
+  },
+  {
+    "movieId": 31,
+    "score": 0.82,
+    "reason": "Captain Ramsey and Lieutenant Hunter clash over nuclear orders, a tense duel of wills under immense pressure."
+  },
+  {
+    "movieId": 326,
+    "score": 0.8,
+    "reason": "A woman fights her way through SEAL training, sparring with doubters in a battle of will, respect, and prejudice."
+  },
+  {
+    "movieId": 824,
+    "score": 0.78,
+    "reason": "A boxing promoter’s showdown pits champion against underdog in a spectacle of competition, race, and ambition."
+  }
+]

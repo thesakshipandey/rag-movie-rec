@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 402,
+    "score": 0.95,
+    "reason": "Ghost – spirit’s return confronts grief with tender, otherworldly touch"
+  },
+  {
+    "movieId": 1050,
+    "score": 0.93,
+    "reason": "Ghost and Mrs. Muir – haunted widow finds solace in spectral companionship"
+  },
+  {
+    "movieId": 1125,
+    "score": 0.91,
+    "reason": "The Innocents – ghosts as manifestations of past sorrow in chilling atmosphere"
+  },
+  {
+    "movieId": 68,
+    "score": 0.88,
+    "reason": "The Crow – vengeful ghost embodies grief-driven quest for closure"
+  },
+  {
+    "movieId": 60,
+    "score": 0.86,
+    "reason": "Three Colors: Blue – quiet mourning woven into lyrical, elegiac visual tone"
+  },
+  {
+    "movieId": 202,
+    "score": 0.84,
+    "reason": "Groundhog Day – repetitive grief loop turned introspective haunt"
+  },
+  {
+    "movieId": 202,
+    "score": 0.82,
+    "reason": "Ghost and the Darkness – supernatural dread underscored by human loss"
+  },
+  {
+    "movieId": 202,
+    "score": 0.8,
+    "reason": "Angel on My Shoulder – ghostly justice wrapped in reflective sorrow"
+  },
+  {
+    "movieId": 1050,
+    "score": 0.78,
+    "reason": "The Others – atmospheric specters mirror characters’ grieving isolation"
+  },
+  {
+    "movieId": 402,
+    "score": 0.75,
+    "reason": "Vampire in Brooklyn – ghostly echoes in a tale of love and lament"
+  }
+]

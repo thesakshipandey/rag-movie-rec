@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 355,
+    "score": 0.95,
+    "reason": "Witty family sci-fi romp under 100 minutes with clever adult jokes"
+  },
+  {
+    "movieId": 421,
+    "score": 0.9,
+    "reason": "Animated musical adventure with smart humor for grown-ups"
+  },
+  {
+    "movieId": 258,
+    "score": 0.88,
+    "reason": "Intelligent space odyssey in under 100-minute family-friendly package"
+  },
+  {
+    "movieId": 432,
+    "score": 0.85,
+    "reason": "Fantasia’s playful vignettes tickle adults while delighting kids"
+  },
+  {
+    "movieId": 91,
+    "score": 0.82,
+    "reason": "Clever stop-motion tale with sly humor both kids and parents enjoy"
+  },
+  {
+    "movieId": 19,
+    "score": 0.8,
+    "reason": "Charming moves-and-sing-along with witty nods for the older set"
+  },
+  {
+    "movieId": 130,
+    "score": 0.78,
+    "reason": "Modern retelling of classic fairy tale with sly grown-up references"
+  },
+  {
+    "movieId": 286,
+    "score": 0.75,
+    "reason": "World-weary nurse’s tale unfolds in brisk, under-100-minute animation"
+  },
+  {
+    "movieId": 330,
+    "score": 0.72,
+    "reason": "Animated caper that balances playful insanity with subtle adult wit"
+  },
+  {
+    "movieId": 412,
+    "score": 0.7,
+    "reason": "Cheeky stop-motion featuring Gromit’s dry humor alongside Wallace’s flaws"
+  }
+]

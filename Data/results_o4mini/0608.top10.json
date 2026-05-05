@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 483,
+    "score": 1.0,
+    "reason": "Two star-crossed lovers separated by war leave a bittersweet ache in every farewell"
+  },
+  {
+    "movieId": 286,
+    "score": 0.95,
+    "reason": "Poignant memory of a doomed love story lingers long after its haunting last kiss"
+  },
+  {
+    "movieId": 955,
+    "score": 0.9,
+    "reason": "A single perfect night together births an ache that lasts a lifetime"
+  },
+  {
+    "movieId": 1681,
+    "score": 0.85,
+    "reason": "A tiny lost earring sets off parallel love stories that ache with near-miss longing"
+  },
+  {
+    "movieId": 1429,
+    "score": 0.8,
+    "reason": "Hong Kong’s lonely hearts find fleeting connection in a city of passing strangers"
+  },
+  {
+    "movieId": 313,
+    "score": 0.75,
+    "reason": "Youthful dreams aboard a doomed voyage leave a gorge of beautiful ‘what-ifs’"
+  },
+  {
+    "movieId": 990,
+    "score": 0.7,
+    "reason": "Tolstoy’s tragic passion crackles with regret and longing in a grand Russian epic"
+  },
+  {
+    "movieId": 221,
+    "score": 0.65,
+    "reason": "A wife’s faith and sacrifice echo in an unspoken ache of love tested by tragedy"
+  },
+  {
+    "movieId": 918,
+    "score": 0.6,
+    "reason": "An angel’s unseen devotion to a grieving surgeon pulses with tender, unfulfilled yearning"
+  },
+  {
+    "movieId": 88,
+    "score": 0.55,
+    "reason": "A lonely widower’s voice on the airwaves rekindles sweet sorrow and quiet hope"
+  }
+]

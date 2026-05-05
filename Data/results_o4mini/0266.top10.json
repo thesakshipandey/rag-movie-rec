@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 10,
+    "score": 1.0,
+    "reason": "Shakespeare’s tragic king in the title"
+  },
+  {
+    "movieId": 41,
+    "score": 0.9,
+    "reason": "Comedy starring Adam Sandler as Billy Madison"
+  },
+  {
+    "movieId": 126,
+    "score": 0.8,
+    "reason": "Biopic of Solzhenitsyn’s Gulag experience"
+  },
+  {
+    "movieId": 127,
+    "score": 0.7,
+    "reason": "Coppola’s saga of the Corleone patriarch"
+  },
+  {
+    "movieId": 132,
+    "score": 0.6,
+    "reason": "Judy Garland’s Dorothy in Oz"
+  },
+  {
+    "movieId": 164,
+    "score": 0.5,
+    "reason": "Naval thriller named for Franklin Roosevelt"
+  },
+  {
+    "movieId": 170,
+    "score": 0.4,
+    "reason": "Giancaldo’s nostalgic film director returns"
+  },
+  {
+    "movieId": 187,
+    "score": 0.3,
+    "reason": "Origins of Vito and young Michael Corleone"
+  },
+  {
+    "movieId": 229,
+    "score": 0.2,
+    "reason": "Captain Kirk’s search for Spock"
+  },
+  {
+    "movieId": 299,
+    "score": 0.1,
+    "reason": "Thug-comedy named for the criminal archetype"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 188,
+    "score": 0.9,
+    "reason": "Drill instructor’s toxic mentorship forces student to confront cruel truth"
+  },
+  {
+    "movieId": 156,
+    "score": 0.85,
+    "reason": "Mentor’s criminal teaching turns deadly, protégé must break away to survive"
+  },
+  {
+    "movieId": 196,
+    "score": 0.8,
+    "reason": "Beloved teacher’s flawed philosophy drives young men toward painful truths"
+  },
+  {
+    "movieId": 569,
+    "score": 0.75,
+    "reason": "Mentor’s utopian promises collapse into betrayal during descent into chaos"
+  },
+  {
+    "movieId": 1276,
+    "score": 0.7,
+    "reason": "Fearless bounty hunter’s lessons prove dangerous and must be unlearned"
+  },
+  {
+    "movieId": 182,
+    "score": 0.65,
+    "reason": "Protégé realizes mob mentor’s code is wrong—must reject him to survive climax"
+  },
+  {
+    "movieId": 172,
+    "score": 0.6,
+    "reason": "Naturalist’s academic mentor deceives him until he’s forced to forge his own path"
+  },
+  {
+    "movieId": 325,
+    "score": 0.55,
+    "reason": "Producer’s subtle corrupting influence revealed as deadly wrong guidance"
+  },
+  {
+    "movieId": 736,
+    "score": 0.5,
+    "reason": "Journalist’s mentor provides hollow wisdom, protégé must diverge to find truth"
+  },
+  {
+    "movieId": 298,
+    "score": 0.45,
+    "reason": "Agent’s veteran mentor’s methods become outdated and lethal—protégé must reject them"
+  }
+]

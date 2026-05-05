@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 3,
+    "score": 0.95,
+    "reason": "Title ends with 's' signalling multiple rooms in this New Year’s hotel tale"
+  },
+  {
+    "movieId": 23,
+    "score": 0.93,
+    "reason": "Famous 1976 drama's title ends with 's' focusing on isolation and urban decay"
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "Historic space mission thriller whose title ends with an 's'"
+  },
+  {
+    "movieId": 42,
+    "score": 0.88,
+    "reason": "1994 cult comedy set in a convenience store, plural title"
+  },
+  {
+    "movieId": 61,
+    "score": 0.85,
+    "reason": "Third in trilogy with ‘Three Colors: White’ ending in 's'"
+  },
+  {
+    "movieId": 73,
+    "score": 0.83,
+    "reason": "1994 comedic Western with plural in its catchy title"
+  },
+  {
+    "movieId": 87,
+    "score": 0.8,
+    "reason": "1993 chess prodigy drama’s title ends with an 's'"
+  },
+  {
+    "movieId": 101,
+    "score": 0.78,
+    "reason": "1981 animated anthology named after a magazine, plural form"
+  },
+  {
+    "movieId": 109,
+    "score": 0.75,
+    "reason": "1996 comedy about TV riffing on bad movies, title ends with 's'"
+  },
+  {
+    "movieId": 178,
+    "score": 0.7,
+    "reason": "1957 courtroom drama featuring a jury of twelve ending in 's'"
+  }
+]

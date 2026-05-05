@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 0.99,
+    "reason": "A witty, romantic swashbuckling quest with plenty of levity and fantasy fun"
+  },
+  {
+    "movieId": 21,
+    "score": 0.98,
+    "reason": "Lighthearted musical adventure on the high seas with swashbuckling comedy"
+  },
+  {
+    "movieId": 132,
+    "score": 0.97,
+    "reason": "Classic Technicolor fantasy journey full of whimsy and upbeat charm"
+  },
+  {
+    "movieId": 95,
+    "score": 0.96,
+    "reason": "Colorful, music‐filled adventure with comedic magical elements"
+  },
+  {
+    "movieId": 142,
+    "score": 0.95,
+    "reason": "Enchanting World War II fantasy with songs, laughs, and gentle magic"
+  },
+  {
+    "movieId": 501,
+    "score": 0.94,
+    "reason": "Heartwarming animated tale of a runaway elephant's joyful adventure"
+  },
+  {
+    "movieId": 102,
+    "score": 0.93,
+    "reason": "Charming animated romp across Paris with comedic animal capers"
+  },
+  {
+    "movieId": 99,
+    "score": 0.92,
+    "reason": "Fairytale musical magic in a vivid animated classic"
+  },
+  {
+    "movieId": 50,
+    "score": 0.91,
+    "reason": "Epic space fantasy with heroic journey and uplifting humor"
+  },
+  {
+    "movieId": 173,
+    "score": 0.9,
+    "reason": "A witty, romantic swashbuckling quest with plenty of levity and fantasy fun"
+  }
+]

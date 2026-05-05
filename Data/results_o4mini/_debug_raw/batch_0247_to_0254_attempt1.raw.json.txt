@@ -1,0 +1,94 @@
+{
+  "results": {
+    "0247": {
+      "top10": [
+        {"movieId": 50, "score": 0.95, "reason": "Star Wars is an original standalone title without colons or numbers in its name"},
+        {"movieId": 56, "score": 0.94, "reason": "Pulp Fiction is a self-contained film with no sequel numbering or subtitle"},
+        {"movieId": 82, "score": 0.93, "reason": "Jurassic Park is the original film title without a series indicator"},
+        {"movieId": 89, "score": 0.92, "reason": "Blade Runner stands alone, no numbering or colon in the title"},
+        {"movieId": 127, "score": 0.91, "reason": "Godfather, The is the original classic without any sequel numbering or colon"},
+        {"movieId": 134, "score": 0.90, "reason": "Citizen Kane is a standalone drama with no series numbering or punctuation"},
+        {"movieId": 383, "score": 0.89, "reason": "Flintstones, The retains only the original series name without colon or number"},
+        {"movieId": 602, "score": 0.88, "reason": "American in Paris, An is a classic musical with no series indication"},
+        {"movieId": 705, "score": 0.87, "reason": "Singin' in the Rain is a singular title with no numbering or sequel subtitle"},
+        {"movieId": 516, "score": 0.86, "reason": "Local Hero is a self-contained story with no numbering or colon"}
+      ]
+    },
+    "0248": {
+      "top10": [
+        {"movieId": 13, "score": 0.95, "reason": "Mighty Aphrodite begins with M and is a well-known comedy-drama"},
+        {"movieId": 15, "score": 0.94, "reason": "Mr. Holland's Opus starts with M and is a heartfelt music drama"},
+        {"movieId": 21, "score": 0.93, "reason": "Muppet Treasure Island starts with M and blends fantasy with adventure"},
+        {"movieId": 36, "score": 0.92, "reason": "Mad Love starts with M and is a sharp teen romance drama"},
+        {"movieId": 73, "score": 0.91, "reason": "Maverick starts with M and is a popular western-comedy adventure"},
+        {"movieId": 72, "score": 0.90, "reason": "Mask, The starts with M (ignoring inverted article) and is a vibrant comedy"},
+        {"movieId": 264, "score": 0.89, "reason": "Mimic starts with M and is a dark sci-fi thriller"},
+        {"movieId": 509, "score": 0.88, "reason": "My Left Foot starts with M and is a celebrated drama"},
+        {"movieId": 255, "score": 0.87, "reason": "My Best Friend's Wedding starts with M and is a classic romantic comedy"},
+        {"movieId": 312, "score": 0.86, "reason": "Midnight in the Garden of Good and Evil starts with M and is an atmospheric drama"}
+      ]
+    },
+    "0249": {
+      "top10": [
+        {"movieId": 63, "score": 0.95, "reason": "Santa Clause, The includes Christmas Eve in its plot for family fun"},
+        {"movieId": 94, "score": 0.94, "reason": "Home Alone centers on a Christmas family adventure without spoilers"},
+        {"movieId": 66, "score": 0.93, "reason": "While You Were Sleeping features a key scene on Christmas Eve for families"},
+        {"movieId": 88, "score": 0.92, "reason": "Sleepless in Seattle has a memorable Christmas Eve story arc for all ages"},
+        {"movieId": 144, "score": 0.91, "reason": "Die Hard is set during a Christmas party but keeps the action non-spoiler"},
+        {"movieId": 226, "score": 0.90, "reason": "Die Hard 2 unfolds during Christmas week in an airport setting"},
+        {"movieId": 85, "score": 0.89, "reason": "Ref, The opens on Christmas Eve in a holiday-themed family setting"},
+        {"movieId": 91, "score": 0.88, "reason": "Nightmare Before Christmas blends Halloween and Christmas in a family-friendly way"},
+        {"movieId": 378, "score": 0.87, "reason": "Miracle on 34th Street captures the holiday spirit around Christmas"},
+        {"movieId": 318, "score": 0.86, "reason": "Schindler's List includes a crucial Christmas scene impacting the characters"}
+      ]
+    },
+    "0250": {
+      "top10": [
+        {"movieId": 133, "score": 0.95, "reason": "Gone with the Wind runs over three hours for an epic Civil War saga"},
+        {"movieId": 511, "score": 0.94, "reason": "Lawrence of Arabia surpasses 180 minutes in its sweeping desert epic"},
+        {"movieId": 526, "score": 0.93, "reason": "Ben-Hur epic chariot race included in over three hours of story"},
+        {"movieId": 649, "score": 0.92, "reason": "Once Upon a Time in America is a sprawling five-hour crime saga"},
+        {"movieId": 318, "score": 0.91, "reason": "Schindler's List unfolds over 195 minutes of historical drama"},
+        {"movieId": 527, "score": 0.90, "reason": "Gandhi runs well over three hours for a detailed biography"},
+        {"movieId": 187, "score": 0.89, "reason": "Godfather: Part II is a lengthy sequel clocking in above 200 minutes"},
+        {"movieId": 313, "score": 0.88, "reason": "Titanic spans nearly three and a half hours of romantic disaster"},
+        {"movieId": 646, "score": 0.87, "reason": "Once Upon a Time in the West is a nearly three-hour western epic"},
+        {"movieId": 135, "score": 0.86, "reason": "2001: A Space Odyssey offers an immersive 149-minute journey (below 3h)"}
+      ]
+    },
+    "0251": {
+      "top10": []
+    },
+    "0252": {
+      "top10": [
+        {"movieId": 40, "score": 0.95, "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"},
+        {"movieId": 74, "score": 0.94, "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"},
+        {"movieId": 80, "score": 0.93, "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"},
+        {"movieId": 152, "score": 0.92, "reason": "Sleeper (1973) remains without exclamations"}, 
+        {"movieId": 80, "score": 0.91, "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"},
+        {"movieId": 74, "score": 0.90, "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"},
+        {"movieId": 40, "score": 0.89, "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"},
+        {"movieId": 80, "score": 0.88, "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"},
+        {"movieId": 74, "score": 0.87, "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"},
+        {"movieId": 40, "score": 0.86, "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"}
+      ]
+    },
+    "0253": {
+      "top10": [
+        {"movieId": 144, "score": 0.95, "reason": "Die Hard is a landmark action thriller free of comedy/romance tropes"},
+        {"movieId": 96, "score": 0.94, "reason": "Terminator 2: Judgment Day delivers sci-fi action without romantic comedy"},
+        {"movieId": 82, "score": 0.93, "reason": "Jurassic Park blends adventure and sci-fi with no core romantic or comic focus"},
+        {"movieId": 56, "score": 0.92, "reason": "Pulp Fiction is an intense crime drama unbound by comedic or romantic labels"},
+        {"movieId": 318, "score": 0.91, "reason": "Schindler's List stands as a powerful drama devoid of comedy or romance"},
+        {"movieId": 22, "score": 0.90, "reason": "Braveheart offers historical epic drama without romantic-comedy elements"},
+        {"movieId": 273, "score": 0.89, "reason": "Heat is a gritty crime drama with no comedy or romantic emphasis"},
+        {"movieId": 11, "score": 0.88, "reason": "Seven (Se7en) is a dark thriller focused on crime, not comedy or romance"},
+        {"movieId": 127, "score": 0.87, "reason": "Godfather, The explores crime and family drama without romantic-comedy beats"},
+        {"movieId": 134, "score": 0.86, "reason": "Citizen Kane examines power and memory, not fitting comedy/romance genres"}
+      ]
+    },
+    "0254": {
+      "top10": []
+    }
+  }
+}

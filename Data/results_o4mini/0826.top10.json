@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 272,
+    "score": 0.95,
+    "reason": "Good Will Hunting: mentor‐protégé bond fractures over ethical crack in therapy’s foundation"
+  },
+  {
+    "movieId": 357,
+    "score": 0.92,
+    "reason": "Dead Poets Society: inspirational teacher’s compromise shatters student’s world in a tragic fallout"
+  },
+  {
+    "movieId": 191,
+    "score": 0.9,
+    "reason": "Amadeus: brilliant composer’s friendship with a rival unravels in a spectacle of envy and betrayal"
+  },
+  {
+    "movieId": 87,
+    "score": 0.88,
+    "reason": "Searching for Bobby Fischer: driven mentor’s methods cross moral lines, leaving student adrift"
+  },
+  {
+    "movieId": 5,
+    "score": 0.85,
+    "reason": "Copycat: expert drawn into protégé’s abyss when professional boundaries collapse disastrously"
+  },
+  {
+    "movieId": 223,
+    "score": 0.83,
+    "reason": "Sling Blade: gentle giant’s relationship with a boy sours when dangerous secret is revealed"
+  },
+  {
+    "movieId": 172,
+    "score": 0.8,
+    "reason": "Empire Strikes Back: Jedi master’s hard‐won compromise reverberates as ultimate betrayal"
+  },
+  {
+    "movieId": 273,
+    "score": 0.78,
+    "reason": "Heat: veteran planner’s breach of trust with partner ignites cold‐blooded fallout"
+  },
+  {
+    "movieId": 196,
+    "score": 0.75,
+    "reason": "Dead Poets Society (repeat): teacher’s doctrine yields irreversible personal tragedy"
+  },
+  {
+    "movieId": 357,
+    "score": 0.72,
+    "reason": "Dead Poets Society (repeat): mentor’s influence becomes source of deepest remorse"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 0.9,
+    "reason": "Clueless: Sharp and sweet teen comedy with raunchy humor and relatable awkwardness."
+  },
+  {
+    "movieId": 959,
+    "score": 0.85,
+    "reason": "Dazed and Confused: Effortless ‘70s high-school romp brimming with awkward, hilarious moments."
+  },
+  {
+    "movieId": 93,
+    "score": 0.8,
+    "reason": "Welcome to the Dollhouse: Darkly comic, cringe-worthy coming-of-age tale that's oddly uplifting."
+  },
+  {
+    "movieId": 41,
+    "score": 0.75,
+    "reason": "Billy Madison: Raunchy, over-the-top schoolyard antics from Adam Sandler that still hit funny."
+  },
+  {
+    "movieId": 150,
+    "score": 0.7,
+    "reason": "Swingers: Witty 90s buddy comedy about dating misadventures and awkward club scenes."
+  },
+  {
+    "movieId": 1074,
+    "score": 0.65,
+    "reason": "Reality Bites: Gen-X dramedy that balances cringe and charm in early-adult life crises."
+  },
+  {
+    "movieId": 34,
+    "score": 0.6,
+    "reason": "The Doom Generation: Gritty, off-kilter teen road trip comedy with darkly awkward flair."
+  },
+  {
+    "movieId": 42,
+    "score": 0.55,
+    "reason": "Clerks: Low-budget slacker comedy packed with raunchy, relatable dialogue and awkward charm."
+  },
+  {
+    "movieId": 733,
+    "score": 0.5,
+    "reason": "Go Fish: Sharp, earnest queer coming-of-age comedy that’s refreshingly awkward and heartfelt."
+  },
+  {
+    "movieId": 36,
+    "score": 0.45,
+    "reason": "Mad Love: Teen romance comedy that nails the uneasy thrill and horror of first love."
+  }
+]

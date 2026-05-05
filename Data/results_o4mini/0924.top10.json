@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 0.95,
+    "reason": "Cynical caper gone wrong with dark laughs and chaotic misadventures"
+  },
+  {
+    "movieId": 156,
+    "score": 0.9,
+    "reason": "Brutal, witty crime comedy where every scheme spectacularly misfires"
+  },
+  {
+    "movieId": 56,
+    "score": 0.85,
+    "reason": "Tarantino’s darkly hilarious tapestry of criminal plans gone awry"
+  },
+  {
+    "movieId": 4,
+    "score": 0.8,
+    "reason": "Smooth crime satire of a mobster in Hollywood with comedic carnage"
+  },
+  {
+    "movieId": 12,
+    "score": 0.75,
+    "reason": "Ensemble thriller with a final twist that ruins every expectation"
+  },
+  {
+    "movieId": 1322,
+    "score": 0.7,
+    "reason": "Twisty serial killer caper that revels in its own chaos"
+  },
+  {
+    "movieId": 5,
+    "score": 0.65,
+    "reason": "Psychologist drawn into a greedy killer’s self-undoing plot"
+  },
+  {
+    "movieId": 38,
+    "score": 0.6,
+    "reason": "Techno-crime caper where digital plans spectacularly implode"
+  },
+  {
+    "movieId": 79,
+    "score": 0.55,
+    "reason": "Medical manhunt that tumbles into black-comedy disaster"
+  },
+  {
+    "movieId": 333,
+    "score": 0.5,
+    "reason": "Richie-plays-a-game plot with gleeful deconstruction of greed"
+  }
+]

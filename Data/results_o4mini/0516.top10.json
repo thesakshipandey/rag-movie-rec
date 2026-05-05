@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 234,
+    "score": 0.95,
+    "reason": "Unseen predator turns tranquil beach town into terror-filled battleground."
+  },
+  {
+    "movieId": 183,
+    "score": 0.93,
+    "reason": "Claustrophobic spaceship stalked by merciless alien killing crew one by one."
+  },
+  {
+    "movieId": 176,
+    "score": 0.91,
+    "reason": "High-octane rescue mission collapsing under relentless swarm of xenomorphs."
+  },
+  {
+    "movieId": 82,
+    "score": 0.89,
+    "reason": "Island park turns nightmare as colossal dinosaurs outwit every escape."
+  },
+  {
+    "movieId": 200,
+    "score": 0.87,
+    "reason": "Remote hotel’s empty halls echo with escalating madness and chilling presences."
+  },
+  {
+    "movieId": 260,
+    "score": 0.85,
+    "reason": "Space-bound abyss spawns cosmic horror that breaks minds and ships alike."
+  },
+  {
+    "movieId": 54,
+    "score": 0.83,
+    "reason": "Viral outbreak erupts into citywide panic as truth slips beyond control."
+  },
+  {
+    "movieId": 118,
+    "score": 0.81,
+    "reason": "Storm chasers trapped in nature’s fury with nowhere safe to run."
+  },
+  {
+    "movieId": 443,
+    "score": 0.79,
+    "reason": "Flocks of silent killers descend, turning quiet town into desperate flight."
+  },
+  {
+    "movieId": 452,
+    "score": 0.77,
+    "reason": "Shark returns in frigid bay to hunt and shatter seaside idyll."
+  }
+]

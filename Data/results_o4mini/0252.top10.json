@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 40,
+    "score": 0.95,
+    "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"
+  },
+  {
+    "movieId": 74,
+    "score": 0.94,
+    "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"
+  },
+  {
+    "movieId": 80,
+    "score": 0.93,
+    "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"
+  },
+  {
+    "movieId": 152,
+    "score": 0.92,
+    "reason": "Sleeper (1973) remains without exclamations"
+  },
+  {
+    "movieId": 80,
+    "score": 0.91,
+    "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"
+  },
+  {
+    "movieId": 74,
+    "score": 0.9,
+    "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"
+  },
+  {
+    "movieId": 40,
+    "score": 0.89,
+    "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"
+  },
+  {
+    "movieId": 80,
+    "score": 0.88,
+    "reason": "Hot Shots! Part Deux uses an exclamation mark for its comedic sequel flair"
+  },
+  {
+    "movieId": 74,
+    "score": 0.87,
+    "reason": "Faster Pussycat! Kill! Kill! blasts with two exclamation marks in its title"
+  },
+  {
+    "movieId": 40,
+    "score": 0.86,
+    "reason": "To Wong Foo, Thanks for Everything! Julie Newmar features a standout exclamation"
+  }
+]

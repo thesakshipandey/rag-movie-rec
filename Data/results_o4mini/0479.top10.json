@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 1.0,
+    "reason": "Intense jury room deliberations build relentless pressure and moral insight"
+  },
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Layered testimony leads to a cunning final reveal"
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "Detective duo unravels a chilling serial killer’s cryptic clues"
+  },
+  {
+    "movieId": 98,
+    "score": 0.88,
+    "reason": "FBI trainee’s tense interviews with a brilliant captive foster insight"
+  },
+  {
+    "movieId": 302,
+    "score": 0.85,
+    "reason": "Twisty noir investigation peels back corruption layer by layer"
+  },
+  {
+    "movieId": 333,
+    "score": 0.8,
+    "reason": "High-stakes psychological game pushes reality to the brink"
+  },
+  {
+    "movieId": 31,
+    "score": 0.75,
+    "reason": "Submarine standoff fuels claustrophobic duel of wills"
+  },
+  {
+    "movieId": 160,
+    "score": 0.7,
+    "reason": "High-pressure sales floor debate erupts in a courtroom showdown"
+  },
+  {
+    "movieId": 7,
+    "score": 0.65,
+    "reason": "Time-travel enigma challenges everything you thought you knew"
+  },
+  {
+    "movieId": 5,
+    "score": 0.6,
+    "reason": "Psychiatrist drawn into a tense cat-and-mouse hunt for a copycat killer"
+  }
+]

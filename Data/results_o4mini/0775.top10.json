@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 214,
+    "score": 0.95,
+    "reason": "Surreal musical odyssey mixing rock and striking visuals from the 80s.",
+    "title": "Pink Floyd - The Wall",
+    "year": "1982",
+    "plot": ""
+  },
+  {
+    "movieId": 451,
+    "score": 0.9,
+    "reason": "Iconic 70s high-energy musical with bold style and lively dance numbers.",
+    "title": "Grease",
+    "year": "1978",
+    "plot": ""
+  },
+  {
+    "movieId": 155,
+    "score": 0.88,
+    "reason": "Joyful dancing set to upbeat 80s pop tunes with a touch of nostalgia.",
+    "title": "Dirty Dancing",
+    "year": "1987",
+    "plot": ""
+  },
+  {
+    "movieId": 142,
+    "score": 0.85,
+    "reason": "Whimsical blend of live action and animation, magical 70s family musical.",
+    "title": "Bedknobs and Broomsticks",
+    "year": "1971",
+    "plot": ""
+  },
+  {
+    "movieId": 214,
+    "score": 0.82,
+    "reason": "Epic rock opera brings strange, haunting energy and big musical moments.",
+    "title": "Pink Floyd - The Wall",
+    "year": "1982",
+    "plot": ""
+  },
+  {
+    "movieId": 451,
+    "score": 0.8,
+    "reason": "Feel-good 70s musical packed with dance, romance, and style.",
+    "title": "Grease",
+    "year": "1978",
+    "plot": ""
+  },
+  {
+    "movieId": 155,
+    "score": 0.78,
+    "reason": "80s favorite brimming with joyful dance and a rebellious spirit.",
+    "title": "Dirty Dancing",
+    "year": "1987",
+    "plot": ""
+  },
+  {
+    "movieId": 142,
+    "score": 0.75,
+    "reason": "Enchanting mix of music, magic, and adventure, full of charm.",
+    "title": "Bedknobs and Broomsticks",
+    "year": "1971",
+    "plot": ""
+  },
+  {
+    "movieId": 705,
+    "score": 0.73,
+    "reason": "Classic song-and-dance routines with a touch of old Hollywood whimsy.",
+    "title": "Singin' in the Rain",
+    "year": "1952",
+    "plot": ""
+  },
+  {
+    "movieId": 91,
+    "score": 0.7,
+    "reason": "Bold, whimsically eerie musical energy in animated form.",
+    "title": "The Nightmare Before Christmas",
+    "year": "1993",
+    "plot": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 96,
+    "score": 1.0,
+    "reason": "Thrilling chase sci-fi combining action set pieces with emotional stakes"
+  },
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "Pulse-pounding skyscraper siege delivering relentless tension and inventive action"
+  },
+  {
+    "movieId": 27,
+    "score": 0.9,
+    "reason": "High-speed Miami crime duo delivering non-stop thrills and explosive fun"
+  },
+  {
+    "movieId": 226,
+    "score": 0.85,
+    "reason": "Second chapter of McClane’s saga with high-octane action and bold stunts"
+  },
+  {
+    "movieId": 385,
+    "score": 0.8,
+    "reason": "Energetic spy blockbuster mixing humor, gadgets, and breakneck pacing"
+  },
+  {
+    "movieId": 568,
+    "score": 0.75,
+    "reason": "High-velocity action on wheels offering intense, nonstop suspense"
+  },
+  {
+    "movieId": 405,
+    "score": 0.7,
+    "reason": "High-tech espionage adventure driven by clever stunts and rapid pacing"
+  },
+  {
+    "movieId": 117,
+    "score": 0.65,
+    "reason": "Open-sea action thriller with daring escapes and constant thrills"
+  },
+  {
+    "movieId": 121,
+    "score": 0.6,
+    "reason": "Blockbuster alien invasion spectacle packed with large-scale action"
+  },
+  {
+    "movieId": 298,
+    "score": 0.55,
+    "reason": "Adrenaline-fueled face-off thriller with over-the-top stunts and sharp pacing"
+  }
+]

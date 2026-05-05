@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.95,
+    "reason": "Unrelenting portrayal of grief and moral collapse."
+  },
+  {
+    "movieId": 332,
+    "score": 0.93,
+    "reason": "Bleak documentary-style character study with no redemption."
+  },
+  {
+    "movieId": 411,
+    "score": 0.91,
+    "reason": "Dark biopic layered in familial decay and despair."
+  },
+  {
+    "movieId": 384,
+    "score": 0.89,
+    "reason": "Black comedy that slowly pulls all the light out of its world."
+  },
+  {
+    "movieId": 630,
+    "score": 0.87,
+    "reason": "Bittersweet wartime drama steeped in sorrow and regret."
+  },
+  {
+    "movieId": 618,
+    "score": 0.85,
+    "reason": "Monochrome chamber piece suffused with loss."
+  },
+  {
+    "movieId": 367,
+    "score": 0.83,
+    "reason": "Satirical bitterness masking profound disillusionment."
+  },
+  {
+    "movieId": 703,
+    "score": 0.82,
+    "reason": "Quiet domestic tragedy that simmers into bleakness."
+  },
+  {
+    "movieId": 1083,
+    "score": 0.8,
+    "reason": "Undercover thriller that drains hope until no light remains."
+  },
+  {
+    "movieId": 946,
+    "score": 0.78,
+    "reason": "1980s cult movie that subverts joy into emptiness."
+  }
+]

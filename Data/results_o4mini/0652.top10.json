@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "Low-budget dialogue-driven comedy about friends’ awkward weekend dynamics"
+  },
+  {
+    "movieId": 256,
+    "score": 0.9,
+    "reason": "French indie explores urban stray cat and human relationship breakdown"
+  },
+  {
+    "movieId": 793,
+    "score": 0.88,
+    "reason": "Group of friends’ trip implodes amid gossip and romantic tension"
+  },
+  {
+    "movieId": 362,
+    "score": 0.85,
+    "reason": "Road-trip comedy with dysfunctional buddies on a misadventure"
+  },
+  {
+    "movieId": 50,
+    "score": 0.82,
+    "reason": "Space-oddball duo takes a trip that reveals deep personal cracks"
+  },
+  {
+    "movieId": 246,
+    "score": 0.8,
+    "reason": "Comic road journey strains bonds of old friends facing midlife doubts"
+  },
+  {
+    "movieId": 172,
+    "score": 0.78,
+    "reason": "Soft-spoken neighbors revisit childhood slumbers; tensions bubble over"
+  },
+  {
+    "movieId": 115,
+    "score": 0.75,
+    "reason": "University pals’ abandoned online intimacy fractures during getaway"
+  },
+  {
+    "movieId": 573,
+    "score": 0.72,
+    "reason": "Family trip becomes surreal as buried tensions resurface"
+  },
+  {
+    "movieId": 896,
+    "score": 0.7,
+    "reason": "High school buddies meet at reunion, weekend getaway turns chaotic"
+  }
+]

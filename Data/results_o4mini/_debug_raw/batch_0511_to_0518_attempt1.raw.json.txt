@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0511": {
+      "top10": [
+        {"movieId": 12, "score": 0.95, "reason": "Masterful nonlinear thriller with one twist that rewires everything."},
+        {"movieId": 11, "score": 0.93, "reason": "Dark detective hunt with shocking reveals and “ah-ha” moments."},
+        {"movieId": 333, "score": 0.90, "reason": "Mind-bending conspiracy that blurs reality in elaborate puzzles."},
+        {"movieId": 239, "score": 0.88, "reason": "Tech-heist thriller full of clever codebreaking twists."},
+        {"movieId": 7, "score": 0.86, "reason": "Time-travel mystery connecting fishy clues across timelines."},
+        {"movieId": 302, "score": 0.84, "reason": "Layered police corruption saga with penetrating revelations."},
+        {"movieId": 87, "score": 0.80, "reason": "Chess-drama sharpening mind with every move."},
+        {"movieId": 58, "score": 0.78, "reason": "True-story quiz scandal unravels hidden schemes piece by piece."},
+        {"movieId": 258, "score": 0.76, "reason": "Cosmic message puzzle that rewards careful listening."},
+        {"movieId": 5, "score": 0.74, "reason": "Serial-killer cat-and-mouse case that toys with your expectations."}
+      ]
+    },
+    "0512": {
+      "top10": [
+        {"movieId": 170, "score": 0.95, "reason": "Italian village memories poured over film reels with bittersweet beauty."},
+        {"movieId": 14, "score": 0.93, "reason": "Poetic seaside tale tinged with wistful longing and sunlight warmth."},
+        {"movieId": 215, "score": 0.90, "reason": "Midwest ballfield stirring joyful grief for things lost and found."},
+        {"movieId": 97, "score": 0.88, "reason": "Sweeping frontier vista wrapped in melancholy and wonder."},
+        {"movieId": 51, "score": 0.86, "reason": "Family saga drenched in dust-kicked sunsets and tender sorrow."},
+        {"movieId": 241, "score": 0.84, "reason": "Lush wilderness romance echoing with longing and loss."},
+        {"movieId": 86, "score": 0.82, "reason": "Restrained English grace shadowed by unspoken regrets."},
+        {"movieId": 312, "score": 0.80, "reason": "Rainy-day reverie of love marooned and rediscovered."},
+        {"movieId": 66, "score": 0.78, "reason": "Snowy Chicago days warmed by gentle hope and sweet ache."},
+        {"movieId": 649, "score": 0.76, "reason": "Epic New York childhood memories steeped in golden regret."}
+      ]
+    },
+    "0513": {
+      "top10": [
+        {"movieId": 387, "score": 0.95, "reason": "Opulent Gilded Age secrets unravel amid velvet whispers."},
+        {"movieId": 275, "score": 0.93, "reason": "Genteel manners conceal potent passions and sly deceptions."},
+        {"movieId": 478, "score": 0.90, "reason": "Witty elite gathering cracks open scandalous truths."},
+        {"movieId": 30, "score": 0.88, "reason": "Chic Parisian facade hiding ecstatic and ruinous double life."},
+        {"movieId": 694, "score": 0.86, "reason": "Polished drawing rooms brim with regret and withheld longings."},
+        {"movieId": 131, "score": 0.84, "reason": "Glossy Manhattan glamour threaded with tender melancholy."},
+        {"movieId": 86, "score": 0.82, "reason": "Flawless butler’s world of protocol holding deep personal yearnings."},
+        {"movieId": 693, "score": 0.80, "reason": "Glamorous mob milieu where elegance masks explosive betrayals."},
+        {"movieId": 274, "score": 0.78, "reason": "Cinderella tale of social climbing with starched elegance and rivalry."},
+        {"movieId": 25, "score": 0.76, "reason": "Drag-club dazzle meets high-stakes etiquette with cutting comebacks."}
+      ]
+    },
+    "0514": {
+      "top10": [
+        {"movieId": 15, "score": 0.95, "reason": "Warm orchestral journey of teaching and composing that inspires fully."},
+        {"movieId": 191, "score": 0.93, "reason": "Passionate rivalry and genius unearthed amid glittering concert halls."},
+        {"movieId": 137, "score": 0.90, "reason": "Two chefs racing time to plate perfection in a night that defines them."},
+        {"movieId": 196, "score": 0.88, "reason": "Inspirational classroom ignites poetic rebellion and shared discovery."},
+        {"movieId": 32, "score": 0.86, "reason": "Underground artist’s obsessive creativity fueled by blues and ink."},
+        {"movieId": 209, "score": 0.84, "reason": "Mockumentary rock band craft absurd stagecraft in riotous collaboration."},
+        {"movieId": 705, "score": 0.82, "reason": "Song, dance and laughter collide in a backstage burst of creative joy."},
+        {"movieId": 47, "score": 0.80, "reason": "Unlikely Hollywood underdog fueled by sheer will to make cinema magic."},
+        {"movieId": 21, "score": 0.78, "reason": "Muppet crew’s high-sea musical romp powered by inventive teamwork."},
+        {"movieId": 42, "score": 0.76, "reason": "Day-in-the-life of quick-witted clerks creating chaos with playful banter."}
+      ]
+    },
+    "0515": {
+      "top10": [
+        {"movieId": 313, "score": 0.95, "reason": "Epic shipboard romance ending in heartrending goodbye that floods eyes."},
+        {"movieId": 318, "score": 0.93, "reason": "Historical horror of humanity’s darkest hour evoking tears and outrage."},
+        {"movieId": 286, "score": 0.90, "reason": "War-torn nurse’s gentle care amid despair leaves aching, beautiful sorrow."},
+        {"movieId": 402, "score": 0.88, "reason": "Ghostly love persisting beyond death, haunting with bittersweet longing."},
+        {"movieId": 357, "score": 0.86, "reason": "Courtroom tensions sparking deep reflection on justice and redemption."},
+        {"movieId": 9, "score": 0.84, "reason": "Death-row grace and the weight of final moments stirring profound grief."},
+        {"movieId": 64, "score": 0.82, "reason": "Prison friendship forging fragile hope in bleak walls of isolation."},
+        {"movieId": 679, "score": 0.80, "reason": "Mythic swordsman’s fate intertwined with love in sweeping, timeless tragedy."},
+        {"movieId": 304, "score": 0.78, "reason": "Father-daughter bond soaring and breaking amid windborne geese."},
+        {"movieId": 437, "score": 0.76, "reason": "Crimson tides of terror in a family’s idyllic summer turning to despair."}
+      ]
+    },
+    "0516": {
+      "top10": [
+        {"movieId": 234, "score": 0.95, "reason": "Unseen predator turns tranquil beach town into terror-filled battleground."},
+        {"movieId": 183, "score": 0.93, "reason": "Claustrophobic spaceship stalked by merciless alien killing crew one by one."},
+        {"movieId": 176, "score": 0.91, "reason": "High-octane rescue mission collapsing under relentless swarm of xenomorphs."},
+        {"movieId": 82, "score": 0.89, "reason": "Island park turns nightmare as colossal dinosaurs outwit every escape."},
+        {"movieId": 200, "score": 0.87, "reason": "Remote hotel’s empty halls echo with escalating madness and chilling presences."},
+        {"movieId": 260, "score": 0.85, "reason": "Space-bound abyss spawns cosmic horror that breaks minds and ships alike."},
+        {"movieId": 54, "score": 0.83, "reason": "Viral outbreak erupts into citywide panic as truth slips beyond control."},
+        {"movieId": 118, "score": 0.81, "reason": "Storm chasers trapped in nature’s fury with nowhere safe to run."},
+        {"movieId": 443, "score": 0.79, "reason": "Flocks of silent killers descend, turning quiet town into desperate flight."},
+        {"movieId": 452, "score": 0.77, "reason": "Shark returns in frigid bay to hunt and shatter seaside idyll."}
+      ]
+    },
+    "0517": {
+      "top10": [
+        {"movieId": 1, "score": 0.95, "reason": "Endearing toy camaraderie that feels like the truest of lifelong bonds."},
+        {"movieId": 140, "score": 0.93, "reason": "Three pets’ determined journey home radiates loyal friendship warmth."},
+        {"movieId": 42, "score": 0.91, "reason": "Convenience-store banter among old friends feels utterly lived-in and real."},
+        {"movieId": 655, "score": 0.89, "reason": "Four boys’ nostalgic road trip sealed with shared secrets and laughter."},
+        {"movieId": 21, "score": 0.87, "reason": "Beloved Muppets and orphan’s grand adventure brimming with joyful mischief."},
+        {"movieId": 169, "score": 0.85, "reason": "Ingenious inventor and his dog share heartfelt, hilarious collaboration."},
+        {"movieId": 189, "score": 0.83, "reason": "Cheese-moon escapade captures pure pleasure of creative, trusting partnership."},
+        {"movieId": 186, "score": 0.81, "reason": "Brothers reunited by music and mayhem in stirring blues-powered friendship."},
+        {"movieId": 238, "score": 0.79, "reason": "Bumbling bank robbers turned duo spark madcap schemes with genuine heart."},
+        {"movieId": 400, "score": 0.77, "reason": "Lovable kids’ club antics unfold with honest warmth and silly loyalty."}
+      ]
+    },
+    "0518": {
+      "top10": [
+        {"movieId": 135, "score": 0.95, "reason": "Cosmic odyssey through silence and wonder that reshapes your sense of scale."},
+        {"movieId": 511, "score": 0.93, "reason": "Sweeping desert vistas and human ambition played out on epic canvases."},
+        {"movieId": 199, "score": 0.91, "reason": "Ingenious POW escape feels monumental against jungle and empire."},
+        {"movieId": 180, "score": 0.89, "reason": "Vietnam’s jungles become awe-struck crucible of humanity and madness."},
+        {"movieId": 22, "score": 0.87, "reason": "Stirring rebellion on mist-cloaked fields evokes timeless heroism."},
+        {"movieId": 241, "score": 0.85, "reason": "Frontier epic framed by breathtaking wilderness and haunting devotion."},
+        {"movieId": 132, "score": 0.83, "reason": "Technicolor dreamland that underlines childhood’s vast, luminous promise."},
+        {"movieId": 172, "score": 0.81, "reason": "Galactic struggle in icy space yields profound cosmic vistas."},
+        {"movieId": 69, "score": 0.79, "reason": "Life’s grand journey across decades woven into panoramic American tapestry."},
+        {"movieId": 82, "score": 0.77, "reason": "Jurassic giants towering in primeval island jungle demanding your awe."}
+      ]
+    }
+  }
+}

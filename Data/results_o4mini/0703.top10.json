@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 17,
+    "score": 0.98,
+    "reason": "Criminal brothers on a violent road trip blending crime and grit across the Mexican border"
+  },
+  {
+    "movieId": 53,
+    "score": 0.95,
+    "reason": "Couple on a bloody cross-country killing spree, a raw study of criminal mania"
+  },
+  {
+    "movieId": 581,
+    "score": 0.93,
+    "reason": "Paranoid drifter and girlfriend on a tense highway odyssey through violence"
+  },
+  {
+    "movieId": 92,
+    "score": 0.9,
+    "reason": "Crime couple on the run travel from city to city pursued by mobsters"
+  },
+  {
+    "movieId": 334,
+    "score": 0.88,
+    "reason": "Man trapped in a backroad nightmare hunts down a psychotic stranger"
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "Wrongly accused doctor on a desperate cross-state escape from the law"
+  },
+  {
+    "movieId": 33,
+    "score": 0.82,
+    "reason": "Guitar-toting drifter becomes hunted fugitive on a dusty Mexican highway"
+  },
+  {
+    "movieId": 346,
+    "score": 0.8,
+    "reason": "Aging criminal pulled back into the underworld, scrambling across state lines"
+  },
+  {
+    "movieId": 1303,
+    "score": 0.78,
+    "reason": "Bank robber and lover bolt south, navigating treacherous terrain to elude capture"
+  },
+  {
+    "movieId": 504,
+    "score": 0.75,
+    "reason": "Notorious duo living outside the law, crisscrossing states in a fatal romance"
+  }
+]

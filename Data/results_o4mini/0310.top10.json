@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1067,
+    "score": 1.0,
+    "reason": "A charming debut crime caper with offbeat humor and endearing misfits."
+  },
+  {
+    "movieId": 26,
+    "score": 0.95,
+    "reason": "A warm, low-key family dramedy with authentic characters and indie heart."
+  },
+  {
+    "movieId": 733,
+    "score": 0.9,
+    "reason": "A fresh, heartfelt lesbian romance driven by genuine dialogue and intimacy."
+  },
+  {
+    "movieId": 150,
+    "score": 0.85,
+    "reason": "A witty, character-driven comedy capturing L.A. nightlife and camaraderie."
+  },
+  {
+    "movieId": 246,
+    "score": 0.8,
+    "reason": "A smart, character-focused comic drama exploring friendship and identity."
+  },
+  {
+    "movieId": 537,
+    "score": 0.75,
+    "reason": "A dreamy, poignant odyssey through youth, longing, and streetwise wisdom."
+  },
+  {
+    "movieId": 93,
+    "score": 0.7,
+    "reason": "A painfully funny coming-of-age tale rich in awkward charm and honesty."
+  },
+  {
+    "movieId": 34,
+    "score": 0.65,
+    "reason": "A surreal teen love triangle shot through with edgy, darkly comic energy."
+  },
+  {
+    "movieId": 1071,
+    "score": 0.6,
+    "reason": "A whimsical night-out fantasy with youthful spirit and playful mischief."
+  },
+  {
+    "movieId": 955,
+    "score": 0.55,
+    "reason": "A subtle, talk-driven romance that feels spontaneous and intimately real."
+  }
+]

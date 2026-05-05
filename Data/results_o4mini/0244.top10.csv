@@ -1,0 +1,11 @@
+movieId,score,reason
+8,0.95,"Title 'Babe' is only 4 characters long, fitting the very short title criterion."
+11,0.93,"Title 'Seven' is exactly 5 characters, one of the shortest on the list."
+568,0.91,"Title 'Speed' has 5 characters, a concise and short title."
+1329,0.89,"Title 'Boys' is 4 characters long, matching the short title preference."
+458,0.87,"Title 'Nixon' consists of just 5 characters, very succinct."
+656,0.85,"Title 'M' is a single character, the shortest possible title."
+38,0.83,"Title 'Net' is 3 characters, notably short and direct."
+32,0.81,"Title 'Crumb' is 5 characters, meeting the brief length requirement."
+1207,0.79,"Title 'Jade' is only 4 characters long, a very brief title."
+569,0.77,"Title 'Wolf' is 4 characters, satisfying the short title request."

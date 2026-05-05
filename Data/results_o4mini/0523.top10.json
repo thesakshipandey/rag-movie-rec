@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 0.98,
+    "reason": "Wholesome talking-pig tale warms heart with gentle humor and farmyard charm"
+  },
+  {
+    "movieId": 78,
+    "score": 0.95,
+    "reason": "Boy-and-orca bond delivers sweet comfort and unthreatening thrills"
+  },
+  {
+    "movieId": 66,
+    "score": 0.93,
+    "reason": "Cozy Chicago romance feels like a reassuring warm-hearted embrace"
+  },
+  {
+    "movieId": 417,
+    "score": 0.91,
+    "reason": "Twin sister antics sparkle with playful innocence and homey camaraderie"
+  },
+  {
+    "movieId": 140,
+    "score": 0.88,
+    "reason": "Loyal pets' adventure brims with loyalty and safe-family wonder"
+  },
+  {
+    "movieId": 623,
+    "score": 0.86,
+    "reason": "Good-natured angels uplift baseball fans in a sunny, feel-good fantasy"
+  },
+  {
+    "movieId": 103,
+    "score": 0.83,
+    "reason": "Afterlife caper stars lovable dogs in a gentle, whimsical world"
+  },
+  {
+    "movieId": 225,
+    "score": 0.8,
+    "reason": "Puppy pandemonium delivers fluffy fun and nostalgic warmth"
+  },
+  {
+    "movieId": 142,
+    "score": 0.77,
+    "reason": "Magical musical ride through wartime Britain soothes and delights"
+  },
+  {
+    "movieId": 419,
+    "score": 0.75,
+    "reason": "Charming nanny and song-filled skies whisk you into pure childlike bliss"
+  }
+]

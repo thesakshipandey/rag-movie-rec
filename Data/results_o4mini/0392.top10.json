@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 67,
+    "score": 1.0,
+    "reason": "Ace Ventura’s outrageous animal antics deliver pure, unfiltered comedy joy."
+  },
+  {
+    "movieId": 94,
+    "score": 0.95,
+    "reason": "Home Alone’s mischievous booby traps and Kevin’s grin make for innocent hilarity."
+  },
+  {
+    "movieId": 202,
+    "score": 0.9,
+    "reason": "Groundhog Day’s playful time loop and Bill Murray’s charm bring buoyant laughs."
+  },
+  {
+    "movieId": 41,
+    "score": 0.85,
+    "reason": "Billy Madison’s absurd schoolyard hijinks spark gleeful, carefree laughter."
+  },
+  {
+    "movieId": 367,
+    "score": 0.8,
+    "reason": "Clueless’s witty banter and stylish satire create irresistibly bright humor."
+  },
+  {
+    "movieId": 16,
+    "score": 0.75,
+    "reason": "French Twist’s uproarious culture-clash comedy keeps the smiles coming."
+  },
+  {
+    "movieId": 154,
+    "score": 0.7,
+    "reason": "Life of Brian’s irreverent absurdity is pure irrepressible comedic gold."
+  },
+  {
+    "movieId": 72,
+    "score": 0.65,
+    "reason": "The Mask’s cartoonish gags and Jim Carrey’s elastic energy are sheer fun."
+  },
+  {
+    "movieId": 393,
+    "score": 0.6,
+    "reason": "Mrs. Doubtfire’s warmhearted antics and Robin Williams’s joy lighten every scene."
+  },
+  {
+    "movieId": 249,
+    "score": 0.55,
+    "reason": "Austin Powers’s cheeky spy spoofs and playful silliness are pure pleasure."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 87,
+    "score": 0.95,
+    "reason": "Searching for Bobby Fischer captures a boy’s quiet triumph in mastering a single chess move"
+  },
+  {
+    "movieId": 126,
+    "score": 0.92,
+    "reason": "Spitfire Grill shows a parolee’s small-town cooking dream blooming into a fulfilling personal victory"
+  },
+  {
+    "movieId": 251,
+    "score": 0.9,
+    "reason": "Shall We Dance? follows a retiree’s first hesitant steps into ballroom, a tender, quietly joyous triumph"
+  },
+  {
+    "movieId": 957,
+    "score": 0.88,
+    "reason": "Pushing Hands portrays a veteran finding fresh purpose in tai chi practice, a gentle, satisfying achievement"
+  },
+  {
+    "movieId": 20,
+    "score": 0.85,
+    "reason": "Angels and Insects highlights a naturalist’s modest yet meaningful breakthrough in Victorian scientific work"
+  },
+  {
+    "movieId": 15,
+    "score": 0.82,
+    "reason": "Mr. Holland’s Opus celebrates one teacher’s humble goal: a final finished piece that’s all his own"
+  },
+  {
+    "movieId": 41,
+    "score": 0.8,
+    "reason": "Billy Madison is a goofy yet heartfelt tale of completing grade school against every odd—a tiny, perfect win"
+  },
+  {
+    "movieId": 14,
+    "score": 0.78,
+    "reason": "Postino, Il finds a simple postman’s daily letters unlocking love, a quiet victory of the heart"
+  },
+  {
+    "movieId": 170,
+    "score": 0.75,
+    "reason": "Cinema Paradiso shows a filmmaker’s modest restoration of an old theater, deeply satisfying in its small scope"
+  },
+  {
+    "movieId": 955,
+    "score": 0.72,
+    "reason": "Before Sunrise distills a single evening’s meeting into a profound, intimate achievement of connection"
+  }
+]

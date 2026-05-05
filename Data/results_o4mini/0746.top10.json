@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 483,
+    "score": 1.0,
+    "reason": "Casablanca – bittersweet wartime romance of love and sacrifice"
+  },
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Before Sunrise – tender Parisian night of yearning and missed connection"
+  },
+  {
+    "movieId": 60,
+    "score": 0.9,
+    "reason": "Three Colors: Blue – melancholic quest for freedom and emotional rebirth"
+  },
+  {
+    "movieId": 51,
+    "score": 0.85,
+    "reason": "Legends of the Fall – sweeping tale of love, loss, and family bonds"
+  },
+  {
+    "movieId": 275,
+    "score": 0.8,
+    "reason": "Sense and Sensibility – romantic ache beneath civilized reserve"
+  },
+  {
+    "movieId": 1459,
+    "score": 0.75,
+    "reason": "Madame Butterfly – tragic cross-cultural passion and longing"
+  },
+  {
+    "movieId": 286,
+    "score": 0.7,
+    "reason": "English Patient – lush WWII romance, beautiful and melancholic"
+  },
+  {
+    "movieId": 313,
+    "score": 0.65,
+    "reason": "Titanic – epic doomed love, ache and hope on the high seas"
+  },
+  {
+    "movieId": 213,
+    "score": 0.6,
+    "reason": "Room with a View – genteel Italian escape, heartfelt and wistful"
+  },
+  {
+    "movieId": 740,
+    "score": 0.55,
+    "reason": "Jane Eyre – Gothic yearning and bittersweet romantic tension"
+  }
+]

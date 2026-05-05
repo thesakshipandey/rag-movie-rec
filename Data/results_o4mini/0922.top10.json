@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 0.95,
+    "reason": "Lavish, tragic portrait of Mozart’s genius and self-destruction"
+  },
+  {
+    "movieId": 728,
+    "score": 0.9,
+    "reason": "Beethoven biopic of towering ambition and haunting downfall"
+  },
+  {
+    "movieId": 32,
+    "score": 0.85,
+    "reason": "Intense documentary of a cartoonist’s brilliant yet tormented mind"
+  },
+  {
+    "movieId": 1010,
+    "score": 0.8,
+    "reason": "Raw, painter’s saga of fame-ruin and heartbreaking ambition"
+  },
+  {
+    "movieId": 531,
+    "score": 0.75,
+    "reason": "Powerful boxer’s rise and ruin in a masterpiece of grit"
+  },
+  {
+    "movieId": 47,
+    "score": 0.7,
+    "reason": "Stylish biopic of cult filmmaker consumed by his obsessions"
+  },
+  {
+    "movieId": 192,
+    "score": 0.65,
+    "reason": "Visceral boxing drama capturing genius, rage, and regret"
+  },
+  {
+    "movieId": 289,
+    "score": 0.6,
+    "reason": "Eva Perón’s meteoric rise and tragic toll in a poignant musical"
+  },
+  {
+    "movieId": 511,
+    "score": 0.55,
+    "reason": "Epic Arabian War drama of a visionary and his tortured conscience"
+  },
+  {
+    "movieId": 698,
+    "score": 0.5,
+    "reason": "Haunting drama of a butler’s rigid devotion and personal collapse"
+  }
+]

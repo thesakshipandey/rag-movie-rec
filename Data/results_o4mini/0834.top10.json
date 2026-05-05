@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 0.95,
+    "reason": "An exiled filmmaker returns to Sicily, gently unraveling the bittersweet tapestry of his childhood and choices."
+  },
+  {
+    "movieId": 86,
+    "score": 0.93,
+    "reason": "A devoted butler reflects on decades of service, wrestling with unwavering duty and the costs of a life unlived."
+  },
+  {
+    "movieId": 51,
+    "score": 0.9,
+    "reason": "Three brothers revisit wartime bonds and lost chances, mourning their past love with elegiac acceptance."
+  },
+  {
+    "movieId": 469,
+    "score": 0.88,
+    "reason": "Multiple lives intersect in vignettes of regret and longing, capturing the sharp poignancy of paths not taken."
+  },
+  {
+    "movieId": 202,
+    "score": 0.85,
+    "reason": "A cynical weatherman relives the same day, learning to embrace life’s missed moments with tender insight."
+  },
+  {
+    "movieId": 191,
+    "score": 0.83,
+    "reason": "An aging composer recalls rivalry and desire, longing for the life he might have savored beside his friend."
+  },
+  {
+    "movieId": 512,
+    "score": 0.8,
+    "reason": "An angel observes human yearnings before choosing mortal love, pondering the beauty of a life unlived."
+  },
+  {
+    "movieId": 955,
+    "score": 0.78,
+    "reason": "Two strangers share a midnight wander in Vienna, glimpsing the lives they could have woven through a simple encounter."
+  },
+  {
+    "movieId": 276,
+    "score": 0.75,
+    "reason": "A paramedic on a self-destructive path forms an unexpected bond that helps him forgive history’s untaken turns."
+  },
+  {
+    "movieId": 207,
+    "score": 0.72,
+    "reason": "A poet duelist clashes with love’s truths, imagining the alternate life that might have softened his proud heart."
+  }
+]

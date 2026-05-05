@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 0.99,
+    "reason": "Beloved uplifting prison drama with compelling storytelling and memorable characters."
+  },
+  {
+    "movieId": 56,
+    "score": 0.97,
+    "reason": "Groundbreaking crime saga with interwoven stories, snappy dialogue, and iconic cool."
+  },
+  {
+    "movieId": 69,
+    "score": 0.95,
+    "reason": "Heart-warming odyssey through decades of American life, balancing humor and poignancy."
+  },
+  {
+    "movieId": 1,
+    "score": 0.93,
+    "reason": "Charming animated adventure with witty humor, heart, and pioneering computer animation."
+  },
+  {
+    "movieId": 82,
+    "score": 0.91,
+    "reason": "Blockbuster sci-fi thriller with jaw-dropping visual effects and relentless thrills."
+  },
+  {
+    "movieId": 313,
+    "score": 0.89,
+    "reason": "Epic romance-disaster spectacle, sweeping scale and emotional depth."
+  },
+  {
+    "movieId": 96,
+    "score": 0.87,
+    "reason": "High-octane sci-fi action landmark with groundbreaking special effects."
+  },
+  {
+    "movieId": 71,
+    "score": 0.85,
+    "reason": "Animated coming-of-age masterpiece, unforgettable music and majestic storytelling."
+  },
+  {
+    "movieId": 144,
+    "score": 0.83,
+    "reason": "Pulse-pounding action classic with razor-sharp humor and tenacious hero."
+  },
+  {
+    "movieId": 202,
+    "score": 0.81,
+    "reason": "Inventive comedy-drama with a clever time-loop premise and endearing optimism."
+  }
+]

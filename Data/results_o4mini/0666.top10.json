@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 468,
+    "score": 0.99,
+    "reason": "Rudy features the classic underdog team rising to a triumphant moment"
+  },
+  {
+    "movieId": 215,
+    "score": 0.97,
+    "reason": "Field of Dreams celebrates unlikely baseball triumph and community spirit"
+  },
+  {
+    "movieId": 1035,
+    "score": 0.95,
+    "reason": "Cool Runnings follows a ragtag bobsled team’s journey to the Olympics"
+  },
+  {
+    "movieId": 138,
+    "score": 0.93,
+    "reason": "D3: The Mighty Ducks continues the underdog hockey story with heart"
+  },
+  {
+    "movieId": 261,
+    "score": 0.92,
+    "reason": "Air Bud charms with a sports-savvy dog leading team to success"
+  },
+  {
+    "movieId": 284,
+    "score": 0.9,
+    "reason": "Tin Cup blends golf underdog arc with feel-good humor"
+  },
+  {
+    "movieId": 820,
+    "score": 0.88,
+    "reason": "Space Jam unites misfits in a wild basketball showdown"
+  },
+  {
+    "movieId": 623,
+    "score": 0.87,
+    "reason": "Angels in the Outfield warms hearts with baseball magic"
+  },
+  {
+    "movieId": 48,
+    "score": 0.85,
+    "reason": "Hoop Dreams documents teen athletes chasing big‐game glory"
+  },
+  {
+    "movieId": 131,
+    "score": 0.83,
+    "reason": "Mr. Smith Goes to Washington portrays civic underdogs rallying for victory"
+  }
+]

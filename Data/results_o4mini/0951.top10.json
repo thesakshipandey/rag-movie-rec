@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Two young strangers share deep conversations on a train journey across Europe at dawn"
+  },
+  {
+    "movieId": 664,
+    "score": 0.9,
+    "reason": "A drifter and his son travel the American Southwest in a tender, rambling search for family"
+  },
+  {
+    "movieId": 382,
+    "score": 0.88,
+    "reason": "Three drag queens on a free-spirited cross-country odyssey packed with witty banter"
+  },
+  {
+    "movieId": 150,
+    "score": 0.85,
+    "reason": "Friends navigate L.A.’s nightlife with rapid-fire dialogue and nostalgic camaraderie"
+  },
+  {
+    "movieId": 304,
+    "score": 0.82,
+    "reason": "Brothers tour North America encountering wild animals and bonding in a documentary-style trek"
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Indie slice-of-life comedy with rambling, character-driven conversations in a convenience store"
+  },
+  {
+    "movieId": 959,
+    "score": 0.78,
+    "reason": "Ensemble cast shares bittersweet vignettes set against the last day of school in small-town Texas"
+  },
+  {
+    "movieId": 1074,
+    "score": 0.75,
+    "reason": "Twenty-somethings navigate post-college malaise with introspective conversations in Seattle"
+  },
+  {
+    "movieId": 137,
+    "score": 0.72,
+    "reason": "Two Italian brothers on a culinary road trip with soulful dialogue and bittersweet moments"
+  },
+  {
+    "movieId": 284,
+    "score": 0.7,
+    "reason": "A former golf prodigy travels for tournaments and self-discovery in a laid-back, rambling drama"
+  }
+]

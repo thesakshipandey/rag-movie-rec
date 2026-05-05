@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seasoned Somerset mentors young Mills on his final week, their bond eclipsing the grisly case"
+  },
+  {
+    "movieId": 302,
+    "score": 0.92,
+    "reason": "Veteran Exley butts heads with idealistic White as L.A. secrets bind them beyond the crime"
+  },
+  {
+    "movieId": 124,
+    "score": 0.88,
+    "reason": "Retired Ranger Payne and rookie Driscoll face Dixie’s machinations first, friendship second"
+  },
+  {
+    "movieId": 327,
+    "score": 0.85,
+    "reason": "Quiet Sheriff Donlan must team with ostracized Deputy Moore to expose precinct corruption"
+  },
+  {
+    "movieId": 27,
+    "score": 0.82,
+    "reason": "Lowrey’s slick veteran style contrasts Burnett’s rookie honesty as they chase $100 million heroin"
+  },
+  {
+    "movieId": 79,
+    "score": 0.78,
+    "reason": "Kimble and relentless Marshal Gerard clash in a chase where their dynamic outshines the manhunt"
+  },
+  {
+    "movieId": 89,
+    "score": 0.75,
+    "reason": "Veteran Deckard grudgingly guides rookie Gaff through replicant hunts, focus on their uneasy respect"
+  },
+  {
+    "movieId": 79,
+    "score": 0.75,
+    "reason": "Kimble and relentless Marshal Gerard clash in a chase where their dynamic outshines the manhunt"
+  },
+  {
+    "movieId": 124,
+    "score": 0.88,
+    "reason": "Retired Ranger Payne and rookie Driscoll face Dixie’s machinations first, friendship second"
+  },
+  {
+    "movieId": 302,
+    "score": 0.92,
+    "reason": "Veteran Exley butts heads with idealistic White as L.A. secrets bind them beyond the crime"
+  }
+]

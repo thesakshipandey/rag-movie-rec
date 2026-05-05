@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 88,
+    "score": 0.95,
+    "reason": "Two lonely souls connect across holiday airwaves for years before finally meeting."
+  },
+  {
+    "movieId": 10,
+    "score": 0.92,
+    "reason": "A girl seeks a mystery pen pal, their letters almost crossing until fate intervenes."
+  },
+  {
+    "movieId": 620,
+    "score": 0.89,
+    "reason": "A fate-twisted quiz show makes two strangers question timing and destiny."
+  },
+  {
+    "movieId": 95,
+    "score": 0.86,
+    "reason": "A pauper courts a princess through chance meetings until timing at last aligns."
+  },
+  {
+    "movieId": 236,
+    "score": 0.83,
+    "reason": "A drunk mother’s baby almost meets his birth father through near-miss adoption plots."
+  },
+  {
+    "movieId": 573,
+    "score": 0.8,
+    "reason": "Parasites invade but two survivors’ paths brush close through shifting identities."
+  },
+  {
+    "movieId": 289,
+    "score": 0.77,
+    "reason": "A rising star and a spy dodge near encounters until one fateful premiere night."
+  },
+  {
+    "movieId": 691,
+    "score": 0.74,
+    "reason": "A man hunts for the truth about his past as others just miss crossing his path."
+  },
+  {
+    "movieId": 39,
+    "score": 0.71,
+    "reason": "Memory tapes swap lives, and two people nearly cross paths until technology wanes."
+  },
+  {
+    "movieId": 273,
+    "score": 0.68,
+    "reason": "A detective and thief nearly collide chasing each other across a city’s catwalks."
+  }
+]

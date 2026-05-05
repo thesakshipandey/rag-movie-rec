@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 70,
+    "score": 1.0,
+    "reason": "Four Weddings and a Funeral charms with witty banter and the spark of unexpected romance."
+  },
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Before Sunrise unfolds a tender connection in stolen moments on Vienna’s streets."
+  },
+  {
+    "movieId": 216,
+    "score": 0.9,
+    "reason": "When Harry Met Sally’s clever dialogue makes you believe in love at every unexpected turn."
+  },
+  {
+    "movieId": 487,
+    "score": 0.85,
+    "reason": "Roman Holiday’s gentle glances and stolen jack-rabbit race capture carefree blossoming love."
+  },
+  {
+    "movieId": 739,
+    "score": 0.8,
+    "reason": "Pretty Woman sparkles with playful chemistry and the thrill of two worlds colliding."
+  },
+  {
+    "movieId": 88,
+    "score": 0.75,
+    "reason": "Sleepless in Seattle weaves shy glances into a romance that feels like a midnight promise."
+  },
+  {
+    "movieId": 66,
+    "score": 0.7,
+    "reason": "While You Were Sleeping turns a subway rescue into a story of sweet, accidental courtship."
+  },
+  {
+    "movieId": 275,
+    "score": 0.65,
+    "reason": "Sense and Sensibility balances wit and longing as sisters navigate matters of the heart."
+  },
+  {
+    "movieId": 173,
+    "score": 0.6,
+    "reason": "The Princess Bride delights with dashing heroes, clever quips, and a love story you’ll cheer."
+  },
+  {
+    "movieId": 274,
+    "score": 0.55,
+    "reason": "Sabrina pairs shy smiles with sparkling banter in a tale of loyalty and unexpected attraction."
+  }
+]

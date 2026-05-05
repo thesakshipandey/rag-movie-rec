@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "1994 low-fi indie capturing slacker life with rough edges."
+  },
+  {
+    "movieId": 747,
+    "score": 0.93,
+    "reason": "1993 mumblecore precursor about unlikely friendships in NYC."
+  },
+  {
+    "movieId": 473,
+    "score": 0.91,
+    "reason": "1996 offbeat fantasy exploring awkward youth and escape."
+  },
+  {
+    "movieId": 1077,
+    "score": 0.89,
+    "reason": "1995 indie blend of crime and comedy with DIY aesthetic."
+  },
+  {
+    "movieId": 583,
+    "score": 0.87,
+    "reason": "1993 gritty New York portrait with intimate character focus."
+  },
+  {
+    "movieId": 1521,
+    "score": 0.85,
+    "reason": "1993 quirky sibling drama shot in naturalistic style."
+  },
+  {
+    "movieId": 954,
+    "score": 0.83,
+    "reason": "1995 documentary-style experimental indie on creative process."
+  },
+  {
+    "movieId": 789,
+    "score": 0.81,
+    "reason": "1995 fast-talking ensemble crime comedy with rough edges."
+  },
+  {
+    "movieId": 1073,
+    "score": 0.79,
+    "reason": "1994 black comedy of disconnected slacker characters."
+  },
+  {
+    "movieId": 1079,
+    "score": 0.77,
+    "reason": "1994 stoner road-trip indie with unpolished humor."
+  }
+]

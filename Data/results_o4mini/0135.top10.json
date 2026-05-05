@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "Jack Torrance’s descent into madness amid ghostly whispers in the Overlook Hotel leaves you questioning every flicker of reality."
+  },
+  {
+    "movieId": 324,
+    "score": 0.95,
+    "reason": "Lynch’s noir-tinged mystery blurs dreams and wakefulness, trapping its hero—and you—in unsettling uncertainty."
+  },
+  {
+    "movieId": 39,
+    "score": 0.9,
+    "reason": "A nightmarish dive into memory recording tech leaves Lenny unsure what’s real as his world fractures under dark visions."
+  },
+  {
+    "movieId": 145,
+    "score": 0.88,
+    "reason": "A scientist’s virtual reality experiments spiral into hallucinatory chaos, leaving both him and the viewer disoriented."
+  },
+  {
+    "movieId": 7,
+    "score": 0.87,
+    "reason": "James Cole’s fractured mind and unreliable visions in a post-apocalyptic quest will keep you guessing at every twist."
+  },
+  {
+    "movieId": 38,
+    "score": 0.85,
+    "reason": "A web of digital identity theft and paranoia ensnares Angela, making reality shift beneath her feet in this techno-thriller."
+  },
+  {
+    "movieId": 260,
+    "score": 0.83,
+    "reason": "Deep space terror and shifting realities aboard the Event Horizon probe offer dread so profound you’ll question what’s real."
+  },
+  {
+    "movieId": 350,
+    "score": 0.82,
+    "reason": "A detective’s chilling encounters with a demon leave him—and you—uncertain if it’s external evil or his own unraveling mind."
+  },
+  {
+    "movieId": 206,
+    "score": 0.8,
+    "reason": "Tetsuo’s violent psychic transformation turns steel and flesh into one, distorting reality in a visceral nightmare."
+  },
+  {
+    "movieId": 919,
+    "score": 0.78,
+    "reason": "Krank’s twisted dream-thief world is a surreal hallucination that blurs the line between waking terror and nightmare."
+  }
+]

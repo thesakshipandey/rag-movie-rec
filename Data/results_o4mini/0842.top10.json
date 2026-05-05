@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 85,
+    "score": 0.95,
+    "reason": "Holiday gathering of affluent couple erupts in relentless passive-aggressive politeness"
+  },
+  {
+    "movieId": 110,
+    "score": 0.92,
+    "reason": "War-time family reunion aboard a riverboat brims with forced cordiality and hidden rifts"
+  },
+  {
+    "movieId": 535,
+    "score": 0.9,
+    "reason": "Family road trip turns into a fest of backhanded compliments and simmering resentments"
+  },
+  {
+    "movieId": 401,
+    "score": 0.88,
+    "reason": "’70s sitcom family reunion exposes all the cracks behind idyllic suburban smiles"
+  },
+  {
+    "movieId": 13,
+    "score": 0.85,
+    "reason": "Art curator hosts festive soiree where niceness is mandatory but sincerity is scarce"
+  },
+  {
+    "movieId": 32,
+    "score": 0.82,
+    "reason": "Documentary crew captures the cringe-worthy niceties at a tight-knit family’s dinner table"
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Wedding celebration in Somerset is an exercise in polite pretense and awkward revelations"
+  },
+  {
+    "movieId": 60,
+    "score": 0.78,
+    "reason": "Grieving widow’s funeral gathers relatives whose sympathy hides deep-seated grievances"
+  },
+  {
+    "movieId": 1140,
+    "score": 0.75,
+    "reason": "Suburban Christmas gathering where greeting cards tell only half the story of family ties"
+  },
+  {
+    "movieId": 1252,
+    "score": 0.73,
+    "reason": "Exiled writer returns to aunt’s home for a holiday fraught with well-meaning cruelty"
+  }
+]

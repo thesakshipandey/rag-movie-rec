@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 298,
+    "score": 0.95,
+    "reason": "Cop and villain switch bodies and outthink each other in a high-stakes cat-and-mouse spy game"
+  },
+  {
+    "movieId": 333,
+    "score": 0.92,
+    "reason": "Billionaire manipulated by elaborate real-world game, constantly improvising against a matched adversary"
+  },
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "A mastermind’s heist unravels into a deadly puzzle of minds matched in wits and respect"
+  },
+  {
+    "movieId": 5,
+    "score": 0.88,
+    "reason": "Serial-killer expert drawn into a cerebral chase with a cunning predator"
+  },
+  {
+    "movieId": 79,
+    "score": 0.87,
+    "reason": "Wrongly accused doctor vs. one-armed man: mutual respect fuels relentless pursuit"
+  },
+  {
+    "movieId": 11,
+    "score": 0.85,
+    "reason": "Detectives vs. ritual killer, each adapting dark strategies in tense mental duel"
+  },
+  {
+    "movieId": 293,
+    "score": 0.83,
+    "reason": "Undercover FBI agent infiltrates mob, outwitting and outthinking a seasoned crime boss"
+  },
+  {
+    "movieId": 98,
+    "score": 0.82,
+    "reason": "FBI trainee and brilliant captive spar intellectually over each other’s next move"
+  },
+  {
+    "movieId": 2,
+    "score": 0.8,
+    "reason": "Bond vs. treacherous ally, matching strategy for infiltrations and double-crosses"
+  },
+  {
+    "movieId": 31,
+    "score": 0.78,
+    "reason": "Nuclear sub captain battles his XO over launch orders in a tense chess-like standoff"
+  }
+]

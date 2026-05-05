@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.95,
+    "reason": "Factory owner forges papers and secretly shelters Jews to save lives under Nazi rule"
+  },
+  {
+    "movieId": 14,
+    "score": 0.88,
+    "reason": "Mailman aids exiled poet by smuggling letters and subverting censorship on a small Italian isle"
+  },
+  {
+    "movieId": 136,
+    "score": 0.85,
+    "reason": "A lone senator stages a filibuster to expose corruption, risking his career for honest governance"
+  },
+  {
+    "movieId": 1482,
+    "score": 0.8,
+    "reason": "Students stage peaceful sit-ins to confront oppressive rule, risking arrest for nonviolent protest"
+  },
+  {
+    "movieId": 1650,
+    "score": 0.78,
+    "reason": "Partisans harbor fugitives and carry out clandestine resistance against occupying forces"
+  },
+  {
+    "movieId": 1526,
+    "score": 0.75,
+    "reason": "An Amish community hides a key witness, defying both criminals and authorities to protect him"
+  },
+  {
+    "movieId": 641,
+    "score": 0.72,
+    "reason": "A military lawyer defends soldiers condemned for refusal of a suicidal order, challenging harsh injustice"
+  },
+  {
+    "movieId": 99,
+    "score": 0.65,
+    "reason": "Dwarves clandestinely hide Snow White in their cottage, shielding her from the queen’s deadly decree"
+  },
+  {
+    "movieId": 113,
+    "score": 0.62,
+    "reason": "A traveling doctor rescues wanted patriots and eludes authorities through quarantined villages"
+  },
+  {
+    "movieId": 86,
+    "score": 0.6,
+    "reason": "A butler covertly aids vulnerable guests under a repressive regime, masking his dissent with quiet service"
+  }
+]

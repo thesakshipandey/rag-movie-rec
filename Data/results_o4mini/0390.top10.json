@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "Babe celebrates unlikely friendship and steadfast loyalty"
+  },
+  {
+    "movieId": 140,
+    "score": 0.95,
+    "reason": "Homeward Bound: The Incredible Journey warms with true devotion"
+  },
+  {
+    "movieId": 173,
+    "score": 0.9,
+    "reason": "The Princess Bride highlights the comfort of genuine camaraderie"
+  },
+  {
+    "movieId": 216,
+    "score": 0.85,
+    "reason": "When Harry Met Sally… captures deep, non-romantic connection"
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Clerks finds warmth in friendship amid everyday absurdity"
+  },
+  {
+    "movieId": 241,
+    "score": 0.75,
+    "reason": "The Last of the Mohicans shows loyalty in the face of danger"
+  },
+  {
+    "movieId": 170,
+    "score": 0.7,
+    "reason": "Cinema Paradiso honors the bond between a boy and his mentor"
+  },
+  {
+    "movieId": 955,
+    "score": 0.65,
+    "reason": "Before Sunrise honors a fleeting but profound human connection"
+  },
+  {
+    "movieId": 959,
+    "score": 0.6,
+    "reason": "Dazed and Confused depicts buddies finding each other’s back"
+  },
+  {
+    "movieId": 173,
+    "score": 0.55,
+    "reason": "(Duplicate omitted)"
+  }
+]

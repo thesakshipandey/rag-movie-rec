@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.99,
+    "reason": "Twelve jurors wrestle with reasonable doubt as a young man’s fate hangs in the balance"
+  },
+  {
+    "movieId": 9,
+    "score": 0.97,
+    "reason": "A nun confronts the condemned and the moral collapse of capital punishment"
+  },
+  {
+    "movieId": 641,
+    "score": 0.95,
+    "reason": "Officers ordered to execute their own men wrestle with the cost of blind obedience"
+  },
+  {
+    "movieId": 31,
+    "score": 0.93,
+    "reason": "Submarine officers clash over an order that could trigger nuclear Armageddon"
+  },
+  {
+    "movieId": 11,
+    "score": 0.91,
+    "reason": "A detective’s encounter with pure evil tests his vow to serve justice without judgment"
+  },
+  {
+    "movieId": 144,
+    "score": 0.89,
+    "reason": "A lone marshal must decide whether to face down outlaws or flee to save his life"
+  },
+  {
+    "movieId": 318,
+    "score": 0.87,
+    "reason": "An industrialist turns rescuer, risking it all to save his Jewish workers from the Nazis"
+  },
+  {
+    "movieId": 483,
+    "score": 0.85,
+    "reason": "A bar owner must choose between love and a greater cause under the shadow of World War II"
+  },
+  {
+    "movieId": 199,
+    "score": 0.83,
+    "reason": "POW officers debate duty and honor while forced to build a railway for their enemy"
+  },
+  {
+    "movieId": 79,
+    "score": 0.81,
+    "reason": "A wrongfully convicted doctor defies the law to unmask his wife’s true killer"
+  }
+]

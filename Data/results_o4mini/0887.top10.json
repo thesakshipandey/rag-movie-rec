@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "Powerful single-room drama with mounting tension and moral stakes."
+  },
+  {
+    "movieId": 505,
+    "score": 0.9,
+    "reason": "High-stakes cat-and-mouse thriller in confined spaces."
+  },
+  {
+    "movieId": 603,
+    "score": 0.85,
+    "reason": "Claustrophobic obsession within a single apartment."
+  },
+  {
+    "movieId": 1243,
+    "score": 0.8,
+    "reason": "Grim morgue setting fuels relentless suspense."
+  },
+  {
+    "movieId": 1556,
+    "score": 0.75,
+    "reason": "Small Korean prison camp yields intense survival drama."
+  },
+  {
+    "movieId": 999,
+    "score": 0.7,
+    "reason": "Amnesia thriller plays out in a locked hotel."
+  },
+  {
+    "movieId": 1553,
+    "score": 0.65,
+    "reason": "Submarine-base setting heightens suffocating suspense."
+  },
+  {
+    "movieId": 1552,
+    "score": 0.6,
+    "reason": "Remote cabin isolation drives relentless hunt."
+  },
+  {
+    "movieId": 603,
+    "score": 0.55,
+    "reason": "Intense voyeurism in one closed environment."
+  },
+  {
+    "movieId": 505,
+    "score": 0.5,
+    "reason": "Tightly wound thriller set mostly indoors."
+  }
+]

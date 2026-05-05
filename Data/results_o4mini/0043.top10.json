@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 764,
+    "score": 0.95,
+    "reason": "Good person forced to kill one man to save his family, then must live with it"
+  },
+  {
+    "movieId": 373,
+    "score": 0.9,
+    "reason": "Well‐meaning man coerced into atrocity for loved ones, burden never lifted"
+  },
+  {
+    "movieId": 607,
+    "score": 0.85,
+    "reason": "Decent agent must commit murder to protect others, then carries guilt forever"
+  },
+  {
+    "movieId": 126,
+    "score": 0.8,
+    "reason": "Ordinary man driven to violence to save family, haunted by his act"
+  },
+  {
+    "movieId": 44,
+    "score": 0.75,
+    "reason": "Right a wrong but cost is a single unspeakable deed and lifelong remorse"
+  },
+  {
+    "movieId": 1235,
+    "score": 0.7,
+    "reason": "Father forced into hideous act for child’s sake, then struggles with self"
+  },
+  {
+    "movieId": 813,
+    "score": 0.65,
+    "reason": "Investigator coerced into terrible crime to protect family, no redemption"
+  },
+  {
+    "movieId": 207,
+    "score": 0.6,
+    "reason": "Hero forced to cross moral line for kin, must endure inner damnation"
+  },
+  {
+    "movieId": 1099,
+    "score": 0.55,
+    "reason": "Model mother commits one unspeakable act to save kin, then bears its weight"
+  },
+  {
+    "movieId": 139,
+    "score": 0.5,
+    "reason": "Desperate father driven to murder to shield child, lives crushed afterward"
+  }
+]

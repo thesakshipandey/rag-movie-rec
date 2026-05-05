@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "Heartwarming adventure with sweet charm that feels like a comforting hug."
+  },
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "Gentle career drama suffused with music and tender family moments."
+  },
+  {
+    "movieId": 66,
+    "score": 0.9,
+    "reason": "Cozy romantic comedy full of warmth and gentle humor."
+  },
+  {
+    "movieId": 70,
+    "score": 0.85,
+    "reason": "Warm British tale of friendship, love, and light-hearted gatherings."
+  },
+  {
+    "movieId": 137,
+    "score": 0.8,
+    "reason": "Pleasant foodie drama about passion, family, and Italian hospitality."
+  },
+  {
+    "movieId": 14,
+    "score": 0.75,
+    "reason": "Tender poetic film of friendship and love on a sunlit Italian isle."
+  },
+  {
+    "movieId": 19,
+    "score": 0.7,
+    "reason": "Charming intergenerational story brimming with warmth and community spirit."
+  },
+  {
+    "movieId": 102,
+    "score": 0.65,
+    "reason": "Delightful animated caper with jazzy tunes and aristocratic cuddles."
+  },
+  {
+    "movieId": 140,
+    "score": 0.6,
+    "reason": "Gentle animal adventure that feels like a snug fireside tale."
+  },
+  {
+    "movieId": 417,
+    "score": 0.55,
+    "reason": "Wholesome family reunion comedy with double-trouble delight."
+  }
+]

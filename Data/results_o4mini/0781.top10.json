@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 191,
+    "score": 0.95,
+    "reason": "Mozart’s genius corrupts rival Salieri in spiraling obsession.",
+    "title": "Amadeus",
+    "year": "1984",
+    "plot": ""
+  },
+  {
+    "movieId": 508,
+    "score": 0.93,
+    "reason": "Biopic of Hustler king pushing ambition to the brink.",
+    "title": "People vs. Larry Flynt, The",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 285,
+    "score": 0.9,
+    "reason": "Women confronting ambition’s cost in a tight drama.",
+    "title": "Secrets & Lies",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 259,
+    "score": 0.88,
+    "reason": "Fish-out-of-water tale of self-reinvention and its perils.",
+    "title": "George of the Jungle",
+    "year": "1997",
+    "plot": ""
+  },
+  {
+    "movieId": 475,
+    "score": 0.85,
+    "reason": "Addiction-tinged descent driven by inner demons.",
+    "title": "Trainspotting",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 188,
+    "score": 0.83,
+    "reason": "Betrayal and war trauma ignite tragic rivalry.",
+    "title": "Full Metal Jacket",
+    "year": "1987",
+    "plot": ""
+  },
+  {
+    "movieId": 285,
+    "score": 0.8,
+    "reason": "Obsession and loss haunt theatrical ambition.",
+    "title": "Secrets & Lies",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 385,
+    "score": 0.78,
+    "reason": "Spy-driven clash between duty and ruthless ambition.",
+    "title": "True Lies",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 582,
+    "score": 0.75,
+    "reason": "Daphne’s quest for identity and deadly fixation.",
+    "title": "The Crying Game",
+    "year": "1992",
+    "plot": ""
+  },
+  {
+    "movieId": 349,
+    "score": 0.72,
+    "reason": "Survival-driven collapse of trust and ambition.",
+    "title": "Hard Rain",
+    "year": "1998",
+    "plot": ""
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason
+128,1.0,Longest catalogue title in data (>70 chars)
+254,0.9,Batman & Robin’s overlong subtitle
+90,0.8,So I Married an Axe Murderer’s extended title
+250,0.7,The Fifth Element’s parenthetical title
+146,0.6,Hoop Dreams extended documentary title
+249,0.5,Austin Powers: International Man of Mystery
+167,0.4,Monty Python and the Holy Grail’s subtitles
+236,0.3,Long title of Malcolm X documentary
+69,0.2,Forrest Gump’s long plot intro
+209,0.1,This Is Spinal Tap’s descriptive subtitle

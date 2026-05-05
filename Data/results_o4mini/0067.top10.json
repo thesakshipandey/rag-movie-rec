@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 3,
+    "score": 1.0,
+    "reason": "Hotel job leads to chaotic robbery from the first ding"
+  },
+  {
+    "movieId": 1628,
+    "score": 0.95,
+    "reason": "Attempted kidnap spirals into desperate night of chaos"
+  },
+  {
+    "movieId": 744,
+    "score": 0.9,
+    "reason": "IRA bomber’s latest hit backfires, triggering escalating panic"
+  },
+  {
+    "movieId": 132,
+    "score": 0.85,
+    "reason": "Child left alone takes on bungled burglary gone awry"
+  },
+  {
+    "movieId": 90,
+    "score": 0.8,
+    "reason": "Nightmare of murder cover-up devolves into desperate scramble"
+  },
+  {
+    "movieId": 361,
+    "score": 0.75,
+    "reason": "Artist’s con spirals into disordered flight from consequences"
+  },
+  {
+    "movieId": 333,
+    "score": 0.7,
+    "reason": "Investment tycoon’s revenge plot goes off rails instantly"
+  },
+  {
+    "movieId": 892,
+    "score": 0.65,
+    "reason": "Mechanical dog battle unleashes unintended mayhem"
+  },
+  {
+    "movieId": 1477,
+    "score": 0.6,
+    "reason": "Antique dealer’s discovery sparks a blood-soaked chain of events"
+  },
+  {
+    "movieId": 23,
+    "score": 0.55,
+    "reason": "Taxi driver’s violent rescue attempt triggers unintended fallout"
+  }
+]

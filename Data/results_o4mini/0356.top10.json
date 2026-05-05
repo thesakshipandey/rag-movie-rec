@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "Kubrick’s oppressive winter hotel descent into madness."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.98,
+    "reason": "Haunting governess tale of unseen horrors."
+  },
+  {
+    "movieId": 185,
+    "score": 0.96,
+    "reason": "Hitchcock’s masterful tension in a secluded motel."
+  },
+  {
+    "movieId": 98,
+    "score": 0.94,
+    "reason": "Psychological duel with Hannibal Lecter’s chilling intellect."
+  },
+  {
+    "movieId": 183,
+    "score": 0.92,
+    "reason": "Alien horror aboard a claustrophobic spaceship."
+  },
+  {
+    "movieId": 675,
+    "score": 0.9,
+    "reason": "Murnau’s silent vampire classic of gothic dread."
+  },
+  {
+    "movieId": 217,
+    "score": 0.88,
+    "reason": "De Palma’s lush, atmospheric tribute to Dracula."
+  },
+  {
+    "movieId": 176,
+    "score": 0.86,
+    "reason": "Ripley vs. xenomorphs in tight corridors and eerie silence."
+  },
+  {
+    "movieId": 201,
+    "score": 0.84,
+    "reason": "Evil Dead II’s macabre humor and nightmarish cabin."
+  },
+  {
+    "movieId": 260,
+    "score": 0.82,
+    "reason": "Claustrophobic deep-space horror with looming menace."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.99,
+    "reason": "Kubrick’s cosmic tableau and haunting visuals are rendered in hypnotic, painterly frames."
+  },
+  {
+    "movieId": 175,
+    "score": 0.97,
+    "reason": "Terry Gilliam’s dystopian dreamscapes bathe every shot in surreal, lurid color."
+  },
+  {
+    "movieId": 206,
+    "score": 0.95,
+    "reason": "Akira’s kinetic cyberpunk imagery and bold animation redefine cinematic style."
+  },
+  {
+    "movieId": 170,
+    "score": 0.93,
+    "reason": "Cinema Paradiso’s lush Sicilian vistas feel like a warm, nostalgic painting come alive."
+  },
+  {
+    "movieId": 74,
+    "score": 0.91,
+    "reason": "Faster Pussycat’s bold pop-art colors and kinetic energy overwhelm the screen."
+  },
+  {
+    "movieId": 30,
+    "score": 0.89,
+    "reason": "Bresson’s dreamlike sequences in Belle de Jour blend fantasy and reality in sumptuous detail."
+  },
+  {
+    "movieId": 22,
+    "score": 0.87,
+    "reason": "Braveheart’s epic Scottish landscapes and battle scenes feel like heroic paintings in motion."
+  },
+  {
+    "movieId": 51,
+    "score": 0.85,
+    "reason": "Legends of the Fall’s sweeping Montana panoramas strike you with grand, romantic force."
+  },
+  {
+    "movieId": 50,
+    "score": 0.83,
+    "reason": "Star Wars’ vivid galaxy designs and iconic worlds remain a feast for the eyes."
+  },
+  {
+    "movieId": 175,
+    "score": 0.81,
+    "reason": "(duplicate removed)"
+  }
+]

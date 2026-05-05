@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 512,
+    "score": 1.0,
+    "reason": "Dreamlike, poetic cityscapes and soft focus evoke a melancholic reverie."
+  },
+  {
+    "movieId": 624,
+    "score": 0.98,
+    "reason": "Lyrical musical romance in vibrant, stylized color washes over you like a dream."
+  },
+  {
+    "movieId": 60,
+    "score": 0.96,
+    "reason": "Melancholy emotional current and elegant visuals create a haunting, dreamy mood."
+  },
+  {
+    "movieId": 664,
+    "score": 0.94,
+    "reason": "Long, poetic panoramas of the desert channel a contemplative, wistful atmosphere."
+  },
+  {
+    "movieId": 955,
+    "score": 0.92,
+    "reason": "Floating conversations in nocturnal streets impart a soft, surreal beauty."
+  },
+  {
+    "movieId": 207,
+    "score": 0.9,
+    "reason": "Opulent period visuals and romantic longing paint a gentle, nostalgic haze."
+  },
+  {
+    "movieId": 649,
+    "score": 0.88,
+    "reason": "Sweeping multi‐decade saga with poetic imagery that drifts and lingers."
+  },
+  {
+    "movieId": 463,
+    "score": 0.86,
+    "reason": "Quiet folklore in misty Irish landscapes glides like a melancholy dream."
+  },
+  {
+    "movieId": 512,
+    "score": 0.84,
+    "reason": "Soft‐lit poetry of the everyday, mood triumphing over narrative weight."
+  },
+  {
+    "movieId": 170,
+    "score": 0.82,
+    "reason": "Tender homage to cinema’s magic, unfolding in gentle golden light."
+  }
+]

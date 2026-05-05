@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "Epic space opera beginning a sweeping intergalactic saga."
+  },
+  {
+    "movieId": 172,
+    "score": 0.93,
+    "reason": "Dark middle chapter with shocking twists and deepening conflicts."
+  },
+  {
+    "movieId": 181,
+    "score": 0.91,
+    "reason": "Concluding the trilogy with multi-layered resolutions and action."
+  },
+  {
+    "movieId": 174,
+    "score": 0.89,
+    "reason": "Adventure kickoff with globe-trotting thrills and memorable cliffhangers."
+  },
+  {
+    "movieId": 96,
+    "score": 0.87,
+    "reason": "Sequel raising stakes with complex time-travel twists and intense action."
+  },
+  {
+    "movieId": 127,
+    "score": 0.85,
+    "reason": "Crime epic starting a multi-film saga of power and family."
+  },
+  {
+    "movieId": 187,
+    "score": 0.83,
+    "reason": "Interwoven prequel-sequel expanding the Corleone legacy in rich detail."
+  },
+  {
+    "movieId": 222,
+    "score": 0.81,
+    "reason": "Time-travel installment tying into broader franchise continuity."
+  },
+  {
+    "movieId": 230,
+    "score": 0.79,
+    "reason": "Humorous yet deep arc installment bridging past and future."
+  },
+  {
+    "movieId": 405,
+    "score": 0.77,
+    "reason": "Modern spy thriller kicking off a multi-film franchise of intrigue."
+  }
+]

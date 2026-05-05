@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 21,
+    "score": 1.0,
+    "reason": "Muppet Treasure Island reimagines Stevenson’s swashbuckler"
+  },
+  {
+    "movieId": 174,
+    "score": 0.95,
+    "reason": "Raiders of the Lost Ark delivers globe-trotting thrills"
+  },
+  {
+    "movieId": 82,
+    "score": 0.93,
+    "reason": "Jurassic Park’s island adventure captivates all ages"
+  },
+  {
+    "movieId": 121,
+    "score": 0.91,
+    "reason": "Independence Day features global defence escapades"
+  },
+  {
+    "movieId": 62,
+    "score": 0.89,
+    "reason": "Stargate unlocks an interplanetary quest"
+  },
+  {
+    "movieId": 232,
+    "score": 0.87,
+    "reason": "Under Siege places action on a battleship adventure"
+  },
+  {
+    "movieId": 118,
+    "score": 0.85,
+    "reason": "Twister chases storms in a high-adrenaline journey"
+  },
+  {
+    "movieId": 174,
+    "score": 0.83,
+    "reason": "Dances with Wolves traverses untamed frontier lands"
+  },
+  {
+    "movieId": 173,
+    "score": 0.81,
+    "reason": "The Princess Bride blends fairy-tale adventure"
+  },
+  {
+    "movieId": 82,
+    "score": 0.79,
+    "reason": "The Lost World dives back into dinosaur discovery"
+  }
+]

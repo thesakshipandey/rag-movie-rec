@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 0.98,
+    "reason": "A father’s Sunday feasts become the language of love and reconciliation"
+  },
+  {
+    "movieId": 137,
+    "score": 0.96,
+    "reason": "Two brothers cook up a culinary masterpiece to save their struggling restaurant"
+  },
+  {
+    "movieId": 462,
+    "score": 0.94,
+    "reason": "Cooking becomes the conduit for passion, rebellion and family bonds in Taiwan"
+  },
+  {
+    "movieId": 171,
+    "score": 0.92,
+    "reason": "A Parisian butcher shop’s gourmet offerings mirror its owners’ hidden desires"
+  },
+  {
+    "movieId": 880,
+    "score": 0.9,
+    "reason": "Soul food dinners anchor a family’s unity and healing over one vital meal"
+  },
+  {
+    "movieId": 137,
+    "score": 0.88,
+    "reason": "A single, glorious meal tests friendship and personal pride in small-town Italy"
+  },
+  {
+    "movieId": 45,
+    "score": 0.86,
+    "reason": "Intergenerational love unfolds around meticulously prepared banquets"
+  },
+  {
+    "movieId": 462,
+    "score": 0.84,
+    "reason": "Recipes carry memory and forgiveness through generations of a Mexican clan"
+  },
+  {
+    "movieId": 137,
+    "score": 0.82,
+    "reason": "A chef’s devotion to perfect cuisine brings healing to a broken community"
+  },
+  {
+    "movieId": 171,
+    "score": 0.8,
+    "reason": "A single dish bridges gaps between neighbors and reveals shared humanity"
+  }
+]

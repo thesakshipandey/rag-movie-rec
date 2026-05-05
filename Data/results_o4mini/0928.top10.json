@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 345,
+    "score": 1.0,
+    "reason": "A writer sabotages his own life as he battles inner demons in a surreal, cathartic journey."
+  },
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "A novelist’s writer’s block turns nightmarish as a remote hotel drives him to madness."
+  },
+  {
+    "movieId": 185,
+    "score": 0.9,
+    "reason": "A bestselling author faces creative crisis while held captive by his obsessive fan."
+  },
+  {
+    "movieId": 223,
+    "score": 0.85,
+    "reason": "A troubled man rediscovers purpose through storytelling after a life-changing encounter."
+  },
+  {
+    "movieId": 14,
+    "score": 0.8,
+    "reason": "A disillusioned postman reconnects with passion for poetry and life during political exile."
+  },
+  {
+    "movieId": 58,
+    "score": 0.75,
+    "reason": "A TV producer confronts moral dilemmas during a quiz show scandal, sparking an artistic crisis."
+  },
+  {
+    "movieId": 55,
+    "score": 0.7,
+    "reason": "An editor haunted by personal loss navigates a creative crossroads on a snowy night."
+  },
+  {
+    "movieId": 18,
+    "score": 0.65,
+    "reason": "A young girl’s quest to find her lost sister ignites her imagination and personal growth."
+  },
+  {
+    "movieId": 42,
+    "score": 0.6,
+    "reason": "A convenience clerk’s stagnant life finds spark through honest, chaotic conversations."
+  },
+  {
+    "movieId": 32,
+    "score": 0.55,
+    "reason": "A cartoonist faces a life-changing block as he examines the dark roots of his own art."
+  }
+]

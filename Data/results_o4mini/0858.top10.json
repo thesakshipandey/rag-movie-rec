@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 609,
+    "score": 0.96,
+    "reason": "Father of the Bride captures parental exhaustion and bittersweet love amid chaos"
+  },
+  {
+    "movieId": 756,
+    "score": 0.94,
+    "reason": "Father of the Bride Part II shows juggling newborns and aging parents in comic reality"
+  },
+  {
+    "movieId": 393,
+    "score": 0.91,
+    "reason": "Mrs. Doubtfire lays bare parenthood’s turmoil under a frantic, heartfelt disguise"
+  },
+  {
+    "movieId": 140,
+    "score": 0.88,
+    "reason": "Homeward Bound’s journey reflects faithful love and perilous dedication to family"
+  },
+  {
+    "movieId": 412,
+    "score": 0.85,
+    "reason": "Very Brady Sequel satirizes blended family dynamics with affectionate chaos"
+  },
+  {
+    "movieId": 27,
+    "score": 0.82,
+    "reason": "Apollo 13 depicts the strains on families awaiting news from astronauts in crisis"
+  },
+  {
+    "movieId": 151,
+    "score": 0.8,
+    "reason": "Willy Wonka’s Grandpa Joe shows grandparental devotion and endearing vulnerability"
+  },
+  {
+    "movieId": 685,
+    "score": 0.78,
+    "reason": "Executive Decision explores family fear when a parent’s mission endangers loved ones"
+  },
+  {
+    "movieId": 84,
+    "score": 0.75,
+    "reason": "Puppet Masters focuses on spouses coping with unseen threats and emotional collapse"
+  },
+  {
+    "movieId": 88,
+    "score": 0.72,
+    "reason": "Sleepless in Seattle portrays single parenthood’s longing, humor, and gentle heartbreak"
+  }
+]

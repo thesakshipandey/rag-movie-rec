@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 122,
+    "score": 0.99,
+    "reason": "A veteran and a rookie racer team up to hijack an armed-limo in a slick, high-stakes jailbreak."
+  },
+  {
+    "movieId": 79,
+    "score": 0.97,
+    "reason": "A framed surgeon meticulously plots his clever escape while pursued by a relentless marshal."
+  },
+  {
+    "movieId": 64,
+    "score": 0.95,
+    "reason": "A banker’s intricate prison break weaves tension, cunning plans, and that sweet taste of freedom."
+  },
+  {
+    "movieId": 17,
+    "score": 0.93,
+    "reason": "Bank robbers orchestrate a deadly standoff then engineer a brazen, razor-sharp escape from cult-like captors."
+  },
+  {
+    "movieId": 56,
+    "score": 0.91,
+    "reason": "A heist-turned-flight sparks a nail-biting chase through intersecting crime stories."
+  },
+  {
+    "movieId": 55,
+    "score": 0.89,
+    "reason": "An editor becomes entangled in a wolf attack and crafts an ingenious bid to break free."
+  },
+  {
+    "movieId": 16,
+    "score": 0.87,
+    "reason": "A domestic triangle ignites a tense, plotted breakout under one roof."
+  },
+  {
+    "movieId": 51,
+    "score": 0.85,
+    "reason": "Post-war schemers in rural America plan a subtle escape from their past constraints."
+  },
+  {
+    "movieId": 79,
+    "score": 0.83,
+    "reason": "A miscast surgeon’s jail break unfolds with patient precision."
+  },
+  {
+    "movieId": 233,
+    "score": 0.81,
+    "reason": "Navy cooks secretly duel elite terrorists on a battleship to break free from an airborne siege."
+  }
+]

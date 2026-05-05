@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "Mr. Holland’s Opus shows a late-career teacher finding fresh creative purpose after decades of routine"
+  },
+  {
+    "movieId": 306,
+    "score": 0.92,
+    "reason": "Mrs. Brown finds joy in a new passion and devotion late in life, both tender and unsentimentally uplifting"
+  },
+  {
+    "movieId": 428,
+    "score": 0.9,
+    "reason": "Harold and Maude is an offbeat tale of a retiree rediscovering zest and playfulness in his autumn years"
+  },
+  {
+    "movieId": 527,
+    "score": 0.88,
+    "reason": "Gandhi charts an elder’s sudden embrace of nonviolent activism, a late bloom of self-discovery and hope"
+  },
+  {
+    "movieId": 116,
+    "score": 0.85,
+    "reason": "Cold Comfort Farm follows a young widow’s late leap into country life, finding unexpected joy in new fields"
+  },
+  {
+    "movieId": 472,
+    "score": 0.82,
+    "reason": "Dragonheart pairs a weathered knight with a wise dragon, echoing the thrill of learning anew at life’s edge"
+  },
+  {
+    "movieId": 280,
+    "score": 0.8,
+    "reason": "Up Close and Personal shows a seasoned reporter finding fresh purpose in both work and an unexpected romance"
+  },
+  {
+    "movieId": 422,
+    "score": 0.78,
+    "reason": "Aladdin and the King of Thieves finds father and son discovering new passions and skills together late in life"
+  },
+  {
+    "movieId": 1129,
+    "score": 0.75,
+    "reason": "In the Line of Fire centers on a veteran agent reigniting his commitment on a final, messy mission"
+  },
+  {
+    "movieId": 431,
+    "score": 0.72,
+    "reason": "Highlander tracks an ancient warrior grappling with a stolen second chance at life and new beginnings"
+  }
+]

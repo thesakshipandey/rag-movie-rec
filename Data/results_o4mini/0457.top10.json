@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 0.98,
+    "reason": "An exquisite duel of genius between Mozart and Salieri in baroque splendor"
+  },
+  {
+    "movieId": 192,
+    "score": 0.96,
+    "reason": "Brutal ring rivalry pushing two fighters to their moral and physical limits"
+  },
+  {
+    "movieId": 55,
+    "score": 0.94,
+    "reason": "A fierce cat-and-mouse bond forms between a hitman and a determined cop"
+  },
+  {
+    "movieId": 31,
+    "score": 0.92,
+    "reason": "A tense submarine showdown over a nuclear launch order and moral duty"
+  },
+  {
+    "movieId": 310,
+    "score": 0.9,
+    "reason": "Ambition and legal duels ignite an obsession to topple a corrupt insurance giant"
+  },
+  {
+    "movieId": 12,
+    "score": 0.88,
+    "reason": "Criminal masterminds clash in a high-stakes battle of wits and deceit"
+  },
+  {
+    "movieId": 228,
+    "score": 0.86,
+    "reason": "An intense vendetta between Kirk and the genetically vengeful Khan"
+  },
+  {
+    "movieId": 161,
+    "score": 0.84,
+    "reason": "Ace pilots locked in a lethal aerial rivalry for glory and respect"
+  },
+  {
+    "movieId": 270,
+    "score": 0.82,
+    "reason": "A genetically driven duel of wills where ambition clashes with destiny"
+  },
+  {
+    "movieId": 293,
+    "score": 0.8,
+    "reason": "An undercover bond fraught with respect, betrayal and simmering resentment"
+  }
+]

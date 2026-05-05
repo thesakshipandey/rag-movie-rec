@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 507,
+    "score": 0.96,
+    "reason": "A Fistful of Dollars reinvents the Western with anti-hero grit and moral questioning."
+  },
+  {
+    "movieId": 177,
+    "score": 0.94,
+    "reason": "The Good, the Bad and the Ugly deconstructs mythic West through cynical characters and violence."
+  },
+  {
+    "movieId": 506,
+    "score": 0.92,
+    "reason": "The Ruling Class subverts genre with dark satire and genre-bending class critique."
+  },
+  {
+    "movieId": 646,
+    "score": 0.9,
+    "reason": "Once Upon a Time in the West blends revisionist grit with moral complexity and bleak tone."
+  },
+  {
+    "movieId": 435,
+    "score": 0.88,
+    "reason": "Butch Cassidy and the Sundance Kid questions legend in a fast-talking, elegiac outlaw story."
+  },
+  {
+    "movieId": 529,
+    "score": 0.86,
+    "reason": "The Young Poisoner’s Handbook undermines genre through unsettling true-crime absurdity."
+  },
+  {
+    "movieId": 437,
+    "score": 0.84,
+    "reason": "Amityville 1992 spins horror conventions with a grim realism that upends mythic tropes."
+  },
+  {
+    "movieId": 646,
+    "score": 0.82,
+    "reason": "Once Upon a Time in the West blends revisionist grit with moral complexity and bleak tone."
+  },
+  {
+    "movieId": 177,
+    "score": 0.8,
+    "reason": "The Good, the Bad and the Ugly deconstructs mythic West through cynical characters and violence."
+  },
+  {
+    "movieId": 507,
+    "score": 0.78,
+    "reason": "A Fistful of Dollars reinvents the Western with anti-hero grit and moral questioning."
+  }
+]

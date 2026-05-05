@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 121,
+    "score": 0.98,
+    "reason": "Spectacular alien invasion set-pieces deliver nonstop visual thrills"
+  },
+  {
+    "movieId": 82,
+    "score": 0.95,
+    "reason": "Dino delights in vivid CGI and breakneck action sequences"
+  },
+  {
+    "movieId": 568,
+    "score": 0.93,
+    "reason": "Relentless bus-bound action creates edge-of-seat spectacle"
+  },
+  {
+    "movieId": 33,
+    "score": 0.91,
+    "reason": "Stylized gunfights and kinetic camera work fuel non-stop adrenaline"
+  },
+  {
+    "movieId": 27,
+    "score": 0.88,
+    "reason": "Miami car chases and explosive showdowns keep pulse pounding"
+  },
+  {
+    "movieId": 298,
+    "score": 0.86,
+    "reason": "Madcap action set pieces blend frenzied gunplay and surreal stunts"
+  },
+  {
+    "movieId": 39,
+    "score": 0.83,
+    "reason": "Cyberpunk visuals and fevered pace deliver a dizzying sensory ride"
+  },
+  {
+    "movieId": 271,
+    "score": 0.8,
+    "reason": "High-octane sci-fi combat and rapid pacing overwhelm the senses"
+  },
+  {
+    "movieId": 257,
+    "score": 0.77,
+    "reason": "Zippy alien encounters and dazzling effects push the fun pedal"
+  },
+  {
+    "movieId": 118,
+    "score": 0.75,
+    "reason": "Tornado-tossed action sequences roar with kinetic intensity"
+  }
+]

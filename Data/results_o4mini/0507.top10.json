@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 324,
+    "score": 0.98,
+    "reason": "David Lynch’s surreal noir reveals a dream-like Los Angeles drenched in nighttime mystery"
+  },
+  {
+    "movieId": 39,
+    "score": 0.96,
+    "reason": "Moody near-future thriller with a hauntingly realistic technological dread in a sleeping city"
+  },
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "Isolated hotel corridors and mounting suspense create an eerie, silent dread that lingers"
+  },
+  {
+    "movieId": 89,
+    "score": 0.94,
+    "reason": "Futuristic urban noir where neon rain and existential tension pulse through shadowy streets"
+  },
+  {
+    "movieId": 23,
+    "score": 0.93,
+    "reason": "A lone nighttime cab driver’s insomnia-fueled descent into the gritty underbelly of a sleeping New York"
+  },
+  {
+    "movieId": 691,
+    "score": 0.91,
+    "reason": "Gothic atmosphere and alien-like dread hang heavy as reality twists through shadowy alleys"
+  },
+  {
+    "movieId": 175,
+    "score": 0.9,
+    "reason": "Terry Gilliam’s dystopian fable builds creeping, bureaucratic terror beneath the city lights"
+  },
+  {
+    "movieId": 350,
+    "score": 0.89,
+    "reason": "Subtle supernatural thriller where evil hides in plain sight, with claustrophobic tension"
+  },
+  {
+    "movieId": 219,
+    "score": 0.88,
+    "reason": "Nightmarish boogeyman stalks muted bedrooms, wrapping quiet nights in brooding, uncanny dread"
+  },
+  {
+    "movieId": 260,
+    "score": 0.87,
+    "reason": "Psychological sci-fi horror that unsettlingly blurs the boundaries between reality and nightmare"
+  }
+]

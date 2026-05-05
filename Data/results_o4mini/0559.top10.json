@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 1.0,
+    "reason": "Tense jury room drama where moral stakes and ticking clocks ratchet up pressure"
+  },
+  {
+    "movieId": 603,
+    "score": 0.9,
+    "reason": "Window-gazing suspense as an unseen threat taunts you"
+  },
+  {
+    "movieId": 505,
+    "score": 0.85,
+    "reason": "Hitchcock’s cat-and-mouse thriller builds electric suspense"
+  },
+  {
+    "movieId": 200,
+    "score": 0.8,
+    "reason": "Isolation and eccentric hotel atmosphere ratchet up dread"
+  },
+  {
+    "movieId": 657,
+    "score": 0.75,
+    "reason": "Political paranoia unfolds in measured, mind-bending turns"
+  },
+  {
+    "movieId": 333,
+    "score": 0.7,
+    "reason": "Fincher’s cunning puzzle unspools tension in every scene"
+  },
+  {
+    "movieId": 89,
+    "score": 0.65,
+    "reason": "Noir future world’s menace slowly unfurls around a lone cop"
+  },
+  {
+    "movieId": 513,
+    "score": 0.6,
+    "reason": "Venetian shadows, moral ambiguity, and postwar unease"
+  },
+  {
+    "movieId": 479,
+    "score": 0.55,
+    "reason": "Obsession and vertigo-inducing uncertainty creep throughout"
+  },
+  {
+    "movieId": 607,
+    "score": 0.5,
+    "reason": "Gothic manor and whispered secrets evoke relentless unease"
+  }
+]

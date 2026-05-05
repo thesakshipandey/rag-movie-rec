@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 1.0,
+    "reason": "Taxi Driver’s descent is fuelled by one man’s obsessive mission in gritty detail."
+  },
+  {
+    "movieId": 57,
+    "score": 0.95,
+    "reason": "Quiz Show unravels a man’s fixation on truth, leading to public and personal ruin."
+  },
+  {
+    "movieId": 52,
+    "score": 0.9,
+    "reason": "Madness of King George portrays royal obsession with power and mental breakdown."
+  },
+  {
+    "movieId": 40,
+    "score": 0.85,
+    "reason": "To Wong Foo tracks one drag queen’s quest, driven by a deep personal passion."
+  },
+  {
+    "movieId": 67,
+    "score": 0.8,
+    "reason": "Ace Ventura’s cartoonish obsession with animal rescue drives every scene."
+  },
+  {
+    "movieId": 29,
+    "score": 0.75,
+    "reason": "Batman Forever spotlights Bruce Wayne’s relentless drive to battle Gotham’s villains."
+  },
+  {
+    "movieId": 179,
+    "score": 0.7,
+    "reason": "A Clockwork Orange charts Alex’s violent obsessions spiralling out of control."
+  },
+  {
+    "movieId": 24,
+    "score": 0.65,
+    "reason": "Rumble in the Bronx follows a cop’s single-minded crusade against local thugs."
+  },
+  {
+    "movieId": 155,
+    "score": 0.6,
+    "reason": "Dirty Dancing explores a young woman’s all-consuming passion for dance."
+  },
+  {
+    "movieId": 89,
+    "score": 0.55,
+    "reason": "Blade Runner probes one replicant’s obsession with extending her programmed life."
+  }
+]

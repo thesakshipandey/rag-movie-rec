@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 468,
+    "score": 1.0,
+    "reason": "Underdog football player battles through doubt to score his dream victory"
+  },
+  {
+    "movieId": 22,
+    "score": 0.9,
+    "reason": "Unyielding rebel rallies his people to a hard-won, stirring triumph"
+  },
+  {
+    "movieId": 28,
+    "score": 0.85,
+    "reason": "Ground control and stranded astronauts race against disaster with heroic grit"
+  },
+  {
+    "movieId": 215,
+    "score": 0.8,
+    "reason": "A mysterious voice drives a farmer to build a magical baseball field and inspire a community"
+  },
+  {
+    "movieId": 15,
+    "score": 0.75,
+    "reason": "Music teacher’s passion and perseverance transform a school and his own life"
+  },
+  {
+    "movieId": 41,
+    "score": 0.7,
+    "reason": "Spoiled heir rediscovers drive through ridiculous challenges to his family’s estate"
+  },
+  {
+    "movieId": 284,
+    "score": 0.65,
+    "reason": "Former golf prodigy defies the odds with one glorious, audacious shot"
+  },
+  {
+    "movieId": 763,
+    "score": 0.6,
+    "reason": "Hockey rookie’s unorthodox style and sheer determination electrify the rink"
+  },
+  {
+    "movieId": 96,
+    "score": 0.55,
+    "reason": "Shape-shifting hero endures brutal trials to protect a young boy’s fate"
+  },
+  {
+    "movieId": 237,
+    "score": 0.5,
+    "reason": "Sports agent’s risky comeback captures the roar of victory and the thrill of the pitch"
+  }
+]

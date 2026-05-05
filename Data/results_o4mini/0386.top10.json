@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "2001: A Space Odyssey evokes profound awe at endless cosmic vistas"
+  },
+  {
+    "movieId": 170,
+    "score": 0.95,
+    "reason": "Cinema Paradiso offers a tender, nostalgic meditation on film and memory"
+  },
+  {
+    "movieId": 512,
+    "score": 0.9,
+    "reason": "Wings of Desire marvels at everyday moments with poetic wonder"
+  },
+  {
+    "movieId": 60,
+    "score": 0.85,
+    "reason": "Three Colors: Blue dwells in quiet beauty and emotional depth"
+  },
+  {
+    "movieId": 59,
+    "score": 0.8,
+    "reason": "Three Colors: Red finds lyrical resonance in small human acts"
+  },
+  {
+    "movieId": 432,
+    "score": 0.75,
+    "reason": "Fantasia turns music into a sublime, dreamlike spectacle"
+  },
+  {
+    "movieId": 132,
+    "score": 0.7,
+    "reason": "The Wizard of Oz captures childlike wonder in a vibrant fantasy world"
+  },
+  {
+    "movieId": 423,
+    "score": 0.65,
+    "reason": "E.T. the Extra-Terrestrial brings heartfelt wonder to the ordinary"
+  },
+  {
+    "movieId": 511,
+    "score": 0.6,
+    "reason": "Lawrence of Arabia expands the desert into an epic canvas of awe"
+  },
+  {
+    "movieId": 97,
+    "score": 0.55,
+    "reason": "Dances with Wolves reveals the plains as a place of serene beauty"
+  }
+]

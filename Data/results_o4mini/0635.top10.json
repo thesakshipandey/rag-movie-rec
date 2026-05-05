@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.99,
+    "reason": "Bleak post-trauma drama with haunting visuals and mood"
+  },
+  {
+    "movieId": 59,
+    "score": 0.98,
+    "reason": "Stunning monochrome portrait of obsession abroad"
+  },
+  {
+    "movieId": 14,
+    "score": 0.97,
+    "reason": "Evocative exile tale with gorgeous Mediterranean scenery"
+  },
+  {
+    "movieId": 207,
+    "score": 0.96,
+    "reason": "Lush period epic of dueling passions in French"
+  },
+  {
+    "movieId": 65,
+    "score": 0.95,
+    "reason": "Quiet family portrait with simmering psychological tension"
+  },
+  {
+    "movieId": 18,
+    "score": 0.94,
+    "reason": "Minimalist Iranian drama feeling both serene and unsettling"
+  },
+  {
+    "movieId": 46,
+    "score": 0.93,
+    "reason": "Sparse Canadian-set tale driven by memory and dread"
+  },
+  {
+    "movieId": 58,
+    "score": 0.92,
+    "reason": "1950s quiz-show exposé with an undercurrent of madness"
+  },
+  {
+    "movieId": 232,
+    "score": 0.91,
+    "reason": "Bleak wartime saga with magnificent landscape shots"
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "True space-crisis story with cold, unflinching cinematography"
+  }
+]

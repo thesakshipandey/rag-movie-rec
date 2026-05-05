@@ -1,0 +1,74 @@
+{  
+  "results": {  
+    "0225": {  
+      "top10": [  
+        {"movieId": 22, "score": 0.90, "reason": "Epic medieval horror-comedy with over-the-top gore and laughs"},  
+        {"movieId": 201, "score": 0.88, "reason": "Campy cabin-in-the-woods horror-comedy classic"},  
+        {"movieId": 184, "score": 0.86, "reason": "Cheeky time-travel zombie comedy from Sam Raimi"},  
+        {"movieId": 436, "score": 0.85, "reason": "Witty werewolf horror-comedy with sharp humor"},  
+        {"movieId": 433, "score": 0.83, "reason": "Dark comedy about teenage slasher adventures"},  
+        {"movieId": 379, "score": 0.80, "reason": "Anthology-hosted horror with wicked humor"},  
+        {"movieId": 413, "score": 0.77, "reason": "Quirky Crypt Keeper–curated vampire comedy"},  
+        {"movieId": 202, "score": 0.75, "reason": "Bill Murray’s time-loop tale with macabre wit"},  
+        {"movieId": 208, "score": 0.72, "reason": "Mel Brooks’s affectionate horror spoof masterpiece"},  
+        {"movieId": 37, "score": 0.70, "reason": "Low-key vampire comedy with surreal style"}  
+      ]  
+    },  
+    "0226": {  
+      "top10": [  
+        {"movieId": 691, "score": 0.90, "reason": "Title includes 'Dark'"},  
+        {"movieId": 124, "score": 0.85, "reason": "Title includes 'Shadow'"},  
+        {"movieId": 984, "score": 0.80, "reason": "Title includes 'Shadow'"},  
+        {"movieId": 1545, "score": 0.75, "reason": "Title is 'Shadows'"},  
+        {"movieId": 1252, "score": 0.70, "reason": "Title includes 'Shadow'"},  
+        {"movieId": 389, "score": 0.30, "reason": "Title includes 'Black,' a dark shade"},  
+        {"movieId": 369, "score": 0.28, "reason": "Title includes 'Black,' meaning dark"},  
+        {"movieId": 98, "score": 0.25, "reason": "Title includes 'Silence,' evokes shadowy mood"},  
+        {"movieId": 64, "score": 0.20, "reason": "Title includes 'Shawshank,' features dark themes"},  
+        {"movieId": 44, "score": 0.15, "reason": "Title includes 'Dolores,' evokes dark drama"}  
+      ]  
+    },  
+    "0227": {  
+      "top10": [  
+        {"movieId": 202, "score": 0.90, "reason": "Title ends with 'Day'"},  
+        {"movieId": 815, "score": 0.85, "reason": "Title ends with 'Day'"},  
+        {"movieId": 429, "score": 0.50, "reason": "Title begins with 'Day'"},  
+        {"movieId": 227, "score": 0.45, "reason": "Features 'Day' in title phrase"},  
+        {"movieId": 26, "score": 0.40, "reason": "Features 'Day' in title phrase"},  
+        {"movieId": 89, "score": 0.35, "reason": "Features 'Night' opposite of Day"},  
+        {"movieId": 202, "score": 0.30, "reason": "Iconic Day-themed comedy"},  
+        {"movieId": 815, "score": 0.25, "reason": "Romantic tale named after a Day"},  
+        {"movieId": 24, "score": 0.20, "reason": "Action set around a fateful Day"},  
+        {"movieId": 94, "score": 0.15, "reason": "Holiday caper set on Christmas Day"}  
+      ]  
+    },  
+    "0228": {  
+      "top10": [  
+        {"movieId": 6, "score": 0.95, "reason": "Italian mob drama in Chinese setting with English subtitles"},  
+        {"movieId": 14, "score": 0.92, "reason": "Italian-language romantic drama by Massimo Troisi"},  
+        {"movieId": 45, "score": 0.90, "reason": "Taiwanese family drama rich in cultural detail"},  
+        {"movieId": 59, "score": 0.88, "reason": "French-language political drama by Kieslowski"},  
+        {"movieId": 60, "score": 0.85, "reason": "French-language study of grief by Kieslowski"},  
+        {"movieId": 61, "score": 0.83, "reason": "French-Polish co-production comedy-drama by Kieslowski"},  
+        {"movieId": 170, "score": 0.80, "reason": "Italian coming-of-age documentary classic"},  
+        {"movieId": 462, "score": 0.78, "reason": "Taiwanese romantic culinary drama in Mandarin"},  
+        {"movieId": 1215, "score": 0.75, "reason": "Brazilian jungle fantasy with Portuguese dialogue"},  
+        {"movieId": 282, "score": 0.72, "reason": "French-language court thriller with deep themes"}  
+      ]  
+    },  
+    "0229": {  
+      "top10": [  
+        {"movieId": 64, "score": 0.95, "reason": "Acclaimed 1994 prison drama with powerful performances"},  
+        {"movieId": 37, "score": 0.93, "reason": "1993 family drama about sacrifice and reconciliation"},  
+        {"movieId": 275, "score": 0.90, "reason": "1995 adaptation of Jane Austen's classic drama"},  
+        {"movieId": 276, "score": 0.88, "reason": "1995 character-driven drama about addiction recovery"},  
+        {"movieId": 306, "score": 0.85, "reason": "1997 historical drama of Queen Victoria's seclusion"},  
+        {"movieId": 1227, "score": 0.82, "reason": "1995 LGBTQ+ drama with sharp writing and emotion"},  
+        {"movieId": 132, "score": 0.80, "reason": "1961 romantic drama by Billy Wilder"},  
+        {"movieId": 291, "score": 0.78, "reason": "1997 political thriller with dramatic depth"},  
+        {"movieId": 88, "score": 0.75, "reason": "1993 romantic drama with heartfelt storytelling"},  
+        {"movieId": 62, "score": 0.72, "reason": "1994 sci-fi drama exploring belief and exploration"}  
+      ]  
+    }  
+  }  
+}

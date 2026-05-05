@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 347,
+    "score": 0.99,
+    "reason": "Wag the Dog satirizes politics and media spin with sharp dark humor"
+  },
+  {
+    "movieId": 732,
+    "score": 0.97,
+    "reason": "Dave skewers political image-makers through playful satire"
+  },
+  {
+    "movieId": 719,
+    "score": 0.95,
+    "reason": "Canadian Bacon mocks US politics and military escalation slyly"
+  },
+  {
+    "movieId": 235,
+    "score": 0.93,
+    "reason": "Mars Attacks! skewers government and media responses in a biting sci-fi comedy"
+  },
+  {
+    "movieId": 236,
+    "score": 0.92,
+    "reason": "Citizen Ruth parodies the abortion debate’s political theater with edge"
+  },
+  {
+    "movieId": 425,
+    "score": 0.9,
+    "reason": "Bob Roberts lampoons conservative politics and media manipulation"
+  },
+  {
+    "movieId": 692,
+    "score": 0.88,
+    "reason": "American President blends political satire and romance with witty commentary"
+  },
+  {
+    "movieId": 249,
+    "score": 0.87,
+    "reason": "Austin Powers sends up spy tropes and Cold War politics with irreverence"
+  },
+  {
+    "movieId": 301,
+    "score": 0.85,
+    "reason": "In & Out skewers media sensationalism around personal scandal"
+  },
+  {
+    "movieId": 147,
+    "score": 0.83,
+    "reason": "Dr. Strangelove remains a razor‐sharp Cold War satire of military institutions"
+  }
+]

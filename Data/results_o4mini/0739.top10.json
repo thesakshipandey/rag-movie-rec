@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.95,
+    "reason": "Emotional epic exploring love and loss in wartime."
+  },
+  {
+    "movieId": 32,
+    "score": 0.92,
+    "reason": "Documentary-style look at a comic pioneer’s life."
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "NASA drama focusing on crew bonds over lunar disaster."
+  },
+  {
+    "movieId": 57,
+    "score": 0.88,
+    "reason": "Spiritual crisis of a priest in wartime."
+  },
+  {
+    "movieId": 199,
+    "score": 0.85,
+    "reason": "Human drama of POWs under Japanese command."
+  },
+  {
+    "movieId": 205,
+    "score": 0.83,
+    "reason": "Biography of a general reflecting on human cost of war."
+  },
+  {
+    "movieId": 137,
+    "score": 0.8,
+    "reason": "Struggling restaurateurs face personal and cultural te..."
+  },
+  {
+    "movieId": 29,
+    "score": 0.78,
+    "reason": "Comic-book hero coping with family and moral duty."
+  },
+  {
+    "movieId": 53,
+    "score": 0.75,
+    "reason": "Social commentary in a satirical killing-spree tale."
+  },
+  {
+    "movieId": 81,
+    "score": 0.72,
+    "reason": "Corporate power play with personal tragedies."
+  }
+]

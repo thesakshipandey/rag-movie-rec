@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 1.0,
+    "reason": "Blade Runner immerses you in neon-soaked streets where atmosphere becomes the real protagonist."
+  },
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "2001: A Space Odyssey drifts you through cosmic visuals that feel like living, breathing art."
+  },
+  {
+    "movieId": 105,
+    "score": 0.9,
+    "reason": "Koyaanisqatsi mesmerizes with living landscapes and a hypnotic score that feels otherworldly."
+  },
+  {
+    "movieId": 171,
+    "score": 0.85,
+    "reason": "Delicatessen’s surreal butcher shop world blends dark whimsy with exquisite, painterly detail."
+  },
+  {
+    "movieId": 919,
+    "score": 0.8,
+    "reason": "City of Lost Children wraps you in a surreal steam-punk fairy tale that feels utterly unique."
+  },
+  {
+    "movieId": 175,
+    "score": 0.75,
+    "reason": "Brazil’s dystopian vistas dazzle with bizarre design and fever-dream satire."
+  },
+  {
+    "movieId": 512,
+    "score": 0.7,
+    "reason": "Wings of Desire paints Berlin’s skyline in gentle tones, where every moment feels poetic."
+  },
+  {
+    "movieId": 650,
+    "score": 0.65,
+    "reason": "The Seventh Seal’s stark black-and-white chess game with Death feels like a timeless painting."
+  },
+  {
+    "movieId": 463,
+    "score": 0.6,
+    "reason": "The Secret of Roan Inish drifts through foggy shores in a hushed, almost mythical palette."
+  },
+  {
+    "movieId": 170,
+    "score": 0.55,
+    "reason": "Cinema Paradiso bathes you in warm, nostalgic light that feels like a cherished memory come true."
+  }
+]

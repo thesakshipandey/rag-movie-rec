@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 527,
+    "score": 1.0,
+    "reason": "Epic biopic of Gandhi’s leadership in India’s independence"
+  },
+  {
+    "movieId": 750,
+    "score": 0.95,
+    "reason": "Historical drama of a landmark 1839 slave mutiny"
+  },
+  {
+    "movieId": 744,
+    "score": 0.9,
+    "reason": "Portrayal of Michael Collins’ role in Irish independence"
+  },
+  {
+    "movieId": 1530,
+    "score": 0.88,
+    "reason": "Young Jefferson’s diplomatic mission in revolutionary France"
+  },
+  {
+    "movieId": 458,
+    "score": 0.85,
+    "reason": "Insight into Nixon’s presidency and resignation"
+  },
+  {
+    "movieId": 1112,
+    "score": 0.82,
+    "reason": "Biopic of infamously eccentric baseball player Ty Cobb"
+  },
+  {
+    "movieId": 317,
+    "score": 0.8,
+    "reason": "True story of IRA wrongfully convicted under the Troubles"
+  },
+  {
+    "movieId": 58,
+    "score": 0.78,
+    "reason": "Behind-the-scenes of the 1950s quiz show scandal"
+  },
+  {
+    "movieId": 293,
+    "score": 0.75,
+    "reason": "Undercover FBI agent infiltrates the Mafia"
+  },
+  {
+    "movieId": 504,
+    "score": 0.72,
+    "reason": "True story of Depression-era outlaw Bonnie and Clyde"
+  }
+]

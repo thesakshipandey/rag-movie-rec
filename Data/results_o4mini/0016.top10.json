@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "One room, twelve jurors in charged debate—dialogue drives every twist"
+  },
+  {
+    "movieId": 12,
+    "score": 0.92,
+    "reason": "Police lineup room yields sharp power shifts through verbal jousting"
+  },
+  {
+    "movieId": 80,
+    "score": 0.9,
+    "reason": "MIAs held in interview room as hitmen’s one-act drama unfolds in conversation"
+  },
+  {
+    "movieId": 250,
+    "score": 0.88,
+    "reason": "Immortal freshly cloned is interrogated in one stark underground room"
+  },
+  {
+    "movieId": 268,
+    "score": 0.85,
+    "reason": "Chasing Amy’s comic duo in confined scenes—confessions and power games in tight space"
+  },
+  {
+    "movieId": 222,
+    "score": 0.83,
+    "reason": "First Contact’s shuttle debriefing—two voices spar on humanity’s fate"
+  },
+  {
+    "movieId": 37,
+    "score": 0.8,
+    "reason": "Desperate Dr. reveals dark past to a single silent witness in one office"
+  },
+  {
+    "movieId": 886,
+    "score": 0.78,
+    "reason": "Eddie’s basketball coach meets one player at home with life-changing offer"
+  },
+  {
+    "movieId": 333,
+    "score": 0.76,
+    "reason": "The Game’s final debrief—two men alone, revelations and shifting dominance"
+  },
+  {
+    "movieId": 566,
+    "score": 0.72,
+    "reason": "Pulp Fiction’s diner scene—two characters, one booth, dialogue as the plot"
+  }
+]

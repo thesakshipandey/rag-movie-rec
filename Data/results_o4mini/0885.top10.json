@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 157,
+    "score": 0.98,
+    "reason": "Platoon’s gritty portrayal of moral conflict and psychological strain subverts heroism."
+  },
+  {
+    "movieId": 188,
+    "score": 0.96,
+    "reason": "Full Metal Jacket exposes war’s dehumanizing burn and moral ambiguity on soldiers."
+  },
+  {
+    "movieId": 180,
+    "score": 0.94,
+    "reason": "Apocalypse Now immerses in futility and moral collapse on a surreal, Vietnam-war odyssey."
+  },
+  {
+    "movieId": 641,
+    "score": 0.92,
+    "reason": "Paths of Glory dramatizes the bleak injustice and futility of trench warfare."
+  },
+  {
+    "movieId": 521,
+    "score": 0.9,
+    "reason": "The Deer Hunter starkly reveals war’s lingering trauma and shattered psyches."
+  },
+  {
+    "movieId": 528,
+    "score": 0.88,
+    "reason": "The Killing Fields lays bare war’s human cost and moral confusion without glorification."
+  },
+  {
+    "movieId": 199,
+    "score": 0.86,
+    "reason": "The Bridge on the River Kwai deconstructs heroism through obsession and futility."
+  },
+  {
+    "movieId": 180,
+    "score": 0.84,
+    "reason": "Apocalypse Now immerses in futility and moral collapse on a surreal, Vietnam-war odyssey."
+  },
+  {
+    "movieId": 641,
+    "score": 0.82,
+    "reason": "Paths of Glory dramatizes the bleak injustice and futility of trench warfare."
+  },
+  {
+    "movieId": 528,
+    "score": 0.8,
+    "reason": "The Killing Fields lays bare war’s human cost and moral confusion without glorification."
+  }
+]

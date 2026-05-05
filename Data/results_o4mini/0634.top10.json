@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.99,
+    "reason": "Iconic non-linear crime tapestry forcing you to piece events together"
+  },
+  {
+    "movieId": 12,
+    "score": 0.98,
+    "reason": "Fractured flashback mystery with an unreliable narrator twist"
+  },
+  {
+    "movieId": 156,
+    "score": 0.97,
+    "reason": "Out-of-order heist gone wrong, demanding detective reconstruction"
+  },
+  {
+    "movieId": 53,
+    "score": 0.96,
+    "reason": "Psychedelic true-crime saga cut with jarring nonlinear interludes"
+  },
+  {
+    "movieId": 357,
+    "score": 0.95,
+    "reason": "Layered narrative of intertwined fates in a prison drama"
+  },
+  {
+    "movieId": 204,
+    "score": 0.94,
+    "reason": "Time-hopping sci-fi caper that challenges viewer chronology"
+  },
+  {
+    "movieId": 272,
+    "score": 0.93,
+    "reason": "Math genius story with flashback-rich structure"
+  },
+  {
+    "movieId": 70,
+    "score": 0.92,
+    "reason": "Romantic comedy laced with time-jumping memories"
+  },
+  {
+    "movieId": 482,
+    "score": 0.91,
+    "reason": "Madcap detective caper intercut with flashbacks and riffs"
+  },
+  {
+    "movieId": 556,
+    "score": 0.9,
+    "reason": "Genre-defining nonlinear thriller from mid-90s"
+  }
+]

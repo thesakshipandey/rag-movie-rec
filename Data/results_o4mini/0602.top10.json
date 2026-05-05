@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 603,
+    "score": 1.0,
+    "reason": "Rear Window’s claustrophobic apartment setting traps both hero and viewer in tense voyeurism."
+  },
+  {
+    "movieId": 183,
+    "score": 0.94,
+    "reason": "Alien’s tight corridors and shadowed vents leave no escape from something monstrous."
+  },
+  {
+    "movieId": 260,
+    "score": 0.9,
+    "reason": "Event Horizon’s sealed ship and creeping dread create suffocating cosmic terror."
+  },
+  {
+    "movieId": 159,
+    "score": 0.87,
+    "reason": "Stalker’s oppressive Zone walls push you to the brink of panic in every frame."
+  },
+  {
+    "movieId": 200,
+    "score": 0.82,
+    "reason": "The Shining’s infinite hotel corridors and malice-soaked walls crush any sense of safety."
+  },
+  {
+    "movieId": 98,
+    "score": 0.78,
+    "reason": "Silence of the Lambs’s interrogation rooms and mind games constrict with chilling intensity."
+  },
+  {
+    "movieId": 568,
+    "score": 0.75,
+    "reason": "Speed’s speeding bus and ticking clock offer no refuge from escalating, airtight peril."
+  },
+  {
+    "movieId": 38,
+    "score": 0.72,
+    "reason": "The Net’s digital noose tightens in every keystroke, trapping its heroine in unseen control."
+  },
+  {
+    "movieId": 654,
+    "score": 0.69,
+    "reason": "Chinatown’s labyrinthine secrets and noir gloom leave nowhere to run."
+  },
+  {
+    "movieId": 54,
+    "score": 0.65,
+    "reason": "Outbreak’s quarantine panic shows containment can become a prison with deadly stakes."
+  }
+]

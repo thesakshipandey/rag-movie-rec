@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.99,
+    "reason": "Seven follows detectives meticulously tracing clues through grim puzzles"
+  },
+  {
+    "movieId": 12,
+    "score": 0.97,
+    "reason": "The Usual Suspects unfolds its investigation through layered interrogations"
+  },
+  {
+    "movieId": 302,
+    "score": 0.95,
+    "reason": "L.A. Confidential details every twist in its complex police procedure"
+  },
+  {
+    "movieId": 654,
+    "score": 0.93,
+    "reason": "Chinatown reveals its mystery through gradual, careful detective work"
+  },
+  {
+    "movieId": 200,
+    "score": 0.92,
+    "reason": "Silence of the Lambs builds its case step by step with chilling precision"
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "Copycat tracks killings via obsessive detective and psychologist process"
+  },
+  {
+    "movieId": 689,
+    "score": 0.88,
+    "reason": "The Jackal details each tactical move in its assassination cat-and-mouse"
+  },
+  {
+    "movieId": 55,
+    "score": 0.87,
+    "reason": "The Professional follows its hitman’s methods with exacting detail"
+  },
+  {
+    "movieId": 592,
+    "score": 0.85,
+    "reason": "True Crime follows every legal and investigative turn from arrest to trial"
+  },
+  {
+    "movieId": 183,
+    "score": 0.83,
+    "reason": "Alien is scored for sci-fi but its detective-like unraveling of the threat is slow and precise"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 275,
+    "score": 0.94,
+    "reason": "Sense and Sensibility – love across class divides in Regency England"
+  },
+  {
+    "movieId": 421,
+    "score": 0.92,
+    "reason": "Romeo and Juliet – timeless tale of forbidden love and tragic longing"
+  },
+  {
+    "movieId": 740,
+    "score": 0.9,
+    "reason": "Jane Eyre – gothic romance of social barriers and inner yearning"
+  },
+  {
+    "movieId": 990,
+    "score": 0.88,
+    "reason": "Anna Karenina – epic passion clashes with 19th-century Russian society"
+  },
+  {
+    "movieId": 387,
+    "score": 0.86,
+    "reason": "Age of Innocence – aristocratic love tested by rigid social mores"
+  },
+  {
+    "movieId": 133,
+    "score": 0.84,
+    "reason": "Gone with the Wind – sweeping Civil War romance defying convention"
+  },
+  {
+    "movieId": 283,
+    "score": 0.82,
+    "reason": "Emma – spirited matchmaker challenges social expectations with charm"
+  },
+  {
+    "movieId": 694,
+    "score": 0.8,
+    "reason": "Persuasion – love lost and earned amidst rigid class structures"
+  },
+  {
+    "movieId": 51,
+    "score": 0.77,
+    "reason": "Legends of the Fall – forbidden loves tested by war and family duty"
+  },
+  {
+    "movieId": 421,
+    "score": 0.74,
+    "reason": "Pride & Prejudice – witty clash of social standing and mutual respect"
+  }
+]

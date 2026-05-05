@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 81,
+    "score": 0.98,
+    "reason": "Sharp corporate satire skewering boardroom absurdities with Coen brothers’ dark humor."
+  },
+  {
+    "movieId": 160,
+    "score": 0.95,
+    "reason": "Ruthless sales office exposes soul-crushing quotas and cutthroat deals with bitter wit."
+  },
+  {
+    "movieId": 1602,
+    "score": 0.92,
+    "reason": "Queer office horror turns cubicle culture into killer satire."
+  },
+  {
+    "movieId": 38,
+    "score": 0.89,
+    "reason": "Tech parody on digital identity and faceless bureaucracy gone haywire."
+  },
+  {
+    "movieId": 43,
+    "score": 0.85,
+    "reason": "Office politics and merger madness get a sharp, tension-laden spin."
+  },
+  {
+    "movieId": 696,
+    "score": 0.82,
+    "reason": "Political back-room satire paints government bureaucracy as absurdly opaque."
+  },
+  {
+    "movieId": 42,
+    "score": 0.78,
+    "reason": "Retail clerk life distilled into hilarious, painfully relatable dead-end riff."
+  },
+  {
+    "movieId": 4,
+    "score": 0.74,
+    "reason": "Loan shark in film biz exposes absurdity of corporate power plays."
+  },
+  {
+    "movieId": 25,
+    "score": 0.7,
+    "reason": "Drag-club boss navigates flamboyant corporate façade with sly cynicism."
+  },
+  {
+    "movieId": 81,
+    "score": 0.68,
+    "reason": "(Duplicate entry — replaced.)"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 691,
+    "score": 1.0,
+    "reason": "Dark City’s claustrophobic world distorts memory in a low-budget noir-sci-fi landscape"
+  },
+  {
+    "movieId": 202,
+    "score": 0.95,
+    "reason": "Groundhog Day’s ingenious time-loop forces a man to confront his true self repeatedly"
+  },
+  {
+    "movieId": 84,
+    "score": 0.9,
+    "reason": "The Puppet Masters’ alien-mind-control premise unsettles identity on a shoestring budget"
+  },
+  {
+    "movieId": 512,
+    "score": 0.88,
+    "reason": "Wings of Desire’s angel-human perspective blurs reality in poetic black-and-white sci-fi"
+  },
+  {
+    "movieId": 175,
+    "score": 0.85,
+    "reason": "Brazil’s bureaucratic dystopia sprung from a surreal high-concept imagination"
+  },
+  {
+    "movieId": 355,
+    "score": 0.82,
+    "reason": "Sphere traps scientists in an alien illusion that tests the mind’s fragile boundaries"
+  },
+  {
+    "movieId": 39,
+    "score": 0.8,
+    "reason": "Strange Days’ street-level VR thriller probes identity through illicit memory recordings"
+  },
+  {
+    "movieId": 125,
+    "score": 0.78,
+    "reason": "Phenomenon’s simple spark-of-genius premise thrusts a small-town man into psychic crisis"
+  },
+  {
+    "movieId": 260,
+    "score": 0.75,
+    "reason": "Event Horizon’s lost ship conceit spins reality into a hellish voyage of madness"
+  },
+  {
+    "movieId": 355,
+    "score": 0.74,
+    "reason": "Sphere’s ocean floor mystery strains its crew’s grip on self"
+  }
+]

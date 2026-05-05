@@ -1,0 +1,18 @@
+{
+  "results": {
+    "0137": {
+      "top10": [
+        {"movieId": 135, "score": 1.0, "reason": "A cosmic journey where unspoken vastness of space and monolithic landscapes drive a meditation on isolation."},
+        {"movieId": 511, "score": 0.95, "reason": "Sweeping desert vistas and silent dunes shape an epic of survival and introspection in an unforgiving landscape."},
+        {"movieId": 97, "score": 0.90, "reason": "Expansive prairie vistas and hushed frontier scenes make the wilderness a living character in a lonely survival tale."},
+        {"movieId": 149, "score": 0.85, "reason": "Stranded in the silent Australian outback, characters find the untamed environment speaks louder than any words."},
+        {"movieId": 241, "score": 0.80, "reason": "Towering forests and roaring rivers become vital forces in a gripping story of wilderness survival."},
+        {"movieId": 200, "score": 0.75, "reason": "An isolated mountain hotel’s cold corridors and endless snowfields amplify a chilling study of solitude."},
+        {"movieId": 922, "score": 0.70, "reason": "A spectral journey across stark plains becomes a haunting portrait of isolation and endurance."},
+        {"movieId": 183, "score": 0.65, "reason": "A deserted spacecraft and the void beyond become the silent, oppressive antagonist in a fight for survival."},
+        {"movieId": 664, "score": 0.60, "reason": "Endless desert highways and muted horizons mirror a lone man’s introspective odyssey across sun-baked isolation."},
+        {"movieId": 304, "score": 0.55, "reason": "Wide river vistas and silent skies carry a young girl’s quest for survival alongside migrating geese."}
+      ]
+    }
+  }
+}

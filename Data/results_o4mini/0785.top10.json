@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 3,
+    "score": 0.98,
+    "reason": "Multiple intersecting stories unfold over one chaotic New Year’s Eve in a single hotel",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 39,
+    "score": 0.95,
+    "reason": "A night in near-future LA sees raw, propulsive talelines collide amid unrest and tech noir dread",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 56,
+    "score": 0.93,
+    "reason": "A non-linear ensemble of L.A. stories crash together over one frantic night",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 325,
+    "score": 0.91,
+    "reason": "Intersecting L.A. lives collide after a car crash in this mosaic of chance encounters",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 150,
+    "score": 0.89,
+    "reason": "A tight-knit group of friends careens through one night of anxious club-hopping in LA",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 955,
+    "score": 0.87,
+    "reason": "Two strangers share one transformative night wandering Vienna’s streets before sunrise",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 1529,
+    "score": 0.85,
+    "reason": "Parallel paths split then intersect as fate unfolds over two versions of one evening",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 156,
+    "score": 0.83,
+    "reason": "A heist’s aftermath sees disparate criminals trapped together in a warehouse over one night",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 70,
+    "score": 0.81,
+    "reason": "Multiple London characters navigate one emotionally charged wedding and reveal hidden tensions",
+    "prompt_id": "0785"
+  },
+  {
+    "movieId": 100,
+    "score": 0.79,
+    "reason": "An Indiana car dealer’s desperate weekend plunges him into a bungled kidnapping caper",
+    "prompt_id": "0785"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 160,
+    "score": 0.98,
+    "reason": "Down-on-his-luck salesmen face crushing quotas and betrayal, yet cling to integrity in harsh corporate halls."
+  },
+  {
+    "movieId": 178,
+    "score": 0.96,
+    "reason": "One juror stands alone against false guilt, battling prejudice in a cramped, tense jury room."
+  },
+  {
+    "movieId": 196,
+    "score": 0.94,
+    "reason": "An inspiring teacher fights rigid tradition to ignite hope in an oppressive boarding-school system."
+  },
+  {
+    "movieId": 64,
+    "score": 0.92,
+    "reason": "An inmate’s clever revolt sparks slow-burn justice against a dehumanizing prison bureaucracy."
+  },
+  {
+    "movieId": 136,
+    "score": 0.9,
+    "reason": "A lone idealist exposes political greed on the Senate floor in an intimate, heartrending stand."
+  },
+  {
+    "movieId": 516,
+    "score": 0.88,
+    "reason": "A village band together to protect their tiny home from a faceless oil-company power play."
+  },
+  {
+    "movieId": 48,
+    "score": 0.86,
+    "reason": "Two inner-city teens chase basketball dreams amid systemic neglect and fierce rivalries."
+  },
+  {
+    "movieId": 433,
+    "score": 0.84,
+    "reason": "Teens resist brutal clique politics in a savage high-school microcosm, blending rage with resilience."
+  },
+  {
+    "movieId": 735,
+    "score": 0.82,
+    "reason": "A lawyer battles AIDS discrimination in court, confronting a rigid system with personal courage."
+  },
+  {
+    "movieId": 9,
+    "score": 0.8,
+    "reason": "A nun defends a condemned inmate with unwavering belief, challenging a death-penalty system."
+  }
+]

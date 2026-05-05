@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "A woman's struggle with grief after losing her husband and daughter delivers profound catharsis."
+  },
+  {
+    "movieId": 318,
+    "score": 0.95,
+    "reason": "A haunting chronicle of one man’s courage and the cost of saving lives during the Holocaust."
+  },
+  {
+    "movieId": 286,
+    "score": 0.93,
+    "reason": "A fragile war nurse and a mysterious patient forge a tender yet heart-wrenching bond."
+  },
+  {
+    "movieId": 9,
+    "score": 0.92,
+    "reason": "A prison chaplain navigates redemption and sorrow on death row in this searing drama."
+  },
+  {
+    "movieId": 276,
+    "score": 0.9,
+    "reason": "A man’s self-destruction and a tragic romance in Vegas that leaves the heart in ruins."
+  },
+  {
+    "movieId": 196,
+    "score": 0.88,
+    "reason": "An inspiring teacher’s lessons on life, loss, and living deeply."
+  },
+  {
+    "movieId": 65,
+    "score": 0.87,
+    "reason": "A small‐town brother cares for his sister in this tender, bittersweet portrait of family."
+  },
+  {
+    "movieId": 86,
+    "score": 0.85,
+    "reason": "A dignified butler confronts regrets and lost opportunities in postwar England."
+  },
+  {
+    "movieId": 272,
+    "score": 0.83,
+    "reason": "A troubled young genius finds the strength to heal through unlikely friendships."
+  },
+  {
+    "movieId": 69,
+    "score": 0.8,
+    "reason": "A simple man’s heartfelt journey through life’s sorrows and joys across decades."
+  }
+]

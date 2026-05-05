@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 468,
+    "score": 0.95,
+    "reason": "A small-town kid’s bid to play football shows the power of quiet determination."
+  },
+  {
+    "movieId": 136,
+    "score": 0.92,
+    "reason": "A naïve senator fights corruption alone, proving heart trumps high-powered allies."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.9,
+    "reason": "A Jamaican bobsled team races misfits to glory, finding triumph beyond the spotlight."
+  },
+  {
+    "movieId": 1178,
+    "score": 0.88,
+    "reason": "A tough major trains a ragtag cadet squad, their bond driving an unlikely victory."
+  },
+  {
+    "movieId": 138,
+    "score": 0.86,
+    "reason": "A junior varsity team scrapes by, underdogs who redefine winning off the bench."
+  },
+  {
+    "movieId": 15,
+    "score": 0.84,
+    "reason": "An unfulfilled teacher’s legacy blooms quietly, far from any grand auditorium."
+  },
+  {
+    "movieId": 48,
+    "score": 0.82,
+    "reason": "Two teens chase basketball dreams amid hardship, their passion undimmed by doubt."
+  },
+  {
+    "movieId": 215,
+    "score": 0.8,
+    "reason": "A farmer builds a baseball diamond, inspiring a community beyond any star player."
+  },
+  {
+    "movieId": 41,
+    "score": 0.78,
+    "reason": "A hotel heir’s schoolwork quest sees him grow more than any scholarship could."
+  },
+  {
+    "movieId": 21,
+    "score": 0.76,
+    "reason": "A young innkeeper’s treasure hunt is more personal than pirate gold."
+  }
+]

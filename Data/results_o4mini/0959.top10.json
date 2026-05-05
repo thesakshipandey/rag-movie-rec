@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 58,
+    "score": 0.95,
+    "reason": "Quiz Show explores 1950s television ethics and its impact on ordinary lives with period authenticity."
+  },
+  {
+    "movieId": 28,
+    "score": 0.93,
+    "reason": "Apollo 13 dramatizes the moon-mission crisis and its ripple effect on families back home."
+  },
+  {
+    "movieId": 193,
+    "score": 0.91,
+    "reason": "The Right Stuff immerses you in early astronaut trials and the cultural shift of the space race."
+  },
+  {
+    "movieId": 49,
+    "score": 0.9,
+    "reason": "I.Q. dramatizes early intelligence testing’s effect on a scientist and her working-class suitor."
+  },
+  {
+    "movieId": 136,
+    "score": 0.88,
+    "reason": "Mr. Smith Goes to Washington shows how a lone idealist’s actions reshape political norms."
+  },
+  {
+    "movieId": 14,
+    "score": 0.87,
+    "reason": "Il Postino captures postwar Italy’s bond-forging postal innovation and its poetic social uplift."
+  },
+  {
+    "movieId": 15,
+    "score": 0.85,
+    "reason": "Mr. Holland’s Opus portrays a music teacher’s quiet revolution in students’ lives over decades."
+  },
+  {
+    "movieId": 286,
+    "score": 0.84,
+    "reason": "The English Patient immerses you in wartime medical advances and lives irrevocably altered by conflict."
+  },
+  {
+    "movieId": 54,
+    "score": 0.82,
+    "reason": "Outbreak examines a viral scourge and its societal fallout with scientific and human authenticity."
+  },
+  {
+    "movieId": 371,
+    "score": 0.8,
+    "reason": "The Bridges of Madison County explores new emotional landscapes reshaping an Iowa farming family."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 87,
+    "score": 0.95,
+    "reason": "Searching for Bobby Fischer – young chess prodigy driven by intellectual obsession"
+  },
+  {
+    "movieId": 272,
+    "score": 0.93,
+    "reason": "Good Will Hunting – janitor/genius fixates on math to escape troubled past"
+  },
+  {
+    "movieId": 258,
+    "score": 0.91,
+    "reason": "Contact – scientist’s life consumed by the quest for extraterrestrial proof"
+  },
+  {
+    "movieId": 28,
+    "score": 0.88,
+    "reason": "Apollo 13 – engineers’ minds locked on one problem in life-or-death crisis"
+  },
+  {
+    "movieId": 7,
+    "score": 0.86,
+    "reason": "Twelve Monkeys – virology expert chased by time loop and mental obsession"
+  },
+  {
+    "movieId": 1355,
+    "score": 0.84,
+    "reason": "Infinity – physicist’s genius and grief collide in obsessive flight record"
+  },
+  {
+    "movieId": 59,
+    "score": 0.82,
+    "reason": "Three Colors: Red – lawyer’s obsession with listening in unraveled lives"
+  },
+  {
+    "movieId": 196,
+    "score": 0.8,
+    "reason": "Dead Poets Society – poetry teacher’s relentless pursuit of personal truth"
+  },
+  {
+    "movieId": 191,
+    "score": 0.78,
+    "reason": "Amadeus – composer’s envy fuels obsessive lament over genius rival"
+  },
+  {
+    "movieId": 507,
+    "score": 0.75,
+    "reason": "A Streetcar Named Desire – doctor’s descent under obsession and family weight"
+  }
+]

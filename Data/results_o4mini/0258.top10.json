@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 1.0,
+    "reason": "The Shawshank Redemption is an acclaimed drama about hope and friendship."
+  },
+  {
+    "movieId": 127,
+    "score": 0.99,
+    "reason": "The Godfather is a masterful crime drama with outstanding performances."
+  },
+  {
+    "movieId": 187,
+    "score": 0.98,
+    "reason": "The Godfather: Part II deepens the Corleone saga with epic storytelling."
+  },
+  {
+    "movieId": 318,
+    "score": 0.97,
+    "reason": "Schindler's List is a powerful WWII drama about one man's moral stand."
+  },
+  {
+    "movieId": 56,
+    "score": 0.96,
+    "reason": "Pulp Fiction reshapes crime drama with its sharp dialogue and nonlinear plot."
+  },
+  {
+    "movieId": 69,
+    "score": 0.95,
+    "reason": "Forrest Gump is a sweeping life drama anchored by Tom Hanks’s iconic performance."
+  },
+  {
+    "movieId": 178,
+    "score": 0.94,
+    "reason": "12 Angry Men is a gripping courtroom drama showcasing human drama under pressure."
+  },
+  {
+    "movieId": 22,
+    "score": 0.93,
+    "reason": "Braveheart is an epic historical drama of freedom and sacrifice."
+  },
+  {
+    "movieId": 180,
+    "score": 0.92,
+    "reason": "Apocalypse Now is a hallucinatory war drama exploring the darkness of conflict."
+  },
+  {
+    "movieId": 182,
+    "score": 0.91,
+    "reason": "Goodfellas chronicles the rise and fall of mob life with raw dramatic power."
+  }
+]

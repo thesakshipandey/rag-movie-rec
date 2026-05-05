@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 39,
+    "score": 1.0,
+    "reason": "Strange Days: Memory-recording tech sparks dangerous obsession, forcing characters to confront the fallout of reliving others’ emotions."
+  },
+  {
+    "movieId": 204,
+    "score": 0.95,
+    "reason": "Back to the Future: Time travel blunders ripple through history, making heroes face moral choices about changing their own pasts."
+  },
+  {
+    "movieId": 7,
+    "score": 0.93,
+    "reason": "Twelve Monkeys: Time travel to avert a plague traps the traveler in paradox, challenging his grasp on reality and responsibility."
+  },
+  {
+    "movieId": 82,
+    "score": 0.91,
+    "reason": "Jurassic Park: De‐extinction technology unleashes dinosaurs, igniting an ethical battle over control and unintended consequences."
+  },
+  {
+    "movieId": 89,
+    "score": 0.89,
+    "reason": "Blade Runner: Bioengineered replicants seek humanity’s rights, forcing a cop to question what it means to be truly alive."
+  },
+  {
+    "movieId": 135,
+    "score": 0.87,
+    "reason": "2001: A Space Odyssey: HAL’s AI autonomy turns lethal, revealing the moral perils of giving machines too much control."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.85,
+    "reason": "Ghost in the Shell: Cybernetic bodies and neural implants blur identity, driving a detective to question her own humanity."
+  },
+  {
+    "movieId": 96,
+    "score": 0.83,
+    "reason": "Terminator 2: Judgment Day: Advanced shape‐shifting AI and time travel collide, confronting heroes with tech’s capacity for destruction."
+  },
+  {
+    "movieId": 195,
+    "score": 0.81,
+    "reason": "The Terminator: A future AI assassin forces humans to face the dark side of autonomous war machines and the cost of technological hubris."
+  },
+  {
+    "movieId": 258,
+    "score": 0.79,
+    "reason": "Contact: Earth’s first alien signal discovery ignites a crisis of faith versus science, exploring tech’s role in shaping belief."
+  }
+]

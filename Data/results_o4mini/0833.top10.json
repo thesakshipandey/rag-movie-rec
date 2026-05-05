@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 347,
+    "score": 0.95,
+    "reason": "A spin doctor fabricates war to manipulate public opinion, exposing slippery ethics and empty patriotism."
+  },
+  {
+    "movieId": 291,
+    "score": 0.93,
+    "reason": "An editor stumbles on a presidential secret, unleashing a chain of backroom lies among powerful fixers."
+  },
+  {
+    "movieId": 657,
+    "score": 0.9,
+    "reason": "A brainwashed war veteran’s political return reveals a web of deceit woven by ambitious insiders."
+  },
+  {
+    "movieId": 566,
+    "score": 0.88,
+    "reason": "A president’s covert war protocol unravels corporate and military alliances in a cynical, power-driven plot."
+  },
+  {
+    "movieId": 328,
+    "score": 0.85,
+    "reason": "A conspiracy theorist forges perilous truths, ensnaring government agents in a maze of paranoia and manipulation."
+  },
+  {
+    "movieId": 124,
+    "score": 0.83,
+    "reason": "A dusty Texas sheriff uncovers a decades-old skeleton, sparking political cover-ups among equally tainted players."
+  },
+  {
+    "movieId": 58,
+    "score": 0.8,
+    "reason": "A scandalous quiz show ripples through 1950s America, revealing journalists, producers, and politicians all complicit."
+  },
+  {
+    "movieId": 59,
+    "score": 0.78,
+    "reason": "Behind a murder trial, judges, lawyers, and litigants each pursue hidden agendas in a chilling game of influence."
+  },
+  {
+    "movieId": 136,
+    "score": 0.75,
+    "reason": "A naive senator’s hearings turn into a backroom spectacle where everyone’s ambition drips with moral compromise."
+  },
+  {
+    "movieId": 754,
+    "score": 0.72,
+    "reason": "An American lawyer runs afoul of Beijing’s courts, revealing judicial machinations and fragile pretenses of justice."
+  }
+]

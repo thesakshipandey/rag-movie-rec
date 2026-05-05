@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 270,
+    "score": 1.0,
+    "reason": "A lone inventor’s biotech process is stolen by corporate collaborators who erase his role in a slow‐burn betrayal"
+  },
+  {
+    "movieId": 566,
+    "score": 0.92,
+    "reason": "Outsider musician becomes vehicle for intertwined mob stories, deconstructing the myth of the lone creative hero"
+  },
+  {
+    "movieId": 134,
+    "score": 0.89,
+    "reason": "A titan of media is revealed to be the product of countless helpers, undermining the myth of solitary genius"
+  },
+  {
+    "movieId": 81,
+    "score": 0.87,
+    "reason": "Time‐traveling mailman’s gadget is built on many unseen contributors, highlighting collective effort over single inventor"
+  },
+  {
+    "movieId": 47,
+    "score": 0.85,
+    "reason": "Documentary on Ed Wood shows how one ‘visionary’ director is propped up by an army of underpaid collaborators"
+  },
+  {
+    "movieId": 3,
+    "score": 0.83,
+    "reason": "Metafilm comedy shows a tyrant director feeding off townsfolk’s work, exposing the parasite behind the supposed auteur"
+  },
+  {
+    "movieId": 58,
+    "score": 0.81,
+    "reason": "Quiz show producers orchestrate contestants’ success and then erase their role, a slow unmasking of collective vs singular fame"
+  },
+  {
+    "movieId": 119,
+    "score": 0.79,
+    "reason": "Maya Lin’s monument relies on engineers, builders, and donors; her role as sole genius is steadily reframed as communal creation"
+  },
+  {
+    "movieId": 1127,
+    "score": 0.77,
+    "reason": "Every detail of ‘Truman’ is scripted by a vast crew, peeling back the illusion of a lone, free‐willed protagonist"
+  },
+  {
+    "movieId": 1346,
+    "score": 0.75,
+    "reason": "A tiny boy relies on his grandmother, strangers’ kindness, and communal bonds, questioning the lone hero narrative"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 286,
+    "score": 0.95,
+    "reason": "WWII nurse’s quiet reflections on wartime trauma and love’s lasting scars."
+  },
+  {
+    "movieId": 51,
+    "score": 0.9,
+    "reason": "Family saga explores haunting aftermath of WWI with somber, introspective tone."
+  },
+  {
+    "movieId": 23,
+    "score": 0.88,
+    "reason": "Vietnam vet’s lonely life in New York evokes haunting post-war isolation."
+  },
+  {
+    "movieId": 180,
+    "score": 0.85,
+    "reason": "Psychological descent of a soldier-turned-civilian, intense and haunting."
+  },
+  {
+    "movieId": 189,
+    "score": 0.82,
+    "reason": "Idyllic dream sequences mask deepening trauma of a returning veteran."
+  },
+  {
+    "movieId": 257,
+    "score": 0.8,
+    "reason": "Civil rights drama highlights Home Guard’s toll on families, somber and reflective."
+  },
+  {
+    "movieId": 127,
+    "score": 0.78,
+    "reason": "Portrait of general’s home life delves into private grief and wartime weight."
+  },
+  {
+    "movieId": 262,
+    "score": 0.75,
+    "reason": "Courtroom drama mirrors battlefields of the mind for soldiers back home."
+  },
+  {
+    "movieId": 169,
+    "score": 0.72,
+    "reason": "Prison escape unfolds as a metaphor for psychological captivity after war."
+  },
+  {
+    "movieId": 83,
+    "score": 0.7,
+    "reason": "Small-town narrative reflects lingering wartime shadows in everyday life."
+  }
+]

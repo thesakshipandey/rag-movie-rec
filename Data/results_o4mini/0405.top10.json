@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 1.0,
+    "reason": "Pure action gold—one man, one tower, endless explosions and heart-thumping suspense."
+  },
+  {
+    "movieId": 96,
+    "score": 0.95,
+    "reason": "High-octane time-twisting battles with liquid-metal menace—constant adrenaline."
+  },
+  {
+    "movieId": 117,
+    "score": 0.9,
+    "reason": "Gorgeously staged prison break turned explosive rock-concert of mayhem."
+  },
+  {
+    "movieId": 118,
+    "score": 0.85,
+    "reason": "Tornado chases that will pin you to your seat—nonstop weather-whiplash thrills."
+  },
+  {
+    "movieId": 568,
+    "score": 0.8,
+    "reason": "A runaway bus and a countdown to disaster—relentless, pedal-to-the-metal fun."
+  },
+  {
+    "movieId": 298,
+    "score": 0.75,
+    "reason": "Identity-swap havoc at breakneck speed—stylish mayhem you can’t look away from."
+  },
+  {
+    "movieId": 161,
+    "score": 0.7,
+    "reason": "Hot-rod pilots, sun-drenched skies, and spitfire dogfights—pure aerial rush."
+  },
+  {
+    "movieId": 121,
+    "score": 0.65,
+    "reason": "Alien invasions and skyscraper punches—big-screen spectacle in every frame."
+  },
+  {
+    "movieId": 176,
+    "score": 0.6,
+    "reason": "Deep jungle firefights and primal warfare—cinematic brutality at full tilt."
+  },
+  {
+    "movieId": 273,
+    "score": 0.55,
+    "reason": "A virtuoso cat-and-mouse between cops and robbers—relentlessly intense showdowns."
+  }
+]

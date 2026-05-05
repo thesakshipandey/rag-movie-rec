@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.97,
+    "reason": "An android’s quest for identity unfolds in cold neon, unsettling what it means to be human."
+  },
+  {
+    "movieId": 195,
+    "score": 0.94,
+    "reason": "A steel ex-cop battles a shape-shifting machine in a paranoid fight for humanity."
+  },
+  {
+    "movieId": 175,
+    "score": 0.92,
+    "reason": "A dystopian bureaucracy traps a dreamer in surreal terror, questioning human purpose."
+  },
+  {
+    "movieId": 206,
+    "score": 0.9,
+    "reason": "Neo-Tokyo’s psychic chaos probes the fragility of human connection versus cold mutation."
+  },
+  {
+    "movieId": 172,
+    "score": 0.88,
+    "reason": "Rebel soldiers and clones meet in a bleak galaxy, questioning what makes us more than flesh."
+  },
+  {
+    "movieId": 38,
+    "score": 0.86,
+    "reason": "A systems analyst’s life unravels online, evoking paranoia about identity and control."
+  },
+  {
+    "movieId": 39,
+    "score": 0.84,
+    "reason": "A memory dealer’s world fractures, probing the depths of desire and reality’s cold edge."
+  },
+  {
+    "movieId": 227,
+    "score": 0.82,
+    "reason": "An uneasy peace with former enemies raises chilling questions of trust and humanity."
+  },
+  {
+    "movieId": 228,
+    "score": 0.8,
+    "reason": "Old rivals clash in space, their human flaws amplified by the sterile void of the frontier."
+  },
+  {
+    "movieId": 229,
+    "score": 0.78,
+    "reason": "A mission to reclaim a friend tests the boundaries between flesh, soul, and unsettling silence."
+  }
+]

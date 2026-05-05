@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 217,
+    "score": 0.95,
+    "reason": "Bram Stoker’s Dracula brings a dark folk-tale feel to a superstitious village beset by an outsider"
+  },
+  {
+    "movieId": 1581,
+    "score": 0.92,
+    "reason": "The Innocents drapes a remote estate in eerie atmosphere, where off-kilter dread seeps into every corner"
+  },
+  {
+    "movieId": 471,
+    "score": 0.9,
+    "reason": "Courage Under Fire traps soldiers under an unseen threat, their superstitions feeding an earthy unease"
+  },
+  {
+    "movieId": 912,
+    "score": 0.88,
+    "reason": "U.S. Marshals slips into a small town’s fearful folklore, damp and primal in every shadowed alley"
+  },
+  {
+    "movieId": 1607,
+    "score": 0.85,
+    "reason": "Nightwatch sets its saga in a hospital’s off-kilter halls, where natural laws feel slightly askew"
+  },
+  {
+    "movieId": 599,
+    "score": 0.82,
+    "reason": "Police Story 4: Project S turns a Hong Kong backlot into a superstitious fortress of ritual and paranoia"
+  },
+  {
+    "movieId": 383,
+    "score": 0.8,
+    "reason": "Flintstones, The grafts stone-age superstition onto a remote village, earthy and unsettling, yet strangely real"
+  },
+  {
+    "movieId": 1462,
+    "score": 0.78,
+    "reason": "Boys of St Vincent weaves old-world guilt and folklore in a small Canadian town’s haunted alleys"
+  },
+  {
+    "movieId": 932,
+    "score": 0.75,
+    "reason": "Man Without a Face stranded in a dreary New Jersey inn, the story’s off-kilter vibe feels primal and uncanny"
+  },
+  {
+    "movieId": 1313,
+    "score": 0.72,
+    "reason": "Princess Bride relocates fairy-tale strangeness to a remote kingdom, earthy and delightfully unsettling"
+  }
+]

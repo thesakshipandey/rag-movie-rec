@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 949,
+    "score": 1.0,
+    "reason": "Ellie’s cosmic odyssey in meditative void of stars and silence"
+  },
+  {
+    "movieId": 167,
+    "score": 0.95,
+    "reason": "Quiet Western epic lingering on landscape and inner yearning"
+  },
+  {
+    "movieId": 470,
+    "score": 0.92,
+    "reason": "Minimalist trek through barren moors drenched in contemplative gloom"
+  },
+  {
+    "movieId": 446,
+    "score": 0.9,
+    "reason": "Subtle family horror unfolding in slow, uncanny countryside pulse"
+  },
+  {
+    "movieId": 1129,
+    "score": 0.88,
+    "reason": "Chronicling nocturnal lives in Hong Kong with poetic, patient lens"
+  },
+  {
+    "movieId": 658,
+    "score": 0.85,
+    "reason": "Looping days in rain-soaked small town capturing quiet transformation"
+  },
+  {
+    "movieId": 503,
+    "score": 0.82,
+    "reason": "Disillusioned reporter’s reflective voyage through political decay"
+  },
+  {
+    "movieId": 752,
+    "score": 0.78,
+    "reason": "Subterranean espionage as haunting, measured descent into darkness"
+  },
+  {
+    "movieId": 711,
+    "score": 0.75,
+    "reason": "Dark comedy’s measured pace probes modern alienation and absurdity"
+  },
+  {
+    "movieId": 261,
+    "score": 0.7,
+    "reason": "Boy and dog’s serene odyssey against tide-washed solitude"
+  }
+]

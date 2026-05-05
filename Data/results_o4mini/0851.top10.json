@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 258,
+    "score": 0.99,
+    "reason": "A scientist decodes an alien message in a haunting, awe-filled search for company in the cosmos"
+  },
+  {
+    "movieId": 423,
+    "score": 0.97,
+    "reason": "A gentle alien’s arrival upends childhood wonder and human fears with heartwarming magic"
+  },
+  {
+    "movieId": 848,
+    "score": 0.95,
+    "reason": "A stranger’s arrival sparks unexpected connections and profound questions about belonging"
+  },
+  {
+    "movieId": 257,
+    "score": 0.93,
+    "reason": "Earth’s hidden populace of aliens challenges us to embrace the surprising neighbor next door"
+  },
+  {
+    "movieId": 164,
+    "score": 0.91,
+    "reason": "Deep-sea explorers encounter otherworldly life in a disorienting, mesmerizing realm"
+  },
+  {
+    "movieId": 135,
+    "score": 0.89,
+    "reason": "A monolith’s discovery sparks a surreal odyssey that redefines humanity’s place in the universe"
+  },
+  {
+    "movieId": 62,
+    "score": 0.87,
+    "reason": "A portal to ancient worlds demands new rules for coexistence amid alien marvels"
+  },
+  {
+    "movieId": 355,
+    "score": 0.85,
+    "reason": "Divers clash with unknown forces within a mysterious sphere that upends all logic"
+  },
+  {
+    "movieId": 260,
+    "score": 0.83,
+    "reason": "A rescue crew finds terror and wonder aboard a lost ship beyond the event horizon"
+  },
+  {
+    "movieId": 82,
+    "score": 0.81,
+    "reason": "A futuristic park’s creatures evolve the first moment of human-alien wonder"
+  }
+]

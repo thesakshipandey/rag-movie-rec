@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Stranded astronauts battle for survival when their spacecraft suffers a catastrophic failure"
+  },
+  {
+    "movieId": 141,
+    "score": 0.91,
+    "reason": "Scientists trapped in an underwater vessel face unknown threats deep in the ocean"
+  },
+  {
+    "movieId": 164,
+    "score": 0.89,
+    "reason": "Submerged submarine crew fights to stay alive after colliding with a mysterious object"
+  },
+  {
+    "movieId": 1494,
+    "score": 0.87,
+    "reason": "Real-life sailing disaster tests a ship’s crew against a violent sudden storm"
+  },
+  {
+    "movieId": 118,
+    "score": 0.85,
+    "reason": "Storm chasers confront tornadoes head-on in a tense, destructive natural fury"
+  },
+  {
+    "movieId": 555,
+    "score": 0.82,
+    "reason": "Post-apocalyptic mariner navigates a flooded world searching for dry land and hope"
+  },
+  {
+    "movieId": 304,
+    "score": 0.8,
+    "reason": "Girl fosters orphaned geese and must guide them across vast wilderness alone"
+  },
+  {
+    "movieId": 353,
+    "score": 0.78,
+    "reason": "Mercenaries aboard a luxury liner fight for survival against unknown sea monsters"
+  },
+  {
+    "movieId": 20,
+    "score": 0.75,
+    "reason": "Explorer returns from a perilous voyage to catalog bizarre plant and animal life"
+  },
+  {
+    "movieId": 1410,
+    "score": 0.72,
+    "reason": "Surfer orphan fights to stay alive on the desert streets of Marseille after tragedy"
+  }
+]

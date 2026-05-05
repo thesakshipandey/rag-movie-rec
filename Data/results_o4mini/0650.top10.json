@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 206,
+    "score": 1.0,
+    "reason": "Akira’s cyberpunk dystopia and psychic drama deliver existential weight only animation can capture."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.95,
+    "reason": "Ghost in the Shell interrogates consciousness and identity through sleek, philosophical sci-fi animation."
+  },
+  {
+    "movieId": 101,
+    "score": 0.9,
+    "reason": "Heavy Metal’s anthology of dark, adult-oriented sci-fi and fantasy stories thrives on visuals beyond live action."
+  },
+  {
+    "movieId": 426,
+    "score": 0.85,
+    "reason": "Transformers: The Movie stages cosmic battles and sentient machines in a scope unfilmable in live-action."
+  },
+  {
+    "movieId": 91,
+    "score": 0.8,
+    "reason": "The Nightmare Before Christmas blends haunting fantasy and existential yearning in stop-motion brilliance."
+  },
+  {
+    "movieId": 473,
+    "score": 0.75,
+    "reason": "James and the Giant Peach’s surreal stop-motion journey probes loss and friendship in a way live-action can’t."
+  },
+  {
+    "movieId": 1470,
+    "score": 0.7,
+    "reason": "Gumby: The Movie uses claymation to explore loyalty and adventure in a playful yet endlessly imaginative world."
+  },
+  {
+    "movieId": 1092,
+    "score": 0.65,
+    "reason": "The Swan Princess builds a lush animated fairy-tale realm that transcends puppet or stage approaches."
+  },
+  {
+    "movieId": 102,
+    "score": 0.6,
+    "reason": "The Aristocats layers social satire beneath its hand-drawn world, offering more than simple family amusement."
+  },
+  {
+    "movieId": 103,
+    "score": 0.55,
+    "reason": "All Dogs Go to Heaven 2 tackles loyalty and redemption with traditional animation that live-action couldn’t mimic."
+  }
+]

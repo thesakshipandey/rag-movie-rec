@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 505,
+    "score": 0.95,
+    "reason": "Dial M for Murder unfolds in one flat where every character becomes a suspect."
+  },
+  {
+    "movieId": 659,
+    "score": 0.9,
+    "reason": "Arsenic and Old Lace is set entirely in a mansion, full of clues and darkly comic secrets."
+  },
+  {
+    "movieId": 603,
+    "score": 0.85,
+    "reason": "Rear Window keeps you guessing in one apartment courtyard—everyone is under suspicion."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.8,
+    "reason": "The Innocents traps you in a single country house with unnerving mystery all around."
+  },
+  {
+    "movieId": 37,
+    "score": 0.75,
+    "reason": "Nadja’s vampire mystery feels intimate and contained in shadowy rooms."
+  },
+  {
+    "movieId": 505,
+    "score": 0.72,
+    "reason": "Dial M for Murder’s single-location suspense is as cozy as it is clever."
+  },
+  {
+    "movieId": 659,
+    "score": 0.7,
+    "reason": "Arsenic and Old Lace’s mansion setting makes every quirky family member a suspect."
+  },
+  {
+    "movieId": 603,
+    "score": 0.68,
+    "reason": "Rear Window’s courtyard stage lets you piece together the puzzle by moonlight."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.65,
+    "reason": "The Innocents’ one-location dread invites close scrutiny of every character."
+  },
+  {
+    "movieId": 505,
+    "score": 0.6,
+    "reason": "Dial M for Murder shines as a masterful puzzle in a single, claustrophobic flat."
+  }
+]

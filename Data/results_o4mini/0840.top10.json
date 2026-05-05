@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 251,
+    "score": 0.94,
+    "reason": "Tokyo salaryman finds renewed purpose through underground ballroom dance lessons"
+  },
+  {
+    "movieId": 416,
+    "score": 0.9,
+    "reason": "Corporate executive sent to buy village hotel undergoes a life-changing rural awakening"
+  },
+  {
+    "movieId": 126,
+    "score": 0.88,
+    "reason": "American pilot stranded in remote village adapts to simple customs far from city life"
+  },
+  {
+    "movieId": 43,
+    "score": 0.85,
+    "reason": "Executive lawyer reevaluates her priorities after scandal forces her out of the boardroom"
+  },
+  {
+    "movieId": 276,
+    "score": 0.82,
+    "reason": "Disgraced screenwriter abandons Hollywood for the freedom and danger of Las Vegas"
+  },
+  {
+    "movieId": 449,
+    "score": 0.8,
+    "reason": "Mid-career politician’s staged kidnapping pushes him to escape public life and expectations"
+  },
+  {
+    "movieId": 552,
+    "score": 0.78,
+    "reason": "Obese lawyer quits the rat race to reinvent himself as a health-obsessed professor"
+  },
+  {
+    "movieId": 105,
+    "score": 0.75,
+    "reason": "Marketing director walking away from the corporate toy world finds unexpected personal freedom"
+  },
+  {
+    "movieId": 306,
+    "score": 0.73,
+    "reason": "Widow leaves suburban routine behind to follow an eccentric former servant into the Scottish countryside"
+  },
+  {
+    "movieId": 656,
+    "score": 0.7,
+    "reason": "Impatient rail collector breaks all the rules to rediscover simple human connections"
+  }
+]

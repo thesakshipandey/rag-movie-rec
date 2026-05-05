@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 1.0,
+    "reason": "Riveting true-space drama balancing human emotion with steady pacing"
+  },
+  {
+    "movieId": 202,
+    "score": 0.95,
+    "reason": "Witty comedy about reliving the same day, both clever and easily rewatchable"
+  },
+  {
+    "movieId": 69,
+    "score": 0.9,
+    "reason": "Heartwarming journey across decades blending humor, romance, and adventure"
+  },
+  {
+    "movieId": 88,
+    "score": 0.85,
+    "reason": "Warm romantic comedy capturing serendipity and hope with genuine charm"
+  },
+  {
+    "movieId": 216,
+    "score": 0.8,
+    "reason": "Clever romantic comedy exploring love and friendship with sharp dialogue"
+  },
+  {
+    "movieId": 137,
+    "score": 0.75,
+    "reason": "Intimate culinary drama infused with humor, relationships, and live-in warmth"
+  },
+  {
+    "movieId": 255,
+    "score": 0.7,
+    "reason": "Lighthearted romance full of humorous schemes and endearing chemistry"
+  },
+  {
+    "movieId": 237,
+    "score": 0.65,
+    "reason": "Inspirational sports drama with heart, wit, and uplifting energy"
+  },
+  {
+    "movieId": 393,
+    "score": 0.6,
+    "reason": "Whimsical family comedy centered on love, loss, and humorous ghostly antics"
+  },
+  {
+    "movieId": 204,
+    "score": 0.55,
+    "reason": "Inventive sci-fi comedy-adventure offering fun thrills and beloved charm"
+  }
+]

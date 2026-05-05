@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "A lunar monolith probe ignites first contact’s intellectual and awe-filled dialogue."
+  },
+  {
+    "movieId": 258,
+    "score": 0.95,
+    "reason": "An astronomer intercepts alien signals with rigorous science and tense wonder."
+  },
+  {
+    "movieId": 223,
+    "score": 0.9,
+    "reason": "A ship’s AI droid and a freed queen challenge humanity’s understanding of extraterrestrials."
+  },
+  {
+    "movieId": 412,
+    "score": 0.85,
+    "reason": "A reporter documents pioneering SETI work with reverent seriousness and suspense."
+  },
+  {
+    "movieId": 762,
+    "score": 0.8,
+    "reason": "A washed-up radio host deciphers alien code with scientific rigor and wonder."
+  },
+  {
+    "movieId": 922,
+    "score": 0.75,
+    "reason": "An eccentric general’s lieutenants grapple with off-world intelligence errors."
+  },
+  {
+    "movieId": 612,
+    "score": 0.7,
+    "reason": "A conscripted writer chases a pioneering communication breakthrough in icy isolation."
+  },
+  {
+    "movieId": 1126,
+    "score": 0.65,
+    "reason": "An epic desert quest uncovers an artefact signaling profound cosmic insight."
+  },
+  {
+    "movieId": 298,
+    "score": 0.6,
+    "reason": "An FBI agent studies alien hybrid science to decode interspecies signals."
+  },
+  {
+    "movieId": 296,
+    "score": 0.55,
+    "reason": "A war-torn scientist’s transmission from Hell reveals dark communication mysteries."
+  }
+]

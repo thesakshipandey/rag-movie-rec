@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Charming CG adventure about friendship and loyalty"
+  },
+  {
+    "movieId": 2,
+    "score": 0.93,
+    "reason": "High-octane Bond thriller set against post-Soviet intrigue"
+  },
+  {
+    "movieId": 4,
+    "score": 0.92,
+    "reason": "Witty crime comedy with John Travolta on a Hollywood caper"
+  },
+  {
+    "movieId": 8,
+    "score": 0.91,
+    "reason": "Heartwarming family tale of a pig finding his place"
+  },
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "Masterful crime puzzle with memorable ensemble cast"
+  },
+  {
+    "movieId": 22,
+    "score": 0.89,
+    "reason": "Epic medieval drama of freedom and sacrifice"
+  },
+  {
+    "movieId": 23,
+    "score": 0.88,
+    "reason": "Intense character study of loneliness in gritty NYC"
+  },
+  {
+    "movieId": 56,
+    "score": 0.87,
+    "reason": "Groundbreaking nonlinear crime saga by Tarantino"
+  },
+  {
+    "movieId": 69,
+    "score": 0.86,
+    "reason": "Time-spanning odyssey blending history and myth"
+  },
+  {
+    "movieId": 82,
+    "score": 0.85,
+    "reason": "Thrilling dinosaur spectacle with groundbreaking effects"
+  }
+]

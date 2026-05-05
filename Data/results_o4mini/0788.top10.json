@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.98,
+    "reason": "An odyssey of human evolution and isolation in awe-inspiring cosmic silence",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 89,
+    "score": 0.96,
+    "reason": "Synthetic humans blur lines of consciousness in a rain-soaked dystopia",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 258,
+    "score": 0.94,
+    "reason": "A scientist’s first contact forces questions of faith and extraterrestrial life",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 270,
+    "score": 0.92,
+    "reason": "A genetically forbidden man battles societal limits and asks what makes us human",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 96,
+    "score": 0.9,
+    "reason": "Shape-shifting AI questions destiny and humanity in a chilling near-future",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 7,
+    "score": 0.88,
+    "reason": "A time traveler’s doomed quest to save humanity’s future provokes mind-bending quandaries",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.86,
+    "reason": "A cybernetic detective hunts for a soul in a post-human digital underworld",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 183,
+    "score": 0.84,
+    "reason": "A lone survivor battles an alien presence aboard an isolated freighter",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 176,
+    "score": 0.82,
+    "reason": "A veteran returns to hunt a relentless xenomorph in claustrophobic corridors",
+    "prompt_id": "0788"
+  },
+  {
+    "movieId": 355,
+    "score": 0.8,
+    "reason": "A deep-sea crew confronts their own fears when ancient horrors emerge from the abyss",
+    "prompt_id": "0788"
+  }
+]

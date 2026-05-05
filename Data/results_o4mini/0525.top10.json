@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1429,
+    "score": 0.98,
+    "reason": "Late-night Hong Kong streets rendered in hazy neon dreamscapes"
+  },
+  {
+    "movieId": 324,
+    "score": 0.95,
+    "reason": "Surreal L.A. nights warp reality in a disorienting nocturnal haze"
+  },
+  {
+    "movieId": 39,
+    "score": 0.93,
+    "reason": "Dystopian night tech-future pulses with uncanny, dreamlike emptiness"
+  },
+  {
+    "movieId": 856,
+    "score": 0.91,
+    "reason": "Episodic taxi rides capture city solitude under urban night skies"
+  },
+  {
+    "movieId": 919,
+    "score": 0.88,
+    "reason": "Desaturated industrial fairgrounds conjure eerie, silent nightworlds"
+  },
+  {
+    "movieId": 89,
+    "score": 0.86,
+    "reason": "Brooding LA skyline after dark feels equal parts empty and alive"
+  },
+  {
+    "movieId": 1240,
+    "score": 0.83,
+    "reason": "Cybernetic future Tokyo glows with quiet, mysterious after-dark secrets"
+  },
+  {
+    "movieId": 17,
+    "score": 0.8,
+    "reason": "Moonlit deserts and nocturnal bar scenes mix eerie calm with sly surrealism"
+  },
+  {
+    "movieId": 212,
+    "score": 0.77,
+    "reason": "European city nights flicker with existential tension and surreal shadows"
+  },
+  {
+    "movieId": 712,
+    "score": 0.75,
+    "reason": "Postwar Detroit nights frame melancholy wanderings in subdued, smoky light"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 196,
+    "score": 0.95,
+    "reason": "A passionate teacher’s tough methods push students to seize the day, blurring care and cruelty."
+  },
+  {
+    "movieId": 188,
+    "score": 0.93,
+    "reason": "Drill sergeant’s relentless pressure breaks down recruits to teach them survival."
+  },
+  {
+    "movieId": 272,
+    "score": 0.91,
+    "reason": "A math genius finds his limits tested by a therapist whose methods probe too deeply."
+  },
+  {
+    "movieId": 15,
+    "score": 0.89,
+    "reason": "An idealistic music teacher’s well-meaning rigidity strains his students and his marriage."
+  },
+  {
+    "movieId": 366,
+    "score": 0.87,
+    "reason": "A former Marine’s tough love classroom style challenges troubled teens at every turn."
+  },
+  {
+    "movieId": 159,
+    "score": 0.85,
+    "reason": "A stoic mentor restores a troubled teen’s purpose, but at what emotional cost?"
+  },
+  {
+    "movieId": 191,
+    "score": 0.83,
+    "reason": "Rivalry of genius pushes a protégé to obsession under a resentful master."
+  },
+  {
+    "movieId": 55,
+    "score": 0.81,
+    "reason": "A ruthless editor mentors a timid writer, examing his morals through brutal trials."
+  },
+  {
+    "movieId": 366,
+    "score": 0.79,
+    "reason": "An ex-soldier’s austere teaching methods strain fragile student trust."
+  },
+  {
+    "movieId": 223,
+    "score": 0.77,
+    "reason": "A gentle giant guides a young boy, hesitating between protection and control."
+  }
+]

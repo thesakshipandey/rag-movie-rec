@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.99,
+    "reason": "Braveheart – one-word epic title capturing William Wallace’s fight for Scotland."
+  },
+  {
+    "movieId": 11,
+    "score": 0.97,
+    "reason": "Seven (Se7en) – stylized one-word thriller title featuring a deadly sin."
+  },
+  {
+    "movieId": 2,
+    "score": 0.95,
+    "reason": "GoldenEye – James Bond film with a single-word title referencing the title weapon."
+  },
+  {
+    "movieId": 8,
+    "score": 0.93,
+    "reason": "Babe – beloved one-word family film about a pig aspiring to be a sheepdog."
+  },
+  {
+    "movieId": 33,
+    "score": 0.91,
+    "reason": "Desperado – one-word action title starring a gun-toting musician in Mexico."
+  },
+  {
+    "movieId": 42,
+    "score": 0.89,
+    "reason": "Clerks – Kevin Smith’s single-word comedy about convenience store clerks."
+  },
+  {
+    "movieId": 46,
+    "score": 0.87,
+    "reason": "Exotica – one-word title of a psychological drama set in a nightclub."
+  },
+  {
+    "movieId": 54,
+    "score": 0.85,
+    "reason": "Outbreak – medical thriller with a one-word title about a viral epidemic."
+  },
+  {
+    "movieId": 62,
+    "score": 0.83,
+    "reason": "Stargate – sci-fi adventure with a one-word title centered on an alien portal."
+  },
+  {
+    "movieId": 95,
+    "score": 0.81,
+    "reason": "Aladdin – Disney one-word musical about a street rat finding a magic lamp."
+  }
+]

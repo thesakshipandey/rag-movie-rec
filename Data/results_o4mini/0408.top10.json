@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 650,
+    "score": 1.0,
+    "reason": "A haunting dance with Death that chills your soul in stark, poetic black-and-white."
+  },
+  {
+    "movieId": 641,
+    "score": 0.9,
+    "reason": "War’s grim absurdity on full display—unyielding and breathtakingly bleak."
+  },
+  {
+    "movieId": 180,
+    "score": 0.85,
+    "reason": "A nightmarish trek down the river of war—senses numbed by surreal, crushing despair."
+  },
+  {
+    "movieId": 515,
+    "score": 0.8,
+    "reason": "The undersea abyss becomes an echo chamber of dread in this bone-chilling siege."
+  },
+  {
+    "movieId": 664,
+    "score": 0.75,
+    "reason": "A wordless lament across the desert, each frame a portrait of lonely, frozen sorrow."
+  },
+  {
+    "movieId": 649,
+    "score": 0.7,
+    "reason": "A decade-spanning saga of loss and longing that blooms with tragic beauty."
+  },
+  {
+    "movieId": 635,
+    "score": 0.65,
+    "reason": "Fog-shrouded horrors and mournful isolation in a seaside town swallowed by dread."
+  },
+  {
+    "movieId": 448,
+    "score": 0.6,
+    "reason": "An apocalyptic whisper in the dark, a slow, inexorable terror you can’t outrun."
+  },
+  {
+    "movieId": 200,
+    "score": 0.55,
+    "reason": "An icy descent into madness where every empty corridor tells of inescapable doom."
+  },
+  {
+    "movieId": 23,
+    "score": 0.5,
+    "reason": "A lonely vigilante’s gaze across a decaying cityscape—no hope, just raw, ragged tension."
+  }
+]

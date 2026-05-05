@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 250,
+    "score": 0.95,
+    "reason": "Futuristic elementals bound by strict rules of the four stones, used cleverly."
+  },
+  {
+    "movieId": 472,
+    "score": 0.93,
+    "reason": "Bonded dragon magic follows clear rules—power exchange is central to its plot."
+  },
+  {
+    "movieId": 62,
+    "score": 0.91,
+    "reason": "Ancient gate portal obeys clear mechanics and drives every twist in the story."
+  },
+  {
+    "movieId": 250,
+    "score": 0.89,
+    "reason": "Fifth Element’s elemental stones form a hard magic system with defined limits."
+  },
+  {
+    "movieId": 548,
+    "score": 0.87,
+    "reason": "Fantasy world’s laws explained through gameplay style rules that shape every act."
+  },
+  {
+    "movieId": 206,
+    "score": 0.85,
+    "reason": "Telekinetic powers bounded by cyberpunk tech rules, used strategically in each scene."
+  },
+  {
+    "movieId": 101,
+    "score": 0.83,
+    "reason": "Segmented adult anthology uses magic harshly; each tale hinges on its dark rules."
+  },
+  {
+    "movieId": 214,
+    "score": 0.81,
+    "reason": "Surreal animated allegory uses clear metaphorical rules to explore trauma."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.79,
+    "reason": "Cybernetic law defines human vs. machine—every moral twist depends on its hard edge."
+  },
+  {
+    "movieId": 206,
+    "score": 0.77,
+    "reason": "Akira’s bio-tech rules fuel every narrative turn in its dystopian future."
+  }
+]

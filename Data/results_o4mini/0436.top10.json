@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.97,
+    "reason": "Immense battle scenes and stirring score that inspire awe and smallness."
+  },
+  {
+    "movieId": 511,
+    "score": 0.94,
+    "reason": "Vast desert vistas and epic scope that redefines human insignificance."
+  },
+  {
+    "movieId": 97,
+    "score": 0.91,
+    "reason": "Expansive plains and cultural discovery that humbles and enchants."
+  },
+  {
+    "movieId": 135,
+    "score": 0.88,
+    "reason": "Cosmic journeys that stretch the soul across silent, infinite horizons."
+  },
+  {
+    "movieId": 133,
+    "score": 0.85,
+    "reason": "Civil war grandeur and sweeping drama that dwarfs personal fate."
+  },
+  {
+    "movieId": 526,
+    "score": 0.82,
+    "reason": "Chariot races and epic conflicts that make history feel grandly alive."
+  },
+  {
+    "movieId": 28,
+    "score": 0.79,
+    "reason": "Space-bound adventure that expands the heart with each earthrise."
+  },
+  {
+    "movieId": 318,
+    "score": 0.76,
+    "reason": "Monumental portrayal of humanity’s depths and transcendent courage."
+  },
+  {
+    "movieId": 180,
+    "score": 0.73,
+    "reason": "River into madness that engulfs reality in untamed cinematic force."
+  },
+  {
+    "movieId": 313,
+    "score": 0.7,
+    "reason": "Ocean liner epic cascading from hopeful departure to overwhelming spectacle."
+  }
+]

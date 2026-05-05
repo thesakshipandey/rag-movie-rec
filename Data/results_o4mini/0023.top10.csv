@@ -1,0 +1,11 @@
+movieId,score,reason
+56,1.0,"Pulp Fiction is famously told out of chronological order, weaving interlinked vignettes into a nonlinear puzzle."
+12,0.95,The Usual Suspects unfolds through unreliable flashbacks and a twist that reshapes the entire narrative.
+156,0.9,Reservoir Dogs uses a fractured timeline to reveal motivations and piece together the real heist story.
+324,0.88,"Lost Highway’s reality-bending structure loops and fractures time, making you question what’s real."
+333,0.85,The Game toys with reality and chronology as a staged conspiracy that you must decode alongside the protagonist.
+1682,0.83,"Sliding Doors shows parallel timelines split by a single moment, inviting you to compare and piece both arcs."
+134,0.8,Citizen Kane uses disordered flashbacks from multiple perspectives to assemble the true story of Charles Kane.
+7,0.78,"Twelve Monkeys jumps through time in a mind-bending loop, scattering clues that you must assemble into its mystery."
+39,0.75,Strange Days splices found memories and fractured recollections into a dark puzzle of perception and reality.
+202,0.72,"Groundhog Day loops the same day repeatedly, letting you piece together subtle changes in chronology."

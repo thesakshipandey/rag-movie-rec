@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 780,
+    "score": 1.0,
+    "reason": "Slack-jawed comedy mayhem that refuses to let you think—just laugh till you drop."
+  },
+  {
+    "movieId": 67,
+    "score": 0.95,
+    "reason": "Animal-powered gags and zany one-liners—zero brainpower needed, all belly laughs."
+  },
+  {
+    "movieId": 41,
+    "score": 0.9,
+    "reason": "Dopey heir’s wild antics deliver nonstop silliness in bite-sized, couch-friendly doses."
+  },
+  {
+    "movieId": 763,
+    "score": 0.85,
+    "reason": "Hockey hijinks and unexpected pratfalls—no deep thoughts, just goofy fun."
+  },
+  {
+    "movieId": 249,
+    "score": 0.8,
+    "reason": "Groovy spy spoofs, outrageous puns, and absurd ’60s camp that’s pure, silly delight."
+  },
+  {
+    "movieId": 411,
+    "score": 0.75,
+    "reason": "Over-the-top transformation comedy that’s all broad smiles and zero complexity."
+  },
+  {
+    "movieId": 367,
+    "score": 0.7,
+    "reason": "Teen fashion flick with quick wit and carefree humor—ideal pre-sleep giggles."
+  },
+  {
+    "movieId": 72,
+    "score": 0.65,
+    "reason": "Mask-powered chaos, slapstick chases, and bright neon gags for easy-going laughter."
+  },
+  {
+    "movieId": 338,
+    "score": 0.6,
+    "reason": "Silent stooge comedy version in color—urban mayhem, wordless gag after gag."
+  },
+  {
+    "movieId": 80,
+    "score": 0.55,
+    "reason": "A parody of action flicks in 3D—cheesy thrills, goofy punchlines, simple happy vibes."
+  }
+]

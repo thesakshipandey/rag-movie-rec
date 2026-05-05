@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 2,
+    "score": 0.95,
+    "reason": "GoldenEye strips spycraft of glamor into a gritty, paranoid Cold War scheme gone awry"
+  },
+  {
+    "movieId": 405,
+    "score": 0.92,
+    "reason": "Mission: Impossible portrays a weary agent on a compromised romp of double-crosses and wet, cold betrayals"
+  },
+  {
+    "movieId": 689,
+    "score": 0.9,
+    "reason": "Jackal, The follows an unglamorous, exhausted operative in a murky game of betrayal and mounting suspicion"
+  },
+  {
+    "movieId": 265,
+    "score": 0.88,
+    "reason": "Hunt for Red October traps its commander in a tense, damp undersea standoff full of paranoia and mistrust"
+  },
+  {
+    "movieId": 31,
+    "score": 0.85,
+    "reason": "Crimson Tide stages a claustrophobic, soaked-through submarine mutiny driven by hard-edged betrayal"
+  },
+  {
+    "movieId": 291,
+    "score": 0.82,
+    "reason": "Absolute Power shows a burnt-out thief tangled in covert plots, spying on corrupt power players in gloom"
+  },
+  {
+    "movieId": 566,
+    "score": 0.8,
+    "reason": "Clear and Present Danger casts CIA officers into a murky, damp mission where every order feels suspect"
+  },
+  {
+    "movieId": 282,
+    "score": 0.78,
+    "reason": "Kiss the Girls is a grim cat-and-mouse thriller of ex-agents chasing a remorseless predator in shadowy terrain"
+  },
+  {
+    "movieId": 5,
+    "score": 0.75,
+    "reason": "Copycat finds a forensic psychologist dragged into a bleak, compromised hunt for a cunning serial killer"
+  },
+  {
+    "movieId": 53,
+    "score": 0.72,
+    "reason": "Natural Born Killers flips the glamorous myth of vigilantes into a raw, cynical spree of distrust and betrayal"
+  }
+]

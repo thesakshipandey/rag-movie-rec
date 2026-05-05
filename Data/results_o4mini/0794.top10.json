@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.98,
+    "reason": "One man’s obsessive descent into isolation is mirrored in his fragmented, intimate narration."
+  },
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "A solitude-driven caretaker’s obsession with a remote hotel becomes a surreal psychological journey."
+  },
+  {
+    "movieId": 32,
+    "score": 0.92,
+    "reason": "Obsessive artist’s camera offers unflinching closeness to creative madness and isolation."
+  },
+  {
+    "movieId": 531,
+    "score": 0.9,
+    "reason": "Piano prodigy’s all-consuming dedication to music blurs reality in an isolated fervor."
+  },
+  {
+    "movieId": 479,
+    "score": 0.88,
+    "reason": "Detective’s fixation on a missing woman drives a tense, internalized unraveling."
+  },
+  {
+    "movieId": 5,
+    "score": 0.85,
+    "reason": "Serial-killer expert’s compulsive pursuit of patterns mirrors her own encroaching fear."
+  },
+  {
+    "movieId": 47,
+    "score": 0.82,
+    "reason": "Filmmaker’s passion for pulp cinema fractures into enchanting yet unsettling self-obsession."
+  },
+  {
+    "movieId": 57,
+    "score": 0.8,
+    "reason": "Priest’s spiritual obsession becomes a strictly intimate, claustrophobic study of faith."
+  },
+  {
+    "movieId": 53,
+    "score": 0.78,
+    "reason": "Young couple’s murderous spree reflects their fractured psyches in brutal intimacy."
+  },
+  {
+    "movieId": 39,
+    "score": 0.75,
+    "reason": "Underworld recordings provoke an addict’s obsession that warps memory and perception."
+  }
+]

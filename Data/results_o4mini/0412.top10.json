@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.98,
+    "reason": "Epic saga of vengeance that roars like a rallying cry for freedom."
+  },
+  {
+    "movieId": 203,
+    "score": 0.96,
+    "reason": "Gritty western revenge where a retired gunslinger defies the odds with precision."
+  },
+  {
+    "movieId": 68,
+    "score": 0.95,
+    "reason": "Vengeful resurrection of a fallen hero unleashes brutal justice in darkness."
+  },
+  {
+    "movieId": 33,
+    "score": 0.94,
+    "reason": "Lone gunslinger’s mission for blood-soaked retribution amid Mexican crime."
+  },
+  {
+    "movieId": 127,
+    "score": 0.93,
+    "reason": "Classic mafia vendetta where family loyalty ignites a storm of retribution."
+  },
+  {
+    "movieId": 187,
+    "score": 0.92,
+    "reason": "Dual-chronicle rise and revenge in the Mafia’s unforgiving underworld."
+  },
+  {
+    "movieId": 218,
+    "score": 0.91,
+    "reason": "Ominous return of a vengeful ex-convict sparks a chilling payback campaign."
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "One man’s descent into madness becomes a ferocious crusade for brutal justice."
+  },
+  {
+    "movieId": 53,
+    "score": 0.89,
+    "reason": "An avenging couple unleashes unhinged fury in a twist-filled killing spree."
+  },
+  {
+    "movieId": 11,
+    "score": 0.88,
+    "reason": "Relentless hunt for a serial killer fueled by raw, visceral outrage."
+  }
+]

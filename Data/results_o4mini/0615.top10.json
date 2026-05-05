@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "A woman's silent grief and icy resolve unfold amidst grand but lonely Geneva streets."
+  },
+  {
+    "movieId": 23,
+    "score": 0.95,
+    "reason": "A solitary cabbie weaves through neon-soaked nights, haunted by disconnection in a crowded city."
+  },
+  {
+    "movieId": 957,
+    "score": 0.9,
+    "reason": "An outsider’s quiet wisdom and gentle humor bridge the gap between cultural worlds in rural Oz."
+  },
+  {
+    "movieId": 517,
+    "score": 0.88,
+    "reason": "A poet’s reflective wanderings through New York capture the ache of living between crowds."
+  },
+  {
+    "movieId": 305,
+    "score": 0.86,
+    "reason": "Beneath suburbia’s frozen veneer lies a tapestry of alienation, craving warmth and belonging."
+  },
+  {
+    "movieId": 179,
+    "score": 0.84,
+    "reason": "A lone ultraviolent antihero navigates a dystopian city, seeking a spark of real human connection."
+  },
+  {
+    "movieId": 175,
+    "score": 0.82,
+    "reason": "A Kafkaesque journey through bureaucratic ruins, where alienation becomes a living, breathing foe."
+  },
+  {
+    "movieId": 475,
+    "score": 0.8,
+    "reason": "Five friends drift through Edinburgh’s gray streets, yearning to escape the emptiness of their routines."
+  },
+  {
+    "movieId": 514,
+    "score": 0.78,
+    "reason": "Neurotic banter and tender vulnerability collide as a comic duo dances around honest emotion."
+  },
+  {
+    "movieId": 605,
+    "score": 0.76,
+    "reason": "A mother and daughter’s nostalgic letters whisk us through moments of icy beauty and quiet longing."
+  }
+]

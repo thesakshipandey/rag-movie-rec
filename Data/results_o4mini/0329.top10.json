@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 483,
+    "score": 1.0,
+    "reason": "Timeless romance set in wartime Morocco with witty banter and cozy atmosphere"
+  },
+  {
+    "movieId": 604,
+    "score": 0.95,
+    "reason": "Charming road-trip romance full of playful chemistry and lighthearted wit"
+  },
+  {
+    "movieId": 487,
+    "score": 0.9,
+    "reason": "Enchanting tale of a princess on the run in Rome, brimming with warmth and humor"
+  },
+  {
+    "movieId": 945,
+    "score": 0.85,
+    "reason": "Stylish romantic thriller blending humor and charm in 1960s Paris"
+  },
+  {
+    "movieId": 605,
+    "score": 0.8,
+    "reason": "Heartwarming family musical celebrating love and tradition in turn-of-the-century America"
+  },
+  {
+    "movieId": 482,
+    "score": 0.75,
+    "reason": "Classic screwball comedy featuring spirited performances and romantic escapades"
+  },
+  {
+    "movieId": 494,
+    "score": 0.7,
+    "reason": "Rapid-fire romantic comedy distinguished by sharp dialogue and witty repartee"
+  },
+  {
+    "movieId": 607,
+    "score": 0.65,
+    "reason": "Atmospheric gothic romance laced with intrigue and elegant period detail"
+  },
+  {
+    "movieId": 492,
+    "score": 0.6,
+    "reason": "Sweeping family epic narrated by One Stab, rich in emotion and cinematic grandeur"
+  },
+  {
+    "movieId": 505,
+    "score": 0.55,
+    "reason": "Taut romantic thriller with Hitchcockian suspense and clever dialogue"
+  }
+]

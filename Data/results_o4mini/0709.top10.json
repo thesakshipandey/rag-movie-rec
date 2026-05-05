@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 48,
+    "score": 0.98,
+    "reason": "Real-life hoops dreams clashing with harsh socio-economic reality"
+  },
+  {
+    "movieId": 35,
+    "score": 0.95,
+    "reason": "Obsession and tragedy shadow one boy’s quest to save a captive whale"
+  },
+  {
+    "movieId": 276,
+    "score": 0.93,
+    "reason": "Alone against demons of addiction, a gambler’s personal collapse"
+  },
+  {
+    "movieId": 287,
+    "score": 0.9,
+    "reason": "Former boxer fails to heal after career’s end in subdued drama"
+  },
+  {
+    "movieId": 286,
+    "score": 0.88,
+    "reason": "Terminal illness derails a man’s final shot at redemption"
+  },
+  {
+    "movieId": 75,
+    "score": 0.85,
+    "reason": "Idealistic minister’s fight against systemic corruption ends in despair"
+  },
+  {
+    "movieId": 92,
+    "score": 0.83,
+    "reason": "Personal vendetta drives a solitary cop past moral limits"
+  },
+  {
+    "movieId": 790,
+    "score": 0.8,
+    "reason": "Menacing noir of a man’s downward spiral amid urban decay"
+  },
+  {
+    "movieId": 401,
+    "score": 0.78,
+    "reason": "Small-town dreamer crushed by obsession and human cruelty"
+  },
+  {
+    "movieId": 1260,
+    "score": 0.75,
+    "reason": "Paranoid accountant’s life unravels in a moral crucible"
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason
+199,1.0,Bridge on the River Kwai references February 1943 in its WWII–era plot.
+127,0.95,"The Godfather opening is set in 1945, immediately postwar."
+134,0.9,"Citizen Kane’s backstory begins in 1871, not WWII, low relevance."
+44,0.85,"Dolores Claiborne is set in Maine in the 1990s, no 1940s."
+285,0.8,"Secrets & Lies is 1990s London drama, no WWII."
+146,0.75,"House of the Spirits covers 20th-century Latin America, but no 194x."
+209,0.7,"This Is Spinal Tap is 1980s mockumentary, off-topic."
+62,0.65,"Stargate series covers various eras, no specific 1940s mention."
+96,0.6,"Terminator 2 is sci-fi set in 1990s/2029, no WWII reference."
+144,0.55,"Maltese Falcon is 1941 noir debut, but no WWII–era plot details."

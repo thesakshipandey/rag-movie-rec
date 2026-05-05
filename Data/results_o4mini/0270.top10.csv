@@ -1,0 +1,11 @@
+movieId,score,reason
+23,1.0,"Taxi Driver—1976, Drama"
+78,0.9,"Free Willy—1993, Drama"
+99,0.8,"Snow White—1938, Drama"
+132,0.7,"Wizard of Oz—1939, Drama"
+136,0.6,"Mr. Smith—1939, Drama"
+138,0.5,"D3: The Mighty Ducks—1996, Drama"
+164,0.4,"The Abyss—1989, Thriller"
+167,0.3,"Monty Python—1975, Comedy"
+178,0.2,"12 Angry Men—1957, Drama"
+185,0.1,"Psycho—1960, Thriller"

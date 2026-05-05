@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 96,
+    "score": 0.98,
+    "reason": "Terminator 2 features high-stakes cyborg warfare and memorable action set-pieces."
+  },
+  {
+    "movieId": 385,
+    "score": 0.95,
+    "reason": "True Lies blends spy thrills with sleek 90s action thrills."
+  },
+  {
+    "movieId": 568,
+    "score": 0.93,
+    "reason": "Speed is a quintessential 90s action-thriller known for its nonstop tension."
+  },
+  {
+    "movieId": 550,
+    "score": 0.91,
+    "reason": "Die Hard with a Vengeance delivers urban cat-and-mouse thrills and inventive action."
+  },
+  {
+    "movieId": 298,
+    "score": 0.89,
+    "reason": "Face/Off is a 90s action-suspense ride driven by identity-twist thrills."
+  },
+  {
+    "movieId": 27,
+    "score": 0.87,
+    "reason": "Bad Boys is a buddy-cop 90s action staple with sharp pacing."
+  },
+  {
+    "movieId": 2,
+    "score": 0.85,
+    "reason": "GoldenEye rejuvenated the 90s spy-action genre with gritty realism."
+  },
+  {
+    "movieId": 233,
+    "score": 0.83,
+    "reason": "Under Siege delivers a steel-clad action thriller aboard a battleship."
+  },
+  {
+    "movieId": 1228,
+    "score": 0.81,
+    "reason": "Under Siege 2 ups the ante with high-tension train action sequences."
+  },
+  {
+    "movieId": 802,
+    "score": 0.79,
+    "reason": "Hard Target features street-smart martial arts action in a modern 90s setting."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Grim serial killer drama with intense suspense."
+  },
+  {
+    "movieId": 12,
+    "score": 0.93,
+    "reason": "Twisty crime thriller famous for its iconic twist."
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "Psychological thriller focused on criminal minds."
+  },
+  {
+    "movieId": 38,
+    "score": 0.88,
+    "reason": "Cyber-thriller laced with paranoia and suspense."
+  },
+  {
+    "movieId": 39,
+    "score": 0.85,
+    "reason": "Dystopian noir thriller with futuristic tension."
+  },
+  {
+    "movieId": 44,
+    "score": 0.82,
+    "reason": "Domestic drama with strong undercurrents of suspense."
+  },
+  {
+    "movieId": 90,
+    "score": 0.8,
+    "reason": "Stalking thriller blending dark humor and mystery."
+  },
+  {
+    "movieId": 98,
+    "score": 0.78,
+    "reason": "Masterful psychological thriller with iconic villain."
+  },
+  {
+    "movieId": 200,
+    "score": 0.75,
+    "reason": "Atmospheric horror-thriller set in an isolated hotel."
+  },
+  {
+    "movieId": 18,
+    "score": 0.72,
+    "reason": "Poignant drama with understated tension and emotion."
+  }
+]

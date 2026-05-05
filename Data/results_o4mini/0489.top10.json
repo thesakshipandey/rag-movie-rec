@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "Twisting finale leaves truth dangling in a smoky police station"
+  },
+  {
+    "movieId": 56,
+    "score": 0.89,
+    "reason": "Nonlinear tales weave moral ambiguity without clear resolution"
+  },
+  {
+    "movieId": 7,
+    "score": 0.88,
+    "reason": "Time-travel puzzle ends with haunting questions unanswered"
+  },
+  {
+    "movieId": 51,
+    "score": 0.87,
+    "reason": "Family saga blurs right and wrong in a rich period tapestry"
+  },
+  {
+    "movieId": 127,
+    "score": 0.86,
+    "reason": "Crime family chronicles power and betrayal in ethical grey zones"
+  },
+  {
+    "movieId": 198,
+    "score": 0.85,
+    "reason": "Ex-con’s path to redemption leaves more questions than answers"
+  },
+  {
+    "movieId": 156,
+    "score": 0.84,
+    "reason": "Heist unravels amid trust and betrayal in a shattering climax"
+  },
+  {
+    "movieId": 172,
+    "score": 0.83,
+    "reason": "Rebels struck down leaves rebellion’s outcome provocatively open"
+  },
+  {
+    "movieId": 89,
+    "score": 0.82,
+    "reason": "Blade runner’s final choice casts doubt on man and machine alike"
+  },
+  {
+    "movieId": 180,
+    "score": 0.81,
+    "reason": "War journey spirals into moral darkness with no easy answers"
+  }
+]

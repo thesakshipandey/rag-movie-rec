@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 276,
+    "score": 0.95,
+    "reason": "An alcoholic screenwriter in Vegas must choose between his moral duty and saving an innocent man."
+  },
+  {
+    "movieId": 327,
+    "score": 0.9,
+    "reason": "A tatooer offered to rescue his daughter from killers must decide if he’ll risk his life for justice."
+  },
+  {
+    "movieId": 206,
+    "score": 0.85,
+    "reason": "A biker (Sean Connery) fights corruption in his adopted hometown, forced to kill a friend or watch it burn."
+  },
+  {
+    "movieId": 480,
+    "score": 0.8,
+    "reason": "A man hires a detective to expose a conspiracy, torn between doing what’s right and preserving his career."
+  },
+  {
+    "movieId": 827,
+    "score": 0.75,
+    "reason": "Firefighter must steal from a crime lord to save his son’s life, torn between law and fatherhood."
+  },
+  {
+    "movieId": 944,
+    "score": 0.7,
+    "reason": "A devoted father infiltrates a skinhead gang to protect his child and redefine his own code of justice."
+  },
+  {
+    "movieId": 184,
+    "score": 0.65,
+    "reason": "A man returns to society after killing on order, faced with a choice between survival and redemption."
+  },
+  {
+    "movieId": 1095,
+    "score": 0.6,
+    "reason": "A doppelgänger revenge plot forces a federal agent to choose between his mission and his own humanity."
+  },
+  {
+    "movieId": 209,
+    "score": 0.55,
+    "reason": "A washed-up rocker hires an amateur PI to unearth a scandal, teetering between profit and protecting loved ones."
+  },
+  {
+    "movieId": 907,
+    "score": 0.5,
+    "reason": "An online vigilante’s obsession with an unsolved murder compels him to frame an innocent man or save him."
+  }
+]

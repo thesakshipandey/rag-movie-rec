@@ -1,0 +1,11 @@
+movieId,score,reason
+3,0.95,Title ends with 's' signalling multiple rooms in this New Year’s hotel tale
+23,0.93,Famous 1976 drama's title ends with 's' focusing on isolation and urban decay
+28,0.9,Historic space mission thriller whose title ends with an 's'
+42,0.88,"1994 cult comedy set in a convenience store, plural title"
+61,0.85,Third in trilogy with ‘Three Colors: White’ ending in 's'
+73,0.83,1994 comedic Western with plural in its catchy title
+87,0.8,1993 chess prodigy drama’s title ends with an 's'
+101,0.78,"1981 animated anthology named after a magazine, plural form"
+109,0.75,"1996 comedy about TV riffing on bad movies, title ends with 's'"
+178,0.7,1957 courtroom drama featuring a jury of twelve ending in 's'

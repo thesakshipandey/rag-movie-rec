@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 1.0,
+    "reason": "Intimate 90-minute conversation that crackles with chemistry and witty banter"
+  },
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "Cult indie dialogue marathon packed with razor-sharp humor and memorable riffs"
+  },
+  {
+    "movieId": 160,
+    "score": 0.9,
+    "reason": "Glengarry courtroom drama delivered in electric, rapid-fire exchanges"
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "One-room legal drama fueled by incisive debate and moral tension"
+  },
+  {
+    "movieId": 494,
+    "score": 0.8,
+    "reason": "Hepburn-Tracy screwball staple with lightning-quick, sophisticated patter"
+  },
+  {
+    "movieId": 606,
+    "score": 0.75,
+    "reason": "Satirical backstage drama brimming with sharp dialogue and biting wit"
+  },
+  {
+    "movieId": 481,
+    "score": 0.7,
+    "reason": "Charming rom-com powered by Billy Wilder’s crisp, urbane repartee"
+  },
+  {
+    "movieId": 58,
+    "score": 0.65,
+    "reason": "True-story court thriller driven entirely by tense testimony and smart dialogue"
+  },
+  {
+    "movieId": 482,
+    "score": 0.6,
+    "reason": "Madcap comedy classic defined by snappy one-liners and verbal fireworks"
+  },
+  {
+    "movieId": 190,
+    "score": 0.55,
+    "reason": "Stirring Shakespearean film with commanding speeches and brisk, poetic cadence"
+  }
+]

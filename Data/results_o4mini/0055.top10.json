@@ -1,0 +1,12 @@
+[
+    { "movieId": 270, "score": 0.95, "reason": "A near-future society denies opportunities via genetic profiling, trapping the hero in systemic loops." },
+    { "movieId": 175, "score": 0.87, "reason": "A beleaguered clerk fights a faceless bureaucracy after a computer error upends an innocent life." },
+    { "movieId": 39, "score": 0.84, "reason": "Illicit tech and corporate systems entangle lives, exposing dehumanizing, automated decisions with dangerous consequences." },
+    { "movieId": 771, "score": 0.83, "reason": "Corporate algorithms commodify information, reducing people to data couriers in a ruthless system." },
+    { "movieId": 89, "score": 0.82, "reason": "A dehumanizing system classifies replicants as expendable, raising questions about identity and control." },
+    { "movieId": 691, "score": 0.81, "reason": "An unseen mechanism dictates reality, leaving the protagonist chasing human agency within manufactured rules." },
+    { "movieId": 1127, "score": 0.80, "reason": "A totalizing control system scripts a man’s life, while he hunts for authentic human oversight." },
+    { "movieId": 96, "score": 0.79, "reason": "An implacable AI pursues predefined outcomes, making human intervention feel futile against algorithmic determination." },
+    { "movieId": 1139, "score": 0.78, "reason": "Teenagers confront powerful institutions where automated security regimes accuse and punish without human understanding." },
+    { "movieId": 1210, "score": 0.77, "reason": "A composite AI antagonist exploits systemic loopholes, blurring accountability between code and human authority." }
+    ]

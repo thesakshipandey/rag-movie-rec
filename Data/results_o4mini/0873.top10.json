@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 10,
+    "score": 0.98,
+    "reason": "1995 Richard III adaptation of 15th-century political machinations."
+  },
+  {
+    "movieId": 190,
+    "score": 0.96,
+    "reason": "1989 Henry V staging of 1415 French campaign and court intrigue."
+  },
+  {
+    "movieId": 22,
+    "score": 0.95,
+    "reason": "1995 13th-century Scottish revolt with heavy political undercurrents."
+  },
+  {
+    "movieId": 627,
+    "score": 0.93,
+    "reason": "1991 Robin Hood tale of usurpation and power struggles in 12th-century England."
+  },
+  {
+    "movieId": 491,
+    "score": 0.92,
+    "reason": "1938 swashbuckling retelling of medieval Robin of Locksley’s revolt."
+  },
+  {
+    "movieId": 207,
+    "score": 0.9,
+    "reason": "1990 Cyrano set in 1640s France, rich in courtly deceit and honor."
+  },
+  {
+    "movieId": 1483,
+    "score": 0.89,
+    "reason": "1998 Iron Mask saga of 17th-century French royal intrigue."
+  },
+  {
+    "movieId": 526,
+    "score": 0.88,
+    "reason": "1959 epic of Judaean betrayal and Roman power plays, ancient era."
+  },
+  {
+    "movieId": 241,
+    "score": 0.86,
+    "reason": "1992 1757 colonial tensions and frontier diplomacy in pre-Revolution America."
+  },
+  {
+    "movieId": 627,
+    "score": 0.85,
+    "reason": "1991 Robin Hood retold with noble insurrection against Norman tyranny."
+  }
+]

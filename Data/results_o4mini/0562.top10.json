@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 1.0,
+    "reason": "Schindler’s defiant stand against genocide fuels righteous hope"
+  },
+  {
+    "movieId": 527,
+    "score": 0.9,
+    "reason": "Gandhi’s nonviolent struggle ignites a powerful moral crusade"
+  },
+  {
+    "movieId": 22,
+    "score": 0.85,
+    "reason": "Braveheart’s stirring rebellion for freedom and honor"
+  },
+  {
+    "movieId": 9,
+    "score": 0.8,
+    "reason": "Dead Man Walking’s raw plea against capital punishment"
+  },
+  {
+    "movieId": 178,
+    "score": 0.75,
+    "reason": "12 Angry Men’s fiery debate sharpens the fight for justice"
+  },
+  {
+    "movieId": 75,
+    "score": 0.7,
+    "reason": "Brother Minister’s exposé of Malcolm X’s civil-rights legacy"
+  },
+  {
+    "movieId": 427,
+    "score": 0.65,
+    "reason": "To Kill a Mockingbird’s small-town battle for racial equality"
+  },
+  {
+    "movieId": 320,
+    "score": 0.6,
+    "reason": "Paradise Lost’s searing documentary on judicial injustice"
+  },
+  {
+    "movieId": 124,
+    "score": 0.55,
+    "reason": "Lone Star’s layered investigation of corruption and truth"
+  },
+  {
+    "movieId": 735,
+    "score": 0.5,
+    "reason": "Philadelphia’s courtroom showdown against discrimination"
+  }
+]

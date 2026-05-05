@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 0.9,
+    "reason": "Surreal dystopian satire drenched in absurdist imagery"
+  },
+  {
+    "movieId": 214,
+    "score": 0.89,
+    "reason": "Hallucinatory rock opera visual metaphor uncages fever dream"
+  },
+  {
+    "movieId": 919,
+    "score": 0.88,
+    "reason": "Bizarre dreamlike fairytale set in a haunting carnival world"
+  },
+  {
+    "movieId": 171,
+    "score": 0.87,
+    "reason": "Darkly comic culinary grotesquerie with uncanny touches"
+  },
+  {
+    "movieId": 1386,
+    "score": 0.86,
+    "reason": "Cyberpunk body horror erupts in erratic, unpredictable bursts"
+  },
+  {
+    "movieId": 30,
+    "score": 0.85,
+    "reason": "Seductive surrealist fantasy blurs desire and reality"
+  },
+  {
+    "movieId": 154,
+    "score": 0.84,
+    "reason": "Irreverent religious satire spirals into anarchic comedy"
+  },
+  {
+    "movieId": 91,
+    "score": 0.83,
+    "reason": "Macabre stop-motion melds whimsy with unsettling undertones"
+  },
+  {
+    "movieId": 135,
+    "score": 0.82,
+    "reason": "Enigmatic visual odyssey invites baffling cosmic wonder"
+  },
+  {
+    "movieId": 209,
+    "score": 0.81,
+    "reason": "Mockumentary music mayhem skewers rock-star excess"
+  }
+]

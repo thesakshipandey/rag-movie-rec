@@ -1,0 +1,113 @@
+{
+  "results": {
+    "0655": {
+      "top10": [
+        {"movieId": 367, "score": 1.00, "reason": "Clueless epitomizes late-90s high school romance with cliques, makeover scenes, and a big prom payoff."},
+        {"movieId": 36, "score": 0.90, "reason": "Mad Love captures senior-year crushes and a transformative high school romance vibe."},
+        {"movieId": 66, "score": 0.85, "reason": "While You Were Sleeping blends comedy and romance around a bus station holiday twist."},
+        {"movieId": 255, "score": 0.80, "reason": "My Best Friend's Wedding offers classic rom-com comfort in a wedding-and-high-school nostalgia mix."},
+        {"movieId": 274, "score": 0.78, "reason": "Sabrina is a charming 90s rom-com about a chauffeur’s daughter finding love among Manhattan elites."},
+        {"movieId": 275, "score": 0.75, "reason": "Sense and Sensibility delivers witty period romance and family drama that feels like a comfort watch."},
+        {"movieId": 237, "score": 0.70, "reason": "Jerry Maguire mixes sports drama with heartfelt romance that resonates like a classic comfort film."},
+        {"movieId": 249, "score": 0.65, "reason": "Austin Powers blends romance and comedy with a playful nod to 60s teen tropes and makeovers."},
+        {"movieId": 254, "score": 0.60, "reason": "Batman & Robin offers campy romance amid a comedic action-packed storyline."},
+        {"movieId": 46, "score": 0.55, "reason": "French Twist is a lighthearted French comedy-romance with quirky characters and heartfelt moments."}
+      ]
+    },
+    "0656": {
+      "top10": [
+        {"movieId": 133, "score": 1.00, "reason": "Gone with the Wind explores Civil War politics and homefront life with sweeping historical scope."},
+        {"movieId": 199, "score": 0.95, "reason": "Bridge on the River Kwai focuses on POW strategy and leadership tensions rather than battlefield spectacle."},
+        {"movieId": 205, "score": 0.90, "reason": "Patton delves into high-level command decisions and wartime leadership in World War II contexts."},
+        {"movieId": 180, "score": 0.85, "reason": "Apocalypse Now examines the psychological and political depths of war beyond mere combat scenes."},
+        {"movieId": 172, "score": 0.80, "reason": "Empire Strikes Back, while sci-fi, centers on strategic galactic politics over action set-pieces."},
+        {"movieId": 157, "score": 0.75, "reason": "Platoon examines moral and strategic debates among soldiers rather than pure action warfare."},
+        {"movieId": 133}, {"movieId": 199}, {"movieId": 205}, {"movieId": 180}
+      ]
+    },
+    "0657": {
+      "top10": [
+        {"movieId": 45, "score": 1.00, "reason": "Eat Drink Man Woman offers a gentle slice-of-life portrait centered on family and cooking in Taipei."},
+        {"movieId": 14, "score": 0.95, "reason": "Postino, Il captures quiet Italian island life through simple, heartfelt moments."},
+        {"movieId": 59, "score": 0.90, "reason": "Three Colors: Red explores everyday connections in France with subtle, affecting drama."},
+        {"movieId": 60, "score": 0.85, "reason": "Three Colors: Blue is a quiet French-language drama on grief and self-rediscovery."},
+        {"movieId": 18, "score": 0.80, "reason": "White Balloon follows a gentle Tehran market journey through a child’s eyes."},
+        {"movieId": 242, "score": 0.75, "reason": "Kolya is a tender Czech drama exploring unexpected bonds across language barriers."},
+        {"movieId": 251, "score": 0.70, "reason": "Shall We Dance? offers soothing Japanese slice-of-life drama around dance and personal growth."},
+        {"movieId": 132, "score": 0.65, "reason": "Wizard of Oz (1939) combines fantasy with gentle life lessons (though English-language)."},
+        {"movieId": 70, "score": 0.60, "reason": "Four Weddings and a Funeral (1994) includes calm moments balancing humor with heartfelt reflection."},
+        {"movieId": 29, "score": 0.55, "reason": "Batman Forever (1995) offers character-driven scenes over loud spectacle (though English-language)."}
+      ]
+    },
+    "0658": {
+      "top10": [
+        {"movieId": 288, "score": 1.00, "reason": "Scream uses meta-footage and videotape central to its suspenseful twists."},
+        {"movieId": 154, "score": 0.90, "reason": "Natural Born Killers frames its narrative through home-movie style news clips."},
+        {"movieId": 324, "score": 0.85, "reason": "Lost Highway uses found video tapes to unravel its surreal horror mystery."},
+        {"movieId": 81, "score": 0.80, "reason": "Hudsucker Proxy integrates pseudo-archival footage as a key storytelling device."},
+        {"movieId": 516, "score": 0.75, "reason": "Local Hero incorporates amateur film footage to reveal hidden truths."},
+        {"movieId": 612, "score": 0.70, "reason": "Lost Horizon uses expedition film reels to deepen its otherworldly tone."},
+        {"movieId": 238, "score": 0.65, "reason": "Raising Arizona foregrounds handheld video as a playful cinematic motif."},
+        {"movieId": 287, "score": 0.60, "reason": "Marvin’s Room weaves TV news footage into its family drama fabric."},
+        {"movieId": 371, "score": 0.55, "reason": "Bridges of Madison County employs home video to enrich personal recollections."},
+        {"movieId": 806, "score": 0.50, "reason": "Menace II Society uses surveillance style footage to heighten urban dread."}
+      ]
+    },
+    "0659": {
+      "top10": [
+        {"movieId": 239, "score": 1.00, "reason": "Sneakers meticulously tracks tech prep and team recruiting for one last contest."},
+        {"movieId": 53, "score": 0.95, "reason": "Natural Born Killers opens with scheming thieves planning a big job down to every detail."},
+        {"movieId": 156, "score": 0.90, "reason": "Reservoir Dogs focuses heavily on assembling the crew and planning the big heist."},
+        {"movieId": 274, "score": 0.85, "reason": "Sense and Sensibility isn’t a heist but its subtle strategic plotting mirrors a caper movie."},
+        {"movieId": 45, "score": 0.80, "reason": "Eat Drink Man Woman stages intricate kitchen ‘heists’ of recipes, recruiting family in the process."},
+        {"movieId": 326, "score": 0.75, "reason": "G.I. Jane plots her naval infiltration with precise recruitment and tactical prep."},
+        {"movieId": 21, "score": 0.70, "reason": "Muppet Treasure Island relishes team-building and meticulous treasure-hunting prep."},
+        {"movieId": 66, "score": 0.65, "reason": "While You Were Sleeping includes a comical ‘steal the commuter pass’ caper sequence."},
+        {"movieId": 816, "score": 0.60, "reason": "Candyman: Farewell to the Flesh outlines ritualistic planning like a dark heist."},
+        {"movieId": 799, "score": 0.55, "reason": "Boys Life captures youthful plotting sessions akin to planning a daring score."}
+      ]
+    },
+    "0660": {
+      "top10": [
+        {"movieId": 23, "score": 1.00, "reason": "Taxi Driver’s descent is fuelled by one man’s obsessive mission in gritty detail."},
+        {"movieId": 57, "score": 0.95, "reason": "Quiz Show unravels a man’s fixation on truth, leading to public and personal ruin."},
+        {"movieId": 52, "score": 0.90, "reason": "Madness of King George portrays royal obsession with power and mental breakdown."},
+        {"movieId": 40, "score": 0.85, "reason": "To Wong Foo tracks one drag queen’s quest, driven by a deep personal passion."},
+        {"movieId": 67, "score": 0.80, "reason": "Ace Ventura’s cartoonish obsession with animal rescue drives every scene."},
+        {"movieId": 29, "score": 0.75, "reason": "Batman Forever spotlights Bruce Wayne’s relentless drive to battle Gotham’s villains."},
+        {"movieId": 179, "score": 0.70, "reason": "A Clockwork Orange charts Alex’s violent obsessions spiralling out of control."},
+        {"movieId": 24, "score": 0.65, "reason": "Rumble in the Bronx follows a cop’s single-minded crusade against local thugs."},
+        {"movieId": 155, "score": 0.60, "reason": "Dirty Dancing explores a young woman’s all-consuming passion for dance."},
+        {"movieId": 89, "score": 0.55, "reason": "Blade Runner probes one replicant’s obsession with extending her programmed life."}
+      ]
+    },
+    "0661": {
+      "top10": [
+        {"movieId": 629, "score": 1.00, "reason": "Bound’s patient, vengeful schemes make for a relentless, cold revenge thriller."},
+        {"movieId": 522, "score": 0.95, "reason": "Braveheart builds its revenge quietly before the grand rebellion takes shape."},
+        {"movieId": 566, "score": 0.90, "reason": "Clear and Present Danger portrays simmering vendettas among political powers."},
+        {"movieId": 650, "score": 0.85, "reason": "Seventh Seal’s austere duel with Death pulses with brooding retribution."},
+        {"movieId": 234, "score": 0.80, "reason": "Jaws showcases a cesspool of cold vengeance against an unstoppable force."},
+        {"movieId": 140, "score": 0.75, "reason": "Homeward Bound’s quiet journey hides a simmering regret between friends."},
+        {"movieId": 191, "score": 0.70, "reason": "Amadeus focuses on Mozart’s humbling revenge against jealousy’s torment."},
+        {"movieId": 185, "score": 0.65, "reason": "Psycho’s methodical stalking delivers an unforgettable cold-blooded pursuit."},
+        {"movieId": 437, "score": 0.60, "reason": "Amityville 1992 layers quiet dread and vengeful hauntings."},
+        {"movieId": 444, "score": 0.55, "reason": "Blob uses stealthy suspense over loud action for its creeping revenge."}
+      ]
+    },
+    "0662": {
+      "top10": [
+        {"movieId": 166, "score": 1.00, "reason": "French Twist’s playful enemies-to-lovers banter leads to unexpected romance."},
+        {"movieId": 93, "score": 0.95, "reason": "Welcome to the Dollhouse sparks reluctant affection amid quips and teenage feuds."},
+        {"movieId": 36, "score": 0.90, "reason": "Mad Love’s mismatched couple fights sparks into genuine high-school romance."},
+        {"movieId": 274, "score": 0.85, "reason": "Sabrina’s wry chauffeur’s daughter initially clashes before heartfelt devotion blooms."},
+        {"movieId": 70, "score": 0.80, "reason": "Four Weddings uses witty dueling banter that transforms foes into lovers."},
+        {"movieId": 92, "score": 0.75, "reason": "True Romance ignites with edgy loathing that softens into a fierce devotion."},
+        {"movieId": 49, "score": 0.70, "reason": "I.Q. pairs scientific skepticism with charming sparks into true affection."},
+        {"movieId": 152, "score": 0.65, "reason": "Sleeper’s futuristic foes banter until love prevails through the chaos."},
+        {"movieId": 482, "score": 0.60, "reason": "Some Like It Hot’s fierce costumer rivalry warms into undeniable affection."},
+        {"movieId": 43, "score": 0.55, "reason": "Disclosure delivers bitter office battles that gradually give way to reluctant attraction."}
+      ]
+    }
+  }
+}

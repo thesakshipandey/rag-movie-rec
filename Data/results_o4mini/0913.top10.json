@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Sentient toys forge a tight-knit family while facing abandonment and change, pure warmth"
+  },
+  {
+    "movieId": 8,
+    "score": 0.92,
+    "reason": "Orphan pig Babe finds a nurturing farm family full of heart and hope"
+  },
+  {
+    "movieId": 140,
+    "score": 0.9,
+    "reason": "Pets and boy overcome loss and danger together, forming a loyal found family"
+  },
+  {
+    "movieId": 21,
+    "score": 0.88,
+    "reason": "Muppets and young orphan unite on a treasure quest, bonding as an endearing family"
+  },
+  {
+    "movieId": 78,
+    "score": 0.85,
+    "reason": "Boy and orca overcome separation to create an unlikely, heartfelt family bond"
+  },
+  {
+    "movieId": 15,
+    "score": 0.82,
+    "reason": "Music teacher builds a surrogate family with his students through gentle devotion"
+  },
+  {
+    "movieId": 1035,
+    "score": 0.79,
+    "reason": "Underdog Jamaican team bands together in a heartwarming underdog-family adventure"
+  },
+  {
+    "movieId": 400,
+    "score": 0.76,
+    "reason": "Mischievous kids form their own gang of misfit pals, a playful and loving found family"
+  },
+  {
+    "movieId": 66,
+    "score": 0.73,
+    "reason": "Lonely transit worker finds warmth and kinship with an entire new family network"
+  },
+  {
+    "movieId": 14,
+    "score": 0.7,
+    "reason": "Lonely postman bonds with an island community, forging his own caring found family"
+  }
+]

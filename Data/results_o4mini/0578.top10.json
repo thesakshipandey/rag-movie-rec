@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 1.0,
+    "reason": "Before Sunrise’s chance train meeting crackles with shy, electric promise."
+  },
+  {
+    "movieId": 216,
+    "score": 0.98,
+    "reason": "When Harry Met Sally…’s witty banter captures the thrill of first-love jitters."
+  },
+  {
+    "movieId": 88,
+    "score": 0.96,
+    "reason": "Sleepless in Seattle’s starry radio calls spark hopeful, butterflies-in-stomach warmth."
+  },
+  {
+    "movieId": 66,
+    "score": 0.94,
+    "reason": "While You Were Sleeping’s sweet mix-up leads to giggling, heart-skipping moments."
+  },
+  {
+    "movieId": 487,
+    "score": 0.92,
+    "reason": "Roman Holiday’s moonlit Roman stroll ignites giddy, wide-eyed romance."
+  },
+  {
+    "movieId": 739,
+    "score": 0.9,
+    "reason": "Pretty Woman’s unexpected street-corner spark fizzes with flirty laughter."
+  },
+  {
+    "movieId": 49,
+    "score": 0.88,
+    "reason": "I.Q.’s brainy flirtation tangles with tender glances and gentle smiles."
+  },
+  {
+    "movieId": 367,
+    "score": 0.86,
+    "reason": "Clueless’s halls-of-hysteria crushes pulse with playful teen-flirt energy."
+  },
+  {
+    "movieId": 283,
+    "score": 0.84,
+    "reason": "Emma’s matchmaking missteps brim with coy looks and fluttering hope."
+  },
+  {
+    "movieId": 246,
+    "score": 0.82,
+    "reason": "Chasing Amy’s cartoonist crush stumbles into sweet, giggly first-love nerves."
+  }
+]

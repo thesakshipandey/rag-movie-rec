@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 347,
+    "score": 0.95,
+    "reason": "Fake war campaign satirizes political spin and media manipulation with razor-sharp wit."
+  },
+  {
+    "movieId": 915,
+    "score": 0.9,
+    "reason": "Campaign insider drama skewers political ambition and backroom dealmaking."
+  },
+  {
+    "movieId": 425,
+    "score": 0.88,
+    "reason": "Mockumentary on an extremist candidate lampoons political theatrics and media hype."
+  },
+  {
+    "movieId": 692,
+    "score": 0.85,
+    "reason": "Charmingly absurd White House romance with quick-witted political banter."
+  },
+  {
+    "movieId": 236,
+    "score": 0.8,
+    "reason": "Drunken addict becomes pawn in pro- and anti-choice PR war, exposing activist absurdity."
+  },
+  {
+    "movieId": 291,
+    "score": 0.75,
+    "reason": "Thrilling White House heist that also skewers public relations and political cover-ups."
+  },
+  {
+    "movieId": 508,
+    "score": 0.7,
+    "reason": "Courtroom battle over free speech lampoons media circus and political grandstanding."
+  },
+  {
+    "movieId": 4,
+    "score": 0.6,
+    "reason": "Hollywood satire reveals absurd backroom spin in movie business, fast and biting."
+  },
+  {
+    "movieId": 792,
+    "score": 0.55,
+    "reason": "Broadway-meets-mob comedy skewers theatrical backstabbing and publicity stunts."
+  },
+  {
+    "movieId": 328,
+    "score": 0.5,
+    "reason": "Conspiracy thriller turned dark comedy lampoons paranoia and media sensationalism."
+  }
+]

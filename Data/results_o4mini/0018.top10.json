@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 77,
+    "score": 0.9,
+    "reason": "Inside look at law firm politics, partner rivalry, and secret deal-making"
+  },
+  {
+    "movieId": 310,
+    "score": 0.88,
+    "reason": "Shady firm preps client’s case with backroom maneuvering and ethical compromise"
+  },
+  {
+    "movieId": 356,
+    "score": 0.85,
+    "reason": "Lawyers manipulate a child’s case behind the scenes, coaching and bargaining hard"
+  },
+  {
+    "movieId": 282,
+    "score": 0.82,
+    "reason": "Tense plea bargaining and ethical tug-of-war before a courtroom showdown"
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "Defense attorney digs into witness psyche, coaching testimony beyond the courtroom"
+  },
+  {
+    "movieId": 43,
+    "score": 0.78,
+    "reason": "Corporate merger turns into a war of backstage legal tactics and power plays"
+  },
+  {
+    "movieId": 294,
+    "score": 0.75,
+    "reason": "A lawyer’s lies unravel in comedic backroom negotiation scenes"
+  },
+  {
+    "movieId": 572,
+    "score": 0.72,
+    "reason": "Quiz-show scandal explored through pretrial deal-cutting and whispered strategies"
+  },
+  {
+    "movieId": 291,
+    "score": 0.7,
+    "reason": "Thief-turned-lawyer navigates illicit intel and political leverage before trial"
+  },
+  {
+    "movieId": 356,
+    "score": 0.68,
+    "reason": "Attorney counsels a child, steering testimony and deals far from the courtroom"
+  }
+]

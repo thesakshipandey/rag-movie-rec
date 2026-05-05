@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 54,
+    "score": 0.95,
+    "reason": "Medical teams scramble to contain a terrifying viral outbreak, fear and confusion rippling through the streets."
+  },
+  {
+    "movieId": 121,
+    "score": 0.93,
+    "reason": "In the first hours of an alien invasion, ordinary New Yorkers react with panic, awe, and shocking disbelief."
+  },
+  {
+    "movieId": 49,
+    "score": 0.9,
+    "reason": "The world awakens to a cryptic alien probe, blending scientific wonder with a creeping sense of dread."
+  },
+  {
+    "movieId": 7,
+    "score": 0.88,
+    "reason": "Survivors struggle in a society shattered by a global pandemic, trapped underground as the surface world dies."
+  },
+  {
+    "movieId": 258,
+    "score": 0.85,
+    "reason": "After receiving an extraterrestrial signal, scientists and the public grapple with urgent, disorienting ramifications."
+  },
+  {
+    "movieId": 260,
+    "score": 0.83,
+    "reason": "A lost starship reappears with haunting consequences as the crew and investigators face incomprehensible horrors."
+  },
+  {
+    "movieId": 62,
+    "score": 0.8,
+    "reason": "A stargate’s first activation on Earth sparks bewilderment and fear as military and civilians react in chaos."
+  },
+  {
+    "movieId": 164,
+    "score": 0.78,
+    "reason": "A deep-sea submarine catastrophe yields surreal tension and the first shocks of a hidden, alien presence."
+  },
+  {
+    "movieId": 28,
+    "score": 0.75,
+    "reason": "Apollo 13’s critical systems failure sends shockwaves through mission control, families, and the world below."
+  },
+  {
+    "movieId": 39,
+    "score": 0.72,
+    "reason": "In a near-future L.A., society reels as illicit recordings reveal unbearable truths, stirring quiet terror."
+  }
+]

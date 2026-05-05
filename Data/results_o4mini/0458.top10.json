@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.98,
+    "reason": "Visually hypnotic odyssey through space and time with minimal dialogue"
+  },
+  {
+    "movieId": 60,
+    "score": 0.96,
+    "reason": "A meditative journey through loss with serene imagery and hushed restraint"
+  },
+  {
+    "movieId": 86,
+    "score": 0.94,
+    "reason": "Sumptuous period visuals with hushed performances and reflective pacing"
+  },
+  {
+    "movieId": 664,
+    "score": 0.92,
+    "reason": "Languid desert vistas and quiet contemplation on a soul-searching road trip"
+  },
+  {
+    "movieId": 582,
+    "score": 0.9,
+    "reason": "Boldly silent rural tale where every gesture and note feels deeply poetic"
+  },
+  {
+    "movieId": 170,
+    "score": 0.88,
+    "reason": "Warm nostalgia and gentle rhythms in an idyllic, unhurried seaside town"
+  },
+  {
+    "movieId": 648,
+    "score": 0.86,
+    "reason": "Idyllic Irish countryside romance with soothing scenery and calm charm"
+  },
+  {
+    "movieId": 304,
+    "score": 0.84,
+    "reason": "Tranquil goose migration and lush landscapes evoke serene uplift"
+  },
+  {
+    "movieId": 189,
+    "score": 0.82,
+    "reason": "Whimsical lunar journey in stop-motion magic with minimal words"
+  },
+  {
+    "movieId": 173,
+    "score": 0.8,
+    "reason": "Colorful fairy-tale realism sung through dreamy, lyrical tableaux"
+  }
+]

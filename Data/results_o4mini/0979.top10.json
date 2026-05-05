@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.98,
+    "reason": "Travis Bickle’s paranoid solo crusade through New York’s night-streets."
+  },
+  {
+    "movieId": 234,
+    "score": 0.95,
+    "reason": "Amity Island terror evokes 70s fear of unseen menace beneath everyday life."
+  },
+  {
+    "movieId": 49,
+    "score": 0.92,
+    "reason": "Returning Earth scout in eerie fog taps 70s Cold War conspiracy vibes."
+  },
+  {
+    "movieId": 180,
+    "score": 0.89,
+    "reason": "Captain Willard’s mission feels haunted by unseen war conspiracies."
+  },
+  {
+    "movieId": 449,
+    "score": 0.86,
+    "reason": "Khan’s probe drifts toward Earth—nobody believes the looming threat."
+  },
+  {
+    "movieId": 637,
+    "score": 0.83,
+    "reason": "Terror strikes as ancestral evil hunts in a small resort town."
+  },
+  {
+    "movieId": 236,
+    "score": 0.8,
+    "reason": "Ruth’s chaotic testimony uncovers hidden criminal cover-ups in court."
+  },
+  {
+    "movieId": 161,
+    "score": 0.77,
+    "reason": "Maverick’s rogue flights underscore distrust in aerial command."
+  },
+  {
+    "movieId": 186,
+    "score": 0.74,
+    "reason": "Jake and Elwood’s blues-band antics hit a paranoid Chicago beat."
+  },
+  {
+    "movieId": 50,
+    "score": 0.71,
+    "reason": "Rebels vs. Empire—lonely pockets of resistance in a vast, skeptic galaxy."
+  }
+]

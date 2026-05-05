@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 485,
+    "score": 0.95,
+    "reason": "Hapless athlete thrown into first-class chaos must improvise"
+  },
+  {
+    "movieId": 204,
+    "score": 0.92,
+    "reason": "Teen thrust into piloting time-machine—no idea what he’s doing"
+  },
+  {
+    "movieId": 249,
+    "score": 0.9,
+    "reason": "Out-of-time spy with zero training fakes his way to heroics"
+  },
+  {
+    "movieId": 172,
+    "score": 0.88,
+    "reason": "Veteran colonel poses as pilot on impossible mission"
+  },
+  {
+    "movieId": 496,
+    "score": 0.85,
+    "reason": "Everyday man must break into enemy lines without a clue"
+  },
+  {
+    "movieId": 797,
+    "score": 0.82,
+    "reason": "Accountant out of depth defusing nuclear orders on the fly"
+  },
+  {
+    "movieId": 531,
+    "score": 0.8,
+    "reason": "Student doctor transforms into battlefield medic without warning"
+  },
+  {
+    "movieId": 745,
+    "score": 0.78,
+    "reason": "Average guy battles royal family with zero prep"
+  },
+  {
+    "movieId": 481,
+    "score": 0.75,
+    "reason": "New senator fumbles through D.C.’s lethal labyrinth"
+  },
+  {
+    "movieId": 389,
+    "score": 0.72,
+    "reason": "Retired cop unprepared for ghost-chasing assignment"
+  }
+]

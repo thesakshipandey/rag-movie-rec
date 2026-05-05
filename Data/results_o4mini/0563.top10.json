@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seven’s brutal puzzle reveals horrors that twist your mind"
+  },
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "Usual Suspects’ masterful misdirection keeps you guessing"
+  },
+  {
+    "movieId": 333,
+    "score": 0.85,
+    "reason": "The Game’s reality-bending labyrinth leaves you breathless"
+  },
+  {
+    "movieId": 654,
+    "score": 0.8,
+    "reason": "Chinatown’s labyrinthine corruption shocks at every turn"
+  },
+  {
+    "movieId": 302,
+    "score": 0.75,
+    "reason": "L.A. Confidential’s twisted secrets explode in noir style"
+  },
+  {
+    "movieId": 591,
+    "score": 0.7,
+    "reason": "Primal Fear’s courtroom ruse flips expectations violently"
+  },
+  {
+    "movieId": 159,
+    "score": 0.65,
+    "reason": "Basic Instinct’s razor-sharp thriller playfully deceives"
+  },
+  {
+    "movieId": 218,
+    "score": 0.6,
+    "reason": "Cape Fear’s relentless cat-and-mouse chase surprises"
+  },
+  {
+    "movieId": 7,
+    "score": 0.55,
+    "reason": "Twelve Monkeys’ fractured time loops unveil new truths"
+  },
+  {
+    "movieId": 98,
+    "score": 0.5,
+    "reason": "Silence of the Lambs’ chilling mind games keep you off-balance"
+  }
+]

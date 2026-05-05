@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 239,
+    "score": 0.98,
+    "reason": "Ex-spy assembles an eclectic team to pull off one final high-tech heist"
+  },
+  {
+    "movieId": 73,
+    "score": 0.96,
+    "reason": "Professional gambler recruits old comrades for a last-chance poker tournament caper"
+  },
+  {
+    "movieId": 117,
+    "score": 0.94,
+    "reason": "Fugitive teams with street kid for one last job on Alcatraz to clear his name"
+  },
+  {
+    "movieId": 272,
+    "score": 0.92,
+    "reason": "Mastermind thief plans a final score against a powerful mafia boss"
+  },
+  {
+    "movieId": 930,
+    "score": 0.9,
+    "reason": "Desperate scientists plot one last gamble to unlock limitless energy"
+  },
+  {
+    "movieId": 943,
+    "score": 0.88,
+    "reason": "Ex-bank robber returns for a Paris heist to settle old scores"
+  },
+  {
+    "movieId": 504,
+    "score": 0.86,
+    "reason": "Depression-era bank robbers rally for one last daring spree across the Plains"
+  },
+  {
+    "movieId": 182,
+    "score": 0.84,
+    "reason": "Young thief endures Mafia initiation before plotting the ultimate con"
+  },
+  {
+    "movieId": 12,
+    "score": 0.82,
+    "reason": "Seminar of small-time crooks culminates in the most audacious lineup of their careers"
+  },
+  {
+    "movieId": 4,
+    "score": 0.8,
+    "reason": "Loan shark’s Hollywood comeback hinges on pulling off a final, impossible stunt"
+  }
+]

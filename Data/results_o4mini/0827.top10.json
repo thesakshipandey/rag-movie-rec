@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Usual Suspects: disparate thieves forced into ambulance lineup must unite under absurd pressure"
+  },
+  {
+    "movieId": 239,
+    "score": 0.92,
+    "reason": "Sneakers: mismatched team locked in vault must learn to trust each other through playful banter"
+  },
+  {
+    "movieId": 156,
+    "score": 0.9,
+    "reason": "Reservoir Dogs: uneasy rogues trapped in warehouse spar with dark humor under tense siege"
+  },
+  {
+    "movieId": 173,
+    "score": 0.88,
+    "reason": "Princess Bride: motley group held in castle must band together with witty repartee and breach walls"
+  },
+  {
+    "movieId": 168,
+    "score": 0.85,
+    "reason": "Monty Python’s Holy Grail: knights stranded at castle unite through absurd comedy to outwit foes"
+  },
+  {
+    "movieId": 395,
+    "score": 0.83,
+    "reason": "Robin Hood: Men in Tights: misfit outlaws squabble then synchronize in comic relief to evade capture"
+  },
+  {
+    "movieId": 490,
+    "score": 0.8,
+    "reason": "To Catch a Thief: mismatched lovers corner thieves on a yacht and find laughs in unlikely partnership"
+  },
+  {
+    "movieId": 21,
+    "score": 0.78,
+    "reason": "Muppet Treasure Island: ragtag puppets unite mid‐voyage in slapstick suspense and surprising warmth"
+  },
+  {
+    "movieId": 400,
+    "score": 0.75,
+    "reason": "Little Rascals: junior troublemakers trapped in clubhouse spar savagely then band together mischievously"
+  },
+  {
+    "movieId": 202,
+    "score": 0.72,
+    "reason": "Groundhog Day: trapped in time loop, strangers learn teamwork with both tense and hilarious results"
+  }
+]

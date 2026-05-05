@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.98,
+    "reason": "A tense jury deliberation pits jurors’ biases against justice in a landmark closed-room thriller."
+  },
+  {
+    "movieId": 282,
+    "score": 0.95,
+    "reason": "A white father’s controversial murder trial forces the courtroom to wrestle with race and morality."
+  },
+  {
+    "movieId": 310,
+    "score": 0.92,
+    "reason": "A hotshot lawyer takes on a major malpractice suit and faces moral dilemmas far beyond the facts."
+  },
+  {
+    "movieId": 735,
+    "score": 0.9,
+    "reason": "An AIDS discrimination case challenges a lawyer’s ethics and leaves your beliefs shaken."
+  },
+  {
+    "movieId": 79,
+    "score": 0.88,
+    "reason": "A wrongfully accused man’s fate hinges on a relentless legal pursuit and moral complexity."
+  },
+  {
+    "movieId": 136,
+    "score": 0.85,
+    "reason": "An idealistic Senator’s fight against corrupt politics explores justice beyond procedure."
+  },
+  {
+    "movieId": 43,
+    "score": 0.82,
+    "reason": "A high-stakes workplace suit turns into a battle over power, truth, and personal honor."
+  },
+  {
+    "movieId": 591,
+    "score": 0.8,
+    "reason": "A young altar boy’s chilling murder trial exposes the dark side of justice."
+  },
+  {
+    "movieId": 310,
+    "score": 0.92,
+    "reason": "A hotshot lawyer takes on a major malpractice suit and faces moral dilemmas far beyond the facts."
+  },
+  {
+    "movieId": 307,
+    "score": 0.78,
+    "reason": "A lawyer’s ambition leads him into a Faustian legal battle where right and wrong blur."
+  }
+]

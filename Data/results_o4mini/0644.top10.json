@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 188,
+    "score": 0.98,
+    "reason": "Psychological toll of Vietnam boot camp and battlefield trauma explored unflinchingly"
+  },
+  {
+    "movieId": 180,
+    "score": 0.96,
+    "reason": "Jungle madness and moral crisis in Vietnam reveal deep psychological scars"
+  },
+  {
+    "movieId": 157,
+    "score": 0.94,
+    "reason": "Infantry perspective of Vietnam exposes fear, moral doubt, and lasting trauma"
+  },
+  {
+    "movieId": 521,
+    "score": 0.92,
+    "reason": "Rust Belt steelworkers turned soldiers face war’s brutal psychological cost"
+  },
+  {
+    "movieId": 641,
+    "score": 0.9,
+    "reason": "WWI trench command pits honor against despair in a searing study of men's minds"
+  },
+  {
+    "movieId": 199,
+    "score": 0.88,
+    "reason": "POWs forced to build a bridge wrestle with guilt, fear, and moral compromise"
+  },
+  {
+    "movieId": 651,
+    "score": 0.86,
+    "reason": "Union soldiers grapple with racism and savagery in relentless Civil War combat"
+  },
+  {
+    "movieId": 593,
+    "score": 0.84,
+    "reason": "Soviet soldiers endure harsh Arctic siege in unvarnished portrait of cruelty"
+  },
+  {
+    "movieId": 205,
+    "score": 0.82,
+    "reason": "Legendary general’s doubts and pressures reveal war’s complex interior lives"
+  },
+  {
+    "movieId": 211,
+    "score": 0.8,
+    "reason": "Korean War medics use dark humor to confront trauma at a field MASH unit"
+  }
+]

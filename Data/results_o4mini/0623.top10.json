@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 17,
+    "score": 0.95,
+    "reason": "Starts as a gritty crime thriller before exploding into full-on horror at a roadside bar"
+  },
+  {
+    "movieId": 1408,
+    "score": 0.85,
+    "reason": "Begins as romantic drama then pivots to supernatural horror with ghostly vengeance"
+  },
+  {
+    "movieId": 127,
+    "score": 0.83,
+    "reason": "Romantic comedy tone gives way to tense psychological thriller in court"
+  },
+  {
+    "movieId": 11,
+    "score": 0.8,
+    "reason": "Light detective banter darkens into grim serial killer cat-and-mouse"
+  },
+  {
+    "movieId": 44,
+    "score": 0.78,
+    "reason": "Warm small-town drama turns into tense murder mystery after a suspicious death"
+  },
+  {
+    "movieId": 77,
+    "score": 0.75,
+    "reason": "Law-office romance sours and morphs into high-stakes conspiracy thriller"
+  },
+  {
+    "movieId": 57,
+    "score": 0.72,
+    "reason": "Starts as office drama, spirals into chilling cult thriller"
+  },
+  {
+    "movieId": 5,
+    "score": 0.7,
+    "reason": "Calm profiler procedural transforms into gripping serial killer standoff"
+  },
+  {
+    "movieId": 73,
+    "score": 0.68,
+    "reason": "Comedy-of-errors heist comedy shifts into adrenaline-fuelled thriller"
+  },
+  {
+    "movieId": 24,
+    "score": 0.65,
+    "reason": "Martial-arts fish-out-of-water comedy flips into savage street-gang violence"
+  }
+]

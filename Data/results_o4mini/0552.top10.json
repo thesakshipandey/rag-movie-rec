@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Babe’s gentle farmyard charm and playful optimism feel like the warmest hug imaginable."
+  },
+  {
+    "movieId": 15,
+    "score": 0.93,
+    "reason": "Mr. Holland’s Opus celebrates everyday kindness and the quiet power of music to unite hearts."
+  },
+  {
+    "movieId": 66,
+    "score": 0.91,
+    "reason": "While You Were Sleeping is a cozy rom-com brimming with small-town warmth and family humor."
+  },
+  {
+    "movieId": 88,
+    "score": 0.89,
+    "reason": "Sleepless in Seattle’s tender cross-country meet-cute soothes the soul with genuine sweetness."
+  },
+  {
+    "movieId": 94,
+    "score": 0.87,
+    "reason": "Home Alone balances slapstick joy and reclaimed family spirit in a playful, heartwarming escape."
+  },
+  {
+    "movieId": 143,
+    "score": 0.85,
+    "reason": "The Sound of Music’s soaring songs and idyllic hillsides radiate timeless, wholesome delight."
+  },
+  {
+    "movieId": 417,
+    "score": 0.83,
+    "reason": "The Parent Trap’s mischievous twins and family reunion deliver pure, nostalgic fun."
+  },
+  {
+    "movieId": 1,
+    "score": 0.81,
+    "reason": "Toy Story’s inventive humor and heartfelt friendship feel like a snug blanket of joy."
+  },
+  {
+    "movieId": 19,
+    "score": 0.79,
+    "reason": "Antonia’s Line’s multigenerational tapestry of compassion and solidarity warms the heart."
+  },
+  {
+    "movieId": 393,
+    "score": 0.77,
+    "reason": "Mrs. Doubtfire’s playful disguise and tender family rescue feel like a hilarious yet loving embrace."
+  }
+]

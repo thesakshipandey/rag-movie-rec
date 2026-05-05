@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 501,
+    "score": 0.98,
+    "reason": "Widowed beekeeper and life-worn suitor find second-chance hope"
+  },
+  {
+    "movieId": 220,
+    "score": 0.95,
+    "reason": "Mature professor overcomes guarded heart to embrace new love"
+  },
+  {
+    "movieId": 126,
+    "score": 0.93,
+    "reason": "Gentle, romantic journey of a widow healing and choosing again"
+  },
+  {
+    "movieId": 371,
+    "score": 0.9,
+    "reason": "Mature couple faces loss and reconciles over lasting devotion"
+  },
+  {
+    "movieId": 556,
+    "score": 0.88,
+    "reason": "Rekindled passion between seasoned partners in twilight years"
+  },
+  {
+    "movieId": 287,
+    "score": 0.85,
+    "reason": "Family bonds and late-life romance blossom after crisis"
+  },
+  {
+    "movieId": 916,
+    "score": 0.82,
+    "reason": "Older duo find comfort and renewal after shared trauma"
+  },
+  {
+    "movieId": 924,
+    "score": 0.8,
+    "reason": "Isolated vaudeville performer discovers love beyond grief"
+  },
+  {
+    "movieId": 937,
+    "score": 0.78,
+    "reason": "Widowed farmer learns to love again with unexpected companion"
+  },
+  {
+    "movieId": 920,
+    "score": 0.75,
+    "reason": "Elderly songwriter’s late flame brings gentle healing"
+  }
+]

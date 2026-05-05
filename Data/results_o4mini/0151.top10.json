@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Beloved Pixar classic with lovable characters perfect for kids."
+  },
+  {
+    "movieId": 8,
+    "score": 0.93,
+    "reason": "Charming talking pig adventure that delights all ages."
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Muppet twist on Treasure Island full of fun and whimsy."
+  },
+  {
+    "movieId": 71,
+    "score": 0.88,
+    "reason": "Disney musical with memorable songs and lovable animal characters."
+  },
+  {
+    "movieId": 102,
+    "score": 0.86,
+    "reason": "Classic Disney tale of aristocratic cats on a Parisian adventure."
+  },
+  {
+    "movieId": 140,
+    "score": 0.84,
+    "reason": "Heartwarming pet odyssey perfect for animal lovers."
+  },
+  {
+    "movieId": 623,
+    "score": 0.82,
+    "reason": "Family comedy with angels and baseball fans of all ages."
+  },
+  {
+    "movieId": 465,
+    "score": 0.8,
+    "reason": "Disney’s take on a timeless Kipling adventure in the jungle."
+  },
+  {
+    "movieId": 418,
+    "score": 0.78,
+    "reason": "Disney princess classic full of magic and heart."
+  },
+  {
+    "movieId": 419,
+    "score": 0.75,
+    "reason": "Magical nanny musical delight for the whole family."
+  }
+]

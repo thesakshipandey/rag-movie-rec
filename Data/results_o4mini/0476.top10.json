@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "A silent odyssey reveals the vast indifference of space to human endeavor."
+  },
+  {
+    "movieId": 163,
+    "score": 0.95,
+    "reason": "A mysterious zone defies reality and invites profound existential dread."
+  },
+  {
+    "movieId": 634,
+    "score": 0.9,
+    "reason": "Macro photography reveals the quiet poetry of insects moving through grass."
+  },
+  {
+    "movieId": 512,
+    "score": 0.85,
+    "reason": "Angels observe everyday moments in serene, wordless reverie across a city."
+  },
+  {
+    "movieId": 170,
+    "score": 0.8,
+    "reason": "A child's love for cinema evokes gentle nostalgia in a small Sicilian town."
+  },
+  {
+    "movieId": 304,
+    "score": 0.75,
+    "reason": "A girl’s bond with orphaned geese unfolds in tranquil, unhurried vistas."
+  },
+  {
+    "movieId": 922,
+    "score": 0.7,
+    "reason": "A poetic outlaw’s journey through stark landscapes pulses with quiet wonder."
+  },
+  {
+    "movieId": 175,
+    "score": 0.65,
+    "reason": "A surreal bureaucratic world drips with static dread in endless corridors."
+  },
+  {
+    "movieId": 86,
+    "score": 0.6,
+    "reason": "A butler’s unwavering loyalty unfolds against a stately English manor."
+  },
+  {
+    "movieId": 164,
+    "score": 0.55,
+    "reason": "Deep-sea explorers confront uncanny life forms in silent abyssal depths."
+  }
+]

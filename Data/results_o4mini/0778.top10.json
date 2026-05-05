@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "Mastermind twist-filled heist thriller with slick team assembly.",
+    "title": "The Usual Suspects",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 42,
+    "score": 0.93,
+    "reason": "Tense warehouse caper about planning and executing a perfect crime.",
+    "title": "Reservoir Dogs",
+    "year": "1992",
+    "plot": ""
+  },
+  {
+    "movieId": 273,
+    "score": 0.91,
+    "reason": "Epic city-level heist with meticulous crew recruitment.",
+    "title": "Heat",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 239,
+    "score": 0.89,
+    "reason": "Smart gadget-driven team caper testing every member’s skill.",
+    "title": "Sneakers",
+    "year": "1992",
+    "plot": ""
+  },
+  {
+    "movieId": 405,
+    "score": 0.87,
+    "reason": "Spies assembling a high-tech team for heart-stopping theft.",
+    "title": "Mission: Impossible",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 129,
+    "score": 0.85,
+    "reason": "Gripping con-artist alliance with cold precision.",
+    "title": "Bound",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 1416,
+    "score": 0.83,
+    "reason": "Underslung armored-car takedown with cool teamwork.",
+    "title": "S.F.W.",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 531,
+    "score": 0.8,
+    "reason": "Obsession with perfect crime escalates into high-stakes run.",
+    "title": "Shine",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 305,
+    "score": 0.78,
+    "reason": "History-driven heist over railway bones uncovers secrets.",
+    "title": "Railway Children",
+    "year": "1970",
+    "plot": ""
+  },
+  {
+    "movieId": 215,
+    "score": 0.75,
+    "reason": "Farm-to-bank heist piggybacking unlikely partnerships.",
+    "title": "Blazing Saddles",
+    "year": "1974",
+    "plot": ""
+  }
+]

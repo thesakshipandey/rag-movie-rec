@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 127,
+    "score": 0.98,
+    "reason": "A singular crime epic driven by family loyalty and moral complexity"
+  },
+  {
+    "movieId": 198,
+    "score": 0.96,
+    "reason": "Iconic graduation tale of lost innocence and sharp social satire"
+  },
+  {
+    "movieId": 200,
+    "score": 0.94,
+    "reason": "Psychological descent in isolated halls with visionary camera work"
+  },
+  {
+    "movieId": 68,
+    "score": 0.92,
+    "reason": "Dark revenge tale reborn in a stylized, gothic urban landscape"
+  },
+  {
+    "movieId": 72,
+    "score": 0.9,
+    "reason": "Comic-book chaos as a timid teller becomes a cartoon-powered hero"
+  },
+  {
+    "movieId": 117,
+    "score": 0.88,
+    "reason": "High-octane thrill ride on Alcatraz’s legendary rock fortress"
+  },
+  {
+    "movieId": 79,
+    "score": 0.86,
+    "reason": "Unstoppable fugitive flight through gritty urban streets"
+  },
+  {
+    "movieId": 481,
+    "score": 0.84,
+    "reason": "Quartet of lonely hearts finds love in cramped New York apartments"
+  },
+  {
+    "movieId": 164,
+    "score": 0.82,
+    "reason": "A submarine odyssey probing humanity’s place in the cosmos"
+  },
+  {
+    "movieId": 480,
+    "score": 0.8,
+    "reason": "International man-hunt sparks adrenaline across landmarks"
+  }
+]

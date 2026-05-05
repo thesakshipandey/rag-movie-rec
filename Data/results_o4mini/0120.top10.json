@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 568,
+    "score": 1.0,
+    "reason": "A high-speed bus is rigged to explode if it slows down, stranding a cop and passenger in a ticking deathtrap."
+  },
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "One man alone in a skyscraper fights to stop a hostage-taking terror cell before time runs out."
+  },
+  {
+    "movieId": 233,
+    "score": 0.93,
+    "reason": "A U.S. battleship hijacked by terrorists leaves only a lone cook-turned-hero to retake the ship and save the crew."
+  },
+  {
+    "movieId": 685,
+    "score": 0.9,
+    "reason": "A hijacked airliner carrying nerve gas forces a covert team aboard to prevent a global catastrophe."
+  },
+  {
+    "movieId": 300,
+    "score": 0.88,
+    "reason": "Terrorists seize the presidential plane at 30,000 feet, leaving the President isolated in his own aircraft."
+  },
+  {
+    "movieId": 636,
+    "score": 0.85,
+    "reason": "In a dystopian Manhattan prison, one operative is dropped into hostile territory to rescue a captured VIP."
+  },
+  {
+    "movieId": 355,
+    "score": 0.83,
+    "reason": "A deep-sea research team trapped aboard a mysterious spacecraft must unlock its secrets to survive."
+  },
+  {
+    "movieId": 260,
+    "score": 0.8,
+    "reason": "Rescuers board a derelict starship where events defy explanation, and they must escape its deadly influence."
+  },
+  {
+    "movieId": 353,
+    "score": 0.78,
+    "reason": "Guests on a hijacked cruise ship discover lethal sea creatures, trapping them in a battle for survival."
+  },
+  {
+    "movieId": 1228,
+    "score": 0.75,
+    "reason": "A runaway train over 50,000 pounds is commandeered by terrorists, leaving only a single hero to stop disaster."
+  }
+]

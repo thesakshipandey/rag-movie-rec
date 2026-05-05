@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Groundbreaking Pixar animated tale of living toys and friendship."
+  },
+  {
+    "movieId": 8,
+    "score": 0.9,
+    "reason": "Heartwarming family film about a pig who learns to herd sheep."
+  },
+  {
+    "movieId": 21,
+    "score": 0.88,
+    "reason": "Fun family adventure with Jim Hawkins and the Muppets on the high seas."
+  },
+  {
+    "movieId": 78,
+    "score": 0.85,
+    "reason": "Classic story of a boy who befriends and frees a captive orca whale."
+  },
+  {
+    "movieId": 35,
+    "score": 0.84,
+    "reason": "Sequel continuing the adventures of Jesse and the killer whale Willy for all ages."
+  },
+  {
+    "movieId": 102,
+    "score": 0.8,
+    "reason": "Disney animated classic about a Parisian cat family's musical adventure."
+  },
+  {
+    "movieId": 103,
+    "score": 0.78,
+    "reason": "Colorful animated romp following canine hero Charlie into heaven and back."
+  },
+  {
+    "movieId": 261,
+    "score": 0.76,
+    "reason": "Delightful family film where a dog joins a basketball team."
+  },
+  {
+    "movieId": 432,
+    "score": 0.74,
+    "reason": "Disney's visually stunning animated symphony set to classical music."
+  },
+  {
+    "movieId": 501,
+    "score": 0.72,
+    "reason": "Timeless Disney animation about a flying baby elephant overcoming adversity."
+  }
+]

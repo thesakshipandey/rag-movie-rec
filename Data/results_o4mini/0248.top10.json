@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 13,
+    "score": 0.95,
+    "reason": "Mighty Aphrodite begins with M and is a well-known comedy-drama"
+  },
+  {
+    "movieId": 15,
+    "score": 0.94,
+    "reason": "Mr. Holland's Opus starts with M and is a heartfelt music drama"
+  },
+  {
+    "movieId": 21,
+    "score": 0.93,
+    "reason": "Muppet Treasure Island starts with M and blends fantasy with adventure"
+  },
+  {
+    "movieId": 36,
+    "score": 0.92,
+    "reason": "Mad Love starts with M and is a sharp teen romance drama"
+  },
+  {
+    "movieId": 73,
+    "score": 0.91,
+    "reason": "Maverick starts with M and is a popular western-comedy adventure"
+  },
+  {
+    "movieId": 72,
+    "score": 0.9,
+    "reason": "Mask, The starts with M (ignoring inverted article) and is a vibrant comedy"
+  },
+  {
+    "movieId": 264,
+    "score": 0.89,
+    "reason": "Mimic starts with M and is a dark sci-fi thriller"
+  },
+  {
+    "movieId": 509,
+    "score": 0.88,
+    "reason": "My Left Foot starts with M and is a celebrated drama"
+  },
+  {
+    "movieId": 255,
+    "score": 0.87,
+    "reason": "My Best Friend's Wedding starts with M and is a classic romantic comedy"
+  },
+  {
+    "movieId": 312,
+    "score": 0.86,
+    "reason": "Midnight in the Garden of Good and Evil starts with M and is an atmospheric drama"
+  }
+]

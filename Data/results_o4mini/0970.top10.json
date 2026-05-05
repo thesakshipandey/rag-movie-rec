@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 106,
+    "score": 0.95,
+    "reason": "Victorian school’s dark secrets create a dread-filled, atmospheric horror."
+  },
+  {
+    "movieId": 413,
+    "score": 0.9,
+    "reason": "Gothic mansion conceals a bordello of vampires in eerie, tension-rich style."
+  },
+  {
+    "movieId": 500,
+    "score": 0.88,
+    "reason": "Orphaned boy’s friendship with a vampire blends period dread and family tragedy."
+  },
+  {
+    "movieId": 21,
+    "score": 0.85,
+    "reason": "Pirate-filled period tale with haunting supernatural undertones."
+  },
+  {
+    "movieId": 448,
+    "score": 0.82,
+    "reason": "Diplomat’s family secrets unleash horror in a grand, stately home setting."
+  },
+  {
+    "movieId": 72,
+    "score": 0.8,
+    "reason": "Society belle’s fantasies turn dark in an opulent period masquerade of terror."
+  },
+  {
+    "movieId": 105,
+    "score": 0.78,
+    "reason": "Murder at the White House in ’90s setting feels like old-world political dread."
+  },
+  {
+    "movieId": 967,
+    "score": 0.75,
+    "reason": "Widowed schoolteacher in Restoration England faces chilling family revelations."
+  },
+  {
+    "movieId": 498,
+    "score": 0.72,
+    "reason": "English widow’s isolation on a deserted island hides haunting family curse."
+  },
+  {
+    "movieId": 891,
+    "score": 0.7,
+    "reason": "Nihilistic teenager’s descent into violence echoes period’s moral darkness."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 1.0,
+    "reason": "An utterly charming farmyard tale that’s pure heart and warmth, perfect for a cozy, lighthearted escape."
+  },
+  {
+    "movieId": 15,
+    "score": 0.9,
+    "reason": "A tender teacher’s journey that’s all about kindness, community, and gentle emotional uplift."
+  },
+  {
+    "movieId": 66,
+    "score": 0.8,
+    "reason": "Sweet mistaken-identity romance brimming with warmth and comforting, feel-good moments."
+  },
+  {
+    "movieId": 88,
+    "score": 0.7,
+    "reason": "A gentle, big-hearted romance that leaves you feeling safe and beloved in its cozy embrace."
+  },
+  {
+    "movieId": 417,
+    "score": 0.65,
+    "reason": "Two sisters swap places in this light, playful comedy with a sweet, reassuring charm."
+  },
+  {
+    "movieId": 142,
+    "score": 0.6,
+    "reason": "A whimsical wartime musical adventure filled with heartwarming magic and nostalgic warmth."
+  },
+  {
+    "movieId": 419,
+    "score": 0.55,
+    "reason": "Magical nanny antics and uplifting songs make this a timeless, comforting family favorite."
+  },
+  {
+    "movieId": 202,
+    "score": 0.5,
+    "reason": "A warm, funny time-loop tale with charm and hope that comforts even as it repeats the day."
+  },
+  {
+    "movieId": 707,
+    "score": 0.45,
+    "reason": "A lush, romantic escape set against dreamy Italian vistas, offering gentle, reflective warmth."
+  },
+  {
+    "movieId": 131,
+    "score": 0.4,
+    "reason": "A smart, cozy romance at New York’s favorite corner deli, light on plot, big on sweet laughs."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "A cosmic odyssey that ponders evolution, consciousness, and the universe’s inscrutable depths."
+  },
+  {
+    "movieId": 159,
+    "score": 0.95,
+    "reason": "A slow, haunting journey into a zone where reality, free will and the unknowable collide."
+  },
+  {
+    "movieId": 179,
+    "score": 0.9,
+    "reason": "A dystopian parable of ultraviolence, conditioning and a choice between freedom and control."
+  },
+  {
+    "movieId": 183,
+    "score": 0.88,
+    "reason": "A claustrophobic thriller that probes life, death and what it means to be human under alien threat."
+  },
+  {
+    "movieId": 180,
+    "score": 0.85,
+    "reason": "A surreal Vietnam War epic questioning morality, madness and the darkness in every soul."
+  },
+  {
+    "movieId": 1411,
+    "score": 0.8,
+    "reason": "Campy space farce that cheekily subverts gender roles and pop-culture clichés."
+  },
+  {
+    "movieId": 89,
+    "score": 0.78,
+    "reason": "A noir-infused future grapples with artificial life, identity and the soul's persistence."
+  },
+  {
+    "movieId": 175,
+    "score": 0.75,
+    "reason": "Satirical sci-fi dystopia skewers bureaucracy and the fragility of individual reality."
+  },
+  {
+    "movieId": 172,
+    "score": 0.72,
+    "reason": "A darker vision of rebellion and fate in a galaxy far, far away; the struggle continues."
+  },
+  {
+    "movieId": 181,
+    "score": 0.7,
+    "reason": "Redemption and destiny entwine in a final battle between light and dark in space."
+  }
+]

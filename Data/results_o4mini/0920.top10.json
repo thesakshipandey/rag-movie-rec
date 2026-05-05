@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 331,
+    "score": 1.0,
+    "reason": "A gripping Alaskan survival thriller with relentless nature vs man stakes"
+  },
+  {
+    "movieId": 576,
+    "score": 0.95,
+    "reason": "High-altitude action thriller that feels like a claustrophobic ordeal"
+  },
+  {
+    "movieId": 148,
+    "score": 0.9,
+    "reason": "True-story hunt in the African wilderness against deadly lions"
+  },
+  {
+    "movieId": 295,
+    "score": 0.85,
+    "reason": "Tense desert road thriller that never lets up"
+  },
+  {
+    "movieId": 164,
+    "score": 0.8,
+    "reason": "Underwater sci-fi survival that will exhaust you"
+  },
+  {
+    "movieId": 234,
+    "score": 0.75,
+    "reason": "Iconic ocean survival thriller against a seemingly unstoppable shark"
+  },
+  {
+    "movieId": 353,
+    "score": 0.7,
+    "reason": "Non-stop sea-bound terror against monstrous foes"
+  },
+  {
+    "movieId": 281,
+    "score": 0.65,
+    "reason": "Family-drama turned white-knuckle river rafting survival"
+  },
+  {
+    "movieId": 252,
+    "score": 0.6,
+    "reason": "Dinosaur-infested island forces a small team to fight for their lives"
+  },
+  {
+    "movieId": 576,
+    "score": 0.55,
+    "reason": "(Duplicate of Cliffhanger placeholder)"
+  }
+]

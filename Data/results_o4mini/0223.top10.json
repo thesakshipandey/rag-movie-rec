@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 41,
+    "score": 0.95,
+    "reason": "Title is two-word personal name 'Billy Madison'"
+  },
+  {
+    "movieId": 65,
+    "score": 0.9,
+    "reason": "Title is two-word personal name 'Gilbert Grape'"
+  },
+  {
+    "movieId": 72,
+    "score": 0.88,
+    "reason": "Title is two-word personal name 'Stanley Ipkiss'"
+  },
+  {
+    "movieId": 42,
+    "score": 0.85,
+    "reason": "Title is two-word personal name 'Dante Hicks'"
+  },
+  {
+    "movieId": 263,
+    "score": 0.83,
+    "reason": "Title is two-word personal name 'John Doe'"
+  },
+  {
+    "movieId": 37,
+    "score": 0.8,
+    "reason": "Title is single-word personal name 'Nadja'"
+  },
+  {
+    "movieId": 91,
+    "score": 0.78,
+    "reason": "Title is three-word but features 'Jack Skellington'"
+  },
+  {
+    "movieId": 131,
+    "score": 0.75,
+    "reason": "Title is two-word personal name 'Holly Golightly'"
+  },
+  {
+    "movieId": 93,
+    "score": 0.73,
+    "reason": "Title is two-word personal name 'Dawn Wiener'"
+  },
+  {
+    "movieId": 5,
+    "score": 0.7,
+    "reason": "Title is two-word personal name 'Helen Hudson'"
+  }
+]

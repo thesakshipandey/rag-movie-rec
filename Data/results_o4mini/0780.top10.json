@@ -1,0 +1,82 @@
+[
+  {
+    "movieId": 298,
+    "score": 0.95,
+    "reason": "A hopeful wanderer inspires a broken world to breathe again.",
+    "title": "Postman, The",
+    "year": "1997",
+    "plot": ""
+  },
+  {
+    "movieId": 554,
+    "score": 0.93,
+    "reason": "Resourceful survivors quest for unity in flooded Earth.",
+    "title": "Waterworld",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 279,
+    "score": 0.9,
+    "reason": "Family finding new ground in the wake of upheaval.",
+    "title": "Once Upon a Time... When We Were Colored",
+    "year": "1995",
+    "plot": ""
+  },
+  {
+    "movieId": 1149,
+    "score": 0.88,
+    "reason": "Enduring childhood journey fosters resilience in hardship.",
+    "title": "Wend Kuuni",
+    "year": "1982",
+    "plot": ""
+  },
+  {
+    "movieId": 220,
+    "score": 0.85,
+    "reason": "Gentle reflection on renewal in a fractured society.",
+    "title": "Mirror Has Two Faces, The",
+    "year": "1996",
+    "plot": ""
+  },
+  {
+    "movieId": 428,
+    "score": 0.83,
+    "reason": "Bittersweet comedy-drama about healing after loss.",
+    "title": "American Werewolf in London, An",
+    "year": "1981",
+    "plot": ""
+  },
+  {
+    "movieId": 624,
+    "score": 0.8,
+    "reason": "Light-hearted escape as community bonds restore hope.",
+    "title": "Angels in the Outfield",
+    "year": "1994",
+    "plot": ""
+  },
+  {
+    "movieId": 1404,
+    "score": 0.78,
+    "reason": "Raw friendship endures beneath desolate surface.",
+    "title": "Withnail and I",
+    "year": "1987",
+    "plot": ""
+  },
+  {
+    "movieId": 186,
+    "score": 0.75,
+    "reason": "Music-driven camaraderie blossoms amidst crime’s ashes.",
+    "title": "Blues Brothers, The",
+    "year": "1980",
+    "plot": ""
+  },
+  {
+    "movieId": 1330,
+    "score": 0.72,
+    "reason": "Tender story of exile and new beginnings.",
+    "title": "Of Love and Shadows",
+    "year": "1994",
+    "plot": ""
+  }
+]

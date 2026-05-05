@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 134,
+    "score": 1.0,
+    "reason": "Orson Welles’ groundbreaking narrative and deep-focus cinematography"
+  },
+  {
+    "movieId": 135,
+    "score": 0.9,
+    "reason": "Kubrick’s epic, meditative voyage redefined cinematic form"
+  },
+  {
+    "movieId": 1021,
+    "score": 0.85,
+    "reason": "Godard’s virtuosic dive into memory, film, and self-reflection"
+  },
+  {
+    "movieId": 171,
+    "score": 0.8,
+    "reason": "Jeunet’s surreal tableau of dark humor and stop-motion wonder"
+  },
+  {
+    "movieId": 175,
+    "score": 0.75,
+    "reason": "Gilliam’s dystopian fantasy brims with audacious artistry"
+  },
+  {
+    "movieId": 512,
+    "score": 0.7,
+    "reason": "Wim Wenders’ poetic rumination on love and city rhythms"
+  },
+  {
+    "movieId": 59,
+    "score": 0.65,
+    "reason": "Kieslowski’s haunting, color-driven emotional tapestry"
+  },
+  {
+    "movieId": 191,
+    "score": 0.6,
+    "reason": "Formalist opulence meets Mozart’s soaring drama in Milos Forman’s opus"
+  },
+  {
+    "movieId": 129,
+    "score": 0.55,
+    "reason": "Cassavetes’ gritty, modernist take on crime and queer passion"
+  },
+  {
+    "movieId": 53,
+    "score": 0.5,
+    "reason": "Stone’s hallucinatory, hyper-kinetic critique of media obsession"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 4,
+    "score": 1.0,
+    "reason": "Quirky crime comedy with effortless con schemes and playful double-crosses"
+  },
+  {
+    "movieId": 239,
+    "score": 0.95,
+    "reason": "Lighthearted caper about expert spooks and amiable cons"
+  },
+  {
+    "movieId": 12,
+    "score": 0.92,
+    "reason": "Inventive heist caper with smart twists and sly humor"
+  },
+  {
+    "movieId": 1551,
+    "score": 0.9,
+    "reason": "Stylish con thriller balancing cunning scams with cheeky tone"
+  },
+  {
+    "movieId": 642,
+    "score": 0.88,
+    "reason": "Grifty characters in a slick world of small-time hustles"
+  },
+  {
+    "movieId": 949,
+    "score": 0.85,
+    "reason": "Ensemble caper following amateur con artists on the run"
+  },
+  {
+    "movieId": 790,
+    "score": 0.82,
+    "reason": "Lovable bunglers pulling off one hilarious con after another"
+  },
+  {
+    "movieId": 249,
+    "score": 0.78,
+    "reason": "Groovy 60s-set spy caper with cheeky double-deals"
+  },
+  {
+    "movieId": 153,
+    "score": 0.75,
+    "reason": "Fish-out-of-water con men colluding in comedic heist"
+  },
+  {
+    "movieId": 249,
+    "score": 0.7,
+    "reason": "High-spirited caper full of playful double-crosses"
+  }
+]

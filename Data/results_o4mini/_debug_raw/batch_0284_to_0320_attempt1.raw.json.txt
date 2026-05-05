@@ -1,0 +1,74 @@
+{
+  "results": {
+    "0284": {
+      "top10": [
+        {"movieId": 318, "score": 1.00, "reason": "Riveting Holocaust drama depicting Oskar Schindler’s true rescue of Jews with authentic detail."},
+        {"movieId": 651, "score": 0.95, "reason": "Intense Civil War epic following the first all-Black Union regiment in a historically grounded battle."},
+        {"movieId": 511, "score": 0.92, "reason": "Epic desert odyssey with meticulous period accuracy in this biopic of T. E. Lawrence."},
+        {"movieId": 199, "score": 0.90, "reason": "Gripping WWII POW drama where captives build a bridge under Japanese command with stark realism."},
+        {"movieId": 205, "score": 0.88, "reason": "Commanding portrait of General Patton offering a measured, large-scale view of WWII campaigns."},
+        {"movieId": 28, "score": 0.85, "reason": "Tense retelling of the fateful Apollo 13 mission celebrated for technical precision."},
+        {"movieId": 241, "score": 0.82, "reason": "Frontier-era adaptation of Cooper’s classic, capturing period customs and rugged wilderness."},
+        {"movieId": 313, "score": 0.80, "reason": "Immersive recreation of the Titanic’s voyage and sinking with attention to period detail."},
+        {"movieId": 191, "score": 0.78, "reason": "Lavish Mozart biopic set in 18th-century Vienna with careful attention to historical musical context."},
+        {"movieId": 97, "score": 0.75, "reason": "Sprawling post-Civil War Western exploring cross-cultural encounters with thoughtful accuracy."}
+      ]
+    },
+    "0285": {
+      "top10": [
+        {"movieId": 474, "score": 0.99, "reason": "Satirical Cold War black comedy, razor-sharp wit and absurd gags."},
+        {"movieId": 168, "score": 0.95, "reason": "Iconic British absurdist quest, deadpan humor with surreal, darkly comic twists."},
+        {"movieId": 175, "score": 0.92, "reason": "Dystopian satire blending off-beat visuals and dry wit in a Kafkaesque bureaucratic nightmare."},
+        {"movieId": 902, "score": 0.90, "reason": "Cult classic with sly dialogue and absurd caper full of deadpan humor."},
+        {"movieId": 100, "score": 0.88, "reason": "Dark crime comedy marked by mordant wit and quirky Midwestern characters."},
+        {"movieId": 663, "score": 0.86, "reason": "Subtle political satire where childlike naiveté generates quietly hilarious absurdity."},
+        {"movieId": 154, "score": 0.84, "reason": "Sharp irreverent satire of religious themes with Python’s trademark irreverent humor."},
+        {"movieId": 42, "score": 0.82, "reason": "Low-budget cult hit packed with sardonic banter and everyday absurdities."},
+        {"movieId": 4, "score": 0.80, "reason": "Smooth Hollywood crime comedy, witty dialogue playing off larger-than-life underworld antics."},
+        {"movieId": 3, "score": 0.78, "reason": "Anthology of off-kilter hotel tales, dark humor in twisted, unpredictable episodes."}
+      ]
+    },
+    "0286": {
+      "top10": [
+        {"movieId": 64, "score": 0.99, "reason": "Beloved uplifting prison drama with compelling storytelling and memorable characters."},
+        {"movieId": 56, "score": 0.97, "reason": "Groundbreaking crime saga with interwoven stories, snappy dialogue, and iconic cool."},
+        {"movieId": 69, "score": 0.95, "reason": "Heart-warming odyssey through decades of American life, balancing humor and poignancy."},
+        {"movieId": 1, "score": 0.93, "reason": "Charming animated adventure with witty humor, heart, and pioneering computer animation."},
+        {"movieId": 82, "score": 0.91, "reason": "Blockbuster sci-fi thriller with jaw-dropping visual effects and relentless thrills."},
+        {"movieId": 313, "score": 0.89, "reason": "Epic romance-disaster spectacle, sweeping scale and emotional depth."},
+        {"movieId": 96, "score": 0.87, "reason": "High-octane sci-fi action landmark with groundbreaking special effects."},
+        {"movieId": 71, "score": 0.85, "reason": "Animated coming-of-age masterpiece, unforgettable music and majestic storytelling."},
+        {"movieId": 144, "score": 0.83, "reason": "Pulse-pounding action classic with razor-sharp humor and tenacious hero."},
+        {"movieId": 202, "score": 0.81, "reason": "Inventive comedy-drama with a clever time-loop premise and endearing optimism."}
+      ]
+    },
+    "0319": {
+      "top10": [
+        {"movieId": 469, "score": 0.99, "reason": "Interlocking tales of Los Angeles lives weaving together through rich ensemble storytelling."},
+        {"movieId": 325, "score": 0.97, "reason": "Intersecting L.A. stories exploring race and fate with a sprawling, multi-character structure."},
+        {"movieId": 56, "score": 0.95, "reason": "Nonlinear crime caper with multiple protagonists whose paths collide across a vibrant ensemble."},
+        {"movieId": 302, "score": 0.93, "reason": "Complex crime thriller juggling multiple detectives and corrupt factions in 1950s Los Angeles."},
+        {"movieId": 182, "score": 0.88, "reason": "Sweeping mob saga covering decades with a large cast of vivid, interwoven characters."},
+        {"movieId": 275, "score": 0.86, "reason": "Period drama about sisters and society with a broad ensemble of intertwined storylines."},
+        {"movieId": 70, "score": 0.84, "reason": "Charming British romance that balances multiple love stories in a close-knit social circle."},
+        {"movieId": 137, "score": 0.82, "reason": "All-star kitchen drama centered on rival brothers striving to save their restaurant with comedic flair."},
+        {"movieId": 12, "score": 0.80, "reason": "Intricate heist thriller with a large, enigmatic ensemble and a twisty final act."},
+        {"movieId": 313, "score": 0.78, "reason": "Disaster epic with an expansive cast of characters whose lives collide amid the sinking ship."}
+      ]
+    },
+    "0320": {
+      "top10": [
+        {"movieId": 82, "score": 0.99, "reason": "Groundbreaking 1993 sci-fi adventure with realistic dinosaurs and thrilling suspense."},
+        {"movieId": 96, "score": 0.97, "reason": "1991 sci-fi action landmark with stunning effects and relentless pacing."},
+        {"movieId": 121, "score": 0.95, "reason": "1996 blockbuster alien invasion thriller with globe-spanning stakes."},
+        {"movieId": 2, "score": 0.93, "reason": "1995 Bond thriller mixing espionage and cutting-edge gadgetry in a Cold War aftermath."},
+        {"movieId": 257, "score": 0.91, "reason": "1997 sci-fi comedy-thriller pairing sharp wit with extraterrestrial antics."},
+        {"movieId": 7, "score": 0.89, "reason": "1995 time-travel mystery driven by paranoia and a quest to prevent a viral apocalypse."},
+        {"movieId": 355, "score": 0.87, "reason": "1998 cerebral sci-fi mystery exploring fear and the unknown beneath the waves."},
+        {"movieId": 39, "score": 0.85, "reason": "1995 near-future noir with mind-recording tech and raw, dark urban grit."},
+        {"movieId": 5, "score": 0.83, "reason": "1995 serial-killer thriller featuring a methodical psychologist drawn into the hunt."},
+        {"movieId": 258, "score": 0.81, "reason": "1997 thought-provoking sci-fi drama about humanity’s first radio contact with aliens."}
+      ]
+    }
+  }
+}

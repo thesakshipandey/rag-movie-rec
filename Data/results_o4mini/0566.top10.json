@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Toy Story’s bright fun and endearing buddy adventure"
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Muppet Treasure Island’s playful swashbuckling comedy"
+  },
+  {
+    "movieId": 67,
+    "score": 0.85,
+    "reason": "Ace Ventura’s goofy energy and animal-rescuing antics"
+  },
+  {
+    "movieId": 393,
+    "score": 0.8,
+    "reason": "Mrs. Doubtfire’s warm humor and family-friendly charm"
+  },
+  {
+    "movieId": 91,
+    "score": 0.75,
+    "reason": "Nightmare Before Christmas’ whimsical holiday magic"
+  },
+  {
+    "movieId": 80,
+    "score": 0.7,
+    "reason": "Hot Shots! Part Deux’s slapstick gags and nonstop laughs"
+  },
+  {
+    "movieId": 240,
+    "score": 0.65,
+    "reason": "Beavis and Butt-head Do America’s irreverent, high-octane fun"
+  },
+  {
+    "movieId": 82,
+    "score": 0.6,
+    "reason": "Jurassic Park’s thrilling, awe-inspiring dinosaur ride"
+  },
+  {
+    "movieId": 118,
+    "score": 0.55,
+    "reason": "Twister’s whirlwind thrills and high-flying excitement"
+  },
+  {
+    "movieId": 257,
+    "score": 0.5,
+    "reason": "Men in Black’s sharp wit and extraterrestrial hijinks"
+  }
+]

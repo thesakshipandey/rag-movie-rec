@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 655,
+    "score": 1.0,
+    "reason": "Stand by Me captures teen friendship and high-stakes adventure with earnest heart"
+  },
+  {
+    "movieId": 710,
+    "score": 0.95,
+    "reason": "Better Off Dead delivers adolescent angst and comic hope in a classic ’80s teen romp"
+  },
+  {
+    "movieId": 204,
+    "score": 0.93,
+    "reason": "Back to the Future zips ’80s teen energy into a heartfelt, high-stakes time-travel journey"
+  },
+  {
+    "movieId": 155,
+    "score": 0.9,
+    "reason": "Dirty Dancing spins youthful yearning and triumphant dance in indelible ’80s style"
+  },
+  {
+    "movieId": 537,
+    "score": 0.88,
+    "reason": "My Own Private Idaho blends teen longing with heartfelt drama and a touch of ’80s grit"
+  },
+  {
+    "movieId": 772,
+    "score": 0.85,
+    "reason": "Kids seethes with raw adolescent angst and the world-ending stakes of teenage survival"
+  },
+  {
+    "movieId": 433,
+    "score": 0.83,
+    "reason": "Heathers thrusts teen hierarchy into dark satire with edgy wit and high-school stakes"
+  },
+  {
+    "movieId": 196,
+    "score": 0.8,
+    "reason": "Dead Poets Society inspires teen soul searching and triumphant solidarity at prep school"
+  },
+  {
+    "movieId": 468,
+    "score": 0.78,
+    "reason": "Rudy channels ’80s teen dreams and underdog triumph in a small-town sports drama"
+  },
+  {
+    "movieId": 273,
+    "score": 0.75,
+    "reason": "Heat may not be teen-centric but its brotherly bond and high-stakes tension echo youthful intensity"
+  }
+]

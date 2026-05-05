@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 511,
+    "score": 1.0,
+    "reason": "Lawrence of Arabia sweeps you across desert vistas in a deeply human tale of duty and destiny."
+  },
+  {
+    "movieId": 526,
+    "score": 0.95,
+    "reason": "Ben-Hur’s epic chariot race and spiritual journey make you feel small against history’s sweep."
+  },
+  {
+    "movieId": 22,
+    "score": 0.9,
+    "reason": "Braveheart’s stirring battle for freedom moves you with its raw grit and heartfelt sacrifice."
+  },
+  {
+    "movieId": 318,
+    "score": 0.85,
+    "reason": "Schindler’s List shows one man’s courage transforming countless lives amid unfathomable darkness."
+  },
+  {
+    "movieId": 180,
+    "score": 0.8,
+    "reason": "Apocalypse Now plunges you into the madness of war with haunting imagery and moral complexity."
+  },
+  {
+    "movieId": 135,
+    "score": 0.75,
+    "reason": "2001: A Space Odyssey expands your mind with cosmic wonder while grounding you in human evolution."
+  },
+  {
+    "movieId": 97,
+    "score": 0.7,
+    "reason": "Dances with Wolves captures the vast American frontier and the bonds formed across cultures."
+  },
+  {
+    "movieId": 313,
+    "score": 0.65,
+    "reason": "Titanic blends epic romance with the majestic tragedy of a ship that became legend."
+  },
+  {
+    "movieId": 521,
+    "score": 0.6,
+    "reason": "The Deer Hunter portrays friendship tested by war, carrying you from a small town to battlefield horrors."
+  },
+  {
+    "movieId": 241,
+    "score": 0.55,
+    "reason": "The Last of the Mohicans immerses you in 18th-century wilderness where love and loyalty endure."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "An epic space opera that immerses you in a galaxy of strange planets and cultures."
+  },
+  {
+    "movieId": 172,
+    "score": 0.93,
+    "reason": "A darker, deeper exploration of a vast galactic universe and compelling characters."
+  },
+  {
+    "movieId": 135,
+    "score": 0.92,
+    "reason": "A visionary, mind-bending odyssey through space with stunning, surreal imagery."
+  },
+  {
+    "movieId": 132,
+    "score": 0.9,
+    "reason": "A magical journey to a vividly realized fantasy land brimming with wonder."
+  },
+  {
+    "movieId": 173,
+    "score": 0.89,
+    "reason": "A whimsical, romantic fairytale set in a lush, storybook world full of adventure."
+  },
+  {
+    "movieId": 91,
+    "score": 0.88,
+    "reason": "A dark, fantastical world of Halloween Town that blends eerie beauty with whimsy."
+  },
+  {
+    "movieId": 420,
+    "score": 0.87,
+    "reason": "A dreamlike descent into Lewis Carroll’s surreal Wonderland of the imagination."
+  },
+  {
+    "movieId": 175,
+    "score": 0.85,
+    "reason": "A surreal, dystopian vision of society with unique, haunting world-building."
+  },
+  {
+    "movieId": 691,
+    "score": 0.84,
+    "reason": "A noirish cityscape shifts unsettlingly in a stylish, nightmarish urban realm."
+  },
+  {
+    "movieId": 432,
+    "score": 0.83,
+    "reason": "An animated fantasia pairing classical music with breathtaking, abstract visuals."
+  }
+]

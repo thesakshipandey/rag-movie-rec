@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A master criminal assembles a gang of misfits who must learn each other’s skills to pull off one final heist."
+  },
+  {
+    "movieId": 239,
+    "score": 0.95,
+    "reason": "A quirky team of experts—hacker, former spy, mathematician—joins forces to crack a high-stakes security fortress."
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "A ragtag crew of Muppet misfits unite under Jim Hawkins to sail, sing, and outwit pirates on a treasure hunt."
+  },
+  {
+    "movieId": 62,
+    "score": 0.88,
+    "reason": "Scientists, soldiers and a linguist are recruited to explore a mysterious alien device and save Earth."
+  },
+  {
+    "movieId": 405,
+    "score": 0.87,
+    "reason": "An elite IMF team of specialists must infiltrate impossible missions and thwart global threats together."
+  },
+  {
+    "movieId": 7,
+    "score": 0.85,
+    "reason": "A convict, a psychologist and virus experts join forces across time to stop a deadly plague and save humanity."
+  },
+  {
+    "movieId": 28,
+    "score": 0.83,
+    "reason": "An astronaut crew, each with unique skills, bands together to overcome disaster and bring their ship home."
+  },
+  {
+    "movieId": 820,
+    "score": 0.8,
+    "reason": "Looney Tunes stars and a basketball legend must unite their wacky talents to defeat an alien basketball squad."
+  },
+  {
+    "movieId": 399,
+    "score": 0.78,
+    "reason": "Four young swordsmen of diverse backgrounds come together, each with unique talents, to defend their queen."
+  },
+  {
+    "movieId": 520,
+    "score": 0.75,
+    "reason": "Allied POWs with different skills assemble to dig a tunnel and execute the ultimate mass escape."
+  }
+]

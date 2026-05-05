@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 0,
+    "score": 0.95,
+    "reason": "No movies released in 2025 present"
+  },
+  {
+    "movieId": 0,
+    "score": 0.9,
+    "reason": "No entries match this year"
+  },
+  {
+    "movieId": 0,
+    "score": 0.88,
+    "reason": "No 2025 releases available"
+  },
+  {
+    "movieId": 0,
+    "score": 0.85,
+    "reason": "Year filter found no matches"
+  },
+  {
+    "movieId": 0,
+    "score": 0.83,
+    "reason": "None of the candidates are from this year"
+  },
+  {
+    "movieId": 0,
+    "score": 0.8,
+    "reason": "No 2025 titles in the list"
+  },
+  {
+    "movieId": 0,
+    "score": 0.78,
+    "reason": "No new releases found"
+  },
+  {
+    "movieId": 0,
+    "score": 0.75,
+    "reason": "Year constraint unmet"
+  },
+  {
+    "movieId": 0,
+    "score": 0.73,
+    "reason": "No films match current-year release"
+  },
+  {
+    "movieId": 0,
+    "score": 0.7,
+    "reason": "Empty set due to year filter"
+  }
+]

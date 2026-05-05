@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 0.98,
+    "reason": "Gentle tale of poetic mentorship and unlikely friendship in a sleepy town."
+  },
+  {
+    "movieId": 86,
+    "score": 0.96,
+    "reason": "Quiet, elegant exploration of duty and regret in a stately English manor."
+  },
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "Warm, unhurried chronicle of a teacher’s decades of small triumphs and connections."
+  },
+  {
+    "movieId": 45,
+    "score": 0.94,
+    "reason": "Four intimate meals reveal a family’s shifting bonds in quiet, beautiful detail."
+  },
+  {
+    "movieId": 509,
+    "score": 0.93,
+    "reason": "Bittersweet childhood odyssey told with tender humor and reflective calm."
+  },
+  {
+    "movieId": 170,
+    "score": 0.92,
+    "reason": "Lyrical tribute to cinema and memory in a nostalgic Sicilian village."
+  },
+  {
+    "movieId": 275,
+    "score": 0.91,
+    "reason": "Graceful adaptation of a classic novel focusing on love, loss, and quiet strength."
+  },
+  {
+    "movieId": 213,
+    "score": 0.9,
+    "reason": "Romantic period reverie where every look and gesture holds gentle meaning."
+  },
+  {
+    "movieId": 955,
+    "score": 0.89,
+    "reason": "Dialogue-driven meander through chance encounters under the Vienna sky."
+  },
+  {
+    "movieId": 116,
+    "score": 0.88,
+    "reason": "Charming period comedy unfolding at a leisurely pace with subtle wit."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 304,
+    "score": 0.95,
+    "reason": "Fly Away Home follows geese raised by a girl as they migrate north, seen largely through the birds’ journey without humanized dialogue."
+  },
+  {
+    "movieId": 140,
+    "score": 0.93,
+    "reason": "Homeward Bound: The Incredible Journey is narrated by the pets themselves on their trek to reunite with their owners."
+  },
+  {
+    "movieId": 416,
+    "score": 0.9,
+    "reason": "Old Yeller portrays a stray dog’s bond with a boy on the Texas frontier, focusing on the animal’s loyalty and journey."
+  },
+  {
+    "movieId": 1066,
+    "score": 0.88,
+    "reason": "Balto depicts a sled dog’s perilous arctic mission to save children, centered on his instincts and courage."
+  },
+  {
+    "movieId": 78,
+    "score": 0.85,
+    "reason": "Free Willy shows a boy freeing a captive orca and swimming home with the whale, highlighting their silent partnership."
+  },
+  {
+    "movieId": 8,
+    "score": 0.82,
+    "reason": "Babe chronicles a pig’s adventure on a farm and its bond with a farmer, told without giving the animal human speech."
+  },
+  {
+    "movieId": 261,
+    "score": 0.8,
+    "reason": "Air Bud follows a stray dog joining a boy’s basketball games, focusing on the dog’s natural abilities and friendship."
+  },
+  {
+    "movieId": 112,
+    "score": 0.78,
+    "reason": "Flipper features a boy’s friendship with a dolphin, depicting the sea creature’s perspective in rescue and play."
+  },
+  {
+    "movieId": 501,
+    "score": 0.75,
+    "reason": "Dumbo centers on an elephant’s journey from ridicule to triumph, shown through his eyes and gentle actions."
+  },
+  {
+    "movieId": 1064,
+    "score": 0.72,
+    "reason": "The Steel Dawn tells of a nomadic dog guiding survivors across a dystopian wasteland, emphasizing the animal’s viewpoint."
+  }
+]

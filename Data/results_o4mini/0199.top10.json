@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.98,
+    "reason": "Pulp Fiction – non-Western crime film intertwining multiple stories in LA."
+  },
+  {
+    "movieId": 318,
+    "score": 0.96,
+    "reason": "Schindler’s List – historical drama about saving Jews during WWII."
+  },
+  {
+    "movieId": 127,
+    "score": 0.94,
+    "reason": "The Godfather – epic saga of the Corleone family in New York’s underworld."
+  },
+  {
+    "movieId": 182,
+    "score": 0.92,
+    "reason": "GoodFellas – true-crime drama chronicling life inside the Mafia."
+  },
+  {
+    "movieId": 69,
+    "score": 0.9,
+    "reason": "Forrest Gump – drama following an ordinary man’s extraordinary life."
+  },
+  {
+    "movieId": 64,
+    "score": 0.88,
+    "reason": "The Shawshank Redemption – prison drama about hope and resilience behind bars."
+  },
+  {
+    "movieId": 483,
+    "score": 0.86,
+    "reason": "Casablanca – classic romantic drama set in WWII-era Morocco."
+  },
+  {
+    "movieId": 50,
+    "score": 0.84,
+    "reason": "Star Wars – space epic about the Rebellion’s battle against the Empire."
+  },
+  {
+    "movieId": 180,
+    "score": 0.82,
+    "reason": "Apocalypse Now – Vietnam War drama exploring madness on a river journey."
+  },
+  {
+    "movieId": 98,
+    "score": 0.8,
+    "reason": "The Silence of the Lambs – psychological thriller with an FBI agent and a killer."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.99,
+    "reason": "Clerks captures quirky day‐to‐day vibe with offbeat humor and quirky characters"
+  },
+  {
+    "movieId": 150,
+    "score": 0.97,
+    "reason": "Swingers revels in slacker charm and character quirks over plot"
+  },
+  {
+    "movieId": 37,
+    "score": 0.95,
+    "reason": "Nadja’s surreal tone eases story for pure character immersion"
+  },
+  {
+    "movieId": 367,
+    "score": 0.93,
+    "reason": "Clueless follows sharp‐witted protagonist in stylish stylized world"
+  },
+  {
+    "movieId": 372,
+    "score": 0.92,
+    "reason": "Jeffrey thrives on character dialogue and eccentric life musings"
+  },
+  {
+    "movieId": 189,
+    "score": 0.9,
+    "reason": "Grand Day Out delights in whimsical character-driven antics"
+  },
+  {
+    "movieId": 247,
+    "score": 0.88,
+    "reason": "Spice World indulges the quirky personalities of its musical subjects"
+  },
+  {
+    "movieId": 543,
+    "score": 0.87,
+    "reason": "Les Misérables (1995) spotlights eccentric artistic types over linear plot"
+  },
+  {
+    "movieId": 607,
+    "score": 0.85,
+    "reason": "Rebecca uses its central character’s obsession to drive the tone"
+  },
+  {
+    "movieId": 477,
+    "score": 0.83,
+    "reason": "Matilda focuses on its oddball heroine’s unique view of the world"
+  }
+]

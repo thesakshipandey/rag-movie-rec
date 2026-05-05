@@ -1,0 +1,30 @@
+{
+  "results": {
+    "0260": {
+      "top10": [
+        {"movieId": 251, "score": 1.00, "reason": "Shall We Dance? is one of the few titles here that literally ends with a question mark."},
+        {"movieId": 256, "score": 0.20, "reason": "Not literal but the title asks a question about lost pets in Paris."},
+        {"movieId": 555, "score": 0.10, "reason": "Contains a question word in its title though no literal question mark."}
+      ]
+    },
+    "0261": {
+      "top10": [
+        {"movieId": 199, "score": 1.00, "reason": "Bridge on the River Kwai references February 1943 in its WWII–era plot."},
+        {"movieId": 127, "score": 0.95, "reason": "The Godfather opening is set in 1945, immediately postwar."},
+        {"movieId": 134, "score": 0.90, "reason": "Citizen Kane’s backstory begins in 1871, not WWII, low relevance."},
+        {"movieId": 44, "score": 0.85, "reason": "Dolores Claiborne is set in Maine in the 1990s, no 1940s."},
+        {"movieId": 285, "score": 0.80, "reason": "Secrets & Lies is 1990s London drama, no WWII."},
+        {"movieId": 146, "score": 0.75, "reason": "House of the Spirits covers 20th-century Latin America, but no 194x."},
+        {"movieId": 209, "score": 0.70, "reason": "This Is Spinal Tap is 1980s mockumentary, off-topic."},
+        {"movieId": 62, "score": 0.65, "reason": "Stargate series covers various eras, no specific 1940s mention."},
+        {"movieId": 96, "score": 0.60, "reason": "Terminator 2 is sci-fi set in 1990s/2029, no WWII reference."},
+        {"movieId": 144, "score": 0.55, "reason": "Maltese Falcon is 1941 noir debut, but no WWII–era plot details."}
+      ]
+    },
+    "0912": {
+      "top10": [
+        {"movieId": 546, "score": 0.00, "reason": "No entries meet the criteria of post-2000 political-maneuvering historical drama."}
+      ]
+    }
+  }
+}

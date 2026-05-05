@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 251,
+    "score": 0.9,
+    "reason": "Shall We Dance? asks its central question with playful romance and elegant ballroom charm."
+  },
+  {
+    "movieId": 1084,
+    "score": 0.88,
+    "reason": "What Happened Was... uses a question-style title for its intimate, confessional storytelling."
+  },
+  {
+    "movieId": 65,
+    "score": 0.86,
+    "reason": "What's Eating Gilbert Grape? combines heart-tugging drama with a whimsical small-town setting."
+  },
+  {
+    "movieId": 166,
+    "score": 0.84,
+    "reason": "I.Q. uses a playful question-style title to introduce its charming romantic comedy premise."
+  },
+  {
+    "movieId": 334,
+    "score": 0.82,
+    "reason": "How to Be a Player? mixes flirtation and comedy with its cheeky title question."
+  },
+  {
+    "movieId": 474,
+    "score": 0.8,
+    "reason": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb? wryly poses its dark comedic premise."
+  },
+  {
+    "movieId": 606,
+    "score": 0.78,
+    "reason": "All About Eve? quizzes our assumptions about celebrity and ambition with a razor-sharp wit."
+  },
+  {
+    "movieId": 604,
+    "score": 0.76,
+    "reason": "It Happened One Night? turns a question-style title into a screwball romantic adventure."
+  },
+  {
+    "movieId": 2513,
+    "score": 0.74,
+    "reason": "Who Framed Roger Rabbit? blends live action and toon hijinks around its playful question title."
+  },
+  {
+    "movieId": 965,
+    "score": 0.72,
+    "reason": "Funny Face? cheekily mirrors its title question with a blend of style and romance."
+  }
+]

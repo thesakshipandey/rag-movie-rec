@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 511,
+    "score": 1.0,
+    "reason": "Sweeping epic of desert war and self-discovery"
+  },
+  {
+    "movieId": 133,
+    "score": 0.93,
+    "reason": "Monumental Civil War romance across battle and heartland"
+  },
+  {
+    "movieId": 97,
+    "score": 0.86,
+    "reason": "Grand frontier odyssey of a lone cavalryman"
+  },
+  {
+    "movieId": 127,
+    "score": 0.79,
+    "reason": "Mafia saga spanning generations of power and blood"
+  },
+  {
+    "movieId": 187,
+    "score": 0.72,
+    "reason": "Dual-narrative crime epic with towering ambition"
+  },
+  {
+    "movieId": 526,
+    "score": 0.65,
+    "reason": "Biblical chariot race and epic tale of revenge"
+  },
+  {
+    "movieId": 199,
+    "score": 0.58,
+    "reason": "Dramatic WWII POW saga of pride and redemption"
+  },
+  {
+    "movieId": 649,
+    "score": 0.51,
+    "reason": "Bold chronicle of friendship and betrayal in Prohibition"
+  },
+  {
+    "movieId": 241,
+    "score": 0.44,
+    "reason": "Northwest wilderness thriller of honor and survival"
+  },
+  {
+    "movieId": 51,
+    "score": 0.37,
+    "reason": "Turn-of-century family epic in sweeping Montana plains"
+  }
+]

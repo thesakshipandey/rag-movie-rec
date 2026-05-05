@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Toy buddies set off on a funny, heartfelt adventure that charms young and old."
+  },
+  {
+    "movieId": 71,
+    "score": 0.95,
+    "reason": "A lion cub’s epic journey blends humor, music, and touching family moments."
+  },
+  {
+    "movieId": 588,
+    "score": 0.9,
+    "reason": "A tale as old as time sings with jokes, songs, and a sweet message for all ages."
+  },
+  {
+    "movieId": 95,
+    "score": 0.85,
+    "reason": "A street urchin’s magic carpet ride thrills kids and winks at grown-ups."
+  },
+  {
+    "movieId": 8,
+    "score": 0.8,
+    "reason": "A plucky pig wins hearts and laughter in family-friendly country fun."
+  },
+  {
+    "movieId": 151,
+    "score": 0.75,
+    "reason": "A whimsical chocolate tour dazzles kids and delights adults alike."
+  },
+  {
+    "movieId": 21,
+    "score": 0.7,
+    "reason": "Goofy puppets and swashbuckling jokes entertain all generations together."
+  },
+  {
+    "movieId": 143,
+    "score": 0.65,
+    "reason": "Singing nuns and mountain vistas charm children and stir adult memories."
+  },
+  {
+    "movieId": 173,
+    "score": 0.6,
+    "reason": "A fairy-tale quest brims with humor, romance, and swashbuckling fun."
+  },
+  {
+    "movieId": 142,
+    "score": 0.55,
+    "reason": "Spells, singing kids, and animated animals make for a warm family treat."
+  }
+]

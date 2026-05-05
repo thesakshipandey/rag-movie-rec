@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.97,
+    "reason": "Gritty portrait of urban alienation culminating in violence."
+  },
+  {
+    "movieId": 806,
+    "score": 0.95,
+    "reason": "Unflinching, brutal look at youth crime in LA housing projects."
+  },
+  {
+    "movieId": 1277,
+    "score": 0.93,
+    "reason": "Raw heist drama of women driven to crime by desperation."
+  },
+  {
+    "movieId": 475,
+    "score": 0.91,
+    "reason": "Unvarnished view of addiction and its ruinous impact."
+  },
+  {
+    "movieId": 9,
+    "score": 0.89,
+    "reason": "Stark prison drama confronting death row’s grim reality."
+  },
+  {
+    "movieId": 39,
+    "score": 0.87,
+    "reason": "Urgent street-level techno-thriller with charged undercurrents."
+  },
+  {
+    "movieId": 1580,
+    "score": 0.85,
+    "reason": "Realistic crime revenge tale set in decaying Detroit."
+  },
+  {
+    "movieId": 156,
+    "score": 0.83,
+    "reason": "Dialogue-driven crime caper with raw tension and violence."
+  },
+  {
+    "movieId": 124,
+    "score": 0.81,
+    "reason": "Slow-burning, authentic Texan crime mystery with real stakes."
+  },
+  {
+    "movieId": 1210,
+    "score": 0.79,
+    "reason": "Grim courtroom drama exposing brutal prison injustices."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 270,
+    "score": 0.98,
+    "reason": "Gattaca’s near-future genetic ethics and thriller pacing explore human modification morality."
+  },
+  {
+    "movieId": 39,
+    "score": 0.92,
+    "reason": "Strange Days probes tech’s dark side and memory ethics in a gritty, near-future thriller."
+  },
+  {
+    "movieId": 1240,
+    "score": 0.9,
+    "reason": "Ghost in the Shell tackles AI identity and ethics in a grounded cyberpunk thriller."
+  },
+  {
+    "movieId": 355,
+    "score": 0.88,
+    "reason": "Sphere questions human alteration and perception in an isolated near-future sci-fi setting."
+  },
+  {
+    "movieId": 7,
+    "score": 0.85,
+    "reason": "Twelve Monkeys examines viral tech failure and time’s ethics in a tense, grounded thriller."
+  },
+  {
+    "movieId": 258,
+    "score": 0.82,
+    "reason": "Contact explores the morality of science and technology in a grounded, emotional near-future story."
+  },
+  {
+    "movieId": 38,
+    "score": 0.8,
+    "reason": "The Net delves into digital identity and surveillance ethics in a taut techno-thriller."
+  },
+  {
+    "movieId": 43,
+    "score": 0.78,
+    "reason": "Disclosure tackles sexual and tech power dynamics in a corporate thriller context."
+  },
+  {
+    "movieId": 239,
+    "score": 0.75,
+    "reason": "Sneakers explores surveillance and cryptography ethics with smart, grounded intrigue."
+  },
+  {
+    "movieId": 96,
+    "score": 0.72,
+    "reason": "Terminator 2 questions AI’s role and human survival in a near-future, action-thriller setting."
+  }
+]

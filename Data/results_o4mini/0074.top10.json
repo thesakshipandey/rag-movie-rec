@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 270,
+    "score": 0.95,
+    "reason": "Genetic editing shapes society, and a man chases identity beyond his genes."
+  },
+  {
+    "movieId": 38,
+    "score": 0.92,
+    "reason": "A hacker’s life is rewritten by a virus as she fights to reclaim her past."
+  },
+  {
+    "movieId": 39,
+    "score": 0.89,
+    "reason": "Memory recordings on tape bring unintended emotional fallout to relationships."
+  },
+  {
+    "movieId": 199,
+    "score": 0.86,
+    "reason": "A writer’s body swap upends how he relates, as he lives outside his own flesh."
+  },
+  {
+    "movieId": 252,
+    "score": 0.83,
+    "reason": "A family’s themed vacation finds real-world stakes when dinosaurs reboot."
+  },
+  {
+    "movieId": 128,
+    "score": 0.8,
+    "reason": "An implant unlocks memories but leaves the host scrambling for self."
+  },
+  {
+    "movieId": 121,
+    "score": 0.77,
+    "reason": "Alien tech in a moon relic suggests memory and culture may redefine human bonds."
+  },
+  {
+    "movieId": 36,
+    "score": 0.74,
+    "reason": "A boy’s new girlfriend recalls creatures from his imagination, shifting his reality."
+  },
+  {
+    "movieId": 822,
+    "score": 0.71,
+    "reason": "A fossil theme park revives dinosaurs, forcing survivors to confront loss."
+  },
+  {
+    "movieId": 88,
+    "score": 0.68,
+    "reason": "A widower’s radio confession creates unexpected real-world connections."
+  }
+]

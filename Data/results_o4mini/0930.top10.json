@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 202,
+    "score": 1.0,
+    "reason": "A weatherman relives the same day until he learns compassion and love to break the loop."
+  },
+  {
+    "movieId": 847,
+    "score": 0.95,
+    "reason": "A washed-up rock star re-discovers humanity in a surreal, time-loop journey."
+  },
+  {
+    "movieId": 402,
+    "score": 0.9,
+    "reason": "A recently widowed architect relives Christmas Eve, finding growth and joy each repeat."
+  },
+  {
+    "movieId": 197,
+    "score": 0.85,
+    "reason": "A young man learns true love’s value through a whimsical, repeating encounter."
+  },
+  {
+    "movieId": 204,
+    "score": 0.8,
+    "reason": "A teenager time-travels to save his family and learns responsibility to return home."
+  },
+  {
+    "movieId": 730,
+    "score": 0.75,
+    "reason": "An innocent man in jail gets repeated interviews to prove his worth and claim justice."
+  },
+  {
+    "movieId": 112,
+    "score": 0.7,
+    "reason": "A boy and his dolphin friend relive their bond, discovering bravery is the key to freedom."
+  },
+  {
+    "movieId": 238,
+    "score": 0.65,
+    "reason": "A con-artist stuck in endless schemes learns empathy to escape his own cycle."
+  },
+  {
+    "movieId": 117,
+    "score": 0.6,
+    "reason": "A thief caught in his own heist scheme learns trust to finally break free."
+  },
+  {
+    "movieId": 765,
+    "score": 0.55,
+    "reason": "A lawyer stuck in town parodies cycles of love until he finds genuine connection."
+  }
+]

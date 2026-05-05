@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 1.0,
+    "reason": "Tender dialogue-driven romance over a single night in Vienna"
+  },
+  {
+    "movieId": 514,
+    "score": 0.93,
+    "reason": "Neurotic love story blending comedy and introspection"
+  },
+  {
+    "movieId": 517,
+    "score": 0.86,
+    "reason": "Witty Manhattan romantic comedy full of dry humor"
+  },
+  {
+    "movieId": 481,
+    "score": 0.79,
+    "reason": "Savvy office comedy with sharp marital banter"
+  },
+  {
+    "movieId": 494,
+    "score": 0.72,
+    "reason": "Rapid-fire newsroom comedy ripe with witty repartee"
+  },
+  {
+    "movieId": 482,
+    "score": 0.65,
+    "reason": "Peppy screwball farce with smart-aleck humor"
+  },
+  {
+    "movieId": 60,
+    "score": 0.58,
+    "reason": "Melancholy French romance exploring grief and rebirth"
+  },
+  {
+    "movieId": 59,
+    "score": 0.51,
+    "reason": "Visually poetic melodrama about fractured hearts"
+  },
+  {
+    "movieId": 516,
+    "score": 0.44,
+    "reason": "Charming small-town comedy with a clever edge"
+  },
+  {
+    "movieId": 238,
+    "score": 0.37,
+    "reason": "Offbeat Coen-esque crime tale with stinging wit"
+  }
+]

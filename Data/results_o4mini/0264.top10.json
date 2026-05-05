@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 98,
+    "score": 1.0,
+    "reason": "Classic Western by Jonathan Demme after 1990"
+  },
+  {
+    "movieId": 550,
+    "score": 0.9,
+    "reason": "2017-set Western thriller sequel with McClane on a train"
+  },
+  {
+    "movieId": 1515,
+    "score": 0.8,
+    "reason": "Kurt Russell leads WWII pilots in Technicolor adventure"
+  },
+  {
+    "movieId": 596,
+    "score": 0.7,
+    "reason": "Eddie Murphy stars in cross-cultural comedic Western"
+  },
+  {
+    "movieId": 470,
+    "score": 0.6,
+    "reason": "Tombstone’s take on the OK Corral shootout"
+  },
+  {
+    "movieId": 73,
+    "score": 0.5,
+    "reason": "Maverick’s poker-fueled frontier romp"
+  },
+  {
+    "movieId": 570,
+    "score": 0.4,
+    "reason": "Biographical Western of Wyatt Earp"
+  },
+  {
+    "movieId": 1666,
+    "score": 0.3,
+    "reason": "Ripe’s rural outlaws in period setting"
+  },
+  {
+    "movieId": 179,
+    "score": 0.2,
+    "reason": "Iconic futuristic Western by Kubrick"
+  },
+  {
+    "movieId": 408,
+    "score": 0.1,
+    "reason": "Aardman’s Western mashup short"
+  }
+]

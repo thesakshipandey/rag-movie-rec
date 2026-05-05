@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 96,
+    "score": 1.0,
+    "reason": "Futuristic AI protects a child in a high-stakes techno-thriller, no jump scares"
+  },
+  {
+    "movieId": 250,
+    "score": 0.95,
+    "reason": "Colorful intergalactic adventure with no horror elements"
+  },
+  {
+    "movieId": 257,
+    "score": 0.93,
+    "reason": "Lighthearted alien buddy-cop sci-fi romp without jump scares"
+  },
+  {
+    "movieId": 62,
+    "score": 0.91,
+    "reason": "Interstellar gate exploration, classic sci-fi spectacle"
+  },
+  {
+    "movieId": 121,
+    "score": 0.89,
+    "reason": "Epic alien invasion, no horror jump scares"
+  },
+  {
+    "movieId": 270,
+    "score": 0.87,
+    "reason": "Genetic future with sleek visuals, low horror tension"
+  },
+  {
+    "movieId": 176,
+    "score": 0.85,
+    "reason": "Action-packed alien combat, not a jump-scare horror film"
+  },
+  {
+    "movieId": 82,
+    "score": 0.83,
+    "reason": "Dinosaur theme-park sci-fi adventure, no horror scares"
+  },
+  {
+    "movieId": 228,
+    "score": 0.81,
+    "reason": "Starship battle sequel, strong sci-fi elements"
+  },
+  {
+    "movieId": 172,
+    "score": 0.79,
+    "reason": "Galaxy rebellion classic, post-1980 release"
+  }
+]

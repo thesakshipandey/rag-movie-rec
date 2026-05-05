@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.98,
+    "reason": "A high-stakes heist unravelled by a twist-ending that rewrites every alibi"
+  },
+  {
+    "movieId": 273,
+    "score": 0.96,
+    "reason": "Masterminds clash in meticulous criminal vs cop chess match"
+  },
+  {
+    "movieId": 568,
+    "score": 0.94,
+    "reason": "One-tick bomb-on-a-bus race-against-time where brains save the day"
+  },
+  {
+    "movieId": 174,
+    "score": 0.92,
+    "reason": "Archaeologist and outlaw outwit Nazis in globe-trotting action caper"
+  },
+  {
+    "movieId": 31,
+    "score": 0.9,
+    "reason": "Submarine thriller turns on tactical brilliance, not brute force"
+  },
+  {
+    "movieId": 28,
+    "score": 0.88,
+    "reason": "Space mission gone wrong becomes clever gamble against catastrophe"
+  },
+  {
+    "movieId": 299,
+    "score": 0.85,
+    "reason": "Tech-wizard outsmarts villains using his brain more than his brawn"
+  },
+  {
+    "movieId": 98,
+    "score": 0.83,
+    "reason": "Courtroom strategy fuels a last-minute twist in this legal cat-and-mouse"
+  },
+  {
+    "movieId": 151,
+    "score": 0.8,
+    "reason": "Con-man comedy heist where cons are pulled off with razor-sharp cunning"
+  },
+  {
+    "movieId": 32,
+    "score": 0.78,
+    "reason": "Documentary style adds strategic depth to this unconventional revenge tale"
+  }
+]

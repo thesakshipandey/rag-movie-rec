@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 14,
+    "score": 1.0,
+    "reason": "Il Postino’s tender friendship blooms through shared poems without fatal stakes"
+  },
+  {
+    "movieId": 45,
+    "score": 0.95,
+    "reason": "Eat Drink Man Woman charms with gentle bonds over family meals and mutual understanding"
+  },
+  {
+    "movieId": 86,
+    "score": 0.9,
+    "reason": "Remains of the Day finds quiet kinship between butler and housekeeper in subdued moments"
+  },
+  {
+    "movieId": 199,
+    "score": 0.88,
+    "reason": "Antonia’s Line celebrates intergenerational friendship without dramatic tragedy"
+  },
+  {
+    "movieId": 26,
+    "score": 0.85,
+    "reason": "The Brothers McMullen follows family ties and unexpected camaraderie in simple gatherings"
+  },
+  {
+    "movieId": 116,
+    "score": 0.82,
+    "reason": "Cold Comfort Farm laughs into the absurdity of kinship without loss or espionage"
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Clerks highlights unlikely bonds over everyday mishaps and quick-witted banter"
+  },
+  {
+    "movieId": 85,
+    "score": 0.78,
+    "reason": "The Ref’s bickering couple and thief forge quirky devotion in a confined setting"
+  },
+  {
+    "movieId": 37,
+    "score": 0.75,
+    "reason": "Nadja’s offbeat humor underpins an oddball friendship bereft of danger or betrayal"
+  },
+  {
+    "movieId": 137,
+    "score": 0.74,
+    "reason": "Big Night’s sibling chefs unite through shared passion and surprising support"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 0.97,
+    "reason": "A touching tale of memory and youth, blending melancholy with cinematic beauty."
+  },
+  {
+    "movieId": 86,
+    "score": 0.94,
+    "reason": "Quiet, elegant reflections on regret and duty, every glance speaks volumes."
+  },
+  {
+    "movieId": 221,
+    "score": 0.91,
+    "reason": "Raw, poetic tragedy that endures in its emotional intensity."
+  },
+  {
+    "movieId": 512,
+    "score": 0.88,
+    "reason": "Angelic observation of human longing in rainy, hushed Berlin streets."
+  },
+  {
+    "movieId": 896,
+    "score": 0.85,
+    "reason": "Languid portrayal of grief’s weight and small-town yearning."
+  },
+  {
+    "movieId": 664,
+    "score": 0.82,
+    "reason": "Minimalist road odyssey bathed in dusty sunsets and unspoken sorrow."
+  },
+  {
+    "movieId": 51,
+    "score": 0.79,
+    "reason": "Epic family saga spiced with loss and the vastness of the frontier."
+  },
+  {
+    "movieId": 60,
+    "score": 0.76,
+    "reason": "Intimate exploration of grief with glacial pacing and muted poetry."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.73,
+    "reason": "Rain-drenched nights of urban longing, where silences bloom."
+  },
+  {
+    "movieId": 286,
+    "score": 0.7,
+    "reason": "A desert romance of memory and aching beauty, narrated in hushed tones."
+  }
+]

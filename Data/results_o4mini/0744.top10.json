@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 641,
+    "score": 1.0,
+    "reason": "Paths of Glory – Kubrick’s tense WW I drama on duty and conscience"
+  },
+  {
+    "movieId": 199,
+    "score": 0.95,
+    "reason": "Bridge on the River Kwai – strategic POW drama with moral weight"
+  },
+  {
+    "movieId": 205,
+    "score": 0.9,
+    "reason": "Patton – psychological portrayal of leadership and wartime burden"
+  },
+  {
+    "movieId": 265,
+    "score": 0.85,
+    "reason": "Hunt for Red October – Cold War sub thriller, cerebral and gripping"
+  },
+  {
+    "movieId": 188,
+    "score": 0.8,
+    "reason": "Full Metal Jacket – psychological drill and combat tension"
+  },
+  {
+    "movieId": 318,
+    "score": 0.75,
+    "reason": "Schindler’s List – thoughtful WWII drama on human cost and duty"
+  },
+  {
+    "movieId": 180,
+    "score": 0.7,
+    "reason": "Apocalypse Now – psychological odyssey into war’s insanity"
+  },
+  {
+    "movieId": 471,
+    "score": 0.65,
+    "reason": "Courage Under Fire – modern battle film on grief and command dilemmas"
+  },
+  {
+    "movieId": 657,
+    "score": 0.6,
+    "reason": "Manchurian Candidate – political mind-bender on manipulation and fear"
+  },
+  {
+    "movieId": 405,
+    "score": 0.55,
+    "reason": "Mission: Impossible – strategy-driven espionage with mounting tension"
+  }
+]

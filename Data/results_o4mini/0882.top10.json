@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.97,
+    "reason": "Taxi Driver’s Travis Bickle is a self-deluded antihero spiraling into violence."
+  },
+  {
+    "movieId": 12,
+    "score": 0.94,
+    "reason": "The Usual Suspects features Verbal Kint’s unreliable narration hiding sinister truth."
+  },
+  {
+    "movieId": 53,
+    "score": 0.9,
+    "reason": "Natural Born Killers follows killers who don’t see the horror of their own spree."
+  },
+  {
+    "movieId": 179,
+    "score": 0.88,
+    "reason": "A Clockwork Orange’s Alex revels in violence, blind to his own monstrosity."
+  },
+  {
+    "movieId": 185,
+    "score": 0.85,
+    "reason": "Psycho’s Norman Bates derails into villainy while believing he’s wholly innocent."
+  },
+  {
+    "movieId": 159,
+    "score": 0.82,
+    "reason": "Basic Instinct’s Catherine Tramell manipulates perception, unaware of her grasp on reality."
+  },
+  {
+    "movieId": 11,
+    "score": 0.8,
+    "reason": "Seven’s John Doe frames himself as moralist, oblivious to his own monstrous deeds."
+  },
+  {
+    "movieId": 56,
+    "score": 0.78,
+    "reason": "Pulp Fiction’s Jules experiences villainous acts without self-awareness until his epiphany."
+  },
+  {
+    "movieId": 161,
+    "score": 0.76,
+    "reason": "Top Gun’s Iceman confidently skates morally, ignoring the lines he crosses."
+  },
+  {
+    "movieId": 198,
+    "score": 0.74,
+    "reason": "Nikita’s titular character doesn’t see her own moral descent in a shadowy, dark-comedy thriller."
+  }
+]

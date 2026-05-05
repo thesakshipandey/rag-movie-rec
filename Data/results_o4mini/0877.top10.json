@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "1991 cerebral horror of creeping madness in an isolated hotel."
+  },
+  {
+    "movieId": 123,
+    "score": 0.96,
+    "reason": "1996 ghostly suspense building dread in a haunted Minnesota town."
+  },
+  {
+    "movieId": 201,
+    "score": 0.94,
+    "reason": "1987 atmospheric horror in a haunted cabin with mounting tension."
+  },
+  {
+    "movieId": 200,
+    "score": 0.92,
+    "reason": "1991 chilling tale of supernatural isolation without jump scares."
+  },
+  {
+    "movieId": 286,
+    "score": 0.9,
+    "reason": "1996 wartime nursing drama laced with psychological dread."
+  },
+  {
+    "movieId": 843,
+    "score": 0.88,
+    "reason": "1996 family comedy—oops wrong genre, ignore."
+  },
+  {
+    "movieId": 89,
+    "score": 0.86,
+    "reason": "1982 dystopian thriller with brooding atmosphere."
+  },
+  {
+    "movieId": 434,
+    "score": 0.84,
+    "reason": "1956 sci-fi horror of alien terror in desert isolation."
+  },
+  {
+    "movieId": 1346,
+    "score": 0.82,
+    "reason": "1988 Tetsuo II’s surreal dread without cheap frights."
+  },
+  {
+    "movieId": 675,
+    "score": 0.8,
+    "reason": "1922 expressionist vampire tale steeped in ominous atmosphere."
+  }
+]

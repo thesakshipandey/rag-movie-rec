@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 4,
+    "score": 0.95,
+    "reason": "Get Shorty’s Chili fakes movie-biz credentials, balancing tension and dark humor"
+  },
+  {
+    "movieId": 47,
+    "score": 0.92,
+    "reason": "Ed Wood bluffs his way into filmmaking, struggling hilariously to keep up the ruse"
+  },
+  {
+    "movieId": 38,
+    "score": 0.9,
+    "reason": "The Net’s Angela must maintain a stolen identity under constant digital threat"
+  },
+  {
+    "movieId": 81,
+    "score": 0.88,
+    "reason": "The Hudsucker Proxy’s Norville is planted as CEO and must bluff through boardroom peril"
+  },
+  {
+    "movieId": 129,
+    "score": 0.85,
+    "reason": "Bound’s Corky fakes a new life to con the wrong people in a high-stakes scheme"
+  },
+  {
+    "movieId": 72,
+    "score": 0.83,
+    "reason": "The Mask’s Stanley hides behind supernatural powers to fool New York society"
+  },
+  {
+    "movieId": 393,
+    "score": 0.8,
+    "reason": "Mrs. Doubtfire’s Daniel poses as a nanny, sliding between roles to hold his family together"
+  },
+  {
+    "movieId": 55,
+    "score": 0.78,
+    "reason": "The Professional’s literary fraud traps its editor-in-chief in a dangerous masquerade"
+  },
+  {
+    "movieId": 11,
+    "score": 0.75,
+    "reason": "Seven’s Verbal weaves false confessions to survive an escalating police thriller"
+  },
+  {
+    "movieId": 57,
+    "score": 0.72,
+    "reason": "Quiz Show portrays deception in high-pressure media, with public stakes and personal risk"
+  }
+]

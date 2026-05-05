@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.98,
+    "reason": "Travis Bickle’s descent into paranoia on gritty New York streets"
+  },
+  {
+    "movieId": 654,
+    "score": 0.95,
+    "reason": "Private eye unravels a dark city conspiracy, doubting his own mind"
+  },
+  {
+    "movieId": 179,
+    "score": 0.93,
+    "reason": "Alex spirals after ultra-violent spree in dystopian Britain"
+  },
+  {
+    "movieId": 200,
+    "score": 0.9,
+    "reason": "Isolated caretaker loses sanity in haunted hotel corridors"
+  },
+  {
+    "movieId": 234,
+    "score": 0.88,
+    "reason": "Surfer town terrorized by unseen killer, tension mounting"
+  },
+  {
+    "movieId": 183,
+    "score": 0.85,
+    "reason": "Crew’s claustrophobic hunt for alien stalker fuels rising doubts"
+  },
+  {
+    "movieId": 180,
+    "score": 0.82,
+    "reason": "Warrior’s mission twists into hallucinatory nightmare of distrust"
+  },
+  {
+    "movieId": 427,
+    "score": 0.8,
+    "reason": "Widowed lawyer fights hidden forces threatening her family’s safety"
+  },
+  {
+    "movieId": 657,
+    "score": 0.78,
+    "reason": "Soldier tormented by planted memories, questioning every reality"
+  },
+  {
+    "movieId": 657,
+    "score": 0.76,
+    "reason": "Officer uncovers high-level betrayal, doubted by his superiors"
+  }
+]

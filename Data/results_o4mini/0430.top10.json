@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "A young filmmaker’s return home stirs nostalgia, loss, and quiet hope."
+  },
+  {
+    "movieId": 15,
+    "score": 0.95,
+    "reason": "A music teacher’s life-long journey balances sorrow and uplifting harmony."
+  },
+  {
+    "movieId": 371,
+    "score": 0.9,
+    "reason": "An unexpected reunion sparks bittersweet reflections on love and time."
+  },
+  {
+    "movieId": 137,
+    "score": 0.85,
+    "reason": "Two brothers cook up family and ambition in a warm, bittersweet feast."
+  },
+  {
+    "movieId": 196,
+    "score": 0.8,
+    "reason": "An inspiring teacher lets lost youth find light through poetry and courage."
+  },
+  {
+    "movieId": 202,
+    "score": 0.75,
+    "reason": "A man relives the same day until he learns to see joy in every moment."
+  },
+  {
+    "movieId": 496,
+    "score": 0.7,
+    "reason": "One life’s impact on a small town blossoms into a gentle, hopeful legacy."
+  },
+  {
+    "movieId": 66,
+    "score": 0.65,
+    "reason": "A shy woman’s act of kindness grows into a tender, serendipitous love."
+  },
+  {
+    "movieId": 794,
+    "score": 0.6,
+    "reason": "A cop’s kindness becomes a dream-like promise of hope for a struggling waitress."
+  },
+  {
+    "movieId": 371,
+    "score": 0.55,
+    "reason": "An unexpected reunion sparks bittersweet reflections on love and time."
+  }
+]

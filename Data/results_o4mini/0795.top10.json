@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 0.98,
+    "reason": "Idyllic small-town crime unravelled by a charming, unflappable sheriff and quirky locals."
+  },
+  {
+    "movieId": 516,
+    "score": 0.95,
+    "reason": "Fish-out-of-water investigator in a friendly coastal town with eccentric characters."
+  },
+  {
+    "movieId": 116,
+    "score": 0.92,
+    "reason": "City woman’s return to a comic countryside clan yields cozy, quirky whodunit fun."
+  },
+  {
+    "movieId": 19,
+    "score": 0.9,
+    "reason": "Warm multigenerational village tapestry with a gentle mystery at its heart."
+  },
+  {
+    "movieId": 442,
+    "score": 0.88,
+    "reason": "Reclusive confession booth’s secrets spark a polite yet fetching provincial investigation."
+  },
+  {
+    "movieId": 620,
+    "score": 0.85,
+    "reason": "Southern judge’s genteel courtroom drama unfolds amid laid-back local charm."
+  },
+  {
+    "movieId": 112,
+    "score": 0.82,
+    "reason": "Summer-camp reunion mixed with oddball suspects sets a relaxed, sunny mystery."
+  },
+  {
+    "movieId": 124,
+    "score": 0.8,
+    "reason": "Border-town uncovering of old skeleton is spun into a quietly riveting local tale."
+  },
+  {
+    "movieId": 36,
+    "score": 0.78,
+    "reason": "Suburban teen’s obsession triggers a murky puzzle in a comfortably familiar setting."
+  },
+  {
+    "movieId": 81,
+    "score": 0.75,
+    "reason": "Amid 1950s corporate rivalries, a modest protagonist uncovers office intrigue with grace."
+  }
+]

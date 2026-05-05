@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "Epic saga in a galaxy far, far away filled with wonder."
+  },
+  {
+    "movieId": 62,
+    "score": 0.92,
+    "reason": "World-building around an ancient alien portal."
+  },
+  {
+    "movieId": 95,
+    "score": 0.9,
+    "reason": "Fantasy adventure with genies and magical epics."
+  },
+  {
+    "movieId": 156,
+    "score": 0.88,
+    "reason": "Madcap con movie with immersive underworld."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "Nostalgic journey through childhood cinema magic."
+  },
+  {
+    "movieId": 433,
+    "score": 0.83,
+    "reason": "Dark comedy exploring obsession and destiny."
+  },
+  {
+    "movieId": 489,
+    "score": 0.8,
+    "reason": "Classic sci-fi dealing with alien peace warning."
+  },
+  {
+    "movieId": 673,
+    "score": 0.78,
+    "reason": "Creepy thriller of obsession and retribution."
+  },
+  {
+    "movieId": 514,
+    "score": 0.75,
+    "reason": "Meta documentary-drama on making a film."
+  },
+  {
+    "movieId": 58,
+    "score": 0.72,
+    "reason": "True-story political thriller with human stakes."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 156,
+    "score": 0.95,
+    "reason": "Gem heist goes disastrously wrong, forcing desperate improvisation among betraying crooks"
+  },
+  {
+    "movieId": 239,
+    "score": 0.93,
+    "reason": "Tech-savvy team’s caper unravels, demanding real-time clever fixes and a surprising denouement"
+  },
+  {
+    "movieId": 12,
+    "score": 0.9,
+    "reason": "A small cons rogue’s robbery plan collapses into a cunningly improvised escape"
+  },
+  {
+    "movieId": 79,
+    "score": 0.88,
+    "reason": "Doctor’s aqueduct mission derailed, sparking on-the-fly ingenuity to save a crippled spacecraft"
+  },
+  {
+    "movieId": 4,
+    "score": 0.85,
+    "reason": "Loan shark pursues debtor into Hollywood, first plan misfires, then clever pivot secures payoff"
+  },
+  {
+    "movieId": 174,
+    "score": 0.83,
+    "reason": "Archaeologist’s tomb raid erupts into chaos, driving ad-hoc tactics to reclaim the Ark"
+  },
+  {
+    "movieId": 28,
+    "score": 0.8,
+    "reason": "Apollo 13 rescue mission fails protocol and thrives on inventive solutions smarter than the original flight plan"
+  },
+  {
+    "movieId": 233,
+    "score": 0.78,
+    "reason": "Submarine siege escapes explosion-style heroics for resourceful on-the-spot countermeasures"
+  },
+  {
+    "movieId": 31,
+    "score": 0.75,
+    "reason": "Nuclear crisis plan collapses into Captain’s razor-edge improvisation smarter than any order"
+  },
+  {
+    "movieId": 298,
+    "score": 0.72,
+    "reason": "Swapped identities foil a house siege, requiring rapid, inventive strategic reversals"
+  }
+]

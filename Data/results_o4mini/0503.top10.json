@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 640,
+    "score": 0.98,
+    "reason": "Opulent crime-and-punishment fantasia that shocks with its grotesque beauty."
+  },
+  {
+    "movieId": 175,
+    "score": 0.96,
+    "reason": "Dystopian fever dream of bureaucratic decay, both mesmerizing and eerie."
+  },
+  {
+    "movieId": 260,
+    "score": 0.95,
+    "reason": "Tense, claustrophobic voyage into cosmic horror and human fragility."
+  },
+  {
+    "movieId": 183,
+    "score": 0.94,
+    "reason": "Iconic sci-fi terror that lingers with haunting, monolithic dread."
+  },
+  {
+    "movieId": 691,
+    "score": 0.93,
+    "reason": "Stylish, shadowy noir-fantasy that sends a chill through the psyche."
+  },
+  {
+    "movieId": 1411,
+    "score": 0.92,
+    "reason": "Campy future romp dripping in surreal design and unsettling whimsy."
+  },
+  {
+    "movieId": 922,
+    "score": 0.91,
+    "reason": "Brooding existential western in inky black and white, disquieting."
+  },
+  {
+    "movieId": 520,
+    "score": 0.9,
+    "reason": "All-star POW prison escape epic with stark tension and triumph."
+  },
+  {
+    "movieId": 432,
+    "score": 0.89,
+    "reason": "Avant-garde animation that conjures both wonder and creeping unease."
+  },
+  {
+    "movieId": 178,
+    "score": 0.88,
+    "reason": "Spare, meditative courtroom drama that pulses with moral unease."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.99,
+    "reason": "2001: A Space Odyssey envelops you in breathtaking cosmic vistas and hollow existential wonder, distant and cold."
+  },
+  {
+    "movieId": 89,
+    "score": 0.97,
+    "reason": "Blade Runner’s rain-soaked neon streets echo with beautiful alienation and a detached, haunting ache."
+  },
+  {
+    "movieId": 512,
+    "score": 0.95,
+    "reason": "Wings of Desire paints the world in poetic hush, a glacial aesthetic evoking solitude and sublime distance."
+  },
+  {
+    "movieId": 59,
+    "score": 0.93,
+    "reason": "Three Colors: Red balances stunning composition with an emotional reserve, a cold beauty of human estrangement."
+  },
+  {
+    "movieId": 60,
+    "score": 0.91,
+    "reason": "Three Colors: Blue envelops you in icy, reflective visual poetry, the ache of isolation beautifully restrained."
+  },
+  {
+    "movieId": 175,
+    "score": 0.89,
+    "reason": "Brazil scatters surreal beauty across a dystopian canvas, the visual splendor masking a bleak existential void."
+  },
+  {
+    "movieId": 639,
+    "score": 0.87,
+    "reason": "The Tin Drum’s strange, detached surrealism carries you through alienation, its haunting visuals immaculate."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "Cinema Paradiso’s stylized return to film’s magic feels distant, a bittersweet visual hymn to lost innocence."
+  },
+  {
+    "movieId": 903,
+    "score": 0.83,
+    "reason": "Afterglow offers a coldly elegant aesthetic, the beautiful melancholy of love’s fading captured in soft light."
+  },
+  {
+    "movieId": 429,
+    "score": 0.81,
+    "reason": "Day the Earth Stood Still unfolds in pristine 1950s sci-fi coldness, an existential chill beneath its beauty."
+  }
+]

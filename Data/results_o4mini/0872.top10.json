@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.98,
+    "reason": "Somber 1995 procedural following two detectives on a gruesome serial case."
+  },
+  {
+    "movieId": 12,
+    "score": 0.96,
+    "reason": "1995 police thriller unraveling a tangled lineup and blurred truths."
+  },
+  {
+    "movieId": 302,
+    "score": 0.95,
+    "reason": "1997 LAPD drama with corrupt cops and a flawed detective’s investigation."
+  },
+  {
+    "movieId": 200,
+    "score": 0.94,
+    "reason": "1991 FBI trainee probes chilling murder in a tense procedural."
+  },
+  {
+    "movieId": 100,
+    "score": 0.92,
+    "reason": "1996 crime drama with pregnant sheriff dissecting a high-stakes scam."
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "1995 crime saga pitting a master thief against a relentless detective."
+  },
+  {
+    "movieId": 159,
+    "score": 0.89,
+    "reason": "1992 thriller featuring a detective chasing a cunning murderer."
+  },
+  {
+    "movieId": 332,
+    "score": 0.88,
+    "reason": "1997 psychological chase as a detective races to rescue his niece."
+  },
+  {
+    "movieId": 550,
+    "score": 0.86,
+    "reason": "1995 revenge thriller with a police veteran forced into violent game."
+  },
+  {
+    "movieId": 56,
+    "score": 0.84,
+    "reason": "1994 non-linear crime drama weaving multiple interlocked investigations."
+  }
+]

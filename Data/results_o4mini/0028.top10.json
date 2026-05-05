@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 432,
+    "score": 1.0,
+    "reason": "Fantasia is a series of animated musical vignettes driven entirely by music, with emotions and visuals flowing like a symphony."
+  },
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Pulp Fiction's non-linear structure and music-driven cuts feel like a jazz composition, with story and rhythm inseparable."
+  },
+  {
+    "movieId": 469,
+    "score": 0.9,
+    "reason": "Short Cuts weaves interlocking stories in a mosaic pattern, creating a cinematic fugue where emotion dictates the pace."
+  },
+  {
+    "movieId": 3,
+    "score": 0.88,
+    "reason": "Four Rooms presents four wildly contrasting tales, colliding like a chaotic jazz session with shifting tempos and moods."
+  },
+  {
+    "movieId": 214,
+    "score": 0.85,
+    "reason": "Pink Floyd - The Wall is a visual rock opera; its narrative ebbs and flows to the album's sonic heartbeat."
+  },
+  {
+    "movieId": 186,
+    "score": 0.83,
+    "reason": "The Blues Brothers is a brassy road musical where blues and soul performances propel the story with toe-tapping rhythm."
+  },
+  {
+    "movieId": 60,
+    "score": 0.8,
+    "reason": "Three Colors: Blue is a slow, elegiac film where the melancholy mood directs the pacing, like a mournful orchestral adagio."
+  },
+  {
+    "movieId": 170,
+    "score": 0.78,
+    "reason": "Cinema Paradiso unfolds like a nostalgic serenade, each long take and swell of music guiding the drifting story."
+  },
+  {
+    "movieId": 191,
+    "score": 0.75,
+    "reason": "Amadeus is structured like a Mozart concerto, rising and falling with emotional coloration more than plot."
+  },
+  {
+    "movieId": 955,
+    "score": 0.72,
+    "reason": "Before Sunrise is a lyrical, unhurried nocturne of wandering conversation, a gentle acoustic ballad on film."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 919,
+    "score": 0.95,
+    "reason": "The City of Lost Children is a lush, surreal fairy-tale with haunting, symbolic visuals."
+  },
+  {
+    "movieId": 45,
+    "score": 0.93,
+    "reason": "Eat Drink Man Woman’s elegant cinematography and poetic silences evoke a gentle, dreamlike sadness."
+  },
+  {
+    "movieId": 171,
+    "score": 0.91,
+    "reason": "Delicatessen’s stylized sets and symbolic imagery create a dark, atmospheric fairy-tale mood."
+  },
+  {
+    "movieId": 855,
+    "score": 0.9,
+    "reason": "Diva’s hypnotic soundtrack and shadowy visuals craft an intoxicating, melancholic dreamscape."
+  },
+  {
+    "movieId": 1005,
+    "score": 0.88,
+    "reason": "The Double Life of Veronique’s ethereal tone and rich symbolism feel like a waking dream."
+  },
+  {
+    "movieId": 1006,
+    "score": 0.87,
+    "reason": "JLG/JLG blends real and reel life in a fluid, art-house collage that feels hypnotically lush."
+  },
+  {
+    "movieId": 1056,
+    "score": 0.85,
+    "reason": "Cronos’ baroque portrait of mortality and desire is hauntingly poetic and visually striking."
+  },
+  {
+    "movieId": 1595,
+    "score": 0.84,
+    "reason": "Stalker’s unsettling landscapes and slow pacing create an otherworldly, dreamlike dread."
+  },
+  {
+    "movieId": 1459,
+    "score": 0.82,
+    "reason": "Madame Butterfly’s operatic visuals and lyrical pace exude a bittersweet, poetic melancholy."
+  },
+  {
+    "movieId": 434,
+    "score": 0.8,
+    "reason": "Forbidden Planet’s psychedelic sets and classical score evoke a retro-futuristic dreamworld."
+  }
+]

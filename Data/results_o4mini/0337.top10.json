@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 514,
+    "score": 0.98,
+    "reason": "Neurotic wit and tender romance dance through Manhattan’s autumn streets."
+  },
+  {
+    "movieId": 216,
+    "score": 0.96,
+    "reason": "Sharp dialogue and real-feel characters debating love and friendship."
+  },
+  {
+    "movieId": 955,
+    "score": 0.94,
+    "reason": "A spontaneous connection that blooms into something unforgettable."
+  },
+  {
+    "movieId": 482,
+    "score": 0.92,
+    "reason": "Outrageous humor underpins a surprisingly tender cross-dressing caper."
+  },
+  {
+    "movieId": 88,
+    "score": 0.9,
+    "reason": "Charming, Christmas-tinted love story with unforced, genuine warmth."
+  },
+  {
+    "movieId": 482,
+    "score": 0.88,
+    "reason": "Outrageous humor underpins a surprisingly tender cross-dressing caper."
+  },
+  {
+    "movieId": 275,
+    "score": 0.86,
+    "reason": "Witty Regency banter and heartfelt longing in this Austen classic."
+  },
+  {
+    "movieId": 83,
+    "score": 0.84,
+    "reason": "Verbal sparring and sweet vulnerability spark a timeless romance."
+  },
+  {
+    "movieId": 481,
+    "score": 0.82,
+    "reason": "Bittersweet comedy of unexpected office romance that feels lived-in."
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Friendships break and spark over vows and toasts, warm and witty."
+  }
+]

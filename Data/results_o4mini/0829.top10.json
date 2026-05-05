@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 216,
+    "score": 0.95,
+    "reason": "When Harry Met Sally...: years later, two friends confront old issues before risking love again"
+  },
+  {
+    "movieId": 88,
+    "score": 0.92,
+    "reason": "Sleepless in Seattle: widow and radio host reconnect to heal past grief before embracing true love"
+  },
+  {
+    "movieId": 66,
+    "score": 0.9,
+    "reason": "While You Were Sleeping: hopes and regrets converge when a newcomer must reckon with real emotional stakes"
+  },
+  {
+    "movieId": 84,
+    "score": 0.88,
+    "reason": "Puppet Masters: stranger’s promise forces hero to face the very isolation that drove them apart"
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "The Fugitive: wrongfully separated couple reunite to finally clear the truth and earn their peace"
+  },
+  {
+    "movieId": 349,
+    "score": 0.83,
+    "reason": "Hard Rain: survivors of past water crisis must confront and fix old wounds to survive the storm"
+  },
+  {
+    "movieId": 57,
+    "score": 0.8,
+    "reason": "Priest: old friends meet again under pressure, compelled to resolve the flaw that tore them apart"
+  },
+  {
+    "movieId": 196,
+    "score": 0.78,
+    "reason": "Dead Poets Society: teacher and student reunite to address the moment that fractured trust years before"
+  },
+  {
+    "movieId": 84,
+    "score": 0.75,
+    "reason": "Puppet Masters (repeat): strangers forced to rebuild trust by confronting their shared emotional breach"
+  },
+  {
+    "movieId": 216,
+    "score": 0.72,
+    "reason": "When Harry Met Sally... (repeat): protagonists’ second chance feels earned only after facing their real past"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "Twelve jurors debate a single verdict entirely through tense dialogue."
+  },
+  {
+    "movieId": 1274,
+    "score": 0.92,
+    "reason": "A lonely writer and a judge hash out a life-and-death case over drinks."
+  },
+  {
+    "movieId": 802,
+    "score": 0.89,
+    "reason": "A desperate father and a kidnapped child’s voice carry a suspenseful talk."
+  },
+  {
+    "movieId": 437,
+    "score": 0.86,
+    "reason": "After a cold case, two detectives converse in a diner as truths unravel."
+  },
+  {
+    "movieId": 42,
+    "score": 0.83,
+    "reason": "Two convenience-store clerks banter through a shift that reveals hidden pains."
+  },
+  {
+    "movieId": 258,
+    "score": 0.8,
+    "reason": "A radio host and caller spar in a booth, their subtext exposing deep wounds."
+  },
+  {
+    "movieId": 658,
+    "score": 0.77,
+    "reason": "High school students converse under the shadow of a looming masked killer."
+  },
+  {
+    "movieId": 807,
+    "score": 0.74,
+    "reason": "Roommates confront their own demons through a night of raw confession."
+  },
+  {
+    "movieId": 613,
+    "score": 0.71,
+    "reason": "An orphan meets her lookalike cousin in whispers that speak volumes of loss."
+  },
+  {
+    "movieId": 1498,
+    "score": 0.68,
+    "reason": "A mad reporter and a crooked guard trade barbs in a small courtroom."
+  }
+]

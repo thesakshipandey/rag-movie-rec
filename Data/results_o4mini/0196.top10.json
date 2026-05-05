@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 25,
+    "score": 0.99,
+    "reason": "Starts with \"The\" – comedy about a drag club owner hosting a family gathering."
+  },
+  {
+    "movieId": 68,
+    "score": 0.97,
+    "reason": "Starts with \"The\" – supernatural revenge thriller starring Brandon Lee."
+  },
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "Starts with \"The\" – cyber-thriller starring Sandra Bullock as a systems analyst."
+  },
+  {
+    "movieId": 85,
+    "score": 0.93,
+    "reason": "Starts with \"The\" – dark comedy about a couple taken hostage by a burglar."
+  },
+  {
+    "movieId": 55,
+    "score": 0.91,
+    "reason": "Starts with \"The\" – Jean Reno as a hired bodyguard protecting a young girl."
+  },
+  {
+    "movieId": 86,
+    "score": 0.89,
+    "reason": "Starts with \"The\" – period drama about an English butler’s unwavering loyalty."
+  },
+  {
+    "movieId": 64,
+    "score": 0.87,
+    "reason": "Starts with \"The\" – prison drama about hope and friendship behind bars."
+  },
+  {
+    "movieId": 123,
+    "score": 0.85,
+    "reason": "Starts with \"The\" – horror-comedy about a psychic who battles vengeful spirits."
+  },
+  {
+    "movieId": 127,
+    "score": 0.83,
+    "reason": "Starts with \"The\" – crime saga of the Corleone family in 1940s New York."
+  },
+  {
+    "movieId": 91,
+    "score": 0.81,
+    "reason": "Starts with \"The\" – stop-motion musical set in a spooky Halloween world."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 99,
+    "score": 0.98,
+    "reason": "A timeless animated fairy tale that sparks childlike wonder with its colorful characters and magical journey"
+  },
+  {
+    "movieId": 132,
+    "score": 0.96,
+    "reason": "Dorothy’s vibrant, musical odyssey to a fantastical land brims with whimsy and glittering wonder"
+  },
+  {
+    "movieId": 404,
+    "score": 0.95,
+    "reason": "A wooden puppet’s joyous transformation into a real boy shines with warmth and innocent magic"
+  },
+  {
+    "movieId": 1,
+    "score": 0.94,
+    "reason": "Sentient toys on a heartfelt adventure evoke playful imagination and heartfelt delight"
+  },
+  {
+    "movieId": 173,
+    "score": 0.93,
+    "reason": "Charming fairy-tale romance filled with swordplay, wit, and childlike fantasy fun"
+  },
+  {
+    "movieId": 21,
+    "score": 0.91,
+    "reason": "Muppet mayhem on the high seas delivers slapstick humor and colorful pirate adventure"
+  },
+  {
+    "movieId": 142,
+    "score": 0.9,
+    "reason": "Family-friendly live-action/animation blend of enchantment and whimsical British magic"
+  },
+  {
+    "movieId": 71,
+    "score": 0.89,
+    "reason": "Epic animated musical where lion cubs learn life’s lessons amid sweeping, colorful savanna"
+  },
+  {
+    "movieId": 95,
+    "score": 0.88,
+    "reason": "Street-smart thief’s touch of magic brings gleaming lamps and dreamlike adventure"
+  },
+  {
+    "movieId": 8,
+    "score": 0.87,
+    "reason": "A pig’s endearing farm adventure brims with gentle humor, charm, and simple delights"
+  }
+]

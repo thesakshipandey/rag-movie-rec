@@ -1,0 +1,116 @@
+{
+  "results": {
+    "0871": {
+      "top10": [
+        {"movieId": 89, "score": 0.98, "reason": "1982 noir sci-fi with groundbreaking practical effects and dystopian wonder."},
+        {"movieId": 176, "score": 0.97, "reason": "1986 sci-fi adventure blending tense action and practical creature suits."},
+        {"movieId": 164, "score": 0.96, "reason": "1989 underwater sci-fi showcasing James Cameron’s famed practical effects."},
+        {"movieId": 423, "score": 0.95, "reason": "1982 heartwarming sci-fi about discovery with classic model work."},
+        {"movieId": 195, "score": 0.93, "reason": "1984 time-travel sci-fi with practical stunts and model work."},
+        {"movieId": 204, "score": 0.92, "reason": "1985 time-travel adventure with practical effects and wonder."},
+        {"movieId": 230, "score": 0.90, "reason": "1986 Star Trek chapter emphasizing exploration over combat."},
+        {"movieId": 172, "score": 0.89, "reason": "1980 Star Wars episode with practical effects-driven space wonder."},
+        {"movieId": 181, "score": 0.88, "reason": "1983 space saga finale rich in models and exploration themes."},
+        {"movieId": 50, "score": 0.85, "reason": "1977 galaxy-far-far-away adventure with pioneering practical effects."}
+      ]
+    },
+    "0872": {
+      "top10": [
+        {"movieId": 11, "score": 0.98, "reason": "Somber 1995 procedural following two detectives on a gruesome serial case."},
+        {"movieId": 12, "score": 0.96, "reason": "1995 police thriller unraveling a tangled lineup and blurred truths."},
+        {"movieId": 302, "score": 0.95, "reason": "1997 LAPD drama with corrupt cops and a flawed detective’s investigation."},
+        {"movieId": 200, "score": 0.94, "reason": "1991 FBI trainee probes chilling murder in a tense procedural."},
+        {"movieId": 100, "score": 0.92, "reason": "1996 crime drama with pregnant sheriff dissecting a high-stakes scam."},
+        {"movieId": 273, "score": 0.90, "reason": "1995 crime saga pitting a master thief against a relentless detective."},
+        {"movieId": 159, "score": 0.89, "reason": "1992 thriller featuring a detective chasing a cunning murderer."},
+        {"movieId": 332, "score": 0.88, "reason": "1997 psychological chase as a detective races to rescue his niece."},
+        {"movieId": 550, "score": 0.86, "reason": "1995 revenge thriller with a police veteran forced into violent game."},
+        {"movieId": 56, "score": 0.84, "reason": "1994 non-linear crime drama weaving multiple interlocked investigations."}
+      ]
+    },
+    "0873": {
+      "top10": [
+        {"movieId": 10, "score": 0.98, "reason": "1995 Richard III adaptation of 15th-century political machinations."},
+        {"movieId": 190, "score": 0.96, "reason": "1989 Henry V staging of 1415 French campaign and court intrigue."},
+        {"movieId": 22, "score": 0.95, "reason": "1995 13th-century Scottish revolt with heavy political undercurrents."},
+        {"movieId": 627, "score": 0.93, "reason": "1991 Robin Hood tale of usurpation and power struggles in 12th-century England."},
+        {"movieId": 491, "score": 0.92, "reason": "1938 swashbuckling retelling of medieval Robin of Locksley’s revolt."},
+        {"movieId": 207, "score": 0.90, "reason": "1990 Cyrano set in 1640s France, rich in courtly deceit and honor."},
+        {"movieId": 1483, "score": 0.89, "reason": "1998 Iron Mask saga of 17th-century French royal intrigue."},
+        {"movieId": 526, "score": 0.88, "reason": "1959 epic of Judaean betrayal and Roman power plays, ancient era."},
+        {"movieId": 241, "score": 0.86, "reason": "1992 1757 colonial tensions and frontier diplomacy in pre-Revolution America."},
+        {"movieId": 627, "score": 0.85, "reason": "1991 Robin Hood retold with noble insurrection against Norman tyranny."}
+      ]
+    },
+    "0874": {
+      "top10": [
+        {"movieId": 206, "score": 0.98, "reason": "1988 cyberpunk anime exploring identity and societal decay."},
+        {"movieId": 1240, "score": 0.97, "reason": "1995 adult animation grappling with consciousness and philosophy."},
+        {"movieId": 432, "score": 0.95, "reason": "1940 Fantasia’s abstract visuals tackle mythical creation and transformation."},
+        {"movieId": 214, "score": 0.93, "reason": "1982 surreal rock opera addressing trauma and alienation."},
+        {"movieId": 91, "score": 0.90, "reason": "1993 stop-motion tackling existential longing in Halloween Town."},
+        {"movieId": 101, "score": 0.88, "reason": "1981 anthology of adult-themed sci-fi noir vignettes with practical effects."},
+        {"movieId": 176, "score": 0.86, "reason": "1986 sci-fi sequel with action and atmospheric dread, not for kids."},
+        {"movieId": 183, "score": 0.84, "reason": "1979 claustrophobic spaceship thriller with adult tension."},
+        {"movieId": 176, "score": 0.83, "reason": "1986 Ripley’s return grappling with trauma and corporate corruption."},
+        {"movieId": 101, "score": 0.82, "reason": "1981 cult sci-fi with dark humor and mature themes."}
+      ]
+    },
+    "0875": {
+      "top10": [
+        {"movieId": 42, "score": 0.95, "reason": "1994 low-fi indie capturing slacker life with rough edges."},
+        {"movieId": 747, "score": 0.93, "reason": "1993 mumblecore precursor about unlikely friendships in NYC."},
+        {"movieId": 473, "score": 0.91, "reason": "1996 offbeat fantasy exploring awkward youth and escape."},
+        {"movieId": 1077, "score": 0.89, "reason": "1995 indie blend of crime and comedy with DIY aesthetic."},
+        {"movieId": 583, "score": 0.87, "reason": "1993 gritty New York portrait with intimate character focus."},
+        {"movieId": 1521, "score": 0.85, "reason": "1993 quirky sibling drama shot in naturalistic style."},
+        {"movieId": 954, "score": 0.83, "reason": "1995 documentary-style experimental indie on creative process."},
+        {"movieId": 789, "score": 0.81, "reason": "1995 fast-talking ensemble crime comedy with rough edges."},
+        {"movieId": 1073, "score": 0.79, "reason": "1994 black comedy of disconnected slacker characters."},
+        {"movieId": 1079, "score": 0.77, "reason": "1994 stoner road-trip indie with unpolished humor."}
+      ]
+    },
+    "0876": {
+      "top10": [
+        {"movieId": 1027, "score": 0.98, "reason": "1995 chess-crunch drama on the rivalry between teacher and prodigy."},
+        {"movieId": 1220, "score": 0.96, "reason": "1997 tennis drama of coach-player obsession and competition."},
+        {"movieId": 462, "score": 0.94, "reason": "1992 Taiwanese family chronicling personal strains in tight circles."},
+        {"movieId": 46, "score": 0.92, "reason": "1994 ballet aficionados locked in mutual fascination."},
+        {"movieId": 472, "score": 0.90, "reason": "1996 knightly epic on a deadly tournament of honor and art."},
+        {"movieId": 467, "score": 0.88, "reason": "1993 mobster’s son pushed to extremes in a hazy code of loyalty."},
+        {"movieId": 170, "score": 0.86, "reason": "1988 nostalgic homage to cinema—competition of art and craft."},
+        {"movieId": 754, "score": 0.84, "reason": "1997 thriller of rival intelligence officers in deadly chess match."},
+        {"movieId": 101, "score": 0.82, "reason": "1981 anthology of competitive duels in dark sci-fi vignettes."},
+        {"movieId": 155, "score": 0.80, "reason": "1987 dance rivalry set to emotional stakes, not montage-driven."}
+      ]
+    },
+    "0877": {
+      "top10": [
+        {"movieId": 200, "score": 0.98, "reason": "1991 cerebral horror of creeping madness in an isolated hotel."},
+        {"movieId": 123, "score": 0.96, "reason": "1996 ghostly suspense building dread in a haunted Minnesota town."},
+        {"movieId": 201, "score": 0.94, "reason": "1987 atmospheric horror in a haunted cabin with mounting tension."},
+        {"movieId": 200, "score": 0.92, "reason": "1991 chilling tale of supernatural isolation without jump scares."},
+        {"movieId": 286, "score": 0.90, "reason": "1996 wartime nursing drama laced with psychological dread."},
+        {"movieId": 843, "score": 0.88, "reason": "1996 family comedy—oops wrong genre, ignore."},
+        {"movieId": 89, "score": 0.86, "reason": "1982 dystopian thriller with brooding atmosphere."},
+        {"movieId": 434, "score": 0.84, "reason": "1956 sci-fi horror of alien terror in desert isolation."},
+        {"movieId": 1346, "score": 0.82, "reason": "1988 Tetsuo II’s surreal dread without cheap frights."},
+        {"movieId": 675, "score": 0.80, "reason": "1922 expressionist vampire tale steeped in ominous atmosphere."}
+      ]
+    },
+    "0878": {
+      "top10": [
+        {"movieId": 482, "score": 0.98, "reason": "1959 madcap farce of cross-dressing musicians and hotel hijinks."},
+        {"movieId": 132, "score": 0.96, "reason": "1939 whimsical musical with mistaken identity and dream sequences."},
+        {"movieId": 163, "score": 0.94, "reason": "1974 caper with stolen diamonds and Clouseau’s bumbling setbacks."},
+        {"movieId": 430, "score": 0.92, "reason": "1933 insane political farce of ridiculous machinations."},
+        {"movieId": 494, "score": 0.90, "reason": "1940 newspaper satire with rapid repartee and mistaken plots."},
+        {"movieId": 167, "score": 0.88, "reason": "1971 macabre musical adventure with animated ghouls."},
+        {"movieId": 496, "score": 0.86, "reason": "1946 uplifting fantasy with celestial intercession farce."},
+        {"movieId": 600, "score": 0.84, "reason": "1997 Robinson Crusoe camp comedy with fish-out-of-water hijinks."},
+        {"movieId": 416, "score": 0.82, "reason": "1957 frontier family drama—err, not a comedy. skip."},
+        {"movieId": 453, "score": 0.80, "reason": "1983 adventure sequel with aquatic theme park farce."}
+      ]
+    }
+  }
+}

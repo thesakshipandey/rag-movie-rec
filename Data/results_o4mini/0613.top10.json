@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A masterclass in deceit, this crime thriller teases out secrets with razor-sharp dialogue and a devastating final twist."
+  },
+  {
+    "movieId": 159,
+    "score": 0.95,
+    "reason": "Seductive and scandalous, this erotic thriller drips with whispered lies and high-stakes mystery."
+  },
+  {
+    "movieId": 43,
+    "score": 0.9,
+    "reason": "Corporate betrayals and hushed conspiracies fuel this slick legal drama, where every secret counts."
+  },
+  {
+    "movieId": 333,
+    "score": 0.88,
+    "reason": "A reality-bending mind game that ratchets up tension as buried truths surface in shocking fashion."
+  },
+  {
+    "movieId": 11,
+    "score": 0.86,
+    "reason": "Seven sins and darker secrets converge in an atmospheric hunt for a killer, whispering dread at every turn."
+  },
+  {
+    "movieId": 77,
+    "score": 0.84,
+    "reason": "A young lawyer uncovers buried scandals in a ruthless law firm, where every revelation risks everything."
+  },
+  {
+    "movieId": 55,
+    "score": 0.82,
+    "reason": "A brilliant profiler drawn into a deadly puzzle, where each whispered clue inches closer to terror."
+  },
+  {
+    "movieId": 654,
+    "score": 0.8,
+    "reason": "A detective peels back a city’s shiny veneer to expose lethal corruption just beneath the surface."
+  },
+  {
+    "movieId": 54,
+    "score": 0.78,
+    "reason": "A viral outbreak kept hidden ignites panic and secrets in this pulse-pounding medical thriller."
+  },
+  {
+    "movieId": 200,
+    "score": 0.76,
+    "reason": "A tense hunt for a manipulative psychopath, where every secret lurking in the shadows threatens to explode."
+  }
+]

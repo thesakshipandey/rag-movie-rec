@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 270,
+    "score": 0.98,
+    "reason": "1997 grounded sci-fi questioning genetic destiny"
+  },
+  {
+    "movieId": 1555,
+    "score": 0.96,
+    "reason": "1994 consciousness tale in a haunting psychological vein"
+  },
+  {
+    "movieId": 219,
+    "score": 0.94,
+    "reason": "1984 ambiguous horror blending dream and reality"
+  },
+  {
+    "movieId": 89,
+    "score": 0.92,
+    "reason": "1982 philosophical sci-fi on identity and reality"
+  },
+  {
+    "movieId": 1335,
+    "score": 0.9,
+    "reason": "1993 dystopian thriller on surveillance obsession"
+  },
+  {
+    "movieId": 273,
+    "score": 0.88,
+    "reason": "1995 cerebral crime drama probing detective obsession"
+  },
+  {
+    "movieId": 325,
+    "score": 0.85,
+    "reason": "1996 controversial psychodrama on human desire and ruin"
+  },
+  {
+    "movieId": 373,
+    "score": 0.82,
+    "reason": "1995 vigilante drama on personal morality and consequence"
+  },
+  {
+    "movieId": 250,
+    "score": 0.8,
+    "reason": "1997 cult sci-fi on extraterrestrial philosophy"
+  },
+  {
+    "movieId": 202,
+    "score": 0.78,
+    "reason": "1993 time-loop comedy with existential overtones"
+  }
+]

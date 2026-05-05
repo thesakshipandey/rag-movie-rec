@@ -1,0 +1,109 @@
+{
+  "results": {
+    "0679": {
+      "top10": [
+        {"movieId":191,"score":0.95,"reason":"Amadeus: an obsessive rivalry between Mozart and Salieri that consumes both men."},
+        {"movieId":160,"score":0.90,"reason":"Glengarry Glen Ross: salesmen locked in a ruthless battle to outperform each other."},
+        {"movieId":31,"score":0.88,"reason":"Crimson Tide: two submarine officers clash over command in a tense, life-or-death standoff."},
+        {"movieId":58,"score":0.85,"reason":"Quiz Show: two contestants and a producer locked in a manipulative game of one-upmanship."},
+        {"movieId":193,"score":0.82,"reason":"Right Stuff, The: test pilots driven by pride to outdo each other at any cost."},
+        {"movieId":43,"score":0.80,"reason":"Disclosure: former colleagues pitted in a high-stakes power struggle filled with brinkmanship."},
+        {"movieId":273,"score":0.78,"reason":"Heat: a cop and a criminal endlessly trying to outwit each other in a deadly chase."},
+        {"movieId":77,"score":0.75,"reason":"Firm, The: a lawyer battles his own firm’s secrets in a relentless fight for survival."},
+        {"movieId":127,"score":0.73,"reason":"Godfather, The: two men maneuver for supremacy in a brutal, calculating criminal world."},
+        {"movieId":187,"score":0.70,"reason":"Godfather: Part II: siblings and rivals compete for power in a dark family empire."}
+      ]
+    },
+    "0680": {
+      "top10": [
+        {"movieId":955,"score":0.95,"reason":"Before Sunrise: strangers meet on a train, share one fleeting, conversation-driven night in Vienna."},
+        {"movieId":1129,"score":0.93,"reason":"Chungking Express: two tales of chance encounters in Hong Kong, capturing ephemeral connection."},
+        {"movieId":60,"score":0.88,"reason":"Three Colors: Blue: a brief, intense meeting in Geneva that changes two lonely hearts."},
+        {"movieId":59,"score":0.85,"reason":"Three Colors: Red: a chance apartment collision in Geneva sparks a poignant, transitory bond."},
+        {"movieId":955,"score":0.83,"reason":"Before Sunrise: a minimal plot in multilingual chatter against Vienna’s nocturnal backdrop."},
+        {"movieId":253,"score":0.80,"reason":"Pillow Book, The: two strangers forge an intimate bond across Hong Kong and Tokyo through words."},
+        {"movieId":204,"score":0.78,"reason":"Back to the Future: Mary joins Marty for one night of discovery in 1955 Hill Valley."},
+        {"movieId":4,"score":0.75,"reason":"Get Shorty: a quick trip to Las Vegas yields a brief, intense collision of two unlikeliest allies."},
+        {"movieId":14,"score":0.73,"reason":"Postino, Il: a lonely poet and a mailman share moments in an Italian island’s quiet corners."},
+        {"movieId":199,"score":0.70,"reason":"Bridge on the River Kwai: an English POW and a commander share an unlikely, tension-filled truce."}
+      ]
+    },
+    "0681": {
+      "top10": [
+        {"movieId":1,"score":0.95,"reason":"Toy Story: Woody and Buzz’s rescue mission is a complete, under-90-minute animated adventure."},
+        {"movieId":21,"score":0.92,"reason":"Muppet Treasure Island: Jim and the Muppets embark on a swashbuckling quest for buried treasure."},
+        {"movieId":71,"score":0.90,"reason":"Lion King, The: Simba’s journey across the Pride Lands to reclaim his destiny."},
+        {"movieId":91,"score":0.88,"reason":"Nightmare Before Christmas: Jack’s animated voyage to Christmas Town and back."},
+        {"movieId":95,"score":0.85,"reason":"Aladdin: a rousing animated quest to retrieve the magic lamp from the Cave of Wonders."},
+        {"movieId":473,"score":0.83,"reason":"James and the Giant Peach: a stop-motion adventure across the ocean inside a colossal fruit."},
+        {"movieId":538,"score":0.80,"reason":"Anastasia: an animated odyssey to rediscover a lost princess in turn-of-the-century Russia."},
+        {"movieId":240,"score":0.78,"reason":"Beavis and Butt-head Do America: an animated road-trip misadventure under 90 minutes."},
+        {"movieId":169,"score":0.75,"reason":"Wrong Trousers, The: Wallace and Gromit’s short animated caper to foil a penguin’s plot."},
+        {"movieId":101,"score":0.70,"reason":"Heavy Metal: an animated anthology featuring a fantastical quest segment under 90 minutes."}
+      ]
+    },
+    "0682": {
+      "top10": [
+        {"movieId":23,"score":0.95,"reason":"Taxi Driver: a downbeat, convoluted ride through 1970s NYC’s seedy underbelly."},
+        {"movieId":654,"score":0.93,"reason":"Chinatown: cynical 1970s neo-noir with a labyrinthine, pessimistic finale."},
+        {"movieId":179,"score":0.90,"reason":"Clockwork Orange, A: violent 1971 tale of moral decay and a bleak, circular end."},
+        {"movieId":127,"score":0.88,"reason":"Godfather, The: 1972 crime epic steeped in betrayal and a grim final legacy."},
+        {"movieId":187,"score":0.85,"reason":"Godfather: Part II: 1974’s dark, multi-layered saga of power and corruption."},
+        {"movieId":435,"score":0.82,"reason":"Butch Cassidy and the Sundance Kid: 1969’s crime duo fated to a bleak showdown."},
+        {"movieId":180,"score":0.80,"reason":"Apocalypse Now: 1979’s hallucinatory war descent that feels like noir anti-heroism."},
+        {"movieId":179,"score":0.78,"reason":"Clockwork Orange, A: the maze-like spiral of ultraviolence and societal collapse."},
+        {"movieId":23,"score":0.75,"reason":"Taxi Driver: Travis Bickle’s isolation turns into nihilistic reckoning."},
+        {"movieId":654,"score":0.70,"reason":"Chinatown: a labyrinth of deceit leading to a ruthlessly fatal truth."}
+      ]
+    },
+    "0683": {
+      "top10": [
+        {"movieId":165,"score":0.95,"reason":"Jean de Florette: tense bickering over water rights in 1986 Provence."},
+        {"movieId":166,"score":0.93,"reason":"Manon of the Spring: sequel drama of cunning back-room land deals in rural France."},
+        {"movieId":113,"score":0.90,"reason":"Horseman on the Roof: 1995’s tale of political strife and survival during cholera in France."},
+        {"movieId":84,"score":0.88,"reason":"Heinlein's The Puppet Masters: 1994’s Cold War allegory of covert invasion politics."},
+        {"movieId":70,"score":0.85,"reason":"Four Weddings and a Funeral: British-adjacent EU backdrop with high-stakes social maneuvering."},
+        {"movieId":42,"score":0.82,"reason":"Clerks: ill-fated lease negotiations give sharp doses of office-politics drama."},
+        {"movieId":81,"score":0.80,"reason":"Hudsucker Proxy, The: 1994’s corporate power play set in mid-century New York."},
+        {"movieId":217,"score":0.78,"reason":"Bram Stoker's Dracula: 1992 transatlantic plot of power and political guise."},
+        {"movieId":56,"score":0.75,"reason":"Pulp Fiction: intertwining underworld dealings echo tense negotiations."},
+        {"movieId":58,"score":0.70,"reason":"Quiz Show: 1994 political-style maneuvering over a rigged game show in the ’50s."}
+      ]
+    },
+    "0684": {
+      "top10": [
+        {"movieId":270,"score":0.95,"reason":"Gattaca: 1997 philosophical sci-fi about genetics reshaping lives, no colon in title."},
+        {"movieId":504,"score":0.90,"reason":"Bonnie and Clyde: 1967 grounded take on crime’s moral quandaries, no CGI."},
+        {"movieId":527,"score":0.88,"reason":"Gandhi: 1982 reflective biopic exploring political philosophy’s personal cost."},
+        {"movieId":511,"score":0.85,"reason":"Lawrence of Arabia: 1962’s epic on ambition, obsession and imperial power."},
+        {"movieId":191,"score":0.82,"reason":"Amadeus: 1984’s probing of genius, envy and corrosive self-destruction."},
+        {"movieId":135,"score":0.80,"reason":"2001: A Space Odyssey: 1968’s philosophical SF odyssey, questioning human purpose."},
+        {"movieId":175,"score":0.78,"reason":"Brazil: 1985’s surreal critique of bureaucratic control, low-tech style."},
+        {"movieId":89,"score":0.75,"reason":"Blade Runner: 1982’s gritty exploration of humanity in a bleak future."},
+        {"movieId":204,"score":0.73,"reason":"Back to the Future: 1985’s grounded teenage sci-fi with existential twists."},
+        {"movieId":135,"score":0.70,"reason":"2001: A Space Odyssey: pondering cosmic meaning without flashy CGI."}
+      ]
+    },
+    "0685": {
+      "top10": [
+        {"movieId":41,"score":0.95,"reason":"Billy Madison: pre-2005 slapstick about a clueless heir pulling off ridiculous stunts."},
+        {"movieId":67,"score":0.92,"reason":"Ace Ventura: Pet Detective: unqualified oddball scrambling through animal-themed capers."},
+        {"movieId":42,"score":0.90,"reason":"Clerks: low-budget comedy about inept store clerks bungling their day."},
+        {"movieId":80,"score":0.88,"reason":"Hot Shots! Part Deux: parody send-up of action tropes by wildly inept heroes."},
+        {"movieId":58,"score":0.85,"reason":"Quiz Show: wry office comedy of bungling game-show staff (non-romantic)."},        
+        {"movieId":156,"score":0.82,"reason":"Reservoir Dogs: unromantic buddy caper of bungled heist and back-stabbing idiots."},
+        {"movieId":1,"score":0.80,"reason":"Toy Story: group of misfit toys fumbling a rescue mission with chaotic humor."},
+        {"movieId":74,"score":0.78,"reason":"Faster Pussycat! Kill! Kill!: outrageous 1965 cult romp of wild go-go dancers."},
+        {"movieId":74,"score":0.75,"reason":"Faster Pussycat! Kill! Kill!: band of wild misfits wreak chaos in a desert romp."},
+        {"movieId":169,"score":0.70,"reason":"Wrong Trousers, The: duo of idiots and a penguin pulling off a comedic heist."}
+      ]
+    },
+    "0686": {
+      "top10": [
+        {"movieId":122,"score":0.95,"reason":"Sleepless in Seattle: 1993 romance thriller set across shifting loyalties in Seattle."},
+        {"movieId":137,"score":0.92,"reason":"Big Night: 1996 contained kitchen drama of rival restaurateurs at a single event."},
+        {"movieId":208,"score":0.90,"reason":"Young Frankenstein: 1974 mad-scientist comedy in the confined castle setting."},
+        {"movieId":589,"score":0.88,"reason":"Wild Bunch, The: 1969 outlaw standoff in confined train and town warehouses."},
+        {"movieId":131,"score":0.85,"reason":"Breakfast at Tiffany's: 1961 New York apartment tensions among a small circle."},
+        {"movieId":231,"score":0.82,"reason":"Batman Returns: 1992 Gothic cityscape with cat-and-mouse alliances on narrow streets."},
+        {"movieId":601,"score":0.80,"reason":"For Whom the Bell Tolls: 1943 Spanish fortress siege of shifting allegiances."

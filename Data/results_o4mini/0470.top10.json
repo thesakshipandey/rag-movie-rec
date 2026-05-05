@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 25,
+    "score": 0.99,
+    "reason": "The Birdcage crackles with spirited, flirtatious energy and witty banter—perfect for an easy, butterflies-in-stomach date."
+  },
+  {
+    "movieId": 66,
+    "score": 0.97,
+    "reason": "While You Were Sleeping blends sweet holiday magic and playful romance in a lighthearted, charming evening escape."
+  },
+  {
+    "movieId": 88,
+    "score": 0.95,
+    "reason": "Sleepless in Seattle pairs smart banter with tender chemistry, a cozy, fluttery date-night delight."
+  },
+  {
+    "movieId": 131,
+    "score": 0.93,
+    "reason": "Breakfast at Tiffany’s offers chic banter and romantic whimsy, a stylish, breezy mood for date-night magic."
+  },
+  {
+    "movieId": 216,
+    "score": 0.91,
+    "reason": "When Harry Met Sally’s crackling dialogue and flirty repartee deliver delicious sparks without too much weight."
+  },
+  {
+    "movieId": 70,
+    "score": 0.89,
+    "reason": "Four Weddings and a Funeral fires off quick-witted charm and light romance, ideal for an effortless date."
+  },
+  {
+    "movieId": 255,
+    "score": 0.87,
+    "reason": "My Best Friend’s Wedding brims with playful chemistry and warm humor—no sinking feelings, just joyful flirting."
+  },
+  {
+    "movieId": 739,
+    "score": 0.85,
+    "reason": "Pretty Woman’s glossy rom-com vibes and spirited banter spark flirty fun, sure to keep your date smiling."
+  },
+  {
+    "movieId": 354,
+    "score": 0.83,
+    "reason": "The Wedding Singer’s ‘80s charm and off-beat humor set a fun, flirty tone with sweet romantic undercurrents."
+  },
+  {
+    "movieId": 487,
+    "score": 0.81,
+    "reason": "Roman Holiday’s luminous chemistry and elegant, lighthearted romance bring classic sparkle to any date night."
+  }
+]

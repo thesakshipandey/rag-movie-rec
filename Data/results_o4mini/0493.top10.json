@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 0.9,
+    "reason": "Desperate criminal scheme ends in darkly comic downfall"
+  },
+  {
+    "movieId": 85,
+    "score": 0.89,
+    "reason": "Hostage comedy delivers merciless payback with wit"
+  },
+  {
+    "movieId": 153,
+    "score": 0.88,
+    "reason": "Crooked crew turns on each other in perfect poetic justice"
+  },
+  {
+    "movieId": 179,
+    "score": 0.87,
+    "reason": "Ultraviolent satire punishes depravity with chilling style"
+  },
+  {
+    "movieId": 159,
+    "score": 0.86,
+    "reason": "Sexy thriller turns tables on its ruthless manipulator"
+  },
+  {
+    "movieId": 302,
+    "score": 0.85,
+    "reason": "1950s noir web ensnares its villains in systematic ruin"
+  },
+  {
+    "movieId": 53,
+    "score": 0.84,
+    "reason": "Chaotic spree where killers meet bloody ends"
+  },
+  {
+    "movieId": 273,
+    "score": 0.83,
+    "reason": "Well-planned heist unravels in fateful finale"
+  },
+  {
+    "movieId": 234,
+    "score": 0.82,
+    "reason": "Iconic villainous shark gets shot down at last"
+  },
+  {
+    "movieId": 98,
+    "score": 0.81,
+    "reason": "Infamous killer receives measured retribution"
+  }
+]

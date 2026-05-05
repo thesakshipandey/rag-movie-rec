@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 97,
+    "score": 0.99,
+    "reason": "Dances with Wolves immerses you in epic survival, the relentless pressure of frontier life felt in every frame."
+  },
+  {
+    "movieId": 22,
+    "score": 0.97,
+    "reason": "Braveheart throws you into desperate battle for freedom, the raw grit of combat and unrelenting stakes palpable."
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Apollo 13’s ticking-clock struggle for survival in the void makes you feel the chill and claustrophobic terror."
+  },
+  {
+    "movieId": 31,
+    "score": 0.93,
+    "reason": "Crimson Tide’s submarine standoff plunges you into suffocating tension and the crushing weight of ultimate choices."
+  },
+  {
+    "movieId": 176,
+    "score": 0.91,
+    "reason": "Aliens hammers home frantic, primal fight-for-your-life energy in the relentless heat of hostile space."
+  },
+  {
+    "movieId": 164,
+    "score": 0.89,
+    "reason": "The Abyss immerses you in crushing oceanic pressure and icy tension, every breath earned in the depths below."
+  },
+  {
+    "movieId": 7,
+    "score": 0.87,
+    "reason": "Twelve Monkeys pits you against apocalyptic despair, cold contamination, and the desperation of time-twisted survival."
+  },
+  {
+    "movieId": 6,
+    "score": 0.85,
+    "reason": "Shanghai Triad portrays ruthless underworld struggle, the searing heat of organized peril and a fight to endure."
+  },
+  {
+    "movieId": 82,
+    "score": 0.83,
+    "reason": "Jurassic Park traps you in primal terror and scorching prehistoric jaws, the thrill of survival razor sharp."
+  },
+  {
+    "movieId": 199,
+    "score": 0.81,
+    "reason": "Bridge on the River Kwai thrusts you into brutal captivity, the grueling heat of war and sheer will to persist."
+  }
+]

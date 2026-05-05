@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Toy Story – 81-minute family-friendly animation about sentient toys on the move"
+  },
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Babe – 91-minute heartwarming tale of a pig finding its place on a farm"
+  },
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "The Nightmare Before Christmas – 76-minute stop-motion musical blending Halloween and Christmas"
+  },
+  {
+    "movieId": 501,
+    "score": 0.85,
+    "reason": "Dumbo – 64-minute Disney classic of a flying elephant overcoming adversity"
+  },
+  {
+    "movieId": 156,
+    "score": 0.8,
+    "reason": "Reservoir Dogs – 99-minute gritty crime thriller from Quentin Tarantino"
+  },
+  {
+    "movieId": 67,
+    "score": 0.75,
+    "reason": "Ace Ventura: Pet Detective – 86-minute comedy starring Jim Carrey as an animal-loving sleuth"
+  },
+  {
+    "movieId": 367,
+    "score": 0.7,
+    "reason": "Clueless – 97-minute teen comedy set in a stylish Beverly Hills high school"
+  },
+  {
+    "movieId": 42,
+    "score": 0.65,
+    "reason": "Clerks – 89-minute indie comedy following a day in the life of two convenience store clerks"
+  },
+  {
+    "movieId": 150,
+    "score": 0.6,
+    "reason": "Swingers – 96-minute comedy about aspiring actors navigating dating in 90s Hollywood"
+  },
+  {
+    "movieId": 772,
+    "score": 0.55,
+    "reason": "Kids – 84-minute raw drama exploring youth culture in 90s New York"
+  }
+]

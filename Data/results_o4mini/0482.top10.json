@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "Isolated hotel corridors amplify every whispered threat"
+  },
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "A single room traps twelve men in a battle of wills and prejudice"
+  },
+  {
+    "movieId": 603,
+    "score": 0.9,
+    "reason": "Housebound voyeur unwittingly witnesses a crime he cannot escape"
+  },
+  {
+    "movieId": 98,
+    "score": 0.85,
+    "reason": "Prison cell holds a monster as terrified trainee follows deadly paths"
+  },
+  {
+    "movieId": 31,
+    "score": 0.8,
+    "reason": "Submarine walls close in as mutiny and secrecy collide"
+  },
+  {
+    "movieId": 183,
+    "score": 0.75,
+    "reason": "Claustrophobic spaceship corridor hides a relentless predator"
+  },
+  {
+    "movieId": 260,
+    "score": 0.7,
+    "reason": "Deep-space vessel reveals no exit from its own deadly nightmare"
+  },
+  {
+    "movieId": 164,
+    "score": 0.65,
+    "reason": "Underwater outpost faces unrelenting pressure from within and below"
+  },
+  {
+    "movieId": 64,
+    "score": 0.6,
+    "reason": "Brooding prison life tests bonds of hope behind steel bars"
+  },
+  {
+    "movieId": 665,
+    "score": 0.55,
+    "reason": "High-security facility offers no refuge from a lone avenger"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 650,
+    "score": 0.95,
+    "reason": "The Seventh Seal’s stark chess match with Death frames existential dread in haunting, poetic stillness."
+  },
+  {
+    "movieId": 512,
+    "score": 0.93,
+    "reason": "Wings of Desire’s angelic gaze over Berlin infuses every shot with transcendent melancholy and quiet wonder."
+  },
+  {
+    "movieId": 489,
+    "score": 0.91,
+    "reason": "The Omen’s creeping terror and ritual dread fuse beauty and horror into a chilling, meditative gloom."
+  },
+  {
+    "movieId": 324,
+    "score": 0.89,
+    "reason": "Lost Highway’s somber, night-soaked odyssey sketches a fragmented reality full of yearning emptiness."
+  },
+  {
+    "movieId": 179,
+    "score": 0.87,
+    "reason": "A Clockwork Orange’s baroque tableaux and moral void challenge you to find beauty amid dystopian decay."
+  },
+  {
+    "movieId": 221,
+    "score": 0.85,
+    "reason": "Breaking the Waves’ brutal sacrifice and raw emotional arcs leave a guttural ache that lingers like fog."
+  },
+  {
+    "movieId": 664,
+    "score": 0.83,
+    "reason": "Paris, Texas’s vast desert solitude and muted reunions carve a solemn beauty from heartbreak’s contours."
+  },
+  {
+    "movieId": 180,
+    "score": 0.81,
+    "reason": "Apocalypse Now’s hypnotic river voyage into madness marries visceral dread with epic, haunting visuals."
+  },
+  {
+    "movieId": 589,
+    "score": 0.79,
+    "reason": "The Wild Bunch’s elegiac violence and fading frontier vistas paint a gritty, poetic portrait of decay."
+  },
+  {
+    "movieId": 286,
+    "score": 0.77,
+    "reason": "The English Patient’s languid desert romance and scarred memories drift into hauntingly beautiful reverie."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 30,
+    "score": 0.95,
+    "reason": "Belle de jour blends surreal fantasy and melancholy drama in a visually stunning Parisian setting."
+  },
+  {
+    "movieId": 59,
+    "score": 0.93,
+    "reason": "Three Colors: Red offers symbolic, non-linear storytelling and vibrant visuals to ponder long after viewing."
+  },
+  {
+    "movieId": 60,
+    "score": 0.92,
+    "reason": "Three Colors: Blue is a poetic, moody exploration of grief with stunning, meditative imagery."
+  },
+  {
+    "movieId": 61,
+    "score": 0.9,
+    "reason": "Three Colors: White delivers an offbeat, symbolic drama rich in visual metaphors and melancholy charm."
+  },
+  {
+    "movieId": 170,
+    "score": 0.88,
+    "reason": "Cinema Paradiso’s nostalgic, lyrical style and evocative cinematography linger in the mind."
+  },
+  {
+    "movieId": 171,
+    "score": 0.87,
+    "reason": "Delicatessen is a darkly surreal, visually inventive fable with haunting, symbolic resonance."
+  },
+  {
+    "movieId": 855,
+    "score": 0.85,
+    "reason": "Diva is a dreamlike French thriller with lush visuals and enigmatic symbolism."
+  },
+  {
+    "movieId": 1005,
+    "score": 0.83,
+    "reason": "The Double Life of Veronique’s dreamlike dual narrative and exquisite imagery stay with you."
+  },
+  {
+    "movieId": 1056,
+    "score": 0.82,
+    "reason": "Cronos offers poetic, atmospheric horror with rich visual symbolism and a haunting mood."
+  },
+  {
+    "movieId": 1595,
+    "score": 0.8,
+    "reason": "Stalker’s enigmatic, slow-burn vision and unsettling imagery demand contemplation."
+  }
+]

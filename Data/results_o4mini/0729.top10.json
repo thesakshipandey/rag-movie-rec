@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 3,
+    "score": 1.0,
+    "reason": "Title features “4” in a delightfully bizarre hotel anthology"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Time-travel madness with enough cheese to go around"
+  },
+  {
+    "movieId": 178,
+    "score": 0.8,
+    "reason": "Classic jury-room drama numbered by righteous rage"
+  },
+  {
+    "movieId": 80,
+    "score": 0.7,
+    "reason": "Hot Shots! Part Deux delights with spoofed action and slapstick"
+  },
+  {
+    "movieId": 96,
+    "score": 0.65,
+    "reason": "T2’s shape-shifting chaos dialed up to jaw-dropping extremes"
+  },
+  {
+    "movieId": 138,
+    "score": 0.6,
+    "reason": "Hockey kids return for a third round in this over-the-top sequel"
+  },
+  {
+    "movieId": 314,
+    "score": 0.55,
+    "reason": "Three ninja brothers take down evil at an amusement park"
+  },
+  {
+    "movieId": 135,
+    "score": 0.5,
+    "reason": "Kubrick’s space odyssey numbered for cosmic awe and laughs"
+  },
+  {
+    "movieId": 599,
+    "score": 0.45,
+    "reason": "Hong Kong supercop’s fourth case packs absurd martial-arts fun"
+  },
+  {
+    "movieId": 615,
+    "score": 0.4,
+    "reason": "39 steps of suspense in Hitchcock’s delightfully campy thriller"
+  }
+]

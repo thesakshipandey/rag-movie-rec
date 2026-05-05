@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 96,
+    "score": 1.0,
+    "reason": "A perfect blend of explosive action and emotional depth with clever twists and tight plotting."
+  },
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Interwoven high-stakes crime stories with razor-sharp dialogue and brilliant narrative structure."
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "Masterful cat-and-mouse crime drama with meticulous planning and character intelligence."
+  },
+  {
+    "movieId": 31,
+    "score": 0.85,
+    "reason": "Nuclear submarine thriller where strategy and intellect drive tension, not just explosions."
+  },
+  {
+    "movieId": 28,
+    "score": 0.8,
+    "reason": "Space mission disaster that balances pulse-pounding peril with smart problem-solving teamwork."
+  },
+  {
+    "movieId": 89,
+    "score": 0.75,
+    "reason": "Philosophical sci-fi noir that pairs striking action with deep questions about humanity."
+  },
+  {
+    "movieId": 176,
+    "score": 0.7,
+    "reason": "High-octane sci-fi horror that’s both thrilling and intelligently constructed."
+  },
+  {
+    "movieId": 7,
+    "score": 0.65,
+    "reason": "Mind-bending time-travel thriller where clever storytelling sustains nonstop suspense."
+  },
+  {
+    "movieId": 2,
+    "score": 0.6,
+    "reason": "Classic spy spectacle with witty banter, inventive gadgets, and a satisfying mechanical plot."
+  },
+  {
+    "movieId": 121,
+    "score": 0.55,
+    "reason": "Alien invasion blockbuster with smart military strategy amid the big-screen fireworks."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 469,
+    "score": 0.99,
+    "reason": "Interlocking tales of Los Angeles lives weaving together through rich ensemble storytelling."
+  },
+  {
+    "movieId": 325,
+    "score": 0.97,
+    "reason": "Intersecting L.A. stories exploring race and fate with a sprawling, multi-character structure."
+  },
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Nonlinear crime caper with multiple protagonists whose paths collide across a vibrant ensemble."
+  },
+  {
+    "movieId": 302,
+    "score": 0.93,
+    "reason": "Complex crime thriller juggling multiple detectives and corrupt factions in 1950s Los Angeles."
+  },
+  {
+    "movieId": 182,
+    "score": 0.88,
+    "reason": "Sweeping mob saga covering decades with a large cast of vivid, interwoven characters."
+  },
+  {
+    "movieId": 275,
+    "score": 0.86,
+    "reason": "Period drama about sisters and society with a broad ensemble of intertwined storylines."
+  },
+  {
+    "movieId": 70,
+    "score": 0.84,
+    "reason": "Charming British romance that balances multiple love stories in a close-knit social circle."
+  },
+  {
+    "movieId": 137,
+    "score": 0.82,
+    "reason": "All-star kitchen drama centered on rival brothers striving to save their restaurant with comedic flair."
+  },
+  {
+    "movieId": 12,
+    "score": 0.8,
+    "reason": "Intricate heist thriller with a large, enigmatic ensemble and a twisty final act."
+  },
+  {
+    "movieId": 313,
+    "score": 0.78,
+    "reason": "Disaster epic with an expansive cast of characters whose lives collide amid the sinking ship."
+  }
+]

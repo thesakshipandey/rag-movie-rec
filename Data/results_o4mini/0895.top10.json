@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seven is a methodical serial killer thriller with mounting dread and a devastating final twist."
+  },
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "The Usual Suspects unravels a labyrinthine heist mystery with tension that crescendos to a shocking climax."
+  },
+  {
+    "movieId": 5,
+    "score": 0.9,
+    "reason": "Copycat is a meticulous psychological thriller building relentless suspense until a powerful finale."
+  },
+  {
+    "movieId": 273,
+    "score": 0.85,
+    "reason": "Heat’s deliberate pacing and intricate cat-and-mouse duel deliver a slow burn that pays off."
+  },
+  {
+    "movieId": 1511,
+    "score": 0.8,
+    "reason": "The Spanish Prisoner is a quiet con thriller where every detail counts, ending in a gut-punch reveal."
+  },
+  {
+    "movieId": 691,
+    "score": 0.75,
+    "reason": "Dark City’s shadowy atmosphere and surreal puzzles ratchet up tension toward a haunting payoff."
+  },
+  {
+    "movieId": 1248,
+    "score": 0.7,
+    "reason": "Blink creeps forward with unsettling vision-reversal shocks and a quietly brutal ending."
+  },
+  {
+    "movieId": 1477,
+    "score": 0.65,
+    "reason": "Nightwatch is a brooding hospital thriller where paranoia builds relentlessly to a brutal climax."
+  },
+  {
+    "movieId": 307,
+    "score": 0.6,
+    "reason": "The Devil’s Advocate teases supernatural dread through slow characterization, erupting into a savage finale."
+  },
+  {
+    "movieId": 1193,
+    "score": 0.55,
+    "reason": "Before the Rain weaves a deceptively serene narrative that culminates in a gut-wrenching twist."
+  }
+]

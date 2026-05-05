@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 482,
+    "score": 1.0,
+    "reason": "Some Like It Hot crackles with razor-fast wit and stylish 1950s screwball energy"
+  },
+  {
+    "movieId": 494,
+    "score": 0.95,
+    "reason": "His Girl Friday sizzles with rapid-fire banter and clever, sophisticated humor"
+  },
+  {
+    "movieId": 604,
+    "score": 0.93,
+    "reason": "It Happened One Night shines with snappy screwball comedy and sparkling 1930s charm"
+  },
+  {
+    "movieId": 487,
+    "score": 0.9,
+    "reason": "Roman Holiday charms with witty romance and gentle 1950s humor in elegant Rome"
+  },
+  {
+    "movieId": 480,
+    "score": 0.88,
+    "reason": "North by Northwest thrills with urbane banter and Hitchcockian wit in 1959 Manhattan"
+  },
+  {
+    "movieId": 131,
+    "score": 0.85,
+    "reason": "Breakfast at Tiffany’s serves up chic, flirtatious humor and 1960s sophistication"
+  },
+  {
+    "movieId": 945,
+    "score": 0.83,
+    "reason": "Charade blends stylish 1960s romance and sophisticated wit with playful suspense"
+  },
+  {
+    "movieId": 486,
+    "score": 0.8,
+    "reason": "Sabrina sparkles with elegant 1950s dialogue and charming screwball sophistication"
+  },
+  {
+    "movieId": 481,
+    "score": 0.78,
+    "reason": "The Apartment layers romantic comedy and smart banter in a delightfully polished 1960s style"
+  },
+  {
+    "movieId": 705,
+    "score": 0.75,
+    "reason": "Singin’ in the Rain dazzles with buoyant wit and so-bright 1950s musical charm"
+  }
+]

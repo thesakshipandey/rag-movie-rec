@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 24,
+    "score": 0.95,
+    "reason": "Rumble in the Bronx: Ma Hon Keung battles street gangs bare-handed"
+  },
+  {
+    "movieId": 128,
+    "score": 0.9,
+    "reason": "Supercop: Hong Kong martial artist tackles crime without main firearms focus"
+  },
+  {
+    "movieId": 206,
+    "score": 0.85,
+    "reason": "Akira: intense hand-to-hand combat in dystopian Tokyo"
+  },
+  {
+    "movieId": 176,
+    "score": 0.8,
+    "reason": "Aliens: Ripley fights xenomorphs in visceral close combat scenes"
+  },
+  {
+    "movieId": 69,
+    "score": 0.75,
+    "reason": "Forrest Gump: Forrest uses brawn in fight scenes without gunplay"
+  },
+  {
+    "movieId": 44,
+    "score": 0.7,
+    "reason": "Die Hard: McClane takes on terrorists with fists and wits"
+  },
+  {
+    "movieId": 161,
+    "score": 0.65,
+    "reason": "Top Gun: aerial dogfights focus on skill over gunnery"
+  },
+  {
+    "movieId": 198,
+    "score": 0.6,
+    "reason": "Nikita: assassin trained in hand-to-hand combat seeks vengeance"
+  },
+  {
+    "movieId": 203,
+    "score": 0.55,
+    "reason": "Platoon: close-quarters jungle combat under simple moral stakes"
+  },
+  {
+    "movieId": 189,
+    "score": 0.5,
+    "reason": "Grand Day Out: claymation heroes face trials through clever feats"
+  }
+]

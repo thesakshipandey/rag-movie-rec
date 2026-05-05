@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.9,
+    "reason": "Disgraced gunslinger gets his chance at final justice"
+  },
+  {
+    "movieId": 68,
+    "score": 0.89,
+    "reason": "Resurrected hero exacts dark vengeance on his killers"
+  },
+  {
+    "movieId": 127,
+    "score": 0.88,
+    "reason": "Don retaliates ruthlessly against those who cross him"
+  },
+  {
+    "movieId": 156,
+    "score": 0.87,
+    "reason": "Betrayer meets a fitting fate in twisted heist showdown"
+  },
+  {
+    "movieId": 121,
+    "score": 0.86,
+    "reason": "Humanity fights back and defeats its alien oppressors"
+  },
+  {
+    "movieId": 144,
+    "score": 0.85,
+    "reason": "Every terrorist learns John McClane won’t let evil prevail"
+  },
+  {
+    "movieId": 226,
+    "score": 0.84,
+    "reason": "McClane thwarts hijackers and gives them their comeuppance"
+  },
+  {
+    "movieId": 98,
+    "score": 0.83,
+    "reason": "Hannibal’s methodical justice serves chilling revenge"
+  },
+  {
+    "movieId": 234,
+    "score": 0.82,
+    "reason": "The great white shark finally faces its hunter"
+  },
+  {
+    "movieId": 190,
+    "score": 0.81,
+    "reason": "King claims victory and justice on the battlefield"
+  }
+]

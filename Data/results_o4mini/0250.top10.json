@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 133,
+    "score": 0.95,
+    "reason": "Gone with the Wind runs over three hours for an epic Civil War saga"
+  },
+  {
+    "movieId": 511,
+    "score": 0.94,
+    "reason": "Lawrence of Arabia surpasses 180 minutes in its sweeping desert epic"
+  },
+  {
+    "movieId": 526,
+    "score": 0.93,
+    "reason": "Ben-Hur epic chariot race included in over three hours of story"
+  },
+  {
+    "movieId": 649,
+    "score": 0.92,
+    "reason": "Once Upon a Time in America is a sprawling five-hour crime saga"
+  },
+  {
+    "movieId": 318,
+    "score": 0.91,
+    "reason": "Schindler's List unfolds over 195 minutes of historical drama"
+  },
+  {
+    "movieId": 527,
+    "score": 0.9,
+    "reason": "Gandhi runs well over three hours for a detailed biography"
+  },
+  {
+    "movieId": 187,
+    "score": 0.89,
+    "reason": "Godfather: Part II is a lengthy sequel clocking in above 200 minutes"
+  },
+  {
+    "movieId": 313,
+    "score": 0.88,
+    "reason": "Titanic spans nearly three and a half hours of romantic disaster"
+  },
+  {
+    "movieId": 646,
+    "score": 0.87,
+    "reason": "Once Upon a Time in the West is a nearly three-hour western epic"
+  },
+  {
+    "movieId": 135,
+    "score": 0.86,
+    "reason": "2001: A Space Odyssey offers an immersive 149-minute journey (below 3h)"
+  }
+]

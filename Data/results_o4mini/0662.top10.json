@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 166,
+    "score": 1.0,
+    "reason": "French Twist’s playful enemies-to-lovers banter leads to unexpected romance."
+  },
+  {
+    "movieId": 93,
+    "score": 0.95,
+    "reason": "Welcome to the Dollhouse sparks reluctant affection amid quips and teenage feuds."
+  },
+  {
+    "movieId": 36,
+    "score": 0.9,
+    "reason": "Mad Love’s mismatched couple fights sparks into genuine high-school romance."
+  },
+  {
+    "movieId": 274,
+    "score": 0.85,
+    "reason": "Sabrina’s wry chauffeur’s daughter initially clashes before heartfelt devotion blooms."
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Four Weddings uses witty dueling banter that transforms foes into lovers."
+  },
+  {
+    "movieId": 92,
+    "score": 0.75,
+    "reason": "True Romance ignites with edgy loathing that softens into a fierce devotion."
+  },
+  {
+    "movieId": 49,
+    "score": 0.7,
+    "reason": "I.Q. pairs scientific skepticism with charming sparks into true affection."
+  },
+  {
+    "movieId": 152,
+    "score": 0.65,
+    "reason": "Sleeper’s futuristic foes banter until love prevails through the chaos."
+  },
+  {
+    "movieId": 482,
+    "score": 0.6,
+    "reason": "Some Like It Hot’s fierce costumer rivalry warms into undeniable affection."
+  },
+  {
+    "movieId": 43,
+    "score": 0.55,
+    "reason": "Disclosure delivers bitter office battles that gradually give way to reluctant attraction."
+  }
+]

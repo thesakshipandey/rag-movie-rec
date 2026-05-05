@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1065,
+    "score": 1.0,
+    "reason": "Meditative experimental film, no narrative, quiet and challenging."
+  },
+  {
+    "movieId": 171,
+    "score": 0.95,
+    "reason": "Surreal, dark French comedy in a deserted apartment block."
+  },
+  {
+    "movieId": 960,
+    "score": 0.9,
+    "reason": "Raw, unsettling study of an isolated man in London."
+  },
+  {
+    "movieId": 959,
+    "score": 0.85,
+    "reason": "Stream-of-consciousness indie portrait, meandering and offbeat."
+  },
+  {
+    "movieId": 32,
+    "score": 0.8,
+    "reason": "Documentary on underground cartoonist Robert Crumb, intimate and peculiar."
+  },
+  {
+    "movieId": 46,
+    "score": 0.75,
+    "reason": "Intense, atmospheric drama set in a strip club, brooding and offbeat."
+  },
+  {
+    "movieId": 790,
+    "score": 0.7,
+    "reason": "Quirky indie about an aspiring actress in NYC, subtle and character-driven."
+  },
+  {
+    "movieId": 116,
+    "score": 0.65,
+    "reason": "Off-kilter British comedy, eccentric rural tale with dry humor."
+  },
+  {
+    "movieId": 919,
+    "score": 0.6,
+    "reason": "Stylish, twisted fantasy with imaginative visuals and dark humor."
+  },
+  {
+    "movieId": 952,
+    "score": 0.55,
+    "reason": "Lo-fi New York tale, candid vignettes and quirky ensemble."
+  }
+]

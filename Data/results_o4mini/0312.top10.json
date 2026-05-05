@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 24,
+    "score": 0.98,
+    "reason": "Jackie Chan delivers breathtaking practical stunts in Rumble in the Bronx"
+  },
+  {
+    "movieId": 128,
+    "score": 0.96,
+    "reason": "Supercop showcases seamless Hong Kong action with real stunts and minimal camera shake"
+  },
+  {
+    "movieId": 599,
+    "score": 0.94,
+    "reason": "Police Story 4’s inventive stunts and physical chases define ’90s practical action"
+  },
+  {
+    "movieId": 96,
+    "score": 0.92,
+    "reason": "Terminator 2’s practical effects and Arnold’s steadfast action stand out over CGI"
+  },
+  {
+    "movieId": 405,
+    "score": 0.9,
+    "reason": "Mission: Impossible features Tom Cruise’s real stunts and clear, coherent action"
+  },
+  {
+    "movieId": 174,
+    "score": 0.88,
+    "reason": "Raiders of the Lost Ark blends practical effects with iconic stunt work and adventure"
+  },
+  {
+    "movieId": 117,
+    "score": 0.86,
+    "reason": "The Rock’s on-location stunts and real explosions deliver tangible, high-energy thrills"
+  },
+  {
+    "movieId": 298,
+    "score": 0.84,
+    "reason": "Face/Off’s elaborate real-world stunts and clear visuals emphasize authentic action"
+  },
+  {
+    "movieId": 233,
+    "score": 0.82,
+    "reason": "Under Siege’s battleship set hosts grounded fight scenes and palpable practical stunts"
+  },
+  {
+    "movieId": 79,
+    "score": 0.8,
+    "reason": "The Fugitive’s train crash and chase sequences rely on physical stunts and clear cinematography"
+  }
+]

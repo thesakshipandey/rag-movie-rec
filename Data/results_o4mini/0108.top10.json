@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 122,
+    "score": 0.95,
+    "reason": "Two children trek across the Australian wilderness, facing nature’s challenges on a fight for home."
+  },
+  {
+    "movieId": 511,
+    "score": 0.9,
+    "reason": "A British officer journeys across the Arabian desert on a dangerous mission against the odds."
+  },
+  {
+    "movieId": 1594,
+    "score": 0.85,
+    "reason": "Climbers battle the elements and thin air on a solo ascent to the world’s highest peak."
+  },
+  {
+    "movieId": 690,
+    "score": 0.8,
+    "reason": "A traveler treks through the Himalayan heights, enduring harsh terrain to reach safety."
+  },
+  {
+    "movieId": 132,
+    "score": 0.75,
+    "reason": "A young girl travels a magical yellow brick road to find her way home through an enchanted land."
+  },
+  {
+    "movieId": 69,
+    "score": 0.7,
+    "reason": "A man runs across America on a solitude quest, braving countless trials and highways."
+  },
+  {
+    "movieId": 177,
+    "score": 0.65,
+    "reason": "Three outlaws cross the Civil War wasteland on a perilous hunt for buried treasure."
+  },
+  {
+    "movieId": 173,
+    "score": 0.6,
+    "reason": "A hero journeys through perilous lands to rescue his true love from a distant fortress."
+  },
+  {
+    "movieId": 428,
+    "score": 0.55,
+    "reason": "A young man and his unlikely companion hitchhike across the country on an offbeat road adventure."
+  },
+  {
+    "movieId": 28,
+    "score": 0.5,
+    "reason": "Astronauts fight to return their crippled spacecraft safely to Earth across unforgiving space."
+  }
+]

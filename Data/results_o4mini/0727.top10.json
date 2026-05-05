@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 289,
+    "score": 1.0,
+    "reason": "Lavish biopic showcasing Eva Perón’s political ascent in Argentina"
+  },
+  {
+    "movieId": 1010,
+    "score": 0.9,
+    "reason": "Stylish biopic exploring Jean-Michel Basquiat’s rise in the New York art world"
+  },
+  {
+    "movieId": 531,
+    "score": 0.85,
+    "reason": "Powerful musical biopic of pianist David Helfgott’s triumph over adversity"
+  },
+  {
+    "movieId": 1278,
+    "score": 0.8,
+    "reason": "Heartwarming musical biopic of Tejano star Selena Quintanilla’s journey"
+  },
+  {
+    "movieId": 744,
+    "score": 0.75,
+    "reason": "Sweeping Irish political drama chronicling Michael Collins’s life"
+  },
+  {
+    "movieId": 190,
+    "score": 0.7,
+    "reason": "Elegant portrayal of the Dalai Lama’s exile and political struggle"
+  },
+  {
+    "movieId": 258,
+    "score": 0.65,
+    "reason": "Intelligent sci-fi drama probing the search for extraterrestrial life"
+  },
+  {
+    "movieId": 291,
+    "score": 0.6,
+    "reason": "High-stakes political thriller unraveling White House conspiracy"
+  },
+  {
+    "movieId": 236,
+    "score": 0.55,
+    "reason": "Satirical courtroom drama about the abortion debate’s legal battles"
+  },
+  {
+    "movieId": 1459,
+    "score": 0.5,
+    "reason": "Opulent opera drama blending art and passion in turn-of-the-century Japan"
+  }
+]

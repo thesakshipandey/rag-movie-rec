@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 331,
+    "score": 0.95,
+    "reason": "A lone plane crash survivor battles elements and wild bears in a remote Alaskan wilderness."
+  },
+  {
+    "movieId": 442,
+    "score": 0.85,
+    "reason": "After a priest’s murder in Amityville, a confession booth hides a deadly secret in isolated confinement."
+  },
+  {
+    "movieId": 164,
+    "score": 0.8,
+    "reason": "Oil rig workers trapped underwater face relentless pressure, dark corridors, and unseen threats."
+  },
+  {
+    "movieId": 1423,
+    "score": 0.75,
+    "reason": "Shipwreck leaves teens and crew stranded at sea, facing storms and dwindling supplies."
+  },
+  {
+    "movieId": 840,
+    "score": 0.7,
+    "reason": "A drifter in dystopian Los Angeles fights for survival amid ruthless lawlessness and environmental decay."
+  },
+  {
+    "movieId": 1643,
+    "score": 0.65,
+    "reason": "An alcoholic wanderer dodges bounty hunters and the corrupt in seedy urban backstreets."
+  },
+  {
+    "movieId": 536,
+    "score": 0.6,
+    "reason": "A child’s grief and fear collide in a lonely mansion where the living and the dead blur."
+  },
+  {
+    "movieId": 1387,
+    "score": 0.55,
+    "reason": "Teenagers caught in a deadly avalanche race for safety as nature turns violent without warning."
+  },
+  {
+    "movieId": 1595,
+    "score": 0.5,
+    "reason": "Survivors of a plutonium disaster in the Arctic desert fight extreme cold and isolation."
+  },
+  {
+    "movieId": 331,
+    "score": 0.45,
+    "reason": "A stranded wilderness cameraman outwits a pack of wolves while battling hunger and cold."
+  }
+]

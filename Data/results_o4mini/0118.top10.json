@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 191,
+    "score": 1.0,
+    "reason": "Mozart’s genius and Salieri’s manipulative reverence collide in this baroque tale of envy and mentorship."
+  },
+  {
+    "movieId": 87,
+    "score": 0.95,
+    "reason": "Young chess prodigy Josh and his coach navigate ambition and pressure in this moving mentorship drama."
+  },
+  {
+    "movieId": 531,
+    "score": 0.93,
+    "reason": "A piano prodigy’s rise under a demanding mentor turns dark as genius and trauma intertwine."
+  },
+  {
+    "movieId": 272,
+    "score": 0.91,
+    "reason": "A troubled young genius and his therapist form a charged bond that challenges them both."
+  },
+  {
+    "movieId": 196,
+    "score": 0.89,
+    "reason": "An inspiring teacher’s influence grips his brightest student in this stirring classroom drama."
+  },
+  {
+    "movieId": 15,
+    "score": 0.85,
+    "reason": "A devoted music teacher mentors his students while wrestling with his own artistic ambitions."
+  },
+  {
+    "movieId": 48,
+    "score": 0.82,
+    "reason": "Two basketball wunderkinds and their coach forge a complex, high-stakes bond on the court."
+  },
+  {
+    "movieId": 289,
+    "score": 0.78,
+    "reason": "Beethoven’s tumultuous relationships with those guiding his genius unfold in this period drama."
+  },
+  {
+    "movieId": 366,
+    "score": 0.75,
+    "reason": "A passionate teacher tries to unlock her students’ potential in a tough urban classroom."
+  },
+  {
+    "movieId": 196,
+    "score": 0.7,
+    "reason": "An inspiring teacher’s influence grips his brightest student in this stirring classroom drama."
+  }
+]

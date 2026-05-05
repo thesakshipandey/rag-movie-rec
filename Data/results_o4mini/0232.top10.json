@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 313,
+    "score": 1.0,
+    "reason": "Epic romance-disaster film set on the ill-fated RMS Titanic"
+  },
+  {
+    "movieId": 22,
+    "score": 0.99,
+    "reason": "Historical epic about Scottish hero William Wallace’s fight for freedom"
+  },
+  {
+    "movieId": 755,
+    "score": 0.98,
+    "reason": "Fantasy adventure where a magical board game unleashes jungle chaos"
+  },
+  {
+    "movieId": 203,
+    "score": 0.97,
+    "reason": "Gripping revisionist western following an ex-gunfighter’s final mission"
+  },
+  {
+    "movieId": 100,
+    "score": 0.96,
+    "reason": "Darkly comic crime thriller set against a snowy Minnesota landscape"
+  },
+  {
+    "movieId": 568,
+    "score": 0.95,
+    "reason": "High-octane action on a bus rigged to explode if it slows down"
+  },
+  {
+    "movieId": 42,
+    "score": 0.94,
+    "reason": "Cult classic slice-of-life comedy centering on two convenience store clerks"
+  },
+  {
+    "movieId": 258,
+    "score": 0.93,
+    "reason": "Sci-fi drama about a SETI scientist making first extraterrestrial contact"
+  },
+  {
+    "movieId": 239,
+    "score": 0.92,
+    "reason": "Tech-focused thriller about a team of experts who crack high-security systems"
+  },
+  {
+    "movieId": 8,
+    "score": 0.91,
+    "reason": "Charming tale of a pig who defies expectations to become a champion sheepdog"
+  }
+]

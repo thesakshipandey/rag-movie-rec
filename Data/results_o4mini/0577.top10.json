@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "The Remains of the Day’s restrained sorrow murmurs with unspoken regret."
+  },
+  {
+    "movieId": 664,
+    "score": 0.98,
+    "reason": "Paris, Texas’s vast, silent highways echo a family’s aching distance."
+  },
+  {
+    "movieId": 276,
+    "score": 0.96,
+    "reason": "Leaving Las Vegas’s raw descent into grief sits with heartbreak unflinching."
+  },
+  {
+    "movieId": 9,
+    "score": 0.94,
+    "reason": "Dead Man Walking’s quiet compassion holds the weight of looming loss."
+  },
+  {
+    "movieId": 318,
+    "score": 0.92,
+    "reason": "Schindler’s List’s stark monochrome shadows linger on irrevocable tragedy."
+  },
+  {
+    "movieId": 65,
+    "score": 0.9,
+    "reason": "What’s Eating Gilbert Grape’s small-town care wraps brotherly sorrow in warmth."
+  },
+  {
+    "movieId": 51,
+    "score": 0.88,
+    "reason": "Legends of the Fall’s epic saga rests on brothers’ irrevocable, haunting loss."
+  },
+  {
+    "movieId": 14,
+    "score": 0.86,
+    "reason": "Il Postino’s seaside verses carry the gentle ache of unvoiced longing."
+  },
+  {
+    "movieId": 207,
+    "score": 0.84,
+    "reason": "Cyrano de Bergerac’s wistful Mooring of words lets heartache bloom in silence."
+  },
+  {
+    "movieId": 170,
+    "score": 0.82,
+    "reason": "Cinema Paradiso’s nostalgic reels cradle the bittersweet ache of memory."
+  }
+]

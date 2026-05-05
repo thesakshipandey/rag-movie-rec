@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 31,
+    "score": 0.95,
+    "reason": "Crimson Tide’s claustrophobic submarine siege ratchets up pressure, paranoia and resource strain"
+  },
+  {
+    "movieId": 28,
+    "score": 0.92,
+    "reason": "Apollo 13 depicts a harrowing space besiegement, fighting mechanical failures with dwindling resources"
+  },
+  {
+    "movieId": 54,
+    "score": 0.9,
+    "reason": "Outbreak traps a town under viral siege, detailing agonizing resource management and mounting dread"
+  },
+  {
+    "movieId": 179,
+    "score": 0.88,
+    "reason": "Apocalypse Now imposes a psychological siege on its mission, haunted by betrayal and the jungle’s weight"
+  },
+  {
+    "movieId": 205,
+    "score": 0.85,
+    "reason": "Patton portrays a general under siege by politics and morale, testing defenses of honor and resolve"
+  },
+  {
+    "movieId": 659,
+    "score": 0.82,
+    "reason": "Arsenic and Old Lace hosts a domestic siege of gossip-fueled paranoia and absurd tension on Christmas Eve"
+  },
+  {
+    "movieId": 998,
+    "score": 0.8,
+    "reason": "Silence of the Lambs depicts FBI agents under psychological siege, resources and trust cracking fast"
+  },
+  {
+    "movieId": 150,
+    "score": 0.78,
+    "reason": "Swingers shows friends defending their confidence from cultural threats in a tension-fraught social siege"
+  },
+  {
+    "movieId": 334,
+    "score": 0.75,
+    "reason": "U Turn’s deserted highway becomes a siege of suspicion and paranoia over dwindling options"
+  },
+  {
+    "movieId": 164,
+    "score": 0.72,
+    "reason": "Abyss’s underwater crew is besieged by unknown forces, straining wills and supplies under crushing pressure"
+  }
+]

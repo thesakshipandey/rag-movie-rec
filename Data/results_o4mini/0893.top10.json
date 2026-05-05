@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 133,
+    "score": 0.95,
+    "reason": "Grand Civil War epic scope and stunning visuals."
+  },
+  {
+    "movieId": 136,
+    "score": 0.9,
+    "reason": "Political machinations in grand period setting."
+  },
+  {
+    "movieId": 134,
+    "score": 0.85,
+    "reason": "Rise and fall of a media magnate in grand style."
+  },
+  {
+    "movieId": 83,
+    "score": 0.8,
+    "reason": "Shakespearean epic, lavish sets."
+  },
+  {
+    "movieId": 532,
+    "score": 0.75,
+    "reason": "16th-century Indian courtly drama in scope."
+  },
+  {
+    "movieId": 325,
+    "score": 0.7,
+    "reason": "European forest mystery, visually bold."
+  },
+  {
+    "movieId": 139,
+    "score": 0.65,
+    "reason": "Epic auto racing drama with period flair."
+  },
+  {
+    "movieId": 626,
+    "score": 0.6,
+    "reason": "Boy’s transformation tale with period fantasy."
+  },
+  {
+    "movieId": 361,
+    "score": 0.55,
+    "reason": "Art heist thriller with period detail."
+  },
+  {
+    "movieId": 152,
+    "score": 0.5,
+    "reason": "Women-led 1920s revival musical in grand sets."
+  }
+]

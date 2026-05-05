@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 258,
+    "score": 0.99,
+    "reason": "First-contact linguistics and awe in Contact"
+  },
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "Monolith communication puzzle in 2001: A Space Odyssey"
+  },
+  {
+    "movieId": 228,
+    "score": 0.9,
+    "reason": "Alien probe’s peaceful contact on space station in Star Trek VI: The Undiscovered Country"
+  },
+  {
+    "movieId": 222,
+    "score": 0.88,
+    "reason": "Picard confronts first contact paradox in Star Trek: First Contact"
+  },
+  {
+    "movieId": 89,
+    "score": 0.85,
+    "reason": "Non-invasion alien study in Blade Runner’s ethical future tension"
+  },
+  {
+    "movieId": 62,
+    "score": 0.82,
+    "reason": "Gate’s enigma and communication mystery in Stargate"
+  },
+  {
+    "movieId": 258,
+    "score": 0.8,
+    "reason": "SETI dialogue and wonder in Contact"
+  },
+  {
+    "movieId": 228,
+    "score": 0.78,
+    "reason": "Diplomacy over war in Star Trek VI: The Undiscovered Country"
+  },
+  {
+    "movieId": 58,
+    "score": 0.75,
+    "reason": "Media’s hidden truths and moral questions in Quiz Show"
+  },
+  {
+    "movieId": 222,
+    "score": 0.72,
+    "reason": "Human-alien language stakes in Star Trek: First Contact"
+  }
+]

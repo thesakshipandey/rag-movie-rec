@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 1.0,
+    "reason": "Sweeping epic of freedom and heroism that ends on an elating victory."
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "True-story space mission thriller culminating in a breathtaking safe return."
+  },
+  {
+    "movieId": 64,
+    "score": 0.9,
+    "reason": "Inspiring tale of hope and resilience leading to a triumphant escape."
+  },
+  {
+    "movieId": 468,
+    "score": 0.85,
+    "reason": "Uplifting underdog sports story that scores a heartwarming goal."
+  },
+  {
+    "movieId": 193,
+    "score": 0.8,
+    "reason": "True-life pilot saga celebrating courage and pioneering spirit."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.75,
+    "reason": "Feel-good bobsled comedy where the least likely heroes make history."
+  },
+  {
+    "movieId": 205,
+    "score": 0.7,
+    "reason": "Commanding WWII biopic showcasing unstoppable leadership in triumph."
+  },
+  {
+    "movieId": 204,
+    "score": 0.65,
+    "reason": "Time-traveling adventure that fuels wonder and leaves you smiling."
+  },
+  {
+    "movieId": 215,
+    "score": 0.6,
+    "reason": "You’ll believe in second chances with its ageless, triumphant spirit."
+  },
+  {
+    "movieId": 71,
+    "score": 0.55,
+    "reason": "Heart-swelling animated journey of reclaiming one’s destined place."
+  }
+]

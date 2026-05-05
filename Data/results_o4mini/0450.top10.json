@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 664,
+    "score": 1.0,
+    "reason": "Slow, meditative landscape psychodrama that feels like life itself unfolding in hushed tones."
+  },
+  {
+    "movieId": 60,
+    "score": 0.95,
+    "reason": "Elegant character study of grief and rebirth told in a graceful, unhurried style."
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "Lyrical ode to cinema and memory, tenderly paced and deeply empathetic."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.85,
+    "reason": "Vibrant vignettes of city life and fleeting encounters rendered with infectious calm."
+  },
+  {
+    "movieId": 516,
+    "score": 0.8,
+    "reason": "Charming small-town tale of unlikely friendships that unfolds with gentle warmth."
+  },
+  {
+    "movieId": 14,
+    "score": 0.75,
+    "reason": "Delightfully poetic coming-of-age story where every sunrise feels like a revelation."
+  },
+  {
+    "movieId": 18,
+    "score": 0.7,
+    "reason": "Tender, simple quest viewed through the innocent eyes of a child on a market day."
+  },
+  {
+    "movieId": 1199,
+    "score": 0.65,
+    "reason": "Quiet wartime romance that lingers in the spaces between words and glances."
+  },
+  {
+    "movieId": 464,
+    "score": 0.6,
+    "reason": "Minimalist staging of a classic play by strangers in an empty theater, quietly alive."
+  },
+  {
+    "movieId": 584,
+    "score": 0.55,
+    "reason": "Gradual suspense piece with serene visuals and the weight of waiting heavy in the air."
+  }
+]

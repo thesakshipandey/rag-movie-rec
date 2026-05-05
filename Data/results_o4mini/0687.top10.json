@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 1.0,
+    "reason": "Travis Bickle’s post-Vietnam insomnia and alienation showcase a soldier’s inner torment"
+  },
+  {
+    "movieId": 188,
+    "score": 0.95,
+    "reason": "A Marine’s psyche unravels during brutal Vietnam boot camp in Full Metal Jacket"
+  },
+  {
+    "movieId": 180,
+    "score": 0.9,
+    "reason": "Captain Willard’s solo river journey in Apocalypse Now reveals deep mental anguish"
+  },
+  {
+    "movieId": 157,
+    "score": 0.88,
+    "reason": "Platoon’s Private Taylor faces moral crises and guilt far from combat heroics"
+  },
+  {
+    "movieId": 521,
+    "score": 0.85,
+    "reason": "The Deer Hunter portrays one veteran’s harrowing PTSD after Vietnam captivity"
+  },
+  {
+    "movieId": 199,
+    "score": 0.82,
+    "reason": "Bridge on the River Kwai delves into a POW’s psychological struggle under Japanese siege"
+  },
+  {
+    "movieId": 641,
+    "score": 0.8,
+    "reason": "Paths of Glory examines one soldier’s despair under ruthless trench warfare orders"
+  },
+  {
+    "movieId": 511,
+    "score": 0.78,
+    "reason": "Lawrence of Arabia follows a lone officer’s identity crisis in the desert campaigns"
+  },
+  {
+    "movieId": 205,
+    "score": 0.75,
+    "reason": "Patton reveals a general’s inner conflicts amid World War II command pressures"
+  },
+  {
+    "movieId": 651,
+    "score": 0.74,
+    "reason": "Glory tracks Colonel Shaw’s emotional burden leading an African-American regiment"
+  }
+]

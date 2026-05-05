@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 1.0,
+    "reason": "A family isolated in a haunted hotel feels the walls close in with mounting dread."
+  },
+  {
+    "movieId": 31,
+    "score": 0.95,
+    "reason": "A submarine crew trapped underwater in a nuclear crisis—claustrophobic tension nonstop."
+  },
+  {
+    "movieId": 665,
+    "score": 0.9,
+    "reason": "Imprisoned on a brutal planet, Ripley confronts horrors in tight corridors."
+  },
+  {
+    "movieId": 98,
+    "score": 0.85,
+    "reason": "An FBI trainee in a celluloid-light cage, the hunt for Buffalo Bill tightens the noose."
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "A future prison of sanity warps time as one man races against a virus outbreak."
+  },
+  {
+    "movieId": 199,
+    "score": 0.75,
+    "reason": "POWs struggle in a POW camp’s tight grids, every corridor a promise of doom."
+  },
+  {
+    "movieId": 176,
+    "score": 0.7,
+    "reason": "A dropship lures you into an alien hive—tight spaces, relentless dread."
+  },
+  {
+    "movieId": 144,
+    "score": 0.65,
+    "reason": "A lone cop battles terrorists in a trapped high-rise, every floor a trap."
+  },
+  {
+    "movieId": 226,
+    "score": 0.6,
+    "reason": "Runway to runway, Dulles Airport shuts down in a guilty man’s lethal game of cat and mouse."
+  },
+  {
+    "movieId": 142,
+    "score": 0.55,
+    "reason": "Orphaned siblings seek safety in a clearing—but the wood’s embrace grows ever tighter."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.98,
+    "reason": "Pioneering nonlinear crime masterpiece by Tarantino."
+  },
+  {
+    "movieId": 82,
+    "score": 0.97,
+    "reason": "Groundbreaking 1993 sci-fi adventure with Jurassic dinosaurs."
+  },
+  {
+    "movieId": 89,
+    "score": 0.96,
+    "reason": "Visionary 1982 sci-fi noir examining identity and humanity."
+  },
+  {
+    "movieId": 127,
+    "score": 0.95,
+    "reason": "1972 mafia epic that redefined the gangster genre."
+  },
+  {
+    "movieId": 134,
+    "score": 0.94,
+    "reason": "Citizen Kane’s innovative storytelling and cinematography."
+  },
+  {
+    "movieId": 180,
+    "score": 0.93,
+    "reason": "Intense Vietnam War odyssey that reshaped modern cinema."
+  },
+  {
+    "movieId": 182,
+    "score": 0.92,
+    "reason": "Scorsese’s dynamic portrayal of mob life in New York City."
+  },
+  {
+    "movieId": 204,
+    "score": 0.91,
+    "reason": "Time-travel adventure that captured a generation’s imagination."
+  },
+  {
+    "movieId": 235,
+    "score": 0.9,
+    "reason": "Satirical sci-fi blockbuster combining humor and spectacle."
+  },
+  {
+    "movieId": 318,
+    "score": 0.89,
+    "reason": "Powerful Holocaust drama based on Oskar Schindler’s true story."
+  }
+]

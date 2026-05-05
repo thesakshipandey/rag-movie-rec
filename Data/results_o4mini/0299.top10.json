@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 1.0,
+    "reason": "Clerks is a sharp-witted indie comedy that moves at a brisk 90-minute pace."
+  },
+  {
+    "movieId": 430,
+    "score": 0.95,
+    "reason": "Duck Soup delivers nonstop Marx Brothers zaniness in under an hour and a half."
+  },
+  {
+    "movieId": 501,
+    "score": 0.9,
+    "reason": "Dumbo enchants in just over an hour with timeless animation and heart."
+  },
+  {
+    "movieId": 616,
+    "score": 0.85,
+    "reason": "Night of the Living Dead reinvents horror in a lean, tension-filled runtime."
+  },
+  {
+    "movieId": 426,
+    "score": 0.8,
+    "reason": "Transformers: The Movie packs giant robot battles into a tight 83-minute sci-fi romp."
+  },
+  {
+    "movieId": 1067,
+    "score": 0.75,
+    "reason": "Bottle Rocket charms with witty heist antics in a brisk, character-driven comedy."
+  },
+  {
+    "movieId": 240,
+    "score": 0.7,
+    "reason": "Beavis and Butt-head Do America brings cartoon chaos in under 90 wild minutes."
+  },
+  {
+    "movieId": 314,
+    "score": 0.65,
+    "reason": "3 Ninjas: High Noon at Mega Mountain mixes family action in a lean adventure."
+  },
+  {
+    "movieId": 389,
+    "score": 0.6,
+    "reason": "Black Beauty tells its moving story in a concise, heartfelt family film."
+  },
+  {
+    "movieId": 169,
+    "score": 0.55,
+    "reason": "The Wrong Trousers delights with inventive stop-motion and a breezy 30-minute ride."
+  }
+]

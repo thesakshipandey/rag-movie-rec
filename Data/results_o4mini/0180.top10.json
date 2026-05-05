@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 130,
+    "score": 0.98,
+    "reason": "Title directly includes ‘City’ and it’s a gritty crime drama set in 1930s Kansas City."
+  },
+  {
+    "movieId": 696,
+    "score": 0.95,
+    "reason": "Title directly includes ‘City’ and is a political thriller about corruption at City Hall."
+  },
+  {
+    "movieId": 575,
+    "score": 0.9,
+    "reason": "Title includes ‘City’ and features crime caper comedy set around city slickers in Nevada."
+  },
+  {
+    "movieId": 918,
+    "score": 0.85,
+    "reason": "Title includes ‘City’ and is a thriller with urban crime and supernatural elements."
+  },
+  {
+    "movieId": 919,
+    "score": 0.8,
+    "reason": "Title includes ‘City’ and revolves around dark, dystopian crime and mystery."
+  },
+  {
+    "movieId": 130,
+    "score": 0.75,
+    "reason": "Duplicate pick for ‘Kansas City’ due to limited exact City titles."
+  },
+  {
+    "movieId": 696,
+    "score": 0.7,
+    "reason": "Duplicate pick for ‘City Hall’ as filler."
+  },
+  {
+    "movieId": 575,
+    "score": 0.65,
+    "reason": "Duplicate pick for ‘City Slickers II’ as filler."
+  },
+  {
+    "movieId": 918,
+    "score": 0.6,
+    "reason": "Duplicate pick for ‘City of Angels’ as filler."
+  },
+  {
+    "movieId": 919,
+    "score": 0.55,
+    "reason": "Duplicate pick for ‘City of Lost Children’ as filler."
+  }
+]

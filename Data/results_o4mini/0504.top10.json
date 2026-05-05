@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 93,
+    "score": 0.98,
+    "reason": "Unflinching teen portrait of isolation, anger, and darkly comic survival."
+  },
+  {
+    "movieId": 1074,
+    "score": 0.96,
+    "reason": "Larry’s Gen-X malaise captures visible frustration and fleeting hope."
+  },
+  {
+    "movieId": 272,
+    "score": 0.95,
+    "reason": "Brash realism and raw humor illuminate a genius wrestling with his demons."
+  },
+  {
+    "movieId": 246,
+    "score": 0.94,
+    "reason": "Lyrical, messy love story that refuses to gloss over confusion and pain."
+  },
+  {
+    "movieId": 150,
+    "score": 0.93,
+    "reason": "Cocktail of weapons-grade wit and mid-life resetting anxieties."
+  },
+  {
+    "movieId": 42,
+    "score": 0.92,
+    "reason": "Low-fi slice of late-20s disillusionment and biting, relatable banter."
+  },
+  {
+    "movieId": 240,
+    "score": 0.91,
+    "reason": "Two slackers’ misadventures fuel frustration with a comedic slant."
+  },
+  {
+    "movieId": 772,
+    "score": 0.9,
+    "reason": "Unvarnished view of adolescent alienation with a pulse of hope."
+  },
+  {
+    "movieId": 237,
+    "score": 0.89,
+    "reason": "Quirky sports agent finds redemption in the absurd and unexpected."
+  },
+  {
+    "movieId": 655,
+    "score": 0.88,
+    "reason": "Small-town empathy for a family under pressure, both raw and redemptive."
+  }
+]

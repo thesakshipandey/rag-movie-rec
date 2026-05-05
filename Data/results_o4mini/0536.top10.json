@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "A visual and auditory odyssey that contemplates humanity and cosmos."
+  },
+  {
+    "movieId": 665,
+    "score": 0.95,
+    "reason": "A silent journey through a haunting zone, meditative and surreal."
+  },
+  {
+    "movieId": 464,
+    "score": 0.93,
+    "reason": "Actors rehearse life and art in a decaying theater, quietly reflective."
+  },
+  {
+    "movieId": 634,
+    "score": 0.9,
+    "reason": "Spellbinding close-ups of insects reveal nature’s minute wonders."
+  },
+  {
+    "movieId": 663,
+    "score": 0.88,
+    "reason": "A simple gardener's words bridge existential gaps in calm wisdom."
+  },
+  {
+    "movieId": 86,
+    "score": 0.86,
+    "reason": "An unspoken life of service and regret unfolds in gentle dignity."
+  },
+  {
+    "movieId": 45,
+    "score": 0.84,
+    "reason": "Food, family, and fate intermingle in a rich, contemplative feast."
+  },
+  {
+    "movieId": 537,
+    "score": 0.82,
+    "reason": "A drifting soul finds meaning in small-town moments of connection."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.8,
+    "reason": "Fragments of urban love and longing captured in dreamy vignettes."
+  },
+  {
+    "movieId": 170,
+    "score": 0.78,
+    "reason": "A nostalgic ode to cinema’s power to evoke memory and emotion."
+  }
+]

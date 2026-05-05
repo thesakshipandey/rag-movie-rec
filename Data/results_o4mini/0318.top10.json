@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 70,
+    "score": 0.98,
+    "reason": "Four Weddings and a Funeral’s witty dialogue and sharp social humor make it a smart romantic comedy classic"
+  },
+  {
+    "movieId": 168,
+    "score": 0.96,
+    "reason": "Monty Python and the Holy Grail’s absurd wit and satirical medieval send-up remain brilliantly clever"
+  },
+  {
+    "movieId": 154,
+    "score": 0.94,
+    "reason": "Monty Python’s Life of Brian’s razor-sharp religious satire and comedic chops deliver enduring wit"
+  },
+  {
+    "movieId": 474,
+    "score": 0.92,
+    "reason": "Dr. Strangelove’s biting satire of nuclear war and gleefully sharp humor defines political comedy genius"
+  },
+  {
+    "movieId": 482,
+    "score": 0.9,
+    "reason": "Some Like It Hot’s snappy wit and gender-bending gags showcase one of Hollywood’s breeziest comedies"
+  },
+  {
+    "movieId": 481,
+    "score": 0.88,
+    "reason": "The Apartment’s clever critique of corporate life and dry, heartfelt humor cement its comic-classic status"
+  },
+  {
+    "movieId": 494,
+    "score": 0.86,
+    "reason": "His Girl Friday’s rapid-fire banter and incisive comedic timing make it a masterclass in witty dialogue"
+  },
+  {
+    "movieId": 428,
+    "score": 0.84,
+    "reason": "Harold and Maude’s darkly whimsical story and sharp humor explore love and mortality with clever warmth"
+  },
+  {
+    "movieId": 663,
+    "score": 0.82,
+    "reason": "Being There’s sly satire and understated wit portray a charming take on media and modern politics"
+  },
+  {
+    "movieId": 430,
+    "score": 0.8,
+    "reason": "Duck Soup’s anarchic political farce and Marx Brothers’ quicksilver comedy remain hilariously sharp"
+  }
+]

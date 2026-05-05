@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "A masterclass in cool dialogue and nonlinear swagger from pulp crime’s finest."
+  },
+  {
+    "movieId": 12,
+    "score": 0.94,
+    "reason": "A complex caper with razor-sharp wit and a finale that slashes expectations."
+  },
+  {
+    "movieId": 4,
+    "score": 0.92,
+    "reason": "A slick crime comedy with hip style and sharp, playful banter."
+  },
+  {
+    "movieId": 42,
+    "score": 0.9,
+    "reason": "Low-fi charm and razor-sharp dialogue fuel this cult classic’s funky energy."
+  },
+  {
+    "movieId": 156,
+    "score": 0.89,
+    "reason": "A stylish, taut thriller bursting with edgy talk and kinetic cool."
+  },
+  {
+    "movieId": 27,
+    "score": 0.87,
+    "reason": "Miami heat, wisecracking cops, and non-stop action serve up pure cool."
+  },
+  {
+    "movieId": 150,
+    "score": 0.85,
+    "reason": "A breezy, impeccably styled comedy with smart banter and retro vibes."
+  },
+  {
+    "movieId": 92,
+    "score": 0.84,
+    "reason": "Quirky crime romance with edgy humor and a killer sense of style."
+  },
+  {
+    "movieId": 39,
+    "score": 0.82,
+    "reason": "A gritty, neon-soaked thriller pulsating with electrifying cool."
+  },
+  {
+    "movieId": 11,
+    "score": 0.8,
+    "reason": "A dark, moody procedural that crackles with intelligent grit."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.95,
+    "reason": "Authentic WWII-historical drama courtroom story."
+  },
+  {
+    "movieId": 502,
+    "score": 0.9,
+    "reason": "Based on true Cold War submarine defection."
+  },
+  {
+    "movieId": 101,
+    "score": 0.85,
+    "reason": "Documentary on Vietnam-era underground comix scandal."
+  },
+  {
+    "movieId": 323,
+    "score": 0.8,
+    "reason": "True WWI incident turned political thriller."
+  },
+  {
+    "movieId": 42,
+    "score": 0.75,
+    "reason": "Insider publishing scandal from real events."
+  },
+  {
+    "movieId": 58,
+    "score": 0.7,
+    "reason": "Quiz show scandal retold with legal realism."
+  },
+  {
+    "movieId": 77,
+    "score": 0.65,
+    "reason": "Law firm conspiracy based on true-case parallels."
+  },
+  {
+    "movieId": 93,
+    "score": 0.6,
+    "reason": "True 90s coming-of-age crisis from real author’s life."
+  },
+  {
+    "movieId": 728,
+    "score": 0.55,
+    "reason": "Based on Belgium’s 1911 doctor-in-prisoner case."
+  },
+  {
+    "movieId": 593,
+    "score": 0.5,
+    "reason": "Documentary on Stalingrad’s WWII events."
+  }
+]

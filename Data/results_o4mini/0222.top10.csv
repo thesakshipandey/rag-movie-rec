@@ -1,0 +1,11 @@
+movieId,score,reason
+0,0.95,No movies released in 2025 present
+0,0.9,No entries match this year
+0,0.88,No 2025 releases available
+0,0.85,Year filter found no matches
+0,0.83,None of the candidates are from this year
+0,0.8,No 2025 titles in the list
+0,0.78,No new releases found
+0,0.75,Year constraint unmet
+0,0.73,No films match current-year release
+0,0.7,Empty set due to year filter

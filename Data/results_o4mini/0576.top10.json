@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 132,
+    "score": 1.0,
+    "reason": "The Wizard of Oz’s technicolor dreamscape transports you into pure fantasy."
+  },
+  {
+    "movieId": 420,
+    "score": 0.98,
+    "reason": "Alice in Wonderland’s surreal tea parties feel like a waking fairytale."
+  },
+  {
+    "movieId": 419,
+    "score": 0.96,
+    "reason": "Mary Poppins’s flying umbrellas and song-filled rooftops enchant utterly."
+  },
+  {
+    "movieId": 142,
+    "score": 0.94,
+    "reason": "Bedknobs and Broomsticks’ magic chalk and spellbound knights charm the soul."
+  },
+  {
+    "movieId": 173,
+    "score": 0.92,
+    "reason": "The Princess Bride’s swordplay and winking wit sparkle with storybook charm."
+  },
+  {
+    "movieId": 99,
+    "score": 0.9,
+    "reason": "Snow White’s cottage and forest creatures dance in hand-painted wonder."
+  },
+  {
+    "movieId": 1091,
+    "score": 0.88,
+    "reason": "Pete’s Dragon’s boy-and-beast bond shimmers with vintage Disney magic."
+  },
+  {
+    "movieId": 463,
+    "score": 0.86,
+    "reason": "The Secret of Roan Inish drifts you into haunting Celtic island mystery."
+  },
+  {
+    "movieId": 1408,
+    "score": 0.84,
+    "reason": "The Swan Princess’s elegant dances and swan spells melt reality away."
+  },
+  {
+    "movieId": 432,
+    "score": 0.82,
+    "reason": "Fantasia’s blend of music and animation feels like living watercolor."
+  }
+]

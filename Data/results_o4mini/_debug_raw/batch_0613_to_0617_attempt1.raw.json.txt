@@ -1,0 +1,74 @@
+{
+  "results": {
+    "0613": {
+      "top10": [
+        {"movieId": 12, "score": 1.00, "reason": "A masterclass in deceit, this crime thriller teases out secrets with razor-sharp dialogue and a devastating final twist."},
+        {"movieId": 159, "score": 0.95, "reason": "Seductive and scandalous, this erotic thriller drips with whispered lies and high-stakes mystery."},
+        {"movieId": 43, "score": 0.90, "reason": "Corporate betrayals and hushed conspiracies fuel this slick legal drama, where every secret counts."},
+        {"movieId": 333, "score": 0.88, "reason": "A reality-bending mind game that ratchets up tension as buried truths surface in shocking fashion."},
+        {"movieId": 11, "score": 0.86, "reason": "Seven sins and darker secrets converge in an atmospheric hunt for a killer, whispering dread at every turn."},
+        {"movieId": 77, "score": 0.84, "reason": "A young lawyer uncovers buried scandals in a ruthless law firm, where every revelation risks everything."},
+        {"movieId": 55, "score": 0.82, "reason": "A brilliant profiler drawn into a deadly puzzle, where each whispered clue inches closer to terror."},
+        {"movieId": 654, "score": 0.80, "reason": "A detective peels back a city’s shiny veneer to expose lethal corruption just beneath the surface."},
+        {"movieId": 54, "score": 0.78, "reason": "A viral outbreak kept hidden ignites panic and secrets in this pulse-pounding medical thriller."},
+        {"movieId": 200, "score": 0.76, "reason": "A tense hunt for a manipulative psychopath, where every secret lurking in the shadows threatens to explode."}
+      ]
+    },
+    "0614": {
+      "top10": [
+        {"movieId": 441, "score": 1.00, "reason": "A family moves into a pristine home, only to find unseen terrors lurking in its walls and whispers in the night."},
+        {"movieId": 438, "score": 0.95, "reason": "Suburban dullness shattered by a monstrous terror rising from the sea, hiding its claws beneath calm waters."},
+        {"movieId": 440, "score": 0.90, "reason": "Sinister shadows return to a sleepy town, reigniting old horrors behind every manicured hedge."},
+        {"movieId": 439, "score": 0.88, "reason": "An evil dollhouse mirrors twisted secrets in a picture-perfect suburb under its glassy gaze."},
+        {"movieId": 442, "score": 0.86, "reason": "A priest’s dark confessions haunt an idyllic village, turning piety into paranoia."},
+        {"movieId": 305, "score": 0.84, "reason": "A perfect family, a terrible ice storm, and a suburban calm cracking open to reveal hidden fractures."},
+        {"movieId": 123, "score": 0.82, "reason": "The living dead stroll through a peaceful town, unraveling its everyday bliss with every ghostly whisper."},
+        {"movieId": 337, "score": 0.80, "reason": "An eccentric family estate brims with offbeat charm and lurking madness behind its genteel facade."},
+        {"movieId": 565, "score": 0.78, "reason": "Children in a placid town fall silent in a chilling dream, revealing an unsettling force at the heart of normalcy."},
+        {"movieId": 1230, "score": 0.76, "reason": "A top-secret CIA mission crashes into a town’s calm, kicking off unseen dangers beneath friendly streets."}
+      ]
+    },
+    "0615": {
+      "top10": [
+        {"movieId": 60, "score": 1.00, "reason": "A woman's silent grief and icy resolve unfold amidst grand but lonely Geneva streets."},
+        {"movieId": 23, "score": 0.95, "reason": "A solitary cabbie weaves through neon-soaked nights, haunted by disconnection in a crowded city."},
+        {"movieId": 957, "score": 0.90, "reason": "An outsider’s quiet wisdom and gentle humor bridge the gap between cultural worlds in rural Oz."},
+        {"movieId": 517, "score": 0.88, "reason": "A poet’s reflective wanderings through New York capture the ache of living between crowds."},
+        {"movieId": 305, "score": 0.86, "reason": "Beneath suburbia’s frozen veneer lies a tapestry of alienation, craving warmth and belonging."},
+        {"movieId": 179, "score": 0.84, "reason": "A lone ultraviolent antihero navigates a dystopian city, seeking a spark of real human connection."},
+        {"movieId": 175, "score": 0.82, "reason": "A Kafkaesque journey through bureaucratic ruins, where alienation becomes a living, breathing foe."},
+        {"movieId": 475, "score": 0.80, "reason": "Five friends drift through Edinburgh’s gray streets, yearning to escape the emptiness of their routines."},
+        {"movieId": 514, "score": 0.78, "reason": "Neurotic banter and tender vulnerability collide as a comic duo dances around honest emotion."},
+        {"movieId": 605, "score": 0.76, "reason": "A mother and daughter’s nostalgic letters whisk us through moments of icy beauty and quiet longing."}
+      ]
+    },
+    "0616": {
+      "top10": [
+        {"movieId": 1, "score": 1.00, "reason": "Warm-hearted adventure that feels like a cozy embrace in a world of friendly, familiar faces."},
+        {"movieId": 8, "score": 0.95, "reason": "Gentle countryside charm and a lovable pig’s journey offer down-home comfort and simple joy."},
+        {"movieId": 78, "score": 0.90, "reason": "A young boy’s friendship with an orca brings soothing wonder and tender moments."},
+        {"movieId": 88, "score": 0.88, "reason": "A sweet, snow-kissed romance that feels like a comforting chat by the fireside."},
+        {"movieId": 66, "score": 0.86, "reason": "Lighthearted holiday magic and warm banter make this a gentle, feel-good escape."},
+        {"movieId": 393, "score": 0.84, "reason": "Hilarious family antics wrapped in a loving, goofy spirit that soothes the soul."},
+        {"movieId": 272, "score": 0.82, "reason": "Grounded performances and uplifting friendship threads craft a nurturing cinematic hug."},
+        {"movieId": 255, "score": 0.80, "reason": "Charming wit and heartfelt warmth turn a spilled plan into a deliciously cozy romance."},
+        {"movieId": 15, "score": 0.78, "reason": "A teacher’s life-affirming journey offers gentle tunes and soft reflections on belonging."},
+        {"movieId": 102, "score": 0.76, "reason": "Delightful feline capers in Paris deliver playful comfort and easy smiles."}
+      ]
+    },
+    "0617": {
+      "top10": [
+        {"movieId": 216, "score": 1.00, "reason": "Witty banter and electric chemistry make this a sparkling romantic romp for any first-date feel."},
+        {"movieId": 487, "score": 0.95, "reason": "Effortless charm and playful curiosity ignite a dreamy, sunlit Parisian adventure."},
+        {"movieId": 605, "score": 0.90, "reason": "Family warmth and sweet flirtations shimmer under festive lights and tender laughs."},
+        {"movieId": 514, "score": 0.88, "reason": "Neurotic humor and vulnerable honesty create a love story buzzing with vibrant wit."},
+        {"movieId": 70, "score": 0.86, "reason": "Effervescent gatherings and quick-witted romance sparkle in this delightful ensemble."},
+        {"movieId": 66, "score": 0.84, "reason": "Cozy banter and shy glances warm this Christmas Eve romance into a twinkling delight."},
+        {"movieId": 88, "score": 0.82, "reason": "Snowy strolls and heartfelt jokes dance together in this charming, feel-good pairing."},
+        {"movieId": 49, "score": 0.80, "reason": "Horn-rimmed quips and intellectual sparks make this an endearing, bookish love affair."},
+        {"movieId": 1287, "score": 0.78, "reason": "Silky dancefloor banter and cheeky grins twirl in this toe-tapping romantic comedy."},
+        {"movieId": 605, "score": 0.76, "reason": "Intimate glances and seasonal joy mingle in this classic holiday meet-cute."}
+      ]
+    }
+  }
+}

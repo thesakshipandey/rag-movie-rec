@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 81,
+    "score": 1.0,
+    "reason": "Mailroom hopeful becomes corporate boss in a bizarre satire of boardroom greed and ambition."
+  },
+  {
+    "movieId": 175,
+    "score": 0.95,
+    "reason": "Absurd dystopian farce skewers sky-high bureaucracy and consumer culture’s suffocating hold."
+  },
+  {
+    "movieId": 160,
+    "score": 0.9,
+    "reason": "Scorching real estate sales satire exposing ruthless ambition through razor-sharp dialogue."
+  },
+  {
+    "movieId": 262,
+    "score": 0.85,
+    "reason": "Lecherous executives weaponize office sexism in a cutting corporate satire of male entitlement."
+  },
+  {
+    "movieId": 474,
+    "score": 0.8,
+    "reason": "Black comedy on nuclear brinkmanship skewers the military-industrial complex’s absurdities."
+  },
+  {
+    "movieId": 1127,
+    "score": 0.75,
+    "reason": "Life as a TV show exposes the underbelly of media manipulation and voyeuristic spectacle."
+  },
+  {
+    "movieId": 171,
+    "score": 0.7,
+    "reason": "Macabre comedy in a ramshackle building turns food scarcity into a feast of biting social satire."
+  },
+  {
+    "movieId": 39,
+    "score": 0.65,
+    "reason": "Tech-noir thriller of illicit memory trades, exposing corporate lust for control and profit."
+  },
+  {
+    "movieId": 53,
+    "score": 0.6,
+    "reason": "Media-fed crime spree skewers tabloids and the profit-driven hunger for sensational headlines."
+  },
+  {
+    "movieId": 4,
+    "score": 0.55,
+    "reason": "Loan shark navigates Hollywood’s shallow corporate world in a playful yet sharp critique of greed."
+  }
+]

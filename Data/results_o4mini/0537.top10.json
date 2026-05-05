@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Relentless cat-and-mouse thriller with unyielding suspense"
+  },
+  {
+    "movieId": 5,
+    "score": 0.95,
+    "reason": "Tense serial killer chases driven psychologist in high-stakes San Francisco"
+  },
+  {
+    "movieId": 273,
+    "score": 0.9,
+    "reason": "Masterful heist vs detective dueling under constant high-pressure tension"
+  },
+  {
+    "movieId": 568,
+    "score": 0.85,
+    "reason": "Bomb on a bus forces nonstop adrenaline-fuelled ride against the clock"
+  },
+  {
+    "movieId": 144,
+    "score": 0.8,
+    "reason": "Lone cop trapped in skyscraper fights terrorists in relentless action"
+  },
+  {
+    "movieId": 79,
+    "score": 0.75,
+    "reason": "Wrongfully accused man races to clear his name as danger closes in"
+  },
+  {
+    "movieId": 98,
+    "score": 0.7,
+    "reason": "Chilling cat-and-mouse between FBI recruit and a brilliant killer"
+  },
+  {
+    "movieId": 96,
+    "score": 0.65,
+    "reason": "Non-stop sci-fi thrill ride pitting humanity against a relentless cyborg"
+  },
+  {
+    "movieId": 54,
+    "score": 0.6,
+    "reason": "Ticking virus crisis spirals out of control as experts race to prevent pandemic"
+  },
+  {
+    "movieId": 82,
+    "score": 0.55,
+    "reason": "Unexpected carnage erupts in a dinosaur park delivering edge-of-seat terror"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.94,
+    "reason": "True story of survival under impossible odds fuels exhilarating team triumph."
+  },
+  {
+    "movieId": 22,
+    "score": 0.92,
+    "reason": "Epic battle for freedom and justice leads to a stirring, against-the-odds victory."
+  },
+  {
+    "movieId": 468,
+    "score": 0.9,
+    "reason": "Heartfelt underdog tale of grit and faith that earns every cheer-worthy moment."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.88,
+    "reason": "Jamaican bobsled dream defies expectations in an uplifting tale of pure triumph."
+  },
+  {
+    "movieId": 138,
+    "score": 0.86,
+    "reason": "Goofy hockey underdogs skate their way to glory in a feel-good final buzzer-beater."
+  },
+  {
+    "movieId": 178,
+    "score": 0.84,
+    "reason": "Convincing jury transformation that celebrates perseverance and moral courage."
+  },
+  {
+    "movieId": 64,
+    "score": 0.82,
+    "reason": "Unshakable hope and unwavering resolve culminate in an unforgettable victory."
+  },
+  {
+    "movieId": 174,
+    "score": 0.8,
+    "reason": "Adventurous archaeologist outsmarts evil and claims a priceless victory."
+  },
+  {
+    "movieId": 215,
+    "score": 0.78,
+    "reason": "Magical reconciliation and homecoming spark a soaring celebration of belief."
+  },
+  {
+    "movieId": 161,
+    "score": 0.76,
+    "reason": "High-octane flight rivalry lands on a thrilling, against-the-odds win."
+  }
+]

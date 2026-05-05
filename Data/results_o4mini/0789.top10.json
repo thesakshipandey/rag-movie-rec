@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 474,
+    "score": 0.97,
+    "reason": "Cold war absurdities amplify dark humor in nuclear-doomsday satire",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 433,
+    "score": 0.95,
+    "reason": "Teen clique cruelty and murder cloaked in razor-sharp wit",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 100,
+    "score": 0.93,
+    "reason": "A kidnapping scheme spirals into absurd tragedy in frozen Minnesota",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 42,
+    "score": 0.91,
+    "reason": "Store clerks endure death threats, bulls**t bosses and miserable customers",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 175,
+    "score": 0.89,
+    "reason": "Bureaucratic dystopia laughs at bleak totalitarian absurdity",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 179,
+    "score": 0.87,
+    "reason": "Ultraviolence and aversion therapy provoke unsettling laughs",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 11,
+    "score": 0.85,
+    "reason": "Retirement boredom meets grisly serial-killer media circus",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 53,
+    "score": 0.83,
+    "reason": "Media-glorified killing spree becomes dark carnival of chyrons and chaos",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 156,
+    "score": 0.81,
+    "reason": "A botched heist devolves into comic-tragic bickering and brutal double-crosses",
+    "prompt_id": "0789"
+  },
+  {
+    "movieId": 56,
+    "score": 0.79,
+    "reason": "Intersecting underworld stories punctuated by darkly comedic violence",
+    "prompt_id": "0789"
+  }
+]

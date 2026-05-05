@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "Meticulous build of psychological dread in an isolated hotel."
+  },
+  {
+    "movieId": 180,
+    "score": 0.95,
+    "reason": "Brooding river journey as tension slowly but relentlessly mounts."
+  },
+  {
+    "movieId": 89,
+    "score": 0.92,
+    "reason": "Atmospheric futuristic noir with slow-burning intrigue."
+  },
+  {
+    "movieId": 302,
+    "score": 0.9,
+    "reason": "Pulpish LA crime saga with simmering suspense and moral twists."
+  },
+  {
+    "movieId": 11,
+    "score": 0.88,
+    "reason": "Grim, methodical detective hunt with mounting dread and atmosphere."
+  },
+  {
+    "movieId": 98,
+    "score": 0.86,
+    "reason": "Procedural horror with chilling, measured escalation of tension."
+  },
+  {
+    "movieId": 5,
+    "score": 0.84,
+    "reason": "Psychological serial killer thriller with gradual, eerie tension."
+  },
+  {
+    "movieId": 31,
+    "score": 0.82,
+    "reason": "Submarine standoff with relentless, slow-building crisis."
+  },
+  {
+    "movieId": 922,
+    "score": 0.8,
+    "reason": "Haunting Western noir with dreamlike pacing and atmospheric dread."
+  },
+  {
+    "movieId": 100,
+    "score": 0.78,
+    "reason": "Dark comedy-crime story that builds unease through oddball detail."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 140,
+    "score": 1.0,
+    "reason": "Homeward Bound: The Incredible Journey is a heartfelt quest of friendship and homecoming without talking animals."
+  },
+  {
+    "movieId": 755,
+    "score": 0.95,
+    "reason": "Jumanji’s magical board game adventure thrills with non-stop mystery and family-friendly excitement."
+  },
+  {
+    "movieId": 94,
+    "score": 0.9,
+    "reason": "Home Alone packs clever kid-driven adventure and mystery-solving with zero talking animals or singing."
+  },
+  {
+    "movieId": 304,
+    "score": 0.85,
+    "reason": "Fly Away Home delivers a young heroine’s uplifting journey of hope and daring discovery."
+  },
+  {
+    "movieId": 78,
+    "score": 0.8,
+    "reason": "Free Willy inspires with a boy’s quest to save his orca friend in a heartfelt family adventure."
+  },
+  {
+    "movieId": 141,
+    "score": 0.75,
+    "reason": "20,000 Leagues Under the Sea enthralls families with an undersea voyage filled with wonder and peril."
+  },
+  {
+    "movieId": 173,
+    "score": 0.7,
+    "reason": "The Princess Bride’s enchanting quest blends humor, mystery and pure adventure for all ages."
+  },
+  {
+    "movieId": 174,
+    "score": 0.65,
+    "reason": "Raiders of the Lost Ark is a timeless family adventure of globetrotting thrills and daring quests."
+  },
+  {
+    "movieId": 210,
+    "score": 0.6,
+    "reason": "Indiana Jones and the Last Crusade sparks a fun, family-friendly journey in search of a legendary relic."
+  },
+  {
+    "movieId": 138,
+    "score": 0.55,
+    "reason": "D3: The Mighty Ducks scores a family sports adventure as underdog hockey heroes chase their dreams."
+  }
+]

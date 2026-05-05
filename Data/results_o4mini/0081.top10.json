@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 7,
+    "score": 0.95,
+    "reason": "In a post-apocalyptic war, a soldier’s impossible choice defines his honor against a backdrop of human ruin."
+  },
+  {
+    "movieId": 1393,
+    "score": 0.9,
+    "reason": "An anthropologist in 1940s Java honors ancient vows under bombardment, forced to choose between duty and mercy."
+  },
+  {
+    "movieId": 1480,
+    "score": 0.85,
+    "reason": "A widowed preacher in frontier Wyoming must decide between saving his land or risking all for his principles."
+  },
+  {
+    "movieId": 199,
+    "score": 0.8,
+    "reason": "A British officer at a Japanese POW camp must weigh obedience against humanity for his men’s survival."
+  },
+  {
+    "movieId": 591,
+    "score": 0.75,
+    "reason": "A lawyer defending an altar boy rapist must confront his conscience under the threat of a ghastly execution."
+  },
+  {
+    "movieId": 456,
+    "score": 0.7,
+    "reason": "An eccentric monk faces a moral crossroads when he must kill to protect the last white child found in sea wreckage."
+  },
+  {
+    "movieId": 399,
+    "score": 0.65,
+    "reason": "A Black security chief uncovers corruption in his own precinct, torn between loyalty and reform."
+  },
+  {
+    "movieId": 428,
+    "score": 0.6,
+    "reason": "A young man’s idealism wanes when forced to choose between insurrection or betrayal."
+  },
+  {
+    "movieId": 570,
+    "score": 0.55,
+    "reason": "A nobleman torn by loyalty and love must decide whether to risk it all for justice or betray his cause."
+  },
+  {
+    "movieId": 665,
+    "score": 0.5,
+    "reason": "The lone survivor of a prison ship crash must face a deadly virus outbreak and choose who to rescue first."
+  }
+]

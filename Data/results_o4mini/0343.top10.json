@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 1.0,
+    "reason": "Dark satire of nuclear war with absurdist humor and biting wit"
+  },
+  {
+    "movieId": 154,
+    "score": 0.95,
+    "reason": "Monty Python’s irreverent religious satire with sharp, subversive comedy"
+  },
+  {
+    "movieId": 175,
+    "score": 0.9,
+    "reason": "Absurd bureaucratic dystopia served with bleak, satirical humor"
+  },
+  {
+    "movieId": 524,
+    "score": 0.85,
+    "reason": "Chaplin’s scathing send-up of tyranny wrapped in biting comedy"
+  },
+  {
+    "movieId": 100,
+    "score": 0.8,
+    "reason": "Quirky kidnapping caper laced with deadpan humor and ironic twists"
+  },
+  {
+    "movieId": 3,
+    "score": 0.75,
+    "reason": "Anthology of absurd hotel misadventures with dry, dark comedic turns"
+  },
+  {
+    "movieId": 122,
+    "score": 0.7,
+    "reason": "Offbeat cable installer exploits his job in a moody comedy-thriller"
+  },
+  {
+    "movieId": 209,
+    "score": 0.65,
+    "reason": "Mockumentary skewering rock culture with clever meta-humor"
+  },
+  {
+    "movieId": 433,
+    "score": 0.6,
+    "reason": "Sharp teen black comedy skewering high-school cruelty"
+  },
+  {
+    "movieId": 741,
+    "score": 0.55,
+    "reason": "Dark holiday tale of media spin with wry, cynical comedy"
+  }
+]

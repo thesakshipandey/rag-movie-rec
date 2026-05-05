@@ -1,0 +1,11 @@
+movieId,score,reason
+49,1.0,I.Q. uses initials and is all caps under five characters
+211,0.95,M*A*S*H is an all-caps initialism under five letters
+716,0.9,G.I. Jane uses all-caps initials
+121,0.85,Independence Day (ID4) features the ID4 acronym
+138,0.8,D3: The Mighty Ducks includes the D3 initialism
+11,0.75,Seven (Se7en) stylizes its title as an all-caps numeral/letter mix
+96,0.7,Terminator 2: Judgment Day (T2) widely known by the T2 acronym
+1211,0.65,Blue in the Face (BTF) sometimes abbreviated BTF
+1221,0.6,William Shakespeare's Romeo and Juliet (WSRJ) known by the initials
+405,0.55,Mission: Impossible (MI) is commonly abbreviated as MI

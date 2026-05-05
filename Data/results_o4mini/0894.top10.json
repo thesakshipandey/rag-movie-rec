@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 160,
+    "score": 0.95,
+    "reason": "Sharp, cynical sales office satire."
+  },
+  {
+    "movieId": 42,
+    "score": 0.9,
+    "reason": "Dry humor in a retail workplace."
+  },
+  {
+    "movieId": 93,
+    "score": 0.85,
+    "reason": "Cynical teen store clerk comedy."
+  },
+  {
+    "movieId": 619,
+    "score": 0.8,
+    "reason": "Dry tension in cutthroat office politics."
+  },
+  {
+    "movieId": 201,
+    "score": 0.75,
+    "reason": "Supernatural office capers with cynicism."
+  },
+  {
+    "movieId": 424,
+    "score": 0.7,
+    "reason": "Dark office reorganization comedy."
+  },
+  {
+    "movieId": 467,
+    "score": 0.65,
+    "reason": "Machinations in a transit workplace."
+  },
+  {
+    "movieId": 274,
+    "score": 0.6,
+    "reason": "Love, law, and corporate maneuvering."
+  },
+  {
+    "movieId": 42,
+    "score": 0.55,
+    "reason": "Cult comedy of mundane job frustrations."
+  },
+  {
+    "movieId": 365,
+    "score": 0.5,
+    "reason": "Weight-loss camp satire with dry wit."
+  }
+]

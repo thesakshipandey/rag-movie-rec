@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Relentless hunt through sin and vice that tightens the noose of dread at every turn."
+  },
+  {
+    "movieId": 12,
+    "score": 0.92,
+    "reason": "Twisting mystery that leaves you questioning every face and every word until the end."
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Time-twisted conspiracy that breeds paranoia and a sense that trust is a deadly luxury."
+  },
+  {
+    "movieId": 39,
+    "score": 0.88,
+    "reason": "Futuristic thriller where no one is safe and the line between reality and horror blurs."
+  },
+  {
+    "movieId": 333,
+    "score": 0.86,
+    "reason": "Psychological maze where identity and trust unravel in a hallucinatory spiral."
+  },
+  {
+    "movieId": 98,
+    "score": 0.84,
+    "reason": "Cat-and-mouse terror with a chilling villain who lurks in every shadow."
+  },
+  {
+    "movieId": 218,
+    "score": 0.82,
+    "reason": "Relentless stalker suspense where every corridor feels like a trap."
+  },
+  {
+    "movieId": 38,
+    "score": 0.8,
+    "reason": "Digital paranoia that turns every screen into a doorway for fear and mistrust."
+  },
+  {
+    "movieId": 5,
+    "score": 0.78,
+    "reason": "Clinical thriller where expert analysis gives way to an escalating nightmare."
+  },
+  {
+    "movieId": 333,
+    "score": 0.76,
+    "reason": "A mind-bending cat-and-mouse game that never lets the tension fade."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 1.0,
+    "reason": "An unexpected connection unfolds in the quiet hours of a city at night."
+  },
+  {
+    "movieId": 60,
+    "score": 0.95,
+    "reason": "A woman drifts through loss and finds quiet solace in muted beauty."
+  },
+  {
+    "movieId": 512,
+    "score": 0.9,
+    "reason": "Angels listen in hushed reverence to the whispered secrets of longing hearts."
+  },
+  {
+    "movieId": 170,
+    "score": 0.85,
+    "reason": "A child's wonder for film weaves gentle magic in a small Sicilian town."
+  },
+  {
+    "movieId": 529,
+    "score": 0.8,
+    "reason": "A boy recalls childhood's bittersweet dreams in a sleepy small town."
+  },
+  {
+    "movieId": 18,
+    "score": 0.75,
+    "reason": "A young girl's simple quest in a bustling market feels quietly enchanting."
+  },
+  {
+    "movieId": 464,
+    "score": 0.7,
+    "reason": "Actors rehearse life and art in a decaying theatre, blurring dreams and reality."
+  },
+  {
+    "movieId": 414,
+    "score": 0.65,
+    "reason": "A writer recalls meeting his idol in a golden age of Hollywood fables."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.6,
+    "reason": "Two star-crossed souls collide in neon-lit streets, caught between chance and longing."
+  },
+  {
+    "movieId": 253,
+    "score": 0.55,
+    "reason": "A poetic journey blending words and images like a half-remembered reverie."
+  }
+]

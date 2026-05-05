@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1428,
+    "score": 0.95,
+    "reason": "Childhood friends confront painful silences and shifting loyalties as their bond unravels."
+  },
+  {
+    "movieId": 980,
+    "score": 0.9,
+    "reason": "A man’s twisted memories of love and betrayal peel back to reveal a raw breakdown of trust."
+  },
+  {
+    "movieId": 287,
+    "score": 0.85,
+    "reason": "Two sisters grapple privately with resentment and regret after a mother’s decades-long care-taking."
+  },
+  {
+    "movieId": 139,
+    "score": 0.8,
+    "reason": "A man’s obsession with a fleeting romance tears his marriage apart in unvarnished, intimate detail."
+  },
+  {
+    "movieId": 327,
+    "score": 0.75,
+    "reason": "A sheriff’s quiet hometown life fractures under the weight of secrets and confrontations between partners."
+  },
+  {
+    "movieId": 692,
+    "score": 0.7,
+    "reason": "A driven agent’s personal and professional lives collide in messy moral compromises."
+  },
+  {
+    "movieId": 349,
+    "score": 0.65,
+    "reason": "A father’s desperate trek to save his boy uncovers the bitter cost of love gone wrong."
+  },
+  {
+    "movieId": 1383,
+    "score": 0.6,
+    "reason": "Brothers face the fallout of family betrayals as their divergent paths end in a bitter showdown."
+  },
+  {
+    "movieId": 765,
+    "score": 0.55,
+    "reason": "A man’s cavalier conquests crumble as his girlfriend’s mounting demands expose the thin veneer of love."
+  },
+  {
+    "movieId": 1234,
+    "score": 0.5,
+    "reason": "A woman’s quest for passion leads to a messy clash with her husband over loyalty and reputation."
+  }
+]

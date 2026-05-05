@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 0.96,
+    "reason": "Li’s family tension boils over in the kitchen, revealing long-buried resentments."
+  },
+  {
+    "movieId": 462,
+    "score": 0.94,
+    "reason": "Magical realism frames family conflict and secrets at a Sunday dinner in Mexico."
+  },
+  {
+    "movieId": 923,
+    "score": 0.92,
+    "reason": "Political exile’s household rifts surface at gatherings in a small Italian town."
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "Nostalgic return home unearths decades of sibling rivalries in Sicilian village."
+  },
+  {
+    "movieId": 624,
+    "score": 0.88,
+    "reason": "Mother-daughter quarrel simmers between magic umbrellas and silent farewells."
+  },
+  {
+    "movieId": 59,
+    "score": 0.86,
+    "reason": "Swiss student befriends neighbor in tense subtext of law, loyalty and loneliness."
+  },
+  {
+    "movieId": 60,
+    "score": 0.84,
+    "reason": "Widowed composer’s feast hides sibling woes and silent cultural divides."
+  },
+  {
+    "movieId": 61,
+    "score": 0.82,
+    "reason": "Polish barber’s exile sparks familial betrayals when distant wife returns."
+  },
+  {
+    "movieId": 1503,
+    "score": 0.8,
+    "reason": "Headmistress’s strict rule cracks under pressure at a boarding school family home."
+  },
+  {
+    "movieId": 557,
+    "score": 0.78,
+    "reason": "Castrati composer’s household drama spills over with hidden desires and betrayals."
+  }
+]

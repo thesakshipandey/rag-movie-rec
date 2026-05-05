@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 5,
+    "score": 1.0,
+    "reason": "Taut serial-killer procedural with smart cat-and-mouse detective work"
+  },
+  {
+    "movieId": 79,
+    "score": 0.95,
+    "reason": "Gripping man-on-the-run thriller driven by a ticking clock and dogged pursuit"
+  },
+  {
+    "movieId": 848,
+    "score": 0.9,
+    "reason": "Classic noir adaptation delivering straightforward case-of-the-week satisfaction"
+  },
+  {
+    "movieId": 945,
+    "score": 0.85,
+    "reason": "Charming mystery caper with droll humor and a crisp investigative pace"
+  },
+  {
+    "movieId": 525,
+    "score": 0.8,
+    "reason": "Witty detective yarn with snappy dialogue and a satisfying shake-down of suspects"
+  },
+  {
+    "movieId": 302,
+    "score": 0.75,
+    "reason": "Vintage Hollywood-style crime caper with sharp twists and a clear-cut resolution"
+  },
+  {
+    "movieId": 98,
+    "score": 0.7,
+    "reason": "Compelling FBI investigation with strong leads and a decisive endgame"
+  },
+  {
+    "movieId": 591,
+    "score": 0.65,
+    "reason": "Courtroom thriller with a methodical probe and a neatly tied-up solution"
+  },
+  {
+    "movieId": 1526,
+    "score": 0.6,
+    "reason": "All-American detective story with solid leads and a self-contained case"
+  },
+  {
+    "movieId": 79,
+    "score": 0.55,
+    "reason": "Relentless pursuit drama that delivers a classic case-closure payoff"
+  }
+]

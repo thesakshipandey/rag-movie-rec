@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "Masterful ensemble crime farce weaving multiple duplicitous threads"
+  },
+  {
+    "movieId": 249,
+    "score": 0.95,
+    "reason": "Far-cical spy caper with lively ensemble and converging schemes"
+  },
+  {
+    "movieId": 242,
+    "score": 0.92,
+    "reason": "German-Czech trio’s chaotic chase through post-Soviet streets"
+  },
+  {
+    "movieId": 439,
+    "score": 0.9,
+    "reason": "Dark family inheritance tying twisted fates of multiple kin"
+  },
+  {
+    "movieId": 448,
+    "score": 0.88,
+    "reason": "Priest and serendipitous embrace ignite intersecting holiday madness"
+  },
+  {
+    "movieId": 361,
+    "score": 0.85,
+    "reason": "Art-forger recruits friends in one madcap con-and-camouflage caper"
+  },
+  {
+    "movieId": 339,
+    "score": 0.82,
+    "reason": "TV reporter hostage improvises with riotous cast of camp miscreants"
+  },
+  {
+    "movieId": 702,
+    "score": 0.78,
+    "reason": "Two brothers’ Irish misadventures spark cascading hijinks ensemble"
+  },
+  {
+    "movieId": 152,
+    "score": 0.75,
+    "reason": "Mismatched duo’s distorted time-twist journey with comedic ensemble"
+  },
+  {
+    "movieId": 402,
+    "score": 0.7,
+    "reason": "Ghost rescue mission unites motley crew in spectral seat-of-pants clash"
+  }
+]

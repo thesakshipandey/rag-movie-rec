@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 48,
+    "score": 0.95,
+    "reason": "Gripping documentary following young athletes and urban challenges."
+  },
+  {
+    "movieId": 32,
+    "score": 0.93,
+    "reason": "Intimate portrait of underground cartoonist and his complex family."
+  },
+  {
+    "movieId": 119,
+    "score": 0.91,
+    "reason": "Insightful look at the artist behind the Vietnam Veterans Memorial."
+  },
+  {
+    "movieId": 645,
+    "score": 0.89,
+    "reason": "Compelling chronicle of 1980s New York drag ball culture and its stars."
+  },
+  {
+    "movieId": 813,
+    "score": 0.87,
+    "reason": "Revealing history of LGBTQ representation in Hollywood films."
+  },
+  {
+    "movieId": 320,
+    "score": 0.85,
+    "reason": "Powerful examination of a controversial murder case and its impact."
+  },
+  {
+    "movieId": 1022,
+    "score": 0.83,
+    "reason": "Eclectic documentary weaving together unique passions of four individuals."
+  },
+  {
+    "movieId": 814,
+    "score": 0.81,
+    "reason": "Heartfelt tribute to jazz legends and a legendary photograph session."
+  },
+  {
+    "movieId": 634,
+    "score": 0.79,
+    "reason": "Stunning macro documentary revealing the intricate lives of insects."
+  },
+  {
+    "movieId": 193,
+    "score": 0.77,
+    "reason": "Epic docudrama chronicling America's pioneering test pilots."
+  }
+]

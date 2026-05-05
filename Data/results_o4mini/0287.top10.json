@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 6,
+    "score": 1.0,
+    "reason": "Authentic 1930s Shanghai crime drama with intense underworld intrigue and none of the typical Hollywood gloss"
+  },
+  {
+    "movieId": 24,
+    "score": 0.95,
+    "reason": "Jackie Chan’s Hong Kong action classic with breathtaking practical stunts on gritty New York streets"
+  },
+  {
+    "movieId": 198,
+    "score": 0.9,
+    "reason": "French noir thriller with gritty atmosphere and relentless practical stunt work over CGI"
+  },
+  {
+    "movieId": 919,
+    "score": 0.85,
+    "reason": "Surreal French sci-fi thriller blending dark fantasy with haunting practical effects"
+  },
+  {
+    "movieId": 691,
+    "score": 0.8,
+    "reason": "Stylized Australian-American sci-fi noir built on real sets and mind-bending atmosphere"
+  },
+  {
+    "movieId": 1253,
+    "score": 0.75,
+    "reason": "European adaptation of a classic tale with raw visuals and authentic tension from beginning to end"
+  },
+  {
+    "movieId": 913,
+    "score": 0.7,
+    "reason": "British obsession drama with cultural clash and understated suspense that lingers long after"
+  },
+  {
+    "movieId": 737,
+    "score": 0.65,
+    "reason": "Australian social drama with naturalistic performances and real locations instead of CGI facades"
+  },
+  {
+    "movieId": 1386,
+    "score": 0.6,
+    "reason": "Japanese cyberpunk thriller delivering visceral practical effects and raw kinetic energy"
+  },
+  {
+    "movieId": 1628,
+    "score": 0.55,
+    "reason": "Italian drama exploring post-communist identity with gritty realism and no digital trickery"
+  }
+]

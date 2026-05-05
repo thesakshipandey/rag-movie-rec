@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 1.0,
+    "reason": "Toy Story’s playful toy hijinks bring pure, joyful laughter without a cruel bone in sight."
+  },
+  {
+    "movieId": 168,
+    "score": 0.94,
+    "reason": "Monty Python’s absurd quests deliver nonstop, silly chaos that gleefully spoof everything."
+  },
+  {
+    "movieId": 202,
+    "score": 0.9,
+    "reason": "Groundhog Day’s time-loop antics build hilarious, heartwarming absurdity on repeat."
+  },
+  {
+    "movieId": 67,
+    "score": 0.87,
+    "reason": "Ace Ventura’s off-the-wall detective antics revel in high-energy, animal-loving goofiness."
+  },
+  {
+    "movieId": 21,
+    "score": 0.82,
+    "reason": "Muppet Treasure Island’s raucous pirate romp sparkles with gleeful, family-friendly silliness."
+  },
+  {
+    "movieId": 820,
+    "score": 0.78,
+    "reason": "Space Jam’s cartoon mayhem and slam-dunk madness are infectious, over-the-top fun."
+  },
+  {
+    "movieId": 72,
+    "score": 0.75,
+    "reason": "The Mask’s zany transformations unleash wild, mischievous energy with a huge grin factor."
+  },
+  {
+    "movieId": 41,
+    "score": 0.72,
+    "reason": "Billy Madison’s childlike antics and nonsensical gags make pure, gleeful lunacy."
+  },
+  {
+    "movieId": 393,
+    "score": 0.69,
+    "reason": "Mrs. Doubtfire’s loving, cross-dressing chaos is warm-hearted comedy gold."
+  },
+  {
+    "movieId": 367,
+    "score": 0.65,
+    "reason": "Clueless’s bubbly teen wit and fast-paced banter are delightfully light-hearted."
+  }
+]

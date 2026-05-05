@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 182,
+    "score": 0.99,
+    "reason": "Scorsese’s kinetic crime saga channels electric performances and unmistakable directorial intensity."
+  },
+  {
+    "movieId": 56,
+    "score": 0.98,
+    "reason": "Tarantino’s genre-defying script and dynamic ensemble showcase his signature voice and style."
+  },
+  {
+    "movieId": 135,
+    "score": 0.97,
+    "reason": "Kubrick’s visionary sci-fi epic marries profound ideas with peerless craftsmanship."
+  },
+  {
+    "movieId": 89,
+    "score": 0.96,
+    "reason": "Ridley Scott’s noirish future remains a masterclass in world-building and atmospheric direction."
+  },
+  {
+    "movieId": 179,
+    "score": 0.95,
+    "reason": "Kubrick’s unflinching vision paired with Malcolm McDowell’s fearless performance defines auteur cinema."
+  },
+  {
+    "movieId": 180,
+    "score": 0.94,
+    "reason": "Coppola’s hallucinatory Vietnam odyssey stands as a hallmark of immersive, ambitious filmmaking."
+  },
+  {
+    "movieId": 234,
+    "score": 0.93,
+    "reason": "Spielberg’s high-voltage shark thriller pioneered mainstream blockbuster suspense and showmanship."
+  },
+  {
+    "movieId": 1021,
+    "score": 0.92,
+    "reason": "Fellini’s swirling fantasy of creativity remains an endlessly influential, dreamlike directorial tour de force."
+  },
+  {
+    "movieId": 1252,
+    "score": 0.91,
+    "reason": "Godard’s cool, self-reflexive take on filmmaking transforms a simple story into a bold cinematic statement."
+  },
+  {
+    "movieId": 11,
+    "score": 0.9,
+    "reason": "Fincher’s dark, stylized thriller executes tension with a precise, relentless directorial hand."
+  }
+]

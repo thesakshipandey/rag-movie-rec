@@ -1,0 +1,11 @@
+movieId,score,reason
+10,1.0,Shakespeare’s tragic king in the title
+41,0.9,Comedy starring Adam Sandler as Billy Madison
+126,0.8,Biopic of Solzhenitsyn’s Gulag experience
+127,0.7,Coppola’s saga of the Corleone patriarch
+132,0.6,Judy Garland’s Dorothy in Oz
+164,0.5,Naval thriller named for Franklin Roosevelt
+170,0.4,Giancaldo’s nostalgic film director returns
+187,0.3,Origins of Vito and young Michael Corleone
+229,0.2,Captain Kirk’s search for Spock
+299,0.1,Thug-comedy named for the criminal archetype

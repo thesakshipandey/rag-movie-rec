@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 170,
+    "score": 1.0,
+    "reason": "A tender ode to cinema and memory, deeply human and gently evocative."
+  },
+  {
+    "movieId": 664,
+    "score": 0.95,
+    "reason": "A poetic, contemplative journey capturing solitude and redemption."
+  },
+  {
+    "movieId": 86,
+    "score": 0.9,
+    "reason": "A subtle, elegant character study of duty, regret, and quiet longing."
+  },
+  {
+    "movieId": 45,
+    "score": 0.85,
+    "reason": "A finely woven family drama rich in warmth, food, and cultural nuance."
+  },
+  {
+    "movieId": 955,
+    "score": 0.8,
+    "reason": "An intimate, meandering first-meet romance that feels effortlessly real."
+  },
+  {
+    "movieId": 275,
+    "score": 0.75,
+    "reason": "A graceful period drama about love, family, and heartfelt restraint."
+  },
+  {
+    "movieId": 60,
+    "score": 0.7,
+    "reason": "A hauntingly beautiful tale of grief and human connection in Geneva."
+  },
+  {
+    "movieId": 162,
+    "score": 0.65,
+    "reason": "A serene portrait of aging and reconciliation set by a lakeside retreat."
+  },
+  {
+    "movieId": 14,
+    "score": 0.6,
+    "reason": "A charming, lyrical story of friendship and poetry by the sea."
+  },
+  {
+    "movieId": 509,
+    "score": 0.55,
+    "reason": "A powerful character study of genius, struggle, and delicate humanity."
+  }
+]

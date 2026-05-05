@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 31,
+    "score": 0.94,
+    "reason": "Submarine crew debates a nuclear launch order and endures long-term trust fractures afterward"
+  },
+  {
+    "movieId": 178,
+    "score": 0.91,
+    "reason": "Twelve jurors held in one room must live with the weight of their lone verdict on a boy’s life"
+  },
+  {
+    "movieId": 260,
+    "score": 0.89,
+    "reason": "Spaceship crew isolated in deep space confronts the psychological scars of a fatal mission"
+  },
+  {
+    "movieId": 199,
+    "score": 0.87,
+    "reason": "POWs forced to build a bridge for captors grapple with guilt and unity in a remote camp"
+  },
+  {
+    "movieId": 176,
+    "score": 0.85,
+    "reason": "Remote colony under alien siege must unite and live with choices made to protect their enclave"
+  },
+  {
+    "movieId": 28,
+    "score": 0.83,
+    "reason": "Astronauts face a life-and-death decision aboard a crippled spacecraft and carry its impact home"
+  },
+  {
+    "movieId": 7,
+    "score": 0.81,
+    "reason": "Underground survivors share the burden of a desperate time‐travel mission and its haunting toll"
+  },
+  {
+    "movieId": 200,
+    "score": 0.79,
+    "reason": "A family isolated in a mountain hotel copes with trust and fear after one man’s breakdown"
+  },
+  {
+    "movieId": 272,
+    "score": 0.77,
+    "reason": "Storm-chasers and townspeople risk everything to survive a tornado and navigate their changed bonds"
+  },
+  {
+    "movieId": 565,
+    "score": 0.75,
+    "reason": "A small town wrestles with fear and solidarity when eerie children force them into impossible choices"
+  }
+]

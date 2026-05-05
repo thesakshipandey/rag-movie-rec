@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1325,
+    "score": 0.95,
+    "reason": "Isolation and paranoia in a remote mission build crushing dread."
+  },
+  {
+    "movieId": 924,
+    "score": 0.93,
+    "reason": "Sleeper cell breakdown in jungle camp, tension over unseen threat."
+  },
+  {
+    "movieId": 837,
+    "score": 0.9,
+    "reason": "Claustrophobic bunker setting and escalating mistrust."
+  },
+  {
+    "movieId": 566,
+    "score": 0.88,
+    "reason": "Societal collapse outside leaves survivors in bleak standoff."
+  },
+  {
+    "movieId": 70,
+    "score": 0.86,
+    "reason": "Social microsociety under siege, quiet suspense unspooled."
+  },
+  {
+    "movieId": 450,
+    "score": 0.84,
+    "reason": "Spaceship refuge sealed off, psychological cat-and-mouse."
+  },
+  {
+    "movieId": 635,
+    "score": 0.82,
+    "reason": "Fog-shrouded town besieged, dread without jump scares."
+  },
+  {
+    "movieId": 616,
+    "score": 0.8,
+    "reason": "Small boarding house under siege, mounting fear."
+  },
+  {
+    "movieId": 1417,
+    "score": 0.78,
+    "reason": "Post-plague stronghold crumbles under unseen pressure."
+  },
+  {
+    "movieId": 423,
+    "score": 0.75,
+    "reason": "Isolation and surreal dread in alien-infested town."
+  }
+]

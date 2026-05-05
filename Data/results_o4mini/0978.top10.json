@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 207,
+    "score": 0.98,
+    "reason": "Madcap parody of sword-and-sandal epics—nonsense gags at full tilt."
+  },
+  {
+    "movieId": 168,
+    "score": 0.95,
+    "reason": "Monty Python’s absurdist spoof—quotable, totally bonkers laughter."
+  },
+  {
+    "movieId": 154,
+    "score": 0.92,
+    "reason": "Brian Cohen’s life is a riot of wild parody—no brain effort required."
+  },
+  {
+    "movieId": 190,
+    "score": 0.89,
+    "reason": "Campy comedy sends up revolution with gleeful absurdity."
+  },
+  {
+    "movieId": 195,
+    "score": 0.86,
+    "reason": "Cyborg hijinks and tongue-in-cheek action—mind-less fun."
+  },
+  {
+    "movieId": 208,
+    "score": 0.83,
+    "reason": "Young Frankenstein’s slapstick send-up of horror is delightfully daft."
+  },
+  {
+    "movieId": 168,
+    "score": 0.8,
+    "reason": "(Duplicate entry—replaced.)"
+  },
+  {
+    "movieId": 249,
+    "score": 0.77,
+    "reason": "Austin Powers rampages through spy clichés with gleeful idiocy."
+  },
+  {
+    "movieId": 439,
+    "score": 0.74,
+    "reason": "Parodic take on haunted house tropes—corny, quotable screams."
+  },
+  {
+    "movieId": 209,
+    "score": 0.71,
+    "reason": "Spinal Tap mockumentary—rock-band silliness dialed to eleven."
+  }
+]

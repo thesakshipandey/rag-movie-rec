@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 6,
+    "score": 1.0,
+    "reason": "Chinese mob drama in 1990s Shanghai"
+  },
+  {
+    "movieId": 38,
+    "score": 0.9,
+    "reason": "Tech-thriller set in Italy’s lagoon"
+  },
+  {
+    "movieId": 113,
+    "score": 0.8,
+    "reason": "Allied-era spy chase in occupied France"
+  },
+  {
+    "movieId": 508,
+    "score": 0.7,
+    "reason": "Dramatic LBJ-era courtroom fight in Italy"
+  },
+  {
+    "movieId": 242,
+    "score": 0.6,
+    "reason": "Czech reunion in Soviet-ruled Prague"
+  },
+  {
+    "movieId": 429,
+    "score": 0.5,
+    "reason": "First contact terror in D.C."
+  },
+  {
+    "movieId": 552,
+    "score": 0.4,
+    "reason": "Sci-fi in Belgium’s mind game world"
+  },
+  {
+    "movieId": 632,
+    "score": 0.3,
+    "reason": "Schindler’s List shot in Poland"
+  },
+  {
+    "movieId": 921,
+    "score": 0.2,
+    "reason": "Mexican uprising captured in Cuban lens"
+  },
+  {
+    "movieId": 1234,
+    "score": 0.1,
+    "reason": "Teen tryst and terror in Jalalabad"
+  }
+]

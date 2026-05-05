@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 132,
+    "score": 0.98,
+    "reason": "Epic fantasy musical from 1939, a cornerstone of classic cinema."
+  },
+  {
+    "movieId": 133,
+    "score": 0.97,
+    "reason": "Iconic 1939 Civil War romance, a landmark of Hollywood’s Golden Age."
+  },
+  {
+    "movieId": 134,
+    "score": 0.96,
+    "reason": "Groundbreaking 1941 drama, often cited as the greatest film ever made."
+  },
+  {
+    "movieId": 136,
+    "score": 0.95,
+    "reason": "1939 political drama featuring Jimmy Stewart at his finest."
+  },
+  {
+    "movieId": 137,
+    "score": 0.94,
+    "reason": "1957 courtroom drama that remains a touchstone for legal films."
+  },
+  {
+    "movieId": 482,
+    "score": 0.93,
+    "reason": "1959 screwball comedy starring Marilyn Monroe and Jack Lemmon."
+  },
+  {
+    "movieId": 480,
+    "score": 0.92,
+    "reason": "1959 Hitchcock thriller blending espionage and suspense."
+  },
+  {
+    "movieId": 483,
+    "score": 0.91,
+    "reason": "1943 romantic drama set against wartime Casablanca."
+  },
+  {
+    "movieId": 484,
+    "score": 0.9,
+    "reason": "1941 film noir classic starring Humphrey Bogart."
+  },
+  {
+    "movieId": 496,
+    "score": 0.89,
+    "reason": "1946 holiday fantasy beloved for its heartwarming message."
+  }
+]

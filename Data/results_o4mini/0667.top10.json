@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.99,
+    "reason": "Clerks spotlights day-to-day quirk with its offbeat video store duo"
+  },
+  {
+    "movieId": 150,
+    "score": 0.97,
+    "reason": "Swingers thrives on the oddball camaraderie of its slacker protagonists"
+  },
+  {
+    "movieId": 37,
+    "score": 0.95,
+    "reason": "Nadja immerses in surreal character moments over a linear plot"
+  },
+  {
+    "movieId": 367,
+    "score": 0.93,
+    "reason": "Clueless showcases a quirky heroine navigating her social world"
+  },
+  {
+    "movieId": 372,
+    "score": 0.92,
+    "reason": "Jeffrey revels in the witty musings of its eccentric lead character"
+  },
+  {
+    "movieId": 189,
+    "score": 0.9,
+    "reason": "Grand Day Out delights in its delightfully off-kilter duo’s antics"
+  },
+  {
+    "movieId": 247,
+    "score": 0.88,
+    "reason": "Spice World revels in the zany personalities of its fictional band"
+  },
+  {
+    "movieId": 543,
+    "score": 0.87,
+    "reason": "Les Misérables centers on larger‐than‐life artistic souls in a vivid world"
+  },
+  {
+    "movieId": 607,
+    "score": 0.85,
+    "reason": "Rebecca hinges on its enigmatic femme fatale’s compelling presence"
+  },
+  {
+    "movieId": 477,
+    "score": 0.83,
+    "reason": "Matilda draws all attention to its extraordinary young heroine"
+  }
+]

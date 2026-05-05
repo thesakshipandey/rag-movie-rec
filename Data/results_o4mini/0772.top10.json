@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 59,
+    "score": 0.95,
+    "reason": "Sumptuous cinematography transforms each frame into living art."
+  },
+  {
+    "movieId": 170,
+    "score": 0.93,
+    "reason": "Nostalgic visual poetry captures timeless romance in old-world beauty."
+  },
+  {
+    "movieId": 549,
+    "score": 0.9,
+    "reason": "Hauntingly surreal dreamscapes that mesmerize with painterly composition."
+  },
+  {
+    "movieId": 132,
+    "score": 0.88,
+    "reason": "Iconic colors and inventive visual design enrich every scene."
+  },
+  {
+    "movieId": 203,
+    "score": 0.87,
+    "reason": "Dark atmosphere and striking imagery fuse in a modern noir masterpiece."
+  },
+  {
+    "movieId": 426,
+    "score": 0.85,
+    "reason": "Animated wonder weaving phantasmagoric visuals into a vivid tapestry."
+  },
+  {
+    "movieId": 650,
+    "score": 0.83,
+    "reason": "Timeless allegory bathed in stark monochrome and surreal montage."
+  },
+  {
+    "movieId": 535,
+    "score": 0.81,
+    "reason": "Inventive production design immerses you in a kinetic urban fantasia."
+  },
+  {
+    "movieId": 135,
+    "score": 0.8,
+    "reason": "Expansive space vistas as stark and beautiful as any canvas."
+  },
+  {
+    "movieId": 161,
+    "score": 0.78,
+    "reason": "Stylized action set-pieces shot with arresting kinetic flair."
+  }
+]

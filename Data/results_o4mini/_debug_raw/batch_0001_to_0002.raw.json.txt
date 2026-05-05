@@ -1,0 +1,32 @@
+{
+  "results": {
+    "0001": {
+      "top10": [
+        {"movieId": 135, "score": 1.0, "reason": "Astronaut Floyd investigates a buried monolith, uncovering cosmic mysteries beyond human understanding."},
+        {"movieId": 175, "score": 0.95, "reason": "Sam Lowry's quest to fix bureaucratic errors spirals into a surreal critique of oppressive systems."},
+        {"movieId": 89, "score": 0.9, "reason": "Deckard hunts replicants but grapples with the nature of humanity and identity in a dystopian future."},
+        {"movieId": 7, "score": 0.85, "reason": "James Cole's time-travel mission delves into fate and memory more than simply tracking down a viral culprit."},
+        {"movieId": 38, "score": 0.8, "reason": "Angela Bennett unravels a digital conspiracy, exploring identity and reality in cyberspace."},
+        {"movieId": 39, "score": 0.75, "reason": "Lenny Nero decodes illicit recordings, unearthing a deeper social and multimedia underworld."},
+        {"movieId": 202, "score": 0.7, "reason": "Harold relives the same day repeatedly, keenly probing the mechanics of time and self beyond routine."},
+        {"movieId": 84, "score": 0.65, "reason": "Nivens chases alien slugs controlling minds, revealing existential control over human agency."},
+        {"movieId": 922, "score": 0.6, "reason": "William Blake's ethereal journey through the afterlife interrogates life’s meaning over a simple murder."},
+        {"movieId": 650, "score": 0.55, "reason": "Knight Block's chess game with Death embodies a profound investigation into mortality and faith."}
+      ]
+    },
+    "0002": {
+      "top10": [
+        {"movieId": 178, "score": 1.0, "reason": "Twelve jurors locked in a room dissect a murder case through sharp dialogue to reach a verdict."},
+        {"movieId": 28, "score": 0.9, "reason": "Astronauts stranded by a crippled spacecraft must solve life-saving repairs to survive."},
+        {"movieId": 31, "score": 0.85, "reason": "A sub’s crew races to resolve ambiguous launch orders, debating command and duty under pressure."},
+        {"movieId": 515, "score": 0.8, "reason": "Escaping a submarine after depth charge hits, the crew collaborates on complex rescue plans."},
+        {"movieId": 62, "score": 0.75, "reason": "Explorers trapped on an alien planet must decipher an ancient gate’s mechanics to return home."},
+        {"movieId": 202, "score": 0.7, "reason": "A man awake in a time loop works out the puzzle of his repeating day to break free."},
+        {"movieId": 144, "score": 0.65, "reason": "McClane is trapped in a high-rise, outsmarting criminals through wit and strategic problem-solving."},
+        {"movieId": 333, "score": 0.6, "reason": "Nicholas Van Orton enters a mysterious game that traps him in clever challenges to outmaneuver."},
+        {"movieId": 3, "score": 0.55, "reason": "A hotel's eccentric guests pile on bizarre tasks that comedic bellhop Ted must rapidly resolve."},
+        {"movieId": 761, "score": 0.5, "reason": "Gene must crack an elaborate puzzle in real time to rescue his daughter from a dangerous plot."}
+      ]
+    }
+  }
+}

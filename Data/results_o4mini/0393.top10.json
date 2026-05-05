@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 1.0,
+    "reason": "Taxi Driver channels raw fury into a seething urban rebellion."
+  },
+  {
+    "movieId": 22,
+    "score": 0.95,
+    "reason": "Braveheart’s epic revolt roars with uncompromising defiance and honor."
+  },
+  {
+    "movieId": 53,
+    "score": 0.9,
+    "reason": "Natural Born Killers unleashes anarchic rage against a violent world."
+  },
+  {
+    "movieId": 205,
+    "score": 0.85,
+    "reason": "Patton’s blistering rhetoric and war drive deliver patriotic ferocity."
+  },
+  {
+    "movieId": 9,
+    "score": 0.8,
+    "reason": "Dead Man Walking confronts injustice with righteous, unyielding moral fire."
+  },
+  {
+    "movieId": 56,
+    "score": 0.75,
+    "reason": "Pulp Fiction’s fearless dialogue and twisted morality spark white-hot revolt."
+  },
+  {
+    "movieId": 160,
+    "score": 0.7,
+    "reason": "Glengarry Glen Ross’s predatory salesmen erupt in furious, no-excuses combat."
+  },
+  {
+    "movieId": 178,
+    "score": 0.65,
+    "reason": "12 Angry Men crescendos into a powerful stand against complacent judgment."
+  },
+  {
+    "movieId": 188,
+    "score": 0.6,
+    "reason": "Full Metal Jacket melds military discipline and urban rage into relentless tension."
+  },
+  {
+    "movieId": 175,
+    "score": 0.55,
+    "reason": "Brazil’s dystopic absurdity rebels against suffocating bureaucratic control."
+  }
+]

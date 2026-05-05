@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 219,
+    "score": 0.4,
+    "reason": "A Nightmare on Elm Street (1984) blends horror with campy effects long after its prime appeal faded."
+  },
+  {
+    "movieId": 834,
+    "score": 0.38,
+    "reason": "Halloween: The Curse of Michael Myers (1995) adds lore but lacks the original’s suspense and scares."
+  },
+  {
+    "movieId": 201,
+    "score": 0.36,
+    "reason": "Evil Dead II (1987) is more slapstick than scary, leaving fans divided on its horror credentials."
+  },
+  {
+    "movieId": 672,
+    "score": 0.34,
+    "reason": "Candyman (1992) had a chilling premise but its pacing and effects feel dated and underwhelming."
+  },
+  {
+    "movieId": 444,
+    "score": 0.32,
+    "reason": "The Blob (1958) is iconic but its slow build and primitive visuals don’t hold up to modern horror fans."
+  },
+  {
+    "movieId": 443,
+    "score": 0.3,
+    "reason": "The Birds (1963) thrills in moments but its high camp factor and abrupt ending weaken its horror impact."
+  },
+  {
+    "movieId": 445,
+    "score": 0.28,
+    "reason": "The Body Snatcher (1945) intrigues with Poe roots but drags through dialogue-heavy scenes."
+  },
+  {
+    "movieId": 505,
+    "score": 0.26,
+    "reason": "Dial M for Murder (1954) is suspenseful but its theatrical style softens its edge as pure horror."
+  },
+  {
+    "movieId": 453,
+    "score": 0.24,
+    "reason": "Jaws 3-D (1983) trades genuine terror for gimmicky effects and a fumbled shark attack."
+  },
+  {
+    "movieId": 668,
+    "score": 0.22,
+    "reason": "Blood Beach (1981) promises seaside horror but delivers a campy creature feature that barely bites."
+  }
+]

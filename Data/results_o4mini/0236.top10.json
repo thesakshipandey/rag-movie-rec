@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "The Usual Suspects begins with intrigue and ends in twists"
+  },
+  {
+    "movieId": 102,
+    "score": 0.95,
+    "reason": "The Aristocats charms with feline elegance"
+  },
+  {
+    "movieId": 111,
+    "score": 0.93,
+    "reason": "The Truth About Cats & Dogs blends humor and heart"
+  },
+  {
+    "movieId": 186,
+    "score": 0.91,
+    "reason": "The Blues Brothers’ musical road trip remains iconic"
+  },
+  {
+    "movieId": 225,
+    "score": 0.89,
+    "reason": "The 101 Dalmatians delights with playful puppies"
+  },
+  {
+    "movieId": 380,
+    "score": 0.87,
+    "reason": "The Star Trek: Generations crew faces time paradoxes"
+  },
+  {
+    "movieId": 399,
+    "score": 0.85,
+    "reason": "The Three Musketeers swordplay thrills"
+  },
+  {
+    "movieId": 443,
+    "score": 0.83,
+    "reason": "The Birds scares with avian suspense"
+  },
+  {
+    "movieId": 163,
+    "score": 0.81,
+    "reason": "The Return of the Pink Panther mixes comedy and crime"
+  },
+  {
+    "movieId": 85,
+    "score": 0.79,
+    "reason": "The Ref serves up dark holiday comedy"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 32,
+    "score": 1.0,
+    "reason": "In-depth portrait of underground cartoonist Robert Crumb"
+  },
+  {
+    "movieId": 48,
+    "score": 0.94,
+    "reason": "Longform chronicle of two teens pursuing basketball dreams"
+  },
+  {
+    "movieId": 119,
+    "score": 0.88,
+    "reason": "Documentary on artist Maya Lin’s visionary monument design"
+  },
+  {
+    "movieId": 645,
+    "score": 0.82,
+    "reason": "Inside look at NYC’s drag ball culture and its pioneers"
+  },
+  {
+    "movieId": 75,
+    "score": 0.76,
+    "reason": "Documentary on Malcolm X’s life and assassination aftermath"
+  },
+  {
+    "movieId": 320,
+    "score": 0.7,
+    "reason": "True-crime account of the Robin Hood Hills child murders"
+  },
+  {
+    "movieId": 1142,
+    "score": 0.64,
+    "reason": "Boxing documentary centered on the Rumble in the Jungle"
+  },
+  {
+    "movieId": 87,
+    "score": 0.58,
+    "reason": "Heartfelt film on chess prodigy Josh Waitzkin’s rise"
+  },
+  {
+    "movieId": 318,
+    "score": 0.52,
+    "reason": "Chronicle of Oskar Schindler’s rescue of Jews during WWII"
+  },
+  {
+    "movieId": 735,
+    "score": 0.46,
+    "reason": "Legal drama spotlighting fight for HIV patient’s rights"
+  }
+]

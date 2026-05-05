@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 1.0,
+    "reason": "Epic Holocaust drama with profound weight, human tragedy and moral resonance."
+  },
+  {
+    "movieId": 22,
+    "score": 0.98,
+    "reason": "Stirring historical epic conveying the grandeur and sorrow of an ancient struggle."
+  },
+  {
+    "movieId": 180,
+    "score": 0.96,
+    "reason": "Viceral Vietnam war odyssey fusing awe‐inspiring imagery with existential dread."
+  },
+  {
+    "movieId": 51,
+    "score": 0.94,
+    "reason": "Multi‐generational saga blending personal tragedy with sweeping historical change."
+  },
+  {
+    "movieId": 651,
+    "score": 0.92,
+    "reason": "Civil War drama capturing courage and sacrifice on a human scale with brutal honesty."
+  },
+  {
+    "movieId": 157,
+    "score": 0.9,
+    "reason": "Raw, visceral portrayal of combat and its enduring human cost."
+  },
+  {
+    "movieId": 127,
+    "score": 0.88,
+    "reason": "Crime‐family epic that melds loyalties and loss in a broodingly majestic style."
+  },
+  {
+    "movieId": 97,
+    "score": 0.86,
+    "reason": "Western epic filled with reflective moments and the bittersweet cost of heroism."
+  },
+  {
+    "movieId": 641,
+    "score": 0.84,
+    "reason": "Powerful trench‐war drama exposing the grim reality of human conflict."
+  },
+  {
+    "movieId": 199,
+    "score": 0.82,
+    "reason": "WWII epic blending human drama and the monumental toil of building a strategic bridge."
+  }
+]

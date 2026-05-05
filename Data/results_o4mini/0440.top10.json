@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.99,
+    "reason": "William Wallace’s rise from farmer to freedom fighter delivers an earned, triumphant victory."
+  },
+  {
+    "movieId": 69,
+    "score": 0.97,
+    "reason": "Forrest Gump overcomes lifelong obstacles to triumph in life with simple goodness and endless hope."
+  },
+  {
+    "movieId": 468,
+    "score": 0.95,
+    "reason": "Underdog Rudy battles against all odds to earn a spot on his beloved football team."
+  },
+  {
+    "movieId": 28,
+    "score": 0.93,
+    "reason": "Apollo 13’s crew ingeniously solves near-fatal crises in a brilliant display of perseverance."
+  },
+  {
+    "movieId": 64,
+    "score": 0.91,
+    "reason": "Andy’s steadfast hope turns a bleak prison into a testament to human resilience and friendship."
+  },
+  {
+    "movieId": 272,
+    "score": 0.89,
+    "reason": "Will Hunting’s genius breakthroughs are hard-won through therapy and the bonds of true friendship."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.87,
+    "reason": "Jamaican bobsledders improbably conquer icy tracks with humor and heart in their winter underdog journey."
+  },
+  {
+    "movieId": 161,
+    "score": 0.85,
+    "reason": "Top Gun’s Maverick redeems himself through daring heroism in a soaring, high-stakes finale."
+  },
+  {
+    "movieId": 97,
+    "score": 0.83,
+    "reason": "Lieutenant Dunbar finds kinship and purpose on the frontier, in a heartfelt journey of self-discovery."
+  },
+  {
+    "movieId": 205,
+    "score": 0.81,
+    "reason": "Patton’s bold leadership and unwavering determination carve an unforgettable path to triumph."
+  }
+]

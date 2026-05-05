@@ -1,0 +1,11 @@
+movieId,score,reason
+211,0.95,Title uses M*A*S*H with asterisks for its acronym
+49,0.9,Title includes I.Q. as a stylized acronym
+326,0.88,G.I. Jane features G.I. as an acronym in the title
+301,0.85,U.S. Marshalls includes the U.S. acronym
+423,0.83,E.T. the Extra-Terrestrial uses E.T. as an acronym
+474,0.8,Dr. Strangelove uses Dr. as an acronym in its title
+905,0.78,Big Bang Theory uses an acronym-style title
+49,0.75,I.Q. stands for intelligence quotient in the title
+423,0.72,E.T. is short for Extra-Terrestrial in the title
+211,0.7,M*A*S*H stands for Mobile Army Surgical Hospital

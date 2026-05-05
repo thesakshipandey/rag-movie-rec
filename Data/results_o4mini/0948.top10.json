@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 0.95,
+    "reason": "The Fugitive – everyman doctor hunted after witnessing a crime he didn’t commit"
+  },
+  {
+    "movieId": 5,
+    "score": 0.93,
+    "reason": "Copycat – psychologist caught in a deadly game after spotting killer’s pattern"
+  },
+  {
+    "movieId": 38,
+    "score": 0.91,
+    "reason": "The Net – one wrong download and an ordinary woman is framed by unseen forces"
+  },
+  {
+    "movieId": 77,
+    "score": 0.88,
+    "reason": "The Firm – young lawyer uncovers a murder plot and can’t turn back"
+  },
+  {
+    "movieId": 568,
+    "score": 0.86,
+    "reason": "Speed – innocent bus passenger fights against deadly game of high-speed terror"
+  },
+  {
+    "movieId": 572,
+    "score": 0.84,
+    "reason": "Crimson Tide – naval officer wrong time when nuclear crisis erupts on sub"
+  },
+  {
+    "movieId": 350,
+    "score": 0.82,
+    "reason": "Fallen – cop’s life spirals as evil spirit inhabits bodies at crime scenes"
+  },
+  {
+    "movieId": 334,
+    "score": 0.8,
+    "reason": "U Turn – chance wrong turn throws everyman into corrupt small-town nightmare"
+  },
+  {
+    "movieId": 773,
+    "score": 0.78,
+    "reason": "Mute Witness – silent makeup artist stumbles on filmed murder, suddenly hunted"
+  },
+  {
+    "movieId": 123,
+    "score": 0.75,
+    "reason": "The Frighteners – paranormal investigator forced to face a menacing unseen threat"
+  }
+]

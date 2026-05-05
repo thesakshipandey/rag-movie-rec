@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.97,
+    "reason": "Three Colors: Blue offers quiet reflection and gentle sorrow, like the soft patter of rain on a windowpane."
+  },
+  {
+    "movieId": 86,
+    "score": 0.95,
+    "reason": "Remains of the Day unfolds in hushed tones of regret and contemplation, evoking overnight rain’s soft melancholy."
+  },
+  {
+    "movieId": 88,
+    "score": 0.93,
+    "reason": "Sleepless in Seattle drifts between wistful loneness and tender connection in a rainy-eyed night-time mood."
+  },
+  {
+    "movieId": 170,
+    "score": 0.91,
+    "reason": "Cinema Paradiso weaves nostalgic longing and soft yearning through its reflective, rain-washed memory of youth."
+  },
+  {
+    "movieId": 196,
+    "score": 0.89,
+    "reason": "Dead Poets Society balances quiet sadness with reflective beauty, like water trickling down a window at night."
+  },
+  {
+    "movieId": 258,
+    "score": 0.87,
+    "reason": "Contact delivers contemplative, gentle sci-fi melancholy, as though listening to rain against a silent pane."
+  },
+  {
+    "movieId": 278,
+    "score": 0.85,
+    "reason": "Bed of Roses casts a wistful, gentle gaze on second chances, akin to soft rain stirring quiet introspection."
+  },
+  {
+    "movieId": 537,
+    "score": 0.83,
+    "reason": "Searching for Bobby Fischer explores quiet inner storms and delicate sadness, reflective as rain on glass."
+  },
+  {
+    "movieId": 135,
+    "score": 0.81,
+    "reason": "2001: A Space Odyssey evokes cold, contemplative wonder—an existential drizzle across a silent, infinite window."
+  },
+  {
+    "movieId": 641,
+    "score": 0.79,
+    "reason": "Paths of Glory channels quiet sorrow and reflective ache in muted tones, like a soft rain against stone walls."
+  }
+]

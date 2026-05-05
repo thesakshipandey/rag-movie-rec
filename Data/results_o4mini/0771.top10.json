@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 53,
+    "score": 0.93,
+    "reason": "Chaotic violence and dark humor in a self-aware crime spree."
+  },
+  {
+    "movieId": 209,
+    "score": 0.91,
+    "reason": "Mockumentary style satire with biting cynicism and lowbrow comedy."
+  },
+  {
+    "movieId": 154,
+    "score": 0.89,
+    "reason": "Heretical humor and sharp social satire from a storied British troupe."
+  },
+  {
+    "movieId": 67,
+    "score": 0.87,
+    "reason": "Gross-out sight gags and outrageous premise push moral boundaries."
+  },
+  {
+    "movieId": 190,
+    "score": 0.85,
+    "reason": "Psychological edge with disturbing overtones and wicked humor."
+  },
+  {
+    "movieId": 39,
+    "score": 0.83,
+    "reason": "Noir-tinged dark comedy with scathing social commentary."
+  },
+  {
+    "movieId": 123,
+    "score": 0.82,
+    "reason": "Blending horror and humor in a twisted supernatural tale."
+  },
+  {
+    "movieId": 359,
+    "score": 0.8,
+    "reason": "Clever wordplay and sardonic tone driving criminal intrigue."
+  },
+  {
+    "movieId": 329,
+    "score": 0.78,
+    "reason": "Thriller-comedy with biting irony and morally skewed characters."
+  },
+  {
+    "movieId": 467,
+    "score": 0.75,
+    "reason": "Mix of violence and dry wit in a gritty urban revenge story."
+  }
+]

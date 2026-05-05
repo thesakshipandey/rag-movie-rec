@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A crack team is assembled for a seemingly impossible heist with a jaw-dropping twist ending"
+  },
+  {
+    "movieId": 156,
+    "score": 0.95,
+    "reason": "Expert crooks assemble to pull off a high-stakes jewelry heist gone spectacularly wrong"
+  },
+  {
+    "movieId": 239,
+    "score": 0.9,
+    "reason": "A diverse crew of security experts plans a daring electronic heist using high-tech gadgets"
+  },
+  {
+    "movieId": 153,
+    "score": 0.85,
+    "reason": "A ragtag band of con artists plot a diamond heist filled with clever double-crosses"
+  },
+  {
+    "movieId": 273,
+    "score": 0.8,
+    "reason": "Seasoned bank robbers execute complex heists with tense precision and perfect timing"
+  },
+  {
+    "movieId": 405,
+    "score": 0.75,
+    "reason": "An elite spy team orchestrates an intricate infiltration with meticulous planning"
+  },
+  {
+    "movieId": 435,
+    "score": 0.7,
+    "reason": "Legendary outlaws recruit a small crew for bold train and bank robberies in the Old West"
+  },
+  {
+    "movieId": 520,
+    "score": 0.65,
+    "reason": "POWs collaborate on a brilliantly conceived mass breakout in a tightly coordinated plan"
+  },
+  {
+    "movieId": 490,
+    "score": 0.6,
+    "reason": "A retired cat burglar assembles a scheme to outwit jewel thieves along the Riviera coast"
+  },
+  {
+    "movieId": 291,
+    "score": 0.5,
+    "reason": "A master thief infiltrates a billionaire’s mansion in a high-risk, high-reward burglary caper"
+  }
+]

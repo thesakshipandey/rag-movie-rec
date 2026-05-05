@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 32,
+    "score": 1.0,
+    "reason": "Intimate dive into a cartoonist’s tortured psyche, genius and the agony behind every stroke."
+  },
+  {
+    "movieId": 1010,
+    "score": 0.95,
+    "reason": "Raw portrayal of a painter’s meteoric rise and the chaos fueling his electric creativity."
+  },
+  {
+    "movieId": 47,
+    "score": 0.9,
+    "reason": "Affectionate look at a passion-driven filmmaker living on the edge of cinematic disaster."
+  },
+  {
+    "movieId": 1044,
+    "score": 0.88,
+    "reason": "A frenetic newsroom odyssey capturing the pressure cooker of deadline-driven creativity."
+  },
+  {
+    "movieId": 15,
+    "score": 0.85,
+    "reason": "A music teacher’s opus unfolds over decades, battling block and seeking purpose through song."
+  },
+  {
+    "movieId": 1426,
+    "score": 0.82,
+    "reason": "Songstress navigates love, loss and writer’s block on the 1960s music scene’s front lines."
+  },
+  {
+    "movieId": 191,
+    "score": 0.8,
+    "reason": "A genius composer’s rivalry and obsession play out in an operatic clash of talent and envy."
+  },
+  {
+    "movieId": 531,
+    "score": 0.78,
+    "reason": "An obsessive pianist confronts brilliance and madness in a haunting portrait of creative torment."
+  },
+  {
+    "movieId": 137,
+    "score": 0.75,
+    "reason": "Two chefs gamble on a single meal to prove their culinary art against the humblest of odds."
+  },
+  {
+    "movieId": 289,
+    "score": 0.72,
+    "reason": "A biopic of a musical titan’s tormented heart and the love letters that fueled his immortal art."
+  }
+]

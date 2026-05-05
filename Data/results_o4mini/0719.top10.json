@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 634,
+    "score": 0.95,
+    "reason": "Microcosmos: stunning insect world that inspires awe at tiny wonders"
+  },
+  {
+    "movieId": 119,
+    "score": 0.9,
+    "reason": "Maya Lin: A Strong Clear Vision: artist’s triumph over design challenges"
+  },
+  {
+    "movieId": 48,
+    "score": 0.85,
+    "reason": "Hoop Dreams: teenagers overcome obstacles on and off the court"
+  },
+  {
+    "movieId": 32,
+    "score": 0.8,
+    "reason": "Crumb: artist perseveres through personal and professional trials"
+  },
+  {
+    "movieId": 603,
+    "score": 0.75,
+    "reason": "Rear Window: voyeuristic mastery transforms urban setting into art"
+  },
+  {
+    "movieId": 209,
+    "score": 0.7,
+    "reason": "Spinal Tap: underdogs rock through every absurd setback"
+  },
+  {
+    "movieId": 720,
+    "score": 0.65,
+    "reason": "Plotmax documentary: epic visual journey and triumphant survival"
+  },
+  {
+    "movieId": 818,
+    "score": 0.6,
+    "reason": "Girl 6: finding joy and wonder in unexpected creative work"
+  },
+  {
+    "movieId": 1436,
+    "score": 0.55,
+    "reason": "Partners in Crime: survivors craft beauty from hardship"
+  },
+  {
+    "movieId": 245,
+    "score": 0.5,
+    "reason": "Carlito’s Way: protagonist rises despite life-ending odds"
+  }
+]

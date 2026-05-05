@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 1.0,
+    "reason": "Clueless – teen comedy with warm humor and a gentle smile, under 100 min"
+  },
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "Clerks – low-key dialogue-driven humour, indie charm, quick 92 min runtime"
+  },
+  {
+    "movieId": 41,
+    "score": 0.9,
+    "reason": "Billy Madison – silly, light-hearted fun that’s never mean, about 89 min"
+  },
+  {
+    "movieId": 16,
+    "score": 0.85,
+    "reason": "French Twist – breezy French comedy, sweet tone, brisk pace"
+  },
+  {
+    "movieId": 154,
+    "score": 0.8,
+    "reason": "Monty Python’s Life of Brian – witty and playful, cult classic under 95 min"
+  },
+  {
+    "movieId": 378,
+    "score": 0.75,
+    "reason": "Miracle on 34th Street – heart-warming holiday comedy, gentle laughs"
+  },
+  {
+    "movieId": 21,
+    "score": 0.7,
+    "reason": "Muppet Treasure Island – light adventure humour, family-friendly and warm"
+  },
+  {
+    "movieId": 400,
+    "score": 0.65,
+    "reason": "Little Rascals – nostalgic gags, innocent fun under 90 min"
+  },
+  {
+    "movieId": 414,
+    "score": 0.6,
+    "reason": "My Favorite Year – affectionate showbiz comedy, spirited yet sweet"
+  },
+  {
+    "movieId": 3,
+    "score": 0.55,
+    "reason": "Four Rooms – episodic light comedy, playful tone, brisk pacing"
+  }
+]

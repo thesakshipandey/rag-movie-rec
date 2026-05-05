@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 180,
+    "score": 0.95,
+    "reason": "Hallucinatory Vietnam odyssey exposing the horrors and ambiguity of war"
+  },
+  {
+    "movieId": 157,
+    "score": 0.9,
+    "reason": "Raw, unflinching Vietnam drama where no one is the hero"
+  },
+  {
+    "movieId": 188,
+    "score": 0.85,
+    "reason": "Cold, clinical look at boot camp and battlefield madness in Vietnam"
+  },
+  {
+    "movieId": 641,
+    "score": 0.8,
+    "reason": "Heart-wrenching WWI tale of injustice and the lunacy of orders"
+  },
+  {
+    "movieId": 199,
+    "score": 0.75,
+    "reason": "Haunting POW drama that strips war of its glory"
+  },
+  {
+    "movieId": 511,
+    "score": 0.7,
+    "reason": "Sweeping WWI epic revealing the costs of imperial ambition"
+  },
+  {
+    "movieId": 211,
+    "score": 0.65,
+    "reason": "Darkly comic Korean War satire on the futility of conflict"
+  },
+  {
+    "movieId": 171,
+    "score": 0.6,
+    "reason": "Victorian genius unravels under weight of ambition in tragic tones"
+  },
+  {
+    "movieId": 431,
+    "score": 0.55,
+    "reason": "Bleak sci-fi Western with anti-war undercurrents"
+  },
+  {
+    "movieId": 427,
+    "score": 0.5,
+    "reason": "Separation of politics and humanity in a mid-century farce"
+  }
+]

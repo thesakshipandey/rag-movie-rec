@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 1.0,
+    "reason": "High-stakes skyscraper showdown with Bruce Willis and classic one-liners."
+  },
+  {
+    "movieId": 96,
+    "score": 0.95,
+    "reason": "Groundbreaking practical effects and Arnold’s iconic catchphrases."
+  },
+  {
+    "movieId": 405,
+    "score": 0.9,
+    "reason": "Tom Cruise leads a globe-trotting spy thriller full of stunts."
+  },
+  {
+    "movieId": 233,
+    "score": 0.87,
+    "reason": "Stevenson on a battleship defusing terrorists with real explosions."
+  },
+  {
+    "movieId": 2,
+    "score": 0.85,
+    "reason": "Pierce Brosnan’s first Bond delivers practical action and quips."
+  },
+  {
+    "movieId": 802,
+    "score": 0.83,
+    "reason": "Jean-Claude Van Damme tackles mercenaries in a gritty, stunt-heavy romp."
+  },
+  {
+    "movieId": 568,
+    "score": 0.8,
+    "reason": "Keanu Reeves at speed with real bus stunts and nonstop tension."
+  },
+  {
+    "movieId": 385,
+    "score": 0.78,
+    "reason": "Arnold in a Las Vegas hijinks adventure with top practical stunts."
+  },
+  {
+    "movieId": 24,
+    "score": 0.75,
+    "reason": "Jackie Chan’s fully real Hong Kong–style fights meet New York streets."
+  },
+  {
+    "movieId": 117,
+    "score": 0.73,
+    "reason": "Nicholas Cage leads a navy SEAL–style assault with real explosions."
+  }
+]

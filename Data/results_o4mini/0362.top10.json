@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 591,
+    "score": 1.0,
+    "reason": "Intense courtroom drama built around a shocking murder confession"
+  },
+  {
+    "movieId": 77,
+    "score": 0.91,
+    "reason": "Fast-paced legal thriller exposing the dark underbelly of big law"
+  },
+  {
+    "movieId": 310,
+    "score": 0.82,
+    "reason": "True-case legal saga of a young lawyer battling corporate injustice"
+  },
+  {
+    "movieId": 58,
+    "score": 0.73,
+    "reason": "Riveting period drama of scandal and the quest for national integrity"
+  },
+  {
+    "movieId": 282,
+    "score": 0.64,
+    "reason": "Emotionally charged courtroom battle over a father’s ultimate sacrifice"
+  },
+  {
+    "movieId": 178,
+    "score": 0.55,
+    "reason": "Classic jury-room drama of prejudice, persuasion, and moral truth"
+  },
+  {
+    "movieId": 735,
+    "score": 0.46,
+    "reason": "Compelling legal fight for gay rights featuring powerful courtroom scenes"
+  },
+  {
+    "movieId": 43,
+    "score": 0.37,
+    "reason": "Corporate office scandal turned legal entanglement with riveting tension"
+  },
+  {
+    "movieId": 38,
+    "score": 0.28,
+    "reason": "Cyber-forensic thriller where every hack becomes a deadly clue"
+  },
+  {
+    "movieId": 1214,
+    "score": 0.19,
+    "reason": "Quirky legal comedy-thriller centered on a botched murder trial"
+  }
+]

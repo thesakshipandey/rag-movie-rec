@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 655,
+    "score": 1.0,
+    "reason": "Stand By Me’s bittersweet tale of friendship and growing up"
+  },
+  {
+    "movieId": 959,
+    "score": 0.9,
+    "reason": "Dazed and Confused captures teenage chaos with heart and humor"
+  },
+  {
+    "movieId": 93,
+    "score": 0.85,
+    "reason": "Welcome to the Dollhouse’s raw look at awkward adolescence"
+  },
+  {
+    "movieId": 367,
+    "score": 0.8,
+    "reason": "Clueless’ playful teen clique and witty coming-of-age angst"
+  },
+  {
+    "movieId": 36,
+    "score": 0.75,
+    "reason": "Mad Love’s intense high-school passion and stormy romance"
+  },
+  {
+    "movieId": 772,
+    "score": 0.7,
+    "reason": "Kids’ unfiltered look at youth and its reckless edge"
+  },
+  {
+    "movieId": 421,
+    "score": 0.65,
+    "reason": "Romeo & Juliet’s timeless teenage rebellion and first love"
+  },
+  {
+    "movieId": 433,
+    "score": 0.6,
+    "reason": "Heathers’ darkly comic clash between teens and cruel social order"
+  },
+  {
+    "movieId": 196,
+    "score": 0.55,
+    "reason": "Dead Poets Society’s impassioned ode to youth and defiance"
+  },
+  {
+    "movieId": 65,
+    "score": 0.5,
+    "reason": "What’s Eating Gilbert Grape’s tender portrait of growing up"
+  }
+]

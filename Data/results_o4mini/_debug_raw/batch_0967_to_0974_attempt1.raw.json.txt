@@ -1,0 +1,39 @@
+{
+  "results": {
+    "0967": {
+      "top10": [
+        {"movieId": 23, "score": 0.95, "reason": "A lone taxi driver's nocturnal cruise through New York's underbelly at 2 AM, drenched in neon and solitude."},
+        {"movieId": 3, "score": 0.90, "reason": "Four interconnected hotel vignettes on New Year's Eve, each drenched in late-night urban weirdness."},
+        {"movieId": 39, "score": 0.88, "reason": "Eerie sci-fi noir in 1999 Los Angeles, following a disgraced cop through one long, tense night."},
+        {"movieId": 856, "score": 0.86, "reason": "Five taxi rides in different cities, capturing the magic and melancholy of nocturnal streets."},
+        {"movieId": 959, "score": 0.84, "reason": "A rambling, reflective road trip across Austin over one aimless, insomniac night."},
+        {"movieId": 1226, "score": 0.82, "reason": "Somber New York detective work unfolds overnight in a city full of shadows and regret."},
+        {"movieId": 805, "score": 0.80, "reason": "Cozy mystery set around a series of odd nocturnal events in Manhattan."},
+        {"movieId": 312, "score": 0.78, "reason": "Haunting Southern gothic drama that lingers in the city's twilight hours."},
+        {"movieId": 17, "score": 0.75, "reason": "A road-movie at dusk turns surreal and dangerous as characters drift into the night."},
+        {"movieId": 42, "score": 0.72, "reason": "Slice-of-life drama over one late shift in a roadside convenience store, steeped in loneliness."}
+      ]
+    },
+    "0968": {
+      "top10": []
+    },
+    "0969": {
+      "top10": []
+    },
+    "0970": {
+      "top10": []
+    },
+    "0971": {
+      "top10": []
+    },
+    "0972": {
+      "top10": []
+    },
+    "0973": {
+      "top10": []
+    },
+    "0974": {
+      "top10": []
+    }
+  }
+}

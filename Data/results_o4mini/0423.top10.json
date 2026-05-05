@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 1.0,
+    "reason": "Convict Andy navigates prison life with hope and friendship in a profoundly true adult story."
+  },
+  {
+    "movieId": 9,
+    "score": 0.9,
+    "reason": "A death row nun and condemned man wrestle with faith and guilt in a raw, realistic drama."
+  },
+  {
+    "movieId": 86,
+    "score": 0.85,
+    "reason": "An English butler’s unwavering devotion unravels in a quietly powerful, bittersweet tale."
+  },
+  {
+    "movieId": 276,
+    "score": 0.8,
+    "reason": "An alcoholic screenwriter’s downward spiral in Vegas is unflinchingly real and deeply sad."
+  },
+  {
+    "movieId": 65,
+    "score": 0.75,
+    "reason": "A small-town brother cares for his disabled sibling with honest, unvarnished emotion."
+  },
+  {
+    "movieId": 272,
+    "score": 0.7,
+    "reason": "A genius janitor and his therapist navigate scars of the past in a smart, heartfelt drama."
+  },
+  {
+    "movieId": 160,
+    "score": 0.65,
+    "reason": "High-stakes salesmen confront moral decay in a searing, adult portrait of ambition and betrayal."
+  },
+  {
+    "movieId": 318,
+    "score": 0.6,
+    "reason": "Based on true events, a businessman risks everything to save lives amid dark times."
+  },
+  {
+    "movieId": 51,
+    "score": 0.55,
+    "reason": "A family weathers love and loss across decades in a sweeping, authentic saga."
+  },
+  {
+    "movieId": 285,
+    "score": 0.5,
+    "reason": "London family secrets surface with tenderness and pain in a quietly moving drama."
+  }
+]

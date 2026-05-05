@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Tarantino’s interwoven stories of crime in 1994"
+  },
+  {
+    "movieId": 64,
+    "score": 0.95,
+    "reason": "Prison drama exploring hope and friendship"
+  },
+  {
+    "movieId": 69,
+    "score": 0.9,
+    "reason": "Forrest Gump’s extraordinary journey through ’60s–’80s"
+  },
+  {
+    "movieId": 71,
+    "score": 0.88,
+    "reason": "Disney’s animated classic of a lion cub’s coming of age"
+  },
+  {
+    "movieId": 70,
+    "score": 0.85,
+    "reason": "Brits navigate love at weddings and funerals"
+  },
+  {
+    "movieId": 48,
+    "score": 0.82,
+    "reason": "True basketball dream in 1990s Illinois"
+  },
+  {
+    "movieId": 53,
+    "score": 0.8,
+    "reason": "Dark tale of media-fueled killers on a killing spree"
+  },
+  {
+    "movieId": 42,
+    "score": 0.78,
+    "reason": "Day-in-the-life of New Jersey convenience store clerks"
+  },
+  {
+    "movieId": 45,
+    "score": 0.75,
+    "reason": "Family drama and romance over elaborate meals in Taipei"
+  },
+  {
+    "movieId": 62,
+    "score": 0.72,
+    "reason": "Origins saga of the Stargate device"
+  }
+]

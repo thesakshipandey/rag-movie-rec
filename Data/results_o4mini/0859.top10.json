@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 202,
+    "score": 0.98,
+    "reason": "Groundhog Day’s endless loop explores despair and awakening with philosophical depth"
+  },
+  {
+    "movieId": 7,
+    "score": 0.95,
+    "reason": "Twelve Monkeys loops through time, deepening confusion and existential dread"
+  },
+  {
+    "movieId": 535,
+    "score": 0.92,
+    "reason": "Phenomenon anchors repeating visions to unveil hidden purpose and hope"
+  },
+  {
+    "movieId": 135,
+    "score": 0.89,
+    "reason": "2001: A Space Odyssey’s grand cycle probes cosmic mystery and human insignificance"
+  },
+  {
+    "movieId": 27,
+    "score": 0.86,
+    "reason": "Apollo 13 relives crisis crescendo, blending tension with human resilience"
+  },
+  {
+    "movieId": 82,
+    "score": 0.83,
+    "reason": "Jurassic Park’s escape sequences repeat threats, blending terror with wonder"
+  },
+  {
+    "movieId": 180,
+    "score": 0.8,
+    "reason": "Apocalypse Now loops through dark madness and fleeting moments of clarity"
+  },
+  {
+    "movieId": 97,
+    "score": 0.78,
+    "reason": "Dances with Wolves circles cultural conflict and personal introspection in repeat motifs"
+  },
+  {
+    "movieId": 89,
+    "score": 0.75,
+    "reason": "Blade Runner’s city nights echo loss, wanderlust, and the search for identity"
+  },
+  {
+    "movieId": 127,
+    "score": 0.72,
+    "reason": "The Godfather cycles through generational power, betrayal, and existential consequence"
+  }
+]

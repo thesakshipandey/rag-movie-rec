@@ -1,0 +1,11 @@
+movieId,score,reason
+202,0.9,Title ends with 'Day'
+815,0.85,Title ends with 'Day'
+429,0.5,Title begins with 'Day'
+227,0.45,Features 'Day' in title phrase
+26,0.4,Features 'Day' in title phrase
+89,0.35,Features 'Night' opposite of Day
+202,0.3,Iconic Day-themed comedy
+815,0.25,Romantic tale named after a Day
+24,0.2,Action set around a fateful Day
+94,0.15,Holiday caper set on Christmas Day

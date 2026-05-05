@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 289,
+    "score": 0.98,
+    "reason": "Biopic musical with grand choreography and lush period songs."
+  },
+  {
+    "movieId": 143,
+    "score": 0.95,
+    "reason": "Beloved classic packed with soaring songs and vibrant scenery."
+  },
+  {
+    "movieId": 705,
+    "score": 0.93,
+    "reason": "Iconic tap-dance numbers set to joyous Gershwin tunes."
+  },
+  {
+    "movieId": 132,
+    "score": 0.9,
+    "reason": "Timeless fantasy musical in bright Technicolor."
+  },
+  {
+    "movieId": 485,
+    "score": 0.88,
+    "reason": "Elegant Broadway adaptation with memorable Lerner & Loewe score."
+  },
+  {
+    "movieId": 964,
+    "score": 0.85,
+    "reason": "Charming Astaire-Rogers musical comedy with Irving Berlin hits."
+  },
+  {
+    "movieId": 451,
+    "score": 0.83,
+    "reason": "Feel-good high-school rock’n’roll musical with catchy tunes."
+  },
+  {
+    "movieId": 151,
+    "score": 0.8,
+    "reason": "Whimsical chocolate factory extravaganza with Gene Wilder."
+  },
+  {
+    "movieId": 419,
+    "score": 0.78,
+    "reason": "Enchanting nanny musical with timeless Julie Andrews songs."
+  },
+  {
+    "movieId": 142,
+    "score": 0.75,
+    "reason": "Fantasy musical blending live action, animation and Disney magic."
+  }
+]

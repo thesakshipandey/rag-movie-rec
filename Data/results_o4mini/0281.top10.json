@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.92,
+    "reason": "Immediate warmth and nostalgia grab you fast",
+    "plot": ""
+  },
+  {
+    "movieId": 8,
+    "score": 0.9,
+    "reason": "Clever pig story hooks you quickly",
+    "plot": ""
+  },
+  {
+    "movieId": 22,
+    "score": 0.88,
+    "reason": "Epic scope engages right away",
+    "plot": ""
+  },
+  {
+    "movieId": 82,
+    "score": 0.85,
+    "reason": "Instant wonder in first scenes",
+    "plot": ""
+  },
+  {
+    "movieId": 50,
+    "score": 0.83,
+    "reason": "Famous opening captures attention",
+    "plot": ""
+  },
+  {
+    "movieId": 56,
+    "score": 0.8,
+    "reason": "Nonlinear thrill keeps you intrigued",
+    "plot": ""
+  },
+  {
+    "movieId": 90,
+    "score": 0.78,
+    "reason": "Quirky humor sets tone fast",
+    "plot": ""
+  },
+  {
+    "movieId": 122,
+    "score": 0.75,
+    "reason": "Tense cable installer antics start quick",
+    "plot": ""
+  },
+  {
+    "movieId": 124,
+    "score": 0.73,
+    "reason": "Mystery found skeleton intrigues early",
+    "plot": ""
+  },
+  {
+    "movieId": 202,
+    "score": 0.7,
+    "reason": "Time-loop hook hooks you immediately",
+    "plot": ""
+  }
+]

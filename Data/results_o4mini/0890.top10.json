@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.9,
+    "reason": "Offbeat clerk life, cynical humor, finds niche."
+  },
+  {
+    "movieId": 93,
+    "score": 0.85,
+    "reason": "Awkward adolescence, quirky outsider perspective."
+  },
+  {
+    "movieId": 155,
+    "score": 0.8,
+    "reason": "Insecure teen outsider finds her tribe."
+  },
+  {
+    "movieId": 921,
+    "score": 0.75,
+    "reason": "Lonely boy bonds with circus friends."
+  },
+  {
+    "movieId": 728,
+    "score": 0.7,
+    "reason": "Adult-plus coming of age, finding purpose."
+  },
+  {
+    "movieId": 964,
+    "score": 0.65,
+    "reason": "Mismatched roommates discover shared growth."
+  },
+  {
+    "movieId": 989,
+    "score": 0.6,
+    "reason": "Teen outsider befriends yoga group."
+  },
+  {
+    "movieId": 137,
+    "score": 0.55,
+    "reason": "Immigrant brothers find identity together."
+  },
+  {
+    "movieId": 465,
+    "score": 0.5,
+    "reason": "Artistic child finds his unique community."
+  },
+  {
+    "movieId": 946,
+    "score": 0.45,
+    "reason": "Boy watches shark, learns self-reliance."
+  }
+]

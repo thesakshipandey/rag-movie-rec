@@ -1,0 +1,74 @@
+{
+  "results": {
+    "0151": {
+      "top10": [
+        {"movieId": 1, "score": 0.95, "reason": "Beloved Pixar classic with lovable characters perfect for kids."},
+        {"movieId": 8, "score": 0.93, "reason": "Charming talking pig adventure that delights all ages."},
+        {"movieId": 21, "score": 0.90, "reason": "Muppet twist on Treasure Island full of fun and whimsy."},
+        {"movieId": 71, "score": 0.88, "reason": "Disney musical with memorable songs and lovable animal characters."},
+        {"movieId": 102, "score": 0.86, "reason": "Classic Disney tale of aristocratic cats on a Parisian adventure."},
+        {"movieId": 140, "score": 0.84, "reason": "Heartwarming pet odyssey perfect for animal lovers."},
+        {"movieId": 623, "score": 0.82, "reason": "Family comedy with angels and baseball fans of all ages."},
+        {"movieId": 465, "score": 0.80, "reason": "Disney’s take on a timeless Kipling adventure in the jungle."},
+        {"movieId": 418, "score": 0.78, "reason": "Disney princess classic full of magic and heart."},
+        {"movieId": 419, "score": 0.75, "reason": "Magical nanny musical delight for the whole family."}
+      ]
+    },
+    "0152": {
+      "top10": [
+        {"movieId": 23, "score": 0.95, "reason": "Gripping 1970s drama delving into urban alienation."},
+        {"movieId": 30, "score": 0.90, "reason": "Iconic European art house tale blending fantasy and drama."},
+        {"movieId": 44, "score": 0.88, "reason": "Intense courtroom drama showcasing a 1970s thriller vibe."},
+        {"movieId": 49, "score": 0.85, "reason": "Compelling mystery with a psychological edge from 1970s cinema."},
+        {"movieId": 65, "score": 0.82, "reason": "Poignant small-town drama exploring family tensions."},
+        {"movieId": 68, "score": 0.80, "reason": "Dark hero’s tale steeped in noir atmosphere of the ’70s."},
+        {"movieId": 69, "score": 0.78, "reason": "Enduring drama of innocence and destiny set in rural Iowa."},
+        {"movieId": 81, "score": 0.75, "reason": "Stylish Cold War thriller with big-screen cinematic flair."},
+        {"movieId": 86, "score": 0.72, "reason": "Emotional butler’s story of duty and regret in 1970s setting."},
+        {"movieId": 90, "score": 0.70, "reason": "Cult comedy with late-70s New Age mystique and humor."}
+      ]
+    },
+    "0153": {
+      "top10": [
+        {"movieId": 248, "score": 0.95, "reason": "Sharp-witted assassin comedy from the late ’90s."},
+        {"movieId": 249, "score": 0.93, "reason": "Iconic spy spoof full of 1960s and ’90s campy charm."},
+        {"movieId": 259, "score": 0.90, "reason": "Family comedy adventuring Power Rangers on the big screen."},
+        {"movieId": 260, "score": 0.88, "reason": "Sci-fi horror comedy with tongue-in-cheek thrills."},
+        {"movieId": 243, "score": 0.85, "reason": "Fish-out-of-water comedy with ’90s family vibes."},
+        {"movieId": 352, "score": 0.82, "reason": "Pop-culture romp starring the Spice Girls at their peak."},
+        {"movieId": 240, "score": 0.80, "reason": "Animation comedy where two slackers go on a wild adventure."},
+        {"movieId": 261, "score": 0.78, "reason": "Kid-friendly talking dog sports comedy from 1997."},
+        {"movieId": 262, "score": 0.75, "reason": "Dark romantic comedy exploring deceit and ambition."},
+        {"movieId": 267, "score": 0.72, "reason": "Modern Berlin thriller, late-90s edge, though not comedic."}
+      ]
+    },
+    "0155": {
+      "top10": [
+        {"movieId": 11, "score": 0.95, "reason": "Grim serial killer drama with intense suspense."},
+        {"movieId": 12, "score": 0.93, "reason": "Twisty crime thriller famous for its iconic twist."},
+        {"movieId": 5, "score": 0.90, "reason": "Psychological thriller focused on criminal minds."},
+        {"movieId": 38, "score": 0.88, "reason": "Cyber-thriller laced with paranoia and suspense."},
+        {"movieId": 39, "score": 0.85, "reason": "Dystopian noir thriller with futuristic tension."},
+        {"movieId": 44, "score": 0.82, "reason": "Domestic drama with strong undercurrents of suspense."},
+        {"movieId": 90, "score": 0.80, "reason": "Stalking thriller blending dark humor and mystery."},
+        {"movieId": 98, "score": 0.78, "reason": "Masterful psychological thriller with iconic villain."},
+        {"movieId": 200, "score": 0.75, "reason": "Atmospheric horror-thriller set in an isolated hotel."},
+        {"movieId": 18, "score": 0.72, "reason": "Poignant drama with understated tension and emotion."}
+      ]
+    },
+    "0251": {
+      "top10": [
+        {"movieId": 65, "score": 0.95, "reason": "Teenage coming-of-age drama full of small-town angst."},
+        {"movieId": 36, "score": 0.93, "reason": "High school rom-com exploring first love and identity."},
+        {"movieId": 45, "score": 0.90, "reason": "Family drama examining change in a tight-knit clan."},
+        {"movieId": 66, "score": 0.88, "reason": "Lighthearted romance with Chicago charm."},
+        {"movieId": 37, "score": 0.85, "reason": "Cult vampire drama mixing suspense and style."},
+        {"movieId": 42, "score": 0.82, "reason": "Iconic indie slice-of-life with sharp wit."},
+        {"movieId": 96, "score": 0.80, "reason": "Groundbreaking sci-fi sequel with deep themes."},
+        {"movieId": 197, "score": 0.78, "reason": "Classic 1960s drama of youthful rebellion."},
+        {"movieId": 272, "score": 0.75, "reason": "Math genius drama set against Boston’s backdrop."},
+        {"movieId": 280, "score": 0.72, "reason": "Emotional romance balancing career and love."}
+      ]
+    }
+  }
+}

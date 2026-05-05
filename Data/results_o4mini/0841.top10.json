@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.96,
+    "reason": "Twelve jurors wrestle with moral certainty as one dissenting vote challenges them all"
+  },
+  {
+    "movieId": 9,
+    "score": 0.92,
+    "reason": "Mercy-seeking nun confronts the ethics of defending a condemned man she knows is guilty"
+  },
+  {
+    "movieId": 591,
+    "score": 0.9,
+    "reason": "Defense attorney faces his own conscience when his client’s guilt can’t be denied"
+  },
+  {
+    "movieId": 77,
+    "score": 0.88,
+    "reason": "Young lawyer discovers his prestigious firm’s clients are far more sinister than he thought"
+  },
+  {
+    "movieId": 282,
+    "score": 0.85,
+    "reason": "Father’s fierce quest for racial justice confronts him with the complexities of law and vengeance"
+  },
+  {
+    "movieId": 317,
+    "score": 0.83,
+    "reason": "Renowned attorney grapples with prejudice and justice in a landmark civil-rights courtroom battle"
+  },
+  {
+    "movieId": 58,
+    "score": 0.8,
+    "reason": "Quiz show scandal forces prosecutor to choose between truth and career ambition"
+  },
+  {
+    "movieId": 43,
+    "score": 0.78,
+    "reason": "Corporate lawyer battles ethical dilemmas when her own misconduct is at stake"
+  },
+  {
+    "movieId": 803,
+    "score": 0.75,
+    "reason": "Murder trial shifts focus from guilt to the corrupt bonds behind a wartime atrocity"
+  },
+  {
+    "movieId": 591,
+    "score": 0.73,
+    "reason": "Calculated legal maneuvers expose the tension between conviction and conscience"
+  }
+]

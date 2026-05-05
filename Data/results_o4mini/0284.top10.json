@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 1.0,
+    "reason": "Riveting Holocaust drama depicting Oskar Schindler’s true rescue of Jews with authentic detail."
+  },
+  {
+    "movieId": 651,
+    "score": 0.95,
+    "reason": "Intense Civil War epic following the first all-Black Union regiment in a historically grounded battle."
+  },
+  {
+    "movieId": 511,
+    "score": 0.92,
+    "reason": "Epic desert odyssey with meticulous period accuracy in this biopic of T. E. Lawrence."
+  },
+  {
+    "movieId": 199,
+    "score": 0.9,
+    "reason": "Gripping WWII POW drama where captives build a bridge under Japanese command with stark realism."
+  },
+  {
+    "movieId": 205,
+    "score": 0.88,
+    "reason": "Commanding portrait of General Patton offering a measured, large-scale view of WWII campaigns."
+  },
+  {
+    "movieId": 28,
+    "score": 0.85,
+    "reason": "Tense retelling of the fateful Apollo 13 mission celebrated for technical precision."
+  },
+  {
+    "movieId": 241,
+    "score": 0.82,
+    "reason": "Frontier-era adaptation of Cooper’s classic, capturing period customs and rugged wilderness."
+  },
+  {
+    "movieId": 313,
+    "score": 0.8,
+    "reason": "Immersive recreation of the Titanic’s voyage and sinking with attention to period detail."
+  },
+  {
+    "movieId": 191,
+    "score": 0.78,
+    "reason": "Lavish Mozart biopic set in 18th-century Vienna with careful attention to historical musical context."
+  },
+  {
+    "movieId": 97,
+    "score": 0.75,
+    "reason": "Sprawling post-Civil War Western exploring cross-cultural encounters with thoughtful accuracy."
+  }
+]

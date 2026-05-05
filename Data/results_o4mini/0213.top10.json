@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.98,
+    "reason": "Seven’s dark serial-killer thriller with hypnotic suspense."
+  },
+  {
+    "movieId": 12,
+    "score": 0.97,
+    "reason": "Masterclass in twists and deception in The Usual Suspects."
+  },
+  {
+    "movieId": 5,
+    "score": 0.96,
+    "reason": "Psychological cat-and-mouse serial-killer drama in San Francisco."
+  },
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "Cyber-thriller prefiguring modern digital paranoia."
+  },
+  {
+    "movieId": 39,
+    "score": 0.94,
+    "reason": "Gripping near-future crime drama set amid LA’s underground."
+  },
+  {
+    "movieId": 54,
+    "score": 0.93,
+    "reason": "Outbreak medical thriller with global stakes."
+  },
+  {
+    "movieId": 805,
+    "score": 0.92,
+    "reason": "Woody Allen’s blend of comedy and murder mystery in Manhattan."
+  },
+  {
+    "movieId": 332,
+    "score": 0.91,
+    "reason": "Morgan Freeman leads a relentless hunt for a serial kidnapper."
+  },
+  {
+    "movieId": 302,
+    "score": 0.9,
+    "reason": "L.A. Confidential’s layered police conspiracy mystery."
+  },
+  {
+    "movieId": 654,
+    "score": 0.89,
+    "reason": "Chinatown’s timeless noir of corruption and dark secrets."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 0.95,
+    "reason": "Civil servant trapped in endless bureaucratic nightmare, no thriller—just agony"
+  },
+  {
+    "movieId": 734,
+    "score": 0.9,
+    "reason": "Man seeking pension gets lost in heartless paperwork and automated menus"
+  },
+  {
+    "movieId": 560,
+    "score": 0.85,
+    "reason": "Simple errand for certificate trapped in soul‐crushing sequence of red tape"
+  },
+  {
+    "movieId": 748,
+    "score": 0.8,
+    "reason": "Attempts to file claim spiral into surreal maze of polite but fatal procedure"
+  },
+  {
+    "movieId": 502,
+    "score": 0.75,
+    "reason": "Man’s quest for permit becomes relentless purgatory of forms and call centers"
+  },
+  {
+    "movieId": 710,
+    "score": 0.7,
+    "reason": "Single application devolves into unending loop of bureaucratic horror"
+  },
+  {
+    "movieId": 435,
+    "score": 0.65,
+    "reason": "Minor license renewal descends into Kafkaesque cycle of desks and delays"
+  },
+  {
+    "movieId": 257,
+    "score": 0.6,
+    "reason": "Immigration procedure for asylum turns into crushingly dull nightmare"
+  },
+  {
+    "movieId": 163,
+    "score": 0.55,
+    "reason": "Eager applicant battles polite yet impenetrable system until his spirit crumbles"
+  },
+  {
+    "movieId": 59,
+    "score": 0.5,
+    "reason": "Test scores lost in labyrinthian bureaucracy, no thrills—just quiet despair"
+  }
+]

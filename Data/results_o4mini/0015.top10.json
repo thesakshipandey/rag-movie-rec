@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 129,
+    "score": 0.95,
+    "reason": "Lesbian ex–con and neighbor scheme a fresh take on crime in a world with few spells"
+  },
+  {
+    "movieId": 239,
+    "score": 0.92,
+    "reason": "Sneakers in a tech-filled world, low stakes caper in one city’s alleys"
+  },
+  {
+    "movieId": 42,
+    "score": 0.9,
+    "reason": "Clerks’ geek magic world—one store, one day, no world-ending drama"
+  },
+  {
+    "movieId": 944,
+    "score": 0.88,
+    "reason": "Renaissance Man’s college days clash with bizarre medical high jinks, local comedy stakes"
+  },
+  {
+    "movieId": 584,
+    "score": 0.85,
+    "reason": "The Secret Garden’s quiet wonder, one hidden locale’s magic woven through blossoms"
+  },
+  {
+    "movieId": 964,
+    "score": 0.83,
+    "reason": "A Month by the Lake’s cottage retreat becomes a low-key romantic quest of small-town scandal"
+  },
+  {
+    "movieId": 119,
+    "score": 0.8,
+    "reason": "Maya Lin doc—local artistic battle rather than sweeping historical saga"
+  },
+  {
+    "movieId": 864,
+    "score": 0.78,
+    "reason": "My Fellow Americans’ small group political skirmish—high-concept satire at county fair level"
+  },
+  {
+    "movieId": 227,
+    "score": 0.75,
+    "reason": "Star Trek VI’s peace talks at a single Klingon moon, confined diplomacy over epic space war"
+  },
+  {
+    "movieId": 250,
+    "score": 0.72,
+    "reason": "Fifth Element’s container hunt—local Paris setup with sci-fi twist"
+  }
+]

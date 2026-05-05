@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Intersecting criminal tales unfold in razor-sharp, darkly comic dialogue"
+  },
+  {
+    "movieId": 160,
+    "score": 0.95,
+    "reason": "Cutthroat salesmen trade barbs in a searing portrait of desperate ambition"
+  },
+  {
+    "movieId": 100,
+    "score": 0.9,
+    "reason": "Suburban crime caper with deadpan humor that skewers small-town America"
+  },
+  {
+    "movieId": 474,
+    "score": 0.85,
+    "reason": "Apocalyptic satire wields biting wit about nuclear folly and human absurdity"
+  },
+  {
+    "movieId": 475,
+    "score": 0.8,
+    "reason": "Raw portrait of addiction and friendship delivered in scathing, slang-rich bursts"
+  },
+  {
+    "movieId": 156,
+    "score": 0.75,
+    "reason": "Heist gone sideways delivered in jagged, ironic bursts of operative banter"
+  },
+  {
+    "movieId": 42,
+    "score": 0.7,
+    "reason": "Day-in-the-life banter from the convenience store counter cuts to the heart of mundanity"
+  },
+  {
+    "movieId": 171,
+    "score": 0.65,
+    "reason": "Grotesque apartment building becomes backdrop for dark comedy about human greed"
+  },
+  {
+    "movieId": 11,
+    "score": 0.6,
+    "reason": "Two detectives spar over a gruesome case in a grim, sardonic crime drama"
+  },
+  {
+    "movieId": 92,
+    "score": 0.55,
+    "reason": "Hot-wired crime spree sparks manic, razor-tongued exchanges and twisted romance"
+  }
+]

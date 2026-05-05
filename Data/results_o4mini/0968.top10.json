@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.95,
+    "reason": "Heartwarming story of loss, identity, and growing up with emotional depth."
+  },
+  {
+    "movieId": 8,
+    "score": 0.9,
+    "reason": "Emotional tale of a pig coping with loss and finding belonging on the farm."
+  },
+  {
+    "movieId": 538,
+    "score": 0.88,
+    "reason": "Animated musical exploring orphaned heroine’s search for family and healing."
+  },
+  {
+    "movieId": 114,
+    "score": 0.85,
+    "reason": "Claymation shorts brimming with warmth, nostalgia, and gentle family themes."
+  },
+  {
+    "movieId": 465,
+    "score": 0.82,
+    "reason": "Boy’s journey through the jungle offers poignant lessons on family and belonging."
+  },
+  {
+    "movieId": 95,
+    "score": 0.8,
+    "reason": "Adventure with mature themes of freedom and complex family bonds."
+  },
+  {
+    "movieId": 538,
+    "score": 0.78,
+    "reason": "(duplicate) Anastasia’s emotional journey to reconnect with her past family."
+  },
+  {
+    "movieId": 71,
+    "score": 0.75,
+    "reason": "Epic tale of loss and redemption in a kingdom torn by grief and family strife."
+  },
+  {
+    "movieId": 91,
+    "score": 0.72,
+    "reason": "Dark fantasy with heartfelt moments on homecoming and rediscovered purpose."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.7,
+    "reason": "Time-travel romance delves into family dynamics and the fragility of love."
+  }
+]

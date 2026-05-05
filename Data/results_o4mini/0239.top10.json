@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 36,
+    "score": 1.0,
+    "reason": "Mad Love revolves around a teen’s infatuation and turmoil"
+  },
+  {
+    "movieId": 24,
+    "score": 0.95,
+    "reason": "Rumble in the Bronx vibrates with martial-arts energy"
+  },
+  {
+    "movieId": 68,
+    "score": 0.93,
+    "reason": "The Crow delivers dark vengeance rooted in love’s loss"
+  },
+  {
+    "movieId": 18,
+    "score": 0.91,
+    "reason": "The White Balloon chronicles a child’s heartfelt quest"
+  },
+  {
+    "movieId": 73,
+    "score": 0.89,
+    "reason": "Maverick bets on love while chasing poker glory"
+  },
+  {
+    "movieId": 19,
+    "score": 0.87,
+    "reason": "Antonia’s Line celebrates family and enduring bonds"
+  },
+  {
+    "movieId": 17,
+    "score": 0.85,
+    "reason": "From Dusk Till Dawn ignites with a violent crime reunion"
+  },
+  {
+    "movieId": 47,
+    "score": 0.83,
+    "reason": "Ed Wood unveils filmmaking passion against odds"
+  },
+  {
+    "movieId": 44,
+    "score": 0.81,
+    "reason": "Dolores Claiborne unravels a mother’s fierce protection"
+  },
+  {
+    "movieId": 82,
+    "score": 0.79,
+    "reason": "Jurassic Park’s heart roars for a love of discovery"
+  }
+]

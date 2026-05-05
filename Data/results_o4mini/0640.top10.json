@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 79,
+    "score": 1.0,
+    "reason": "The Fugitive thrusts an innocent man into a desperate flight through a web of conspiracy."
+  },
+  {
+    "movieId": 38,
+    "score": 0.95,
+    "reason": "The Net traps a civilian in a digital conspiracy, hunted by unseen forces in a high-tech thriller."
+  },
+  {
+    "movieId": 328,
+    "score": 0.9,
+    "reason": "Conspiracy Theory follows a relentless truth-seeker tangled in a government manhunt."
+  },
+  {
+    "movieId": 291,
+    "score": 0.85,
+    "reason": "Absolute Power ignites a cat-and-mouse chase when a rogue lawyer exposes presidential secrets."
+  },
+  {
+    "movieId": 566,
+    "score": 0.8,
+    "reason": "Clear and Present Danger puts a family man on the run from covert plots and shadowy agencies."
+  },
+  {
+    "movieId": 685,
+    "score": 0.75,
+    "reason": "Executive Decision flips a routine flight into a tense race against unseen enemies at 35,000 feet."
+  },
+  {
+    "movieId": 333,
+    "score": 0.7,
+    "reason": "The Game spins an ordinary man into a labyrinthine conspiracy with his life as the ultimate prize."
+  },
+  {
+    "movieId": 684,
+    "score": 0.65,
+    "reason": "In the Line of Fire casts a Secret Service vet as prey to a former assassin in a tense pursuit."
+  },
+  {
+    "movieId": 299,
+    "score": 0.6,
+    "reason": "U.S. Marshalls extends a fugitive’s fight for truth when government hunters close in with no mercy."
+  },
+  {
+    "movieId": 295,
+    "score": 0.55,
+    "reason": "Breakdown traps a man on the road as a sinister plot unravels and nowhere is safe."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.99,
+    "reason": "Jack Torrance’s slow descent into madness at a remote hotel creates relentless psychological dread."
+  },
+  {
+    "movieId": 443,
+    "score": 0.97,
+    "reason": "Birds gather ominously, building inescapable tension before unleashing their silent attacks."
+  },
+  {
+    "movieId": 1125,
+    "score": 0.95,
+    "reason": "A governess suspects something deeply wrong in her isolated manor with chilling atmosphere."
+  },
+  {
+    "movieId": 7,
+    "score": 0.93,
+    "reason": "Time-travel plague horror grows in dread as past and present blur into an inescapable nightmare."
+  },
+  {
+    "movieId": 89,
+    "score": 0.91,
+    "reason": "Deckard’s pursuit of a synthetic being under suffocating neon skies feels hauntingly inevitable."
+  },
+  {
+    "movieId": 135,
+    "score": 0.89,
+    "reason": "Monolith discoveries and cosmic silence create creeping existential horror beyond human control."
+  },
+  {
+    "movieId": 185,
+    "score": 0.87,
+    "reason": "Marion’s fateful motel encounter unspools with mounting unease in Hitchcock’s masterful build-up."
+  },
+  {
+    "movieId": 98,
+    "score": 0.85,
+    "reason": "Clarice’s cat-and-mouse interviews with Hannibal gouge an aura of creeping dread around every word."
+  },
+  {
+    "movieId": 11,
+    "score": 0.83,
+    "reason": "Seven sins murders unfold at a deliberate, gut-wrenching pace that burrows under your skin."
+  },
+  {
+    "movieId": 12,
+    "score": 0.81,
+    "reason": "Verbal Kint’s story spirals slowly into a final twist that makes you question everything."
+  }
+]

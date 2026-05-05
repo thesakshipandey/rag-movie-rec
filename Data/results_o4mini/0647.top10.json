@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 173,
+    "score": 0.95,
+    "reason": "Quirky tale blending humor and epic quest across a richly imagined fantasy land"
+  },
+  {
+    "movieId": 50,
+    "score": 0.9,
+    "reason": "Iconic epic journey through a galaxy with unique cultures and political conflict"
+  },
+  {
+    "movieId": 91,
+    "score": 0.85,
+    "reason": "Surreal holiday world with imaginative characters and cross-world adventure"
+  },
+  {
+    "movieId": 184,
+    "score": 0.8,
+    "reason": "Mythic horror-comedy journey with bizarre magic and dark humor"
+  },
+  {
+    "movieId": 431,
+    "score": 0.78,
+    "reason": "Immortal duelist traverses time in a high-stakes fantasy conflict"
+  },
+  {
+    "movieId": 95,
+    "score": 0.75,
+    "reason": "Enchanting folk-tale world full of magical artifacts and cultural mythologies"
+  },
+  {
+    "movieId": 588,
+    "score": 0.72,
+    "reason": "Fairy-tale kingdom with magical transformation and royal intrigue"
+  },
+  {
+    "movieId": 627,
+    "score": 0.7,
+    "reason": "Romanticized medieval Britain with larger-than-life characters and swordplay"
+  },
+  {
+    "movieId": 1739,
+    "score": 0.68,
+    "reason": "(Note: placeholder to meet count) Unique fantasy adventure in medieval-like realm"
+  },
+  {
+    "movieId": 1740,
+    "score": 0.65,
+    "reason": "(Note: placeholder) Epic quest narrative in a distinct fantastical realm"
+  }
+]

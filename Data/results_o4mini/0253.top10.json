@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "Die Hard is a landmark action thriller free of comedy/romance tropes"
+  },
+  {
+    "movieId": 96,
+    "score": 0.94,
+    "reason": "Terminator 2: Judgment Day delivers sci-fi action without romantic comedy"
+  },
+  {
+    "movieId": 82,
+    "score": 0.93,
+    "reason": "Jurassic Park blends adventure and sci-fi with no core romantic or comic focus"
+  },
+  {
+    "movieId": 56,
+    "score": 0.92,
+    "reason": "Pulp Fiction is an intense crime drama unbound by comedic or romantic labels"
+  },
+  {
+    "movieId": 318,
+    "score": 0.91,
+    "reason": "Schindler's List stands as a powerful drama devoid of comedy or romance"
+  },
+  {
+    "movieId": 22,
+    "score": 0.9,
+    "reason": "Braveheart offers historical epic drama without romantic-comedy elements"
+  },
+  {
+    "movieId": 273,
+    "score": 0.89,
+    "reason": "Heat is a gritty crime drama with no comedy or romantic emphasis"
+  },
+  {
+    "movieId": 11,
+    "score": 0.88,
+    "reason": "Seven (Se7en) is a dark thriller focused on crime, not comedy or romance"
+  },
+  {
+    "movieId": 127,
+    "score": 0.87,
+    "reason": "Godfather, The explores crime and family drama without romantic-comedy beats"
+  },
+  {
+    "movieId": 134,
+    "score": 0.86,
+    "reason": "Citizen Kane examines power and memory, not fitting comedy/romance genres"
+  }
+]

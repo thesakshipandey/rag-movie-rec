@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 67,
+    "score": 1.0,
+    "reason": "An eccentric detective’s animal-rescuing capers spark uproarious hilarity."
+  },
+  {
+    "movieId": 80,
+    "score": 0.95,
+    "reason": "A spoofed action squad meets its match in absurd combat and riotous sight gags."
+  },
+  {
+    "movieId": 41,
+    "score": 0.9,
+    "reason": "A wealthy heir’s childish antics ignite non-stop pratfalls and cheerful chaos."
+  },
+  {
+    "movieId": 249,
+    "score": 0.85,
+    "reason": "A swinging secret agent lampoons 1960s camp with outrageous comic flair."
+  },
+  {
+    "movieId": 367,
+    "score": 0.8,
+    "reason": "A teen socialite’s bemused matchmaking leads to gleeful, heartwarming chaos."
+  },
+  {
+    "movieId": 94,
+    "score": 0.75,
+    "reason": "A youngster’s ingenious traps turn home invasion into laugh-out-loud mayhem."
+  },
+  {
+    "movieId": 72,
+    "score": 0.7,
+    "reason": "A mask-wielding everyman unleashes cartoonish mayhem in a neon cityscape."
+  },
+  {
+    "movieId": 21,
+    "score": 0.65,
+    "reason": "Pirate puppets and a boy’s escapades blend swashbuckling fun and heart."
+  },
+  {
+    "movieId": 393,
+    "score": 0.6,
+    "reason": "A kindly cook’s broadcast takes an uproarious turn amid confined calamity."
+  },
+  {
+    "movieId": 25,
+    "score": 0.55,
+    "reason": "A high-spirited drag club owner navigates outrageous antics with boundless flair."
+  }
+]

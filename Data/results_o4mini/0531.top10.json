@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 0.97,
+    "reason": "Darkly comic portrayal of absurd military bravado."
+  },
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Intertwined criminal tales with sharp, irreverent wit."
+  },
+  {
+    "movieId": 100,
+    "score": 0.93,
+    "reason": "Deadpan Midwestern crime comedy with sinister undertones."
+  },
+  {
+    "movieId": 902,
+    "score": 0.91,
+    "reason": "Quirky characters in a hilariously off-beat crime misadventure."
+  },
+  {
+    "movieId": 262,
+    "score": 0.89,
+    "reason": "Brutally honest satire of calculated male cruelty."
+  },
+  {
+    "movieId": 85,
+    "score": 0.87,
+    "reason": "Sharp-tongued comedy of a hostage-taking gone sideways."
+  },
+  {
+    "movieId": 12,
+    "score": 0.85,
+    "reason": "Cunning criminal ensemble featuring clever, biting banter."
+  },
+  {
+    "movieId": 433,
+    "score": 0.83,
+    "reason": "Mean-spirited teen comedy with razor-sharp social satire."
+  },
+  {
+    "movieId": 339,
+    "score": 0.81,
+    "reason": "Acidic look at Hollywood’s ruthless backstage power games."
+  },
+  {
+    "movieId": 347,
+    "score": 0.79,
+    "reason": "Satirical political farce with sly, cynical humor."
+  }
+]

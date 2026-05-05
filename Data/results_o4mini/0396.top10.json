@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 1.0,
+    "reason": "Clerks captures razor-sharp banter that feels like being behind the counter."
+  },
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Before Sunrise crackles with authentic talk that you wish you were part of."
+  },
+  {
+    "movieId": 464,
+    "score": 0.9,
+    "reason": "Vanya on 42nd Street immerses you in intimate, unsettlingly real dialogue."
+  },
+  {
+    "movieId": 59,
+    "score": 0.85,
+    "reason": "Three Colors: Red unfolds around a few conversations that resonate deeply."
+  },
+  {
+    "movieId": 216,
+    "score": 0.8,
+    "reason": "When Harry Met Sally’s witty banter rings true and never feels contrived."
+  },
+  {
+    "movieId": 156,
+    "score": 0.75,
+    "reason": "Reservoir Dogs’s sharp, tension-packed conversations heighten every moment."
+  },
+  {
+    "movieId": 56,
+    "score": 0.7,
+    "reason": "Pulp Fiction’s casual, electric dialogue is a masterclass in real talk."
+  },
+  {
+    "movieId": 464,
+    "score": 0.65,
+    "reason": "Vanya on 42nd Street immerses you in intimate, unsettlingly real dialogue."
+  },
+  {
+    "movieId": 59,
+    "score": 0.6,
+    "reason": "Three Colors: Red unfolds around a few conversations that resonate deeply."
+  },
+  {
+    "movieId": 216,
+    "score": 0.55,
+    "reason": "When Harry Met Sally’s witty banter rings true and never feels contrived."
+  }
+]

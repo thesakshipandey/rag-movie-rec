@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1127,
+    "score": 0.95,
+    "reason": "A man’s perfect life is revealed as an elaborate television set he’s never left."
+  },
+  {
+    "movieId": 691,
+    "score": 0.92,
+    "reason": "A man discovers a city controlled to rewrite memories, shattering his reality."
+  },
+  {
+    "movieId": 333,
+    "score": 0.89,
+    "reason": "An heir’s rich life spirals into engineered chaos in a deadly game he can’t escape."
+  },
+  {
+    "movieId": 38,
+    "score": 0.86,
+    "reason": "A woman’s digital life is stolen, forcing her to question everything she thought was real."
+  },
+  {
+    "movieId": 39,
+    "score": 0.83,
+    "reason": "Memory-recording tech blurs what’s real when a cop relives others’ visions of crime."
+  },
+  {
+    "movieId": 270,
+    "score": 0.8,
+    "reason": "A man’s genetic identity is fabricated, his sense of self shattered by his engineered birth."
+  },
+  {
+    "movieId": 573,
+    "score": 0.77,
+    "reason": "Victims wake up in familiar bodies, only to realize their lives have been stolen by invaders."
+  },
+  {
+    "movieId": 267,
+    "score": 0.74,
+    "reason": "An amnesiac in Berlin learns even his own name and past have been erased."
+  },
+  {
+    "movieId": 1047,
+    "score": 0.71,
+    "reason": "A man clones himself to cope but finds each copy fractures his life further."
+  },
+  {
+    "movieId": 84,
+    "score": 0.68,
+    "reason": "Agents face mind-controlling parasites that erase their true memories."
+  }
+]

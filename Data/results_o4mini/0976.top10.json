@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 0.9,
+    "reason": "Like Water for Chocolate: Intimate magical realism where every spell has a painful price."
+  },
+  {
+    "movieId": 463,
+    "score": 0.85,
+    "reason": "The Secret of Roan Inish: Melancholic folk fantasy where magic is tender, tangible—and costly."
+  },
+  {
+    "movieId": 253,
+    "score": 0.8,
+    "reason": "The Pillow Book: Poetic, sensual tale where words and desires conjure real consequences."
+  },
+  {
+    "movieId": 671,
+    "score": 0.75,
+    "reason": "Bride of Frankenstein: Gothic tale of creation’s burden and the human cost of playing god."
+  },
+  {
+    "movieId": 612,
+    "score": 0.7,
+    "reason": "Lost Horizon: Quiet utopia hides the steep toll exacted by paradise’s fragile peace."
+  },
+  {
+    "movieId": 432,
+    "score": 0.65,
+    "reason": "Fantasia: Contemplative blend of music and animation that hints at magic’s shadow side."
+  },
+  {
+    "movieId": 549,
+    "score": 0.6,
+    "reason": "Kull the Conqueror: Subdued sword-and-sorcery that explores honor’s cost amid dark sorcery."
+  },
+  {
+    "movieId": 1648,
+    "score": 0.55,
+    "reason": "Welcoming Venus: Unconventional romance tinged with mythic ritual and bittersweet price."
+  },
+  {
+    "movieId": 691,
+    "score": 0.5,
+    "reason": "Dark City: Urban fantasy where reality itself punishes those who seek its hidden seams."
+  },
+  {
+    "movieId": 609,
+    "score": 0.45,
+    "reason": "Gigi: Understated Parisian fairy tale hinting at society’s heavy demands on innocent hearts."
+  }
+]

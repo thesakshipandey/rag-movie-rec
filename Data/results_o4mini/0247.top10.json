@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 0.95,
+    "reason": "Star Wars is an original standalone title without colons or numbers in its name"
+  },
+  {
+    "movieId": 56,
+    "score": 0.94,
+    "reason": "Pulp Fiction is a self-contained film with no sequel numbering or subtitle"
+  },
+  {
+    "movieId": 82,
+    "score": 0.93,
+    "reason": "Jurassic Park is the original film title without a series indicator"
+  },
+  {
+    "movieId": 89,
+    "score": 0.92,
+    "reason": "Blade Runner stands alone, no numbering or colon in the title"
+  },
+  {
+    "movieId": 127,
+    "score": 0.91,
+    "reason": "Godfather, The is the original classic without any sequel numbering or colon"
+  },
+  {
+    "movieId": 134,
+    "score": 0.9,
+    "reason": "Citizen Kane is a standalone drama with no series numbering or punctuation"
+  },
+  {
+    "movieId": 383,
+    "score": 0.89,
+    "reason": "Flintstones, The retains only the original series name without colon or number"
+  },
+  {
+    "movieId": 602,
+    "score": 0.88,
+    "reason": "American in Paris, An is a classic musical with no series indication"
+  },
+  {
+    "movieId": 705,
+    "score": 0.87,
+    "reason": "Singin' in the Rain is a singular title with no numbering or sequel subtitle"
+  },
+  {
+    "movieId": 516,
+    "score": 0.86,
+    "reason": "Local Hero is a self-contained story with no numbering or colon"
+  }
+]

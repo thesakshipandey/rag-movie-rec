@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 1.0,
+    "reason": "Family drama centered on lavish Sunday feasts with poetic food craft"
+  },
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "Post-war Italian tale where food binds family and passion"
+  },
+  {
+    "movieId": 171,
+    "score": 0.92,
+    "reason": "Eccentric English manor’s finest dishes tie character ties"
+  },
+  {
+    "movieId": 137,
+    "score": 0.9,
+    "reason": "Italian immigrant brothers pour soul into one spectacular feast"
+  },
+  {
+    "movieId": 175,
+    "score": 0.88,
+    "reason": "Surreal love letter to food and memory in a dystopian kitchen"
+  },
+  {
+    "movieId": 462,
+    "score": 0.85,
+    "reason": "Magical realism where cooking carries deep familial longing"
+  },
+  {
+    "movieId": 49,
+    "score": 0.82,
+    "reason": "Playful romantic comedy where home cooking steers true love"
+  },
+  {
+    "movieId": 266,
+    "score": 0.78,
+    "reason": "Charming French kitchen drama of craft, community and art"
+  },
+  {
+    "movieId": 18,
+    "score": 0.75,
+    "reason": "Tender Iranian story where a meal sparks unexpected bonds"
+  },
+  {
+    "movieId": 253,
+    "score": 0.7,
+    "reason": "Poetic drama intertwining eroticism and culinary artistry"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 77,
+    "score": 0.95,
+    "reason": "Harvard Law grad joins boutique law firm only to unmask its role in laundering Mafia cash in a world‐class corruption scandal."
+  },
+  {
+    "movieId": 307,
+    "score": 0.92,
+    "reason": "Idealistic lawyer takes post at a top NYC firm, then uncovers its satanic conspiracy masquerading as world‐changing justice."
+  },
+  {
+    "movieId": 58,
+    "score": 0.89,
+    "reason": "Young lawyer lands his dream gig on a hit TV quiz show and slowly realizes the program’s integrity is rigged for profit."
+  },
+  {
+    "movieId": 38,
+    "score": 0.86,
+    "reason": "Cybersecurity analyst scores dream tech role, then discovers her employer’s covert plot to manipulate global data and identities."
+  },
+  {
+    "movieId": 43,
+    "score": 0.83,
+    "reason": "Software exec returns to her old company to lead a major deal, then unearths a corporate cover‐up and faces payback for speaking up."
+  },
+  {
+    "movieId": 291,
+    "score": 0.8,
+    "reason": "A small‐time thief witnesses a President’s crime, then wrestles with exposing a chain of corruption at the highest level."
+  },
+  {
+    "movieId": 984,
+    "score": 0.77,
+    "reason": "Political aide lands top White House role, only to uncover a clandestine plot and must decide whether to blow the whistle."
+  },
+  {
+    "movieId": 124,
+    "score": 0.74,
+    "reason": "Idealistic sheriff’s lieutenant inherits old case, revealing decades of political cover‐ups by local powers he once admired."
+  },
+  {
+    "movieId": 239,
+    "score": 0.71,
+    "reason": "Expert hacker joins elite security team, then learns their tech is built to unlawfully spy on the world and faces a moral crossroads."
+  },
+  {
+    "movieId": 328,
+    "score": 0.68,
+    "reason": "Cable installer lands a coveted FBI consultancy, then discovers a dangerous government conspiracy he must expose."
+  }
+]

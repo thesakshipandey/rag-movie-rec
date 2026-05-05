@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 202,
+    "score": 0.98,
+    "reason": "Groundhog Day — repeats a single fateful day"
+  },
+  {
+    "movieId": 429,
+    "score": 0.96,
+    "reason": "Day the Earth Stood Still, The — world-changing day in title"
+  },
+  {
+    "movieId": 826,
+    "score": 0.94,
+    "reason": "Daylight — race against time through a single day"
+  },
+  {
+    "movieId": 815,
+    "score": 0.92,
+    "reason": "One Fine Day — romance unfolding over a busy day"
+  },
+  {
+    "movieId": 1218,
+    "score": 0.9,
+    "reason": "Friday — a day-named comedy classic"
+  },
+  {
+    "movieId": 533,
+    "score": 0.88,
+    "reason": "Daytrippers, The — journey and discoveries made in one day"
+  },
+  {
+    "movieId": 202,
+    "score": 0.86,
+    "reason": "Groundhog Day — popular day-in-title time loop"
+  },
+  {
+    "movieId": 429,
+    "score": 0.84,
+    "reason": "Day the Earth Stood Still — sci-fi day in title"
+  },
+  {
+    "movieId": 826,
+    "score": 0.82,
+    "reason": "Daylight — thriller with day theme"
+  },
+  {
+    "movieId": 1218,
+    "score": 0.8,
+    "reason": "Friday — workplace hijinks on Friday"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 9,
+    "score": 0.98,
+    "reason": "Death row inmate faces moral reckoning and earns redemption through spiritual journey"
+  },
+  {
+    "movieId": 23,
+    "score": 0.92,
+    "reason": "Lonely cabbie’s violent vigilante act forces him to confront his inner darkness"
+  },
+  {
+    "movieId": 64,
+    "score": 0.96,
+    "reason": "Wrongly convicted banker finds hope and redemption through perseverance in prison"
+  },
+  {
+    "movieId": 203,
+    "score": 0.95,
+    "reason": "Aging outlaw grapples with past sins and seeks atonement in a brutal frontier world"
+  },
+  {
+    "movieId": 44,
+    "score": 0.9,
+    "reason": "Widow struggles with dark secrets to protect family and find emotional redemption"
+  },
+  {
+    "movieId": 272,
+    "score": 0.89,
+    "reason": "Rebellious genius must confront trauma and earn self‐forgiveness through therapy"
+  },
+  {
+    "movieId": 221,
+    "score": 0.88,
+    "reason": "Young woman endures sacrifice and turmoil, seeking redemption through faith and love"
+  },
+  {
+    "movieId": 428,
+    "score": 0.87,
+    "reason": "Suicidal young man’s bond with eccentric elder leads to powerful emotional renewal"
+  },
+  {
+    "movieId": 344,
+    "score": 0.85,
+    "reason": "Preacher fights scandal and personal demons to reclaim his faith and purpose"
+  },
+  {
+    "movieId": 196,
+    "score": 0.83,
+    "reason": "Inspirational teacher’s unconventional methods force him to confront his own flaws"
+  }
+]

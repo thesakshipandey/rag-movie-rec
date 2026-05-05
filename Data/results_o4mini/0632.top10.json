@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.99,
+    "reason": "Dialogue-driven indie comedy set almost entirely in a convenience store"
+  },
+  {
+    "movieId": 1073,
+    "score": 0.98,
+    "reason": "Tense, witty apartment thriller built on sharp character exchanges"
+  },
+  {
+    "movieId": 959,
+    "score": 0.97,
+    "reason": "Lo-fi West Coast road trip packed with rambling conversations"
+  },
+  {
+    "movieId": 537,
+    "score": 0.96,
+    "reason": "Intimate, philosophical dramedy between two outsiders in a few locales"
+  },
+  {
+    "movieId": 1076,
+    "score": 0.95,
+    "reason": "Quiet, reflective tale of a small town seen through poetic dialogue"
+  },
+  {
+    "movieId": 1262,
+    "score": 0.94,
+    "reason": "Slice-of-life conversation comedy about two friends finding themselves"
+  },
+  {
+    "movieId": 461,
+    "score": 0.93,
+    "reason": "Atmospheric soap-opera drama where characters talk through their struggles"
+  },
+  {
+    "movieId": 124,
+    "score": 0.92,
+    "reason": "Character-centered drama about reuniting with a long-lost friend"
+  },
+  {
+    "movieId": 955,
+    "score": 0.91,
+    "reason": "Romantic dialogue thriller unfolding over one unforgettable night"
+  },
+  {
+    "movieId": 1171,
+    "score": 0.9,
+    "reason": "Brooding ensemble drama with rich talk-driven scenes"
+  }
+]

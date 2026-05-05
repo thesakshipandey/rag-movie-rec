@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 171,
+    "score": 1.0,
+    "reason": "Surreal black-market meat shop comedy from Jean-Pierre Jeunet."
+  },
+  {
+    "movieId": 919,
+    "score": 0.95,
+    "reason": "Bizarre steampunk fantasy of children kidnapped for their dreams."
+  },
+  {
+    "movieId": 691,
+    "score": 0.9,
+    "reason": "Neo-noir dystopia where reality shifts in shadowy London streets."
+  },
+  {
+    "movieId": 39,
+    "score": 0.88,
+    "reason": "Cyberpunk thriller of illicit memory recordings and twisted desires."
+  },
+  {
+    "movieId": 324,
+    "score": 0.85,
+    "reason": "Lynchian mind-bender where a man wakes into someone else’s life."
+  },
+  {
+    "movieId": 1056,
+    "score": 0.83,
+    "reason": "Guillermo del Toro’s first film blends body horror and obsessions."
+  },
+  {
+    "movieId": 7,
+    "score": 0.8,
+    "reason": "Time-travel plague paranoia with Terry Gilliam’s trademark oddity."
+  },
+  {
+    "movieId": 135,
+    "score": 0.78,
+    "reason": "Kubrick’s ponderous, dreamlike journey through human evolution."
+  },
+  {
+    "movieId": 325,
+    "score": 0.75,
+    "reason": "Cronenberg’s unsettling look at car-crash fetishism and intimacy."
+  },
+  {
+    "movieId": 855,
+    "score": 0.73,
+    "reason": "Opera-obsessed stalker tale with an eerie, operatic tone."
+  }
+]

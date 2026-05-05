@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 17,
+    "score": 1.0,
+    "reason": "From Dusk Till Dawn surprises by blending a crime thriller with unexpected vampire horror."
+  },
+  {
+    "movieId": 39,
+    "score": 0.95,
+    "reason": "Strange Days fuses sci-fi mind-recording tech with a gritty detective thriller."
+  },
+  {
+    "movieId": 184,
+    "score": 0.9,
+    "reason": "Army of Darkness marries slapstick comedy with supernatural horror in medieval times."
+  },
+  {
+    "movieId": 201,
+    "score": 0.85,
+    "reason": "Evil Dead II wraps zombie terror in over-the-top physical comedy and gore."
+  },
+  {
+    "movieId": 379,
+    "score": 0.8,
+    "reason": "Demon Knight mixes pulpy horror tropes with dark humor in a lurid crypt tale."
+  },
+  {
+    "movieId": 202,
+    "score": 0.75,
+    "reason": "Groundhog Day turns a time-loop sci-fi premise into a witty romantic comedy."
+  },
+  {
+    "movieId": 132,
+    "score": 0.7,
+    "reason": "The Wizard of Oz blends fantasy, music, and humor on the yellow brick road."
+  },
+  {
+    "movieId": 37,
+    "score": 0.65,
+    "reason": "Nadja offers a stylized vampire tale with offbeat humor and gothic flair."
+  },
+  {
+    "movieId": 89,
+    "score": 0.6,
+    "reason": "Blade Runner melds detective noir with futuristic sci-fi and philosophical depth."
+  },
+  {
+    "movieId": 62,
+    "score": 0.55,
+    "reason": "Stargate launches a military expedition into a distant world in a sci-fi blend."
+  }
+]

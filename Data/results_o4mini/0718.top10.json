@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 902,
+    "score": 1.0,
+    "reason": "The Big Lebowski’s deadpan absurdity keeps you chuckling on an entirely smug level."
+  },
+  {
+    "movieId": 42,
+    "score": 0.95,
+    "reason": "Clerks delivers razor-sharp, self-aware banter that’s as smart as it is funny."
+  },
+  {
+    "movieId": 202,
+    "score": 0.92,
+    "reason": "Groundhog Day’s clever premise and wit reward viewers who love intellectual humor."
+  },
+  {
+    "movieId": 248,
+    "score": 0.9,
+    "reason": "Grosse Pointe Blank’s darkly sardonic take on romance and assassination is pitch-perfect."
+  },
+  {
+    "movieId": 70,
+    "score": 0.88,
+    "reason": "Four Weddings’ dry observations on romance hit with beautifully witty timing."
+  },
+  {
+    "movieId": 81,
+    "score": 0.85,
+    "reason": "The Hudsucker Proxy’s sly corporate satire dances with genius comedic edge."
+  },
+  {
+    "movieId": 90,
+    "score": 0.83,
+    "reason": "So I Married an Axe Murderer riffs on dating clichés with gleefully knowing swagger."
+  },
+  {
+    "movieId": 100,
+    "score": 0.8,
+    "reason": "Fargo’s wry Midwestern deadpan makes every moment both tense and darkly hilarious."
+  },
+  {
+    "movieId": 249,
+    "score": 0.78,
+    "reason": "Austin Powers’ cheeky parody and smart cultural digs keep the laughs elevated."
+  },
+  {
+    "movieId": 269,
+    "score": 0.75,
+    "reason": "The Full Monty’s wry British humor balances social satire with absolutely sly charm."
+  }
+]

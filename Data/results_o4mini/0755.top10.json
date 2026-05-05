@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.99,
+    "reason": "Morally jagged tale of a retired gunslinger hunting his demons"
+  },
+  {
+    "movieId": 470,
+    "score": 0.97,
+    "reason": "Bloody lawman’s revenge in a dusty boomtown of broken dreams"
+  },
+  {
+    "movieId": 118,
+    "score": 0.95,
+    "reason": "Epic biopic of the weary marshal facing relentless outlaw hordes"
+  },
+  {
+    "movieId": 557,
+    "score": 0.93,
+    "reason": "High-stakes duels in a desperate campground of vengeance"
+  },
+  {
+    "movieId": 23,
+    "score": 0.91,
+    "reason": "Surreal, poetic western where myth and moral conflict collide"
+  },
+  {
+    "movieId": 1206,
+    "score": 0.89,
+    "reason": "Colonial frontier war seen through the eyes of an Apache legend"
+  },
+  {
+    "movieId": 97,
+    "score": 0.87,
+    "reason": "Brutal encounter with the plains, tribes, and survival instincts"
+  },
+  {
+    "movieId": 1188,
+    "score": 0.85,
+    "reason": "Youths transformed into gunslingers in California’s lawless borderlands"
+  },
+  {
+    "movieId": 557,
+    "score": 0.83,
+    "reason": "(duplicate)"
+  },
+  {
+    "movieId": 123,
+    "score": 0.81,
+    "reason": "Supernatural suspense in a canyon-town besieged by unseen terror"
+  }
+]

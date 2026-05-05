@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 18,
+    "score": 0.9,
+    "reason": "Gentle, poetic view of a child’s lonely market quest"
+  },
+  {
+    "movieId": 60,
+    "score": 0.88,
+    "reason": "Muted, lyrical portrait of widow’s grieving and rebirth"
+  },
+  {
+    "movieId": 61,
+    "score": 0.85,
+    "reason": "Stark, color-driven study of a man rebuilding after injustice"
+  },
+  {
+    "movieId": 46,
+    "score": 0.82,
+    "reason": "Brooding nightclub drama with haunting, painterly imagery"
+  },
+  {
+    "movieId": 285,
+    "score": 0.8,
+    "reason": "Quiet, intimate look at tangled family histories"
+  },
+  {
+    "movieId": 1596,
+    "score": 0.78,
+    "reason": "Sparse thriller lensing urban decay, mood heavy as loss"
+  },
+  {
+    "movieId": 1468,
+    "score": 0.75,
+    "reason": "Tragic fugitive’s internalized sorrow captured in stark frames"
+  },
+  {
+    "movieId": 1133,
+    "score": 0.73,
+    "reason": "Outsider’s slow, poetic plunge into hidden grief"
+  },
+  {
+    "movieId": 262,
+    "score": 0.7,
+    "reason": "Cold, tense exploration of isolation and emotional fracture"
+  },
+  {
+    "movieId": 417,
+    "score": 0.68,
+    "reason": "Gently observing a girl’s interior struggle amid change"
+  }
+]

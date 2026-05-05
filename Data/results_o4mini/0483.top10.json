@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 1.0,
+    "reason": "Two strangers share raw, unscripted moments under city lights"
+  },
+  {
+    "movieId": 216,
+    "score": 0.95,
+    "reason": "Witty banter and missed connections fuel messy sparks"
+  },
+  {
+    "movieId": 66,
+    "score": 0.9,
+    "reason": "Mistaken identity leads to awkward, heartfelt misunderstandings"
+  },
+  {
+    "movieId": 88,
+    "score": 0.85,
+    "reason": "Grieving widower and lovestruck admirer navigate tender chaos"
+  },
+  {
+    "movieId": 237,
+    "score": 0.8,
+    "reason": "A sports agent and client navigate love amid professional turmoil"
+  },
+  {
+    "movieId": 872,
+    "score": 0.75,
+    "reason": "Poetry and passion clash in an imperfect urban romance"
+  },
+  {
+    "movieId": 1681,
+    "score": 0.7,
+    "reason": "Small choices ripple into unexpected turns of the heart"
+  },
+  {
+    "movieId": 421,
+    "score": 0.65,
+    "reason": "Age-old family feud magnifies young lovers’ fragile bond"
+  },
+  {
+    "movieId": 740,
+    "score": 0.6,
+    "reason": "Reserved but yearning hearts clash and reach for each other"
+  },
+  {
+    "movieId": 275,
+    "score": 0.55,
+    "reason": "Sisters learn that love can bruise before it beautifully blooms"
+  }
+]

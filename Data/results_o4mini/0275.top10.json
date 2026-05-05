@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 202,
+    "score": 0.95,
+    "reason": "Witty, heartwarming comedy about second chances and personal growth."
+  },
+  {
+    "movieId": 25,
+    "score": 0.93,
+    "reason": "Warm, hilarious comedy celebrating family and acceptance."
+  },
+  {
+    "movieId": 367,
+    "score": 0.91,
+    "reason": "Sharp, playful teen comedy with charming characters and laughs."
+  },
+  {
+    "movieId": 393,
+    "score": 0.89,
+    "reason": "Tender comedy with witty banter and heartfelt family moments."
+  },
+  {
+    "movieId": 705,
+    "score": 0.87,
+    "reason": "Delightful musical comedy overflowing with joy and humor."
+  },
+  {
+    "movieId": 485,
+    "score": 0.85,
+    "reason": "Elegant, witty romance with sparkling dialogue and light tone."
+  },
+  {
+    "movieId": 131,
+    "score": 0.83,
+    "reason": "Charming romantic comedy with stylish flair and light-hearted fun."
+  },
+  {
+    "movieId": 487,
+    "score": 0.81,
+    "reason": "Light, breezy romantic adventure in enchanting Rome."
+  },
+  {
+    "movieId": 173,
+    "score": 0.79,
+    "reason": "Quirky fairy tale with witty humor and lovable characters."
+  },
+  {
+    "movieId": 70,
+    "score": 0.77,
+    "reason": "Witty British comedy about love, friendship, and funeral mishaps."
+  }
+]

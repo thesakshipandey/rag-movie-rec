@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 50,
+    "score": 1.0,
+    "reason": "Legendary space fantasy adventure in a galaxy far, far away."
+  },
+  {
+    "movieId": 173,
+    "score": 0.95,
+    "reason": "Beloved fairy-tale fantasy adventure full of wit and swashbuckling fun."
+  },
+  {
+    "movieId": 174,
+    "score": 0.93,
+    "reason": "Iconic action-adventure with thrills, exotic locales, and a dash of the supernatural."
+  },
+  {
+    "movieId": 250,
+    "score": 0.92,
+    "reason": "Colorful sci-fi fantasy adventure through a futuristic universe."
+  },
+  {
+    "movieId": 755,
+    "score": 0.91,
+    "reason": "Magical board game unleashes wild jungle adventure."
+  },
+  {
+    "movieId": 142,
+    "score": 0.9,
+    "reason": "Enchanting wartime fantasy musical adventure with magic and song."
+  },
+  {
+    "movieId": 132,
+    "score": 0.89,
+    "reason": "Timeless fantasy musical journey over the rainbow."
+  },
+  {
+    "movieId": 21,
+    "score": 0.88,
+    "reason": "Swashbuckling puppet adventure on the high seas."
+  },
+  {
+    "movieId": 420,
+    "score": 0.87,
+    "reason": "Whimsical fantasy adventure in a topsy-turvy Wonderland."
+  },
+  {
+    "movieId": 472,
+    "score": 0.86,
+    "reason": "Epic medieval fantasy adventure featuring dragons and heroism."
+  }
+]

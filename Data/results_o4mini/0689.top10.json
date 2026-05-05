@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 423,
+    "score": 1.0,
+    "reason": "E.T. strands a boy and his friends in real danger hiding an alien from authorities"
+  },
+  {
+    "movieId": 655,
+    "score": 0.95,
+    "reason": "Stand by Me sends four boys on unsupervised journey facing a killer in the woods"
+  },
+  {
+    "movieId": 21,
+    "score": 0.9,
+    "reason": "Muppet Treasure Island has young Jim facing pirates and peril with Gonzo and Rizzo"
+  },
+  {
+    "movieId": 415,
+    "score": 0.88,
+    "reason": "The Apple Dumpling Gang pits orphaned kids against outlaws in a wild western romp"
+  },
+  {
+    "movieId": 174,
+    "score": 0.85,
+    "reason": "Raiders of the Lost Ark finds young sidekick Indy Jr. dodging dangers in 1930s adventure"
+  },
+  {
+    "movieId": 241,
+    "score": 0.82,
+    "reason": "Last of the Mohicans sweeps orphaned Cora and Alice into frontier warfare and ambushes"
+  },
+  {
+    "movieId": 78,
+    "score": 0.8,
+    "reason": "Free Willy’s Jesse braves dangerous waters to save a captive orca alone"
+  },
+  {
+    "movieId": 140,
+    "score": 0.78,
+    "reason": "Homeward Bound: The Incredible Journey follows three pets in genuine peril across the wild"
+  },
+  {
+    "movieId": 17,
+    "score": 0.75,
+    "reason": "From Dusk Till Dawn dares teens to fend off vampires in an unsupervised highway trap"
+  },
+  {
+    "movieId": 189,
+    "score": 0.74,
+    "reason": "Grand Day Out sends Wallace & Gromit on a perilous moon voyage without grown-ups"
+  }
+]

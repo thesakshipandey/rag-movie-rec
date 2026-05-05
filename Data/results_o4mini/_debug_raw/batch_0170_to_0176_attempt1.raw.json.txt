@@ -1,0 +1,60 @@
+{
+  "results": {
+    "0170": {
+      "top10": [
+        {"movieId": 255, "score": 0.90, "reason": "My Best Friend's Wedding is a heartfelt romantic comedy with charming leads and witty banter."},
+        {"movieId": 354, "score": 0.88, "reason": "The Wedding Singer mixes ’80s nostalgia and romance with Adam Sandler’s comedic charm."},
+        {"movieId": 216, "score": 0.86, "reason": "When Harry Met Sally... is a benchmark rom-com with sharp dialogue and timeless chemistry."},
+        {"movieId": 88, "score": 0.84, "reason": "Sleepless in Seattle balances heartfelt romance and gentle humor set against a wintry backdrop."},
+        {"movieId": 70, "score": 0.82, "reason": "Four Weddings and a Funeral offers a delightful blend of British wit and romantic mishaps."},
+        {"movieId": 274, "score": 0.80, "reason": "Sabrina charms with its modern Cinderella story and endearing romantic moments."},
+        {"movieId": 319, "score": 0.78, "reason": "Everyone Says I Love You is a playful musical rom-com filled with witty family dynamics."},
+        {"movieId": 411, "score": 0.76, "reason": "The Nutty Professor offers a sweet romance wrapped in slapstick comedy."},
+        {"movieId": 111, "score": 0.74, "reason": "The Truth About Cats & Dogs blends witty radio banter with a tender love story."},
+        {"movieId": 249, "score": 0.72, "reason": "Austin Powers: International Man of Mystery romps with retro humor and playful romance."}
+      ]
+    },
+    "0174": {
+      "top10": [
+        {"movieId": 251, "score": 0.90, "reason": "Shall We Dance? asks its central question with playful romance and elegant ballroom charm."},
+        {"movieId": 1084, "score": 0.88, "reason": "What Happened Was... uses a question-style title for its intimate, confessional storytelling."},
+        {"movieId": 65, "score": 0.86, "reason": "What's Eating Gilbert Grape? combines heart-tugging drama with a whimsical small-town setting."},
+        {"movieId": 166, "score": 0.84, "reason": "I.Q. uses a playful question-style title to introduce its charming romantic comedy premise."},
+        {"movieId": 334, "score": 0.82, "reason": "How to Be a Player? mixes flirtation and comedy with its cheeky title question."},
+        {"movieId": 474, "score": 0.80, "reason": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb? wryly poses its dark comedic premise."},
+        {"movieId": 606, "score": 0.78, "reason": "All About Eve? quizzes our assumptions about celebrity and ambition with a razor-sharp wit."},
+        {"movieId": 604, "score": 0.76, "reason": "It Happened One Night? turns a question-style title into a screwball romantic adventure."},
+        {"movieId": 2513, "score": 0.74, "reason": "Who Framed Roger Rabbit? blends live action and toon hijinks around its playful question title."},
+        {"movieId": 965, "score": 0.72, "reason": "Funny Face? cheekily mirrors its title question with a blend of style and romance."}
+      ]
+    },
+    "0175": {
+      "top10": [
+        {"movieId": 91, "score": 0.90, "reason": "Nightmare Before Christmas is a whimsical stop-motion tale set on Halloween Town."},
+        {"movieId": 219, "score": 0.88, "reason": "Nightmare on Elm Street blends horror and imagination around a dream-stalking villain."},
+        {"movieId": 1477, "score": 0.86, "reason": "Nightwatch offers a tension-filled thriller set in the eerie hours of a hospital morgue."},
+        {"movieId": 1243, "score": 0.84, "reason": "Night Flier thrills with a journalist’s chase after a vampire-like killer by night."},
+        {"movieId": 1226, "score": 0.82, "reason": "Night Falls on Manhattan is a gritty crime drama unfolding under the city’s nighttime skies."},
+        {"movieId": 312, "score": 0.80, "reason": "Midnight in the Garden of Good and Evil unspools a Southern gothic mystery under moonlight."},
+        {"movieId": 1618, "score": 0.78, "reason": "King of New York captures the city’s underworld as it comes alive at night."},
+        {"movieId": 636, "score": 0.76, "reason": "Escape from New York pits a renegade hero against the perils of a nighttime dystopia."},
+        {"movieId": 89, "score": 0.74, "reason": "Blade Runner explores a neon-lit future where the night holds both wonder and danger."},
+        {"movieId": 1622, "score": 0.72, "reason": "Parallel Worlds of Fantasy unites tales that unfold in the uncanny stillness of night."}
+      ]
+    },
+    "0176": {
+      "top10": [
+        {"movieId": 134, "score": 0.94, "reason": "Citizen Kane is a landmark drama of power and regret in early 20th-c. America."},
+        {"movieId": 133, "score": 0.92, "reason": "Gone with the Wind is an epic Civil War drama set on a Georgia plantation."},
+        {"movieId": 483, "score": 0.90, "reason": "Casablanca is a romantic wartime drama in a Moroccan café under Vichy rule."},
+        {"movieId": 607, "score": 0.88, "reason": "Rebecca unfolds gothic mystery and marital suspense in an English manor."},
+        {"movieId": 611, "score": 0.86, "reason": "Laura is a moody detective tale of obsession set in postwar New York."},
+        {"movieId": 489, "score": 0.84, "reason": "Notorious blends espionage and romance in wartime suspense."},
+        {"movieId": 604, "score": 0.82, "reason": "It Happened One Night is a classic screwball drama of love and pursuit."},
+        {"movieId": 513, "score": 0.80, "reason": "The Third Man captures post-war Vienna’s shadows in a masterful thriller."},
+        {"movieId": 484, "score": 0.78, "reason": "The Maltese Falcon is a hard-boiled detective drama of greed and murder."},
+        {"movieId": 615, "score": 0.76, "reason": "The 39 Steps is a taut Hitchcock thriller of espionage before WWII."}
+      ]
+    }
+  }
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 93,
+    "score": 1.0,
+    "reason": "Welcome to the Dollhouse depicts painfully real preteen awkwardness and yearning"
+  },
+  {
+    "movieId": 959,
+    "score": 0.95,
+    "reason": "Dazed and Confused nails that bittersweet, wistful teen summer vibe"
+  },
+  {
+    "movieId": 1074,
+    "score": 0.9,
+    "reason": "Reality Bites perfectly captures the ache and awkwardness of early adulthood"
+  },
+  {
+    "movieId": 955,
+    "score": 0.85,
+    "reason": "Before Sunrise offers quiet, heartfelt dialogue on young longing"
+  },
+  {
+    "movieId": 305,
+    "score": 0.8,
+    "reason": "The Ice Storm evokes suburban nostalgia and the ache of growing up"
+  },
+  {
+    "movieId": 537,
+    "score": 0.75,
+    "reason": "My Own Private Idaho is a road-trip of two lost youths finding themselves"
+  },
+  {
+    "movieId": 269,
+    "score": 0.7,
+    "reason": "The Full Monty blends small-town camaraderie with hopeful awkwardness"
+  },
+  {
+    "movieId": 65,
+    "score": 0.65,
+    "reason": "What's Eating Gilbert Grape shows tender sibling bonds in a small town"
+  },
+  {
+    "movieId": 469,
+    "score": 0.6,
+    "reason": "Short Cuts weaves everyday lives into a bittersweet, realistic tapestry"
+  },
+  {
+    "movieId": 655,
+    "score": 0.55,
+    "reason": "Stand by Me is a nostalgic tale of childhood friendship and loss"
+  }
+]

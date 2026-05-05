@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seven ratchets up dread as detectives chase a cunning serial killer through a labyrinth of deadly sins."
+  },
+  {
+    "movieId": 5,
+    "score": 0.95,
+    "reason": "Copycat traps you in its web as a criminologist is stalked by a killer mimicking infamous murders."
+  },
+  {
+    "movieId": 98,
+    "score": 0.9,
+    "reason": "Silence of the Lambs keeps you breathless as an FBI trainee confronts a chilling cannibal from behind bars."
+  },
+  {
+    "movieId": 183,
+    "score": 0.85,
+    "reason": "Alien’s claustrophobic spaceship draws you into a fight for survival against an unstoppable alien menace."
+  },
+  {
+    "movieId": 176,
+    "score": 0.8,
+    "reason": "Aliens amps up the tension with relentless action as marines battle a hive of vicious extraterrestrials."
+  },
+  {
+    "movieId": 185,
+    "score": 0.75,
+    "reason": "Psycho delivers a nerve-shredding sequence in the Bates Motel that forever changed horror."
+  },
+  {
+    "movieId": 260,
+    "score": 0.7,
+    "reason": "Event Horizon’s haunted spaceship plunges you into cosmic terror and mind-bending dread."
+  },
+  {
+    "movieId": 234,
+    "score": 0.65,
+    "reason": "Jaws makes you hear the shark’s approach before you see it, every plunge into the water fraught with fear."
+  },
+  {
+    "movieId": 200,
+    "score": 0.6,
+    "reason": "The Shining builds creeping dread in an empty hotel where peace turns to madness and isolation."
+  },
+  {
+    "movieId": 288,
+    "score": 0.55,
+    "reason": "Scream’s meta twist and masked killer keep you guessing who’s next and why you shouldn’t answer the phone."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 0.95,
+    "reason": "Witty script modernizes Austen’s Emma in a smart, heartfelt teen comedy"
+  },
+  {
+    "movieId": 93,
+    "score": 0.92,
+    "reason": "Sharp, darkly funny look at middle-school life with unforgettable authenticity"
+  },
+  {
+    "movieId": 111,
+    "score": 0.9,
+    "reason": "Charming romance scripted with real people’s quirks and genuine wit"
+  },
+  {
+    "movieId": 366,
+    "score": 0.88,
+    "reason": "Lighthearted rom-com with genuine characters and clever nods to Cinderella"
+  },
+  {
+    "movieId": 150,
+    "score": 0.85,
+    "reason": "Insider view of single life that feels funny and grounded, like a modern Pygmalion"
+  },
+  {
+    "movieId": 42,
+    "score": 0.83,
+    "reason": "Raw dialogue captures youthful honesty in a witty day-in-the-life comedy"
+  },
+  {
+    "movieId": 70,
+    "score": 0.8,
+    "reason": "Intelligent British wit brings real heart to this wedding-centric comedy"
+  },
+  {
+    "movieId": 1110,
+    "score": 0.78,
+    "reason": "Quirky characters feel lived-in in this smart, low-key teen comedy"
+  },
+  {
+    "movieId": 106,
+    "score": 0.75,
+    "reason": "Adorable teen romance with clever humor and genuine character depth"
+  },
+  {
+    "movieId": 36,
+    "score": 0.72,
+    "reason": "Understated high-school tale with smart dialogue and authentic emotion"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 1.0,
+    "reason": "Quiet, introspective drama of loss and rediscovery set in serene European landscapes."
+  },
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "A poetic tale of love and longing against the sun-drenched beauty of 1950s Italy."
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "A nostalgic ode to cinema with lush Italian village vistas and gentle reflection."
+  },
+  {
+    "movieId": 664,
+    "score": 0.85,
+    "reason": "A slow-burning meditation on isolation and reconnection across the American West."
+  },
+  {
+    "movieId": 51,
+    "score": 0.8,
+    "reason": "A sweeping family saga rich in atmospheric period detail and quiet sorrow."
+  },
+  {
+    "movieId": 46,
+    "score": 0.75,
+    "reason": "Hypnotic, moody exploration of grief and desire in a neon-lit urban sanctuary."
+  },
+  {
+    "movieId": 86,
+    "score": 0.7,
+    "reason": "Elegant study of duty and regret in Edwardian England, all in hushed tones."
+  },
+  {
+    "movieId": 59,
+    "score": 0.65,
+    "reason": "An atmospheric chamber piece with lush visuals and poetic pacing."
+  },
+  {
+    "movieId": 1558,
+    "score": 0.6,
+    "reason": "Gentle biographical portrait woven with archival footage into a visual poem."
+  },
+  {
+    "movieId": 1630,
+    "score": 0.55,
+    "reason": "A lyrical exploration of memory and place in postcolonial North Africa."
+  }
+]

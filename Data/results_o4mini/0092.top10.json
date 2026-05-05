@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.95,
+    "reason": "Three crime tales interlock in free-form, explosive structure"
+  },
+  {
+    "movieId": 950,
+    "score": 0.92,
+    "reason": "Savage revenge plot derails into raw self-questioning"
+  },
+  {
+    "movieId": 937,
+    "score": 0.9,
+    "reason": "Western heist fractures into moral wreckage midway"
+  },
+  {
+    "movieId": 535,
+    "score": 0.88,
+    "reason": "Comedic revenge spree splinters into existential chaos"
+  },
+  {
+    "movieId": 740,
+    "score": 0.85,
+    "reason": "Identical twins swap lives as their plans fly apart"
+  },
+  {
+    "movieId": 764,
+    "score": 0.82,
+    "reason": "Unlikely bandmates spiral into personal existential crisis"
+  },
+  {
+    "movieId": 475,
+    "score": 0.8,
+    "reason": "Addicted youths’ road trip devolves into surreal identity break"
+  },
+  {
+    "movieId": 975,
+    "score": 0.78,
+    "reason": "Stealth killer tale dissolves into philosophical nightmare"
+  },
+  {
+    "movieId": 963,
+    "score": 0.75,
+    "reason": "Gonzo premier plunges director into self-destructive spiral"
+  },
+  {
+    "movieId": 605,
+    "score": 0.72,
+    "reason": "Ladies’ club outing overturns every expectation"
+  }
+]

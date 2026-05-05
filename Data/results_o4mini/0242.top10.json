@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 313,
+    "score": 1.0,
+    "reason": "1997 romance/disaster epic that dominated the box office"
+  },
+  {
+    "movieId": 272,
+    "score": 0.99,
+    "reason": "1997 drama about a janitor whose genius leads him to therapy and friendship"
+  },
+  {
+    "movieId": 302,
+    "score": 0.98,
+    "reason": "1997 crime thriller set in 1950s LA with corrupt cops and celebrities"
+  },
+  {
+    "movieId": 316,
+    "score": 0.97,
+    "reason": "1997 romantic comedy about an obsessive author’s unexpected connection with a waitress"
+  },
+  {
+    "movieId": 346,
+    "score": 0.96,
+    "reason": "1997 crime drama featuring a flight attendant caught in a con between rival criminals"
+  },
+  {
+    "movieId": 269,
+    "score": 0.95,
+    "reason": "1997 sci-fi drama exploring genetic discrimination in a future society"
+  },
+  {
+    "movieId": 250,
+    "score": 0.94,
+    "reason": "1997 visually stunning sci-fi adventure about saving the universe from a great evil"
+  },
+  {
+    "movieId": 257,
+    "score": 0.93,
+    "reason": "1997 action-comedy where secret agents police extraterrestrial visitors on Earth"
+  },
+  {
+    "movieId": 258,
+    "score": 0.92,
+    "reason": "1997 thought-provoking sci-fi about humanity’s search for extraterrestrial intelligence"
+  },
+  {
+    "movieId": 298,
+    "score": 0.91,
+    "reason": "1997 action-packed thriller where an agent and a terrorist assume each other’s faces"
+  }
+]

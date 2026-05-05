@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 0.99,
+    "reason": "Pulp Fiction’s razor-sharp dialogue and dark humor cut through schmaltz with gleefully mean-spirited wit."
+  },
+  {
+    "movieId": 100,
+    "score": 0.97,
+    "reason": "Fargo blends biting black humor and smart satire with an icy heart, sharp enough to leave you grinning."
+  },
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "The Usual Suspects delivers twisty, acid-tongued banter and ruthless cleverness, heart well masked by scorn."
+  },
+  {
+    "movieId": 4,
+    "score": 0.93,
+    "reason": "Get Shorty crackles with wickedly smart dialogue and lean mean comedy, hiding any sentiment behind irony."
+  },
+  {
+    "movieId": 154,
+    "score": 0.91,
+    "reason": "Life of Brian skewers every sacred cow with ferocious wit, relentless mockery, and a sly, hidden affection."
+  },
+  {
+    "movieId": 173,
+    "score": 0.89,
+    "reason": "Princess Bride gleefully mocks fairy-tale tropes with smart barbs, its sweetness buried under razor-sharp humor."
+  },
+  {
+    "movieId": 42,
+    "score": 0.87,
+    "reason": "Clerks serves with mercilessly frank banter and deadpan wit, a stinging satire of everyday absurdity."
+  },
+  {
+    "movieId": 65,
+    "score": 0.85,
+    "reason": "What’s Eating Gilbert Grape mixes raw, biting humor and sly family warmth—feelings, but only if you’re paying aten."
+  },
+  {
+    "movieId": 153,
+    "score": 0.83,
+    "reason": "Fish Called Wanda’s gleeful screw-ups and cutting one-liners are mean-spirited yet brilliantly well-constructed."
+  },
+  {
+    "movieId": 156,
+    "score": 0.81,
+    "reason": "Reservoir Dogs wields viciously sharp dialogue and cold humor, hiding any trace of warmth behind calculated menace."
+  }
+]

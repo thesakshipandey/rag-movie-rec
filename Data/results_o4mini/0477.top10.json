@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 136,
+    "score": 1.0,
+    "reason": "An earnest novice battles corruption to champion the voice of the people."
+  },
+  {
+    "movieId": 496,
+    "score": 0.95,
+    "reason": "A desperate banker sees his life and family through the prism of fate."
+  },
+  {
+    "movieId": 127,
+    "score": 0.9,
+    "reason": "A crime family’s saga unfolds with heartfelt drama and unwavering loyalty."
+  },
+  {
+    "movieId": 162,
+    "score": 0.85,
+    "reason": "A retired couple’s summer reveals poignant truths in a lakeside retreat."
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "A dedicated teacher’s lifelong passion leads to a deeply earned legacy."
+  },
+  {
+    "movieId": 9,
+    "score": 0.75,
+    "reason": "A compassionate nun navigates moral complexity without a hint of irony."
+  },
+  {
+    "movieId": 170,
+    "score": 0.7,
+    "reason": "A child's love for cinema evokes gentle nostalgia in a small Sicilian town."
+  },
+  {
+    "movieId": 64,
+    "score": 0.65,
+    "reason": "An unjustly imprisoned man never gives up until he earns his freedom."
+  },
+  {
+    "movieId": 215,
+    "score": 0.6,
+    "reason": "A farmer’s faith and dedication spark a miraculous, hard-won victory."
+  },
+  {
+    "movieId": 131,
+    "score": 0.55,
+    "reason": "A Manhattan socialite dances and dreams beneath 1960s Tiffany’s marquees."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 0.98,
+    "reason": "Quiet, reflective period drama unfolds in hushed, contemplative tones"
+  },
+  {
+    "movieId": 126,
+    "score": 0.95,
+    "reason": "Gentle small-town rhythms and grieving souls find solace in quiet moments"
+  },
+  {
+    "movieId": 14,
+    "score": 0.93,
+    "reason": "Understated Italian isle setting frames a tender tale of reconnection and solitude"
+  },
+  {
+    "movieId": 648,
+    "score": 0.91,
+    "reason": "Lush Irish landscapes and gentle humor foster a wistful, contemplative calm"
+  },
+  {
+    "movieId": 707,
+    "score": 0.88,
+    "reason": "Pastoral Italian retreat offers serene observation of lonely hearts rekindling"
+  },
+  {
+    "movieId": 463,
+    "score": 0.86,
+    "reason": "Ethereal seaside fable unfolds with measured grace and tranquil melancholy"
+  },
+  {
+    "movieId": 116,
+    "score": 0.83,
+    "reason": "Offbeat rural satire blends gentle wit with soft focus reflections on clinging to home"
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "Humble classroom moments bloom into tender portrait of solitary devotion"
+  },
+  {
+    "movieId": 20,
+    "score": 0.77,
+    "reason": "Victorian gardens and quiet study evoke gentle introspection and poignant solitude"
+  },
+  {
+    "movieId": 142,
+    "score": 0.75,
+    "reason": "Magical musical ride through wartime Britain soothes and delights"
+  }
+]

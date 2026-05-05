@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 99,
+    "score": 0.98,
+    "reason": "Original fairy-tale magic in a hand-drawn animated classic"
+  },
+  {
+    "movieId": 95,
+    "score": 0.96,
+    "reason": "Clever genie fantasy full of magical adventure and clear good vs. evil"
+  },
+  {
+    "movieId": 91,
+    "score": 0.94,
+    "reason": "Enchanting stop-motion fantasy where wonder triumphs over darkness"
+  },
+  {
+    "movieId": 421,
+    "score": 0.92,
+    "reason": "Modern romantic quest bridging magic, humor, and heartfelt heroism"
+  },
+  {
+    "movieId": 174,
+    "score": 0.9,
+    "reason": "Epic archaeological adventure battling evil for the greater good"
+  },
+  {
+    "movieId": 122,
+    "score": 0.88,
+    "reason": "Heartfelt satire meets superhero magic in a whimsical adventure"
+  },
+  {
+    "movieId": 432,
+    "score": 0.86,
+    "reason": "Surreal animated odyssey mixing classical music with boundless magic"
+  },
+  {
+    "movieId": 504,
+    "score": 0.84,
+    "reason": "Howard Hughes’ epic crime drama as grand and sweeping as fantasy"
+  },
+  {
+    "movieId": 41,
+    "score": 0.82,
+    "reason": "Comedy fantasy that imagines toys’ own epic quest for good"
+  },
+  {
+    "movieId": 121,
+    "score": 0.8,
+    "reason": "Timeless lion-king saga of destiny, magic, and the triumph of good"
+  }
+]

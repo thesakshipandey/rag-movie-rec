@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Vincent and Jules accidentally kill Marvin and scramble to clean up and hide the body, fracturing their once-solid partnership."
+  },
+  {
+    "movieId": 158,
+    "score": 0.95,
+    "reason": "Larry and Richard discover their boss dead, then fumble hilariously trying to move and conceal his body, testing their friendship."
+  },
+  {
+    "movieId": 238,
+    "score": 0.9,
+    "reason": "H.I. and Ed accidentally kill a state trooper, then botch every attempt to hide the corpse, straining their marriage to the breaking point."
+  },
+  {
+    "movieId": 100,
+    "score": 0.85,
+    "reason": "Jerry’s botched ransom plot spirals into murder and body disposal, and the stress exposes every flaw in his desperate marriage."
+  },
+  {
+    "movieId": 659,
+    "score": 0.8,
+    "reason": "A nephew must deal with his two homicidal aunts disposing bodies in their wine cellar, unraveling family bonds one mistake at a time."
+  },
+  {
+    "movieId": 337,
+    "score": 0.75,
+    "reason": "Twin siblings ensnare an unsuspecting guest in their twisted household, leading to an accidental death and a comedic fallout."
+  },
+  {
+    "movieId": 12,
+    "score": 0.7,
+    "reason": "Kint and Keaton cover up a murder after a lineup goes fatal, and every deception they spin unravels their fragile alliance."
+  },
+  {
+    "movieId": 85,
+    "score": 0.65,
+    "reason": "A burglar takes a bickering couple hostage on Christmas Eve, forcing their relationship to collapse under comical crisis."
+  },
+  {
+    "movieId": 156,
+    "score": 0.6,
+    "reason": "Mr. White and Mr. Blonde’s ill-fated heist leaves them disposing a body in a warehouse, and their partnership frays with every slip."
+  },
+  {
+    "movieId": 1303,
+    "score": 0.55,
+    "reason": "Doc and Carol’s plan to steal a mob boss’s money goes awry when a guard’s killed, triggering a series of panicked cover-up blunders."
+  }
+]

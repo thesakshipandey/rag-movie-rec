@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1016,
+    "score": 1.0,
+    "reason": "Explosive airborne jailbreak with non-stop momentum"
+  },
+  {
+    "movieId": 298,
+    "score": 0.95,
+    "reason": "Identity swap mayhem in a wild, high-octane ride"
+  },
+  {
+    "movieId": 233,
+    "score": 0.9,
+    "reason": "Battleship hijinks fuel this high-voltage thrill fest"
+  },
+  {
+    "movieId": 144,
+    "score": 0.85,
+    "reason": "Iconic rooftop showdowns in a Christmas-time siege"
+  },
+  {
+    "movieId": 568,
+    "score": 0.8,
+    "reason": "Speed-locked bus and breakneck, adrenalized thrills"
+  },
+  {
+    "movieId": 27,
+    "score": 0.75,
+    "reason": "Miami-set narco chase unleashes relentless action"
+  },
+  {
+    "movieId": 121,
+    "score": 0.7,
+    "reason": "Global invasion spectacle with all-out blockbuster scope"
+  },
+  {
+    "movieId": 117,
+    "score": 0.65,
+    "reason": "Alcatraz assault brute-force spectacle of suspense"
+  },
+  {
+    "movieId": 96,
+    "score": 0.6,
+    "reason": "Liquid-metal carnage and breakneck chase sequences"
+  },
+  {
+    "movieId": 118,
+    "score": 0.55,
+    "reason": "Storm-chasing tornado set pieces thrill the senses"
+  }
+]

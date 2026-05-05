@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 136,
+    "score": 1.0,
+    "reason": "Mr. Smith Goes to Washington’s idealistic heroism rings with earnest conviction."
+  },
+  {
+    "movieId": 427,
+    "score": 0.94,
+    "reason": "To Kill a Mockingbird’s moral courage and sincerity feel timelessly solid."
+  },
+  {
+    "movieId": 197,
+    "score": 0.9,
+    "reason": "Dead Poets Society’s passionate call to live fully is delivered with genuine heart."
+  },
+  {
+    "movieId": 272,
+    "score": 0.87,
+    "reason": "Good Will Hunting’s raw, heartfelt truth and hope resonate with earnest belief."
+  },
+  {
+    "movieId": 318,
+    "score": 0.82,
+    "reason": "Schindler’s List’s noble humanity and conviction inspire profound emotional weight."
+  },
+  {
+    "movieId": 275,
+    "score": 0.78,
+    "reason": "Sense and Sensibility’s sincere warmth and dignity celebrate heartfelt integrity."
+  },
+  {
+    "movieId": 696,
+    "score": 0.75,
+    "reason": "Persuasion’s quiet grace and genuine emotion uphold true romantic earnestness."
+  },
+  {
+    "movieId": 699,
+    "score": 0.72,
+    "reason": "Little Women’s steadfast devotion and sincere bonds honor the power of love."
+  },
+  {
+    "movieId": 86,
+    "score": 0.69,
+    "reason": "The Remains of the Day’s dignified loyalty and genuine regret feel deeply real."
+  },
+  {
+    "movieId": 116,
+    "score": 0.65,
+    "reason": "Cold Comfort Farm’s heartfelt sincerity anchors its charming rural tale."
+  }
+]

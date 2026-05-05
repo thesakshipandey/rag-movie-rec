@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 1.0,
+    "reason": "Warm Taiwanese family drama with sumptuous cooking scenes and genuine intimacy"
+  },
+  {
+    "movieId": 955,
+    "score": 0.95,
+    "reason": "Enchanting two-person conversation on a moving train, all vibe and no pretense"
+  },
+  {
+    "movieId": 1262,
+    "score": 0.9,
+    "reason": "Quirky indie friendship tale overflowing with off-beat humor and heartfelt moments"
+  },
+  {
+    "movieId": 461,
+    "score": 0.85,
+    "reason": "Smoky L.A. slice-of-life drama that feels lived-in and utterly real"
+  },
+  {
+    "movieId": 462,
+    "score": 0.8,
+    "reason": "Richly textured Mexican family drama steeped in food, tradition and emotion"
+  },
+  {
+    "movieId": 275,
+    "score": 0.75,
+    "reason": "Thoughtful period romance with nuanced performances and elegant simplicity"
+  },
+  {
+    "movieId": 170,
+    "score": 0.7,
+    "reason": "Nostalgic Italian coming-of-age tale with timeless charm and gentle pacing"
+  },
+  {
+    "movieId": 171,
+    "score": 0.65,
+    "reason": "Dark French comedy-drama brimming with eccentric characters and stylish atmosphere"
+  },
+  {
+    "movieId": 116,
+    "score": 0.6,
+    "reason": "Delightful British comedy-drama with genteel wit and bucolic warmth"
+  },
+  {
+    "movieId": 126,
+    "score": 0.55,
+    "reason": "Quiet indie gem about small-town life and second chances, told with gentle care"
+  }
+]

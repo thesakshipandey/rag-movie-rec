@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 924,
+    "score": 1.0,
+    "reason": "Pilgrims cross Tibet’s peaks to deliver mail"
+  },
+  {
+    "movieId": 412,
+    "score": 0.9,
+    "reason": "Texan coach trains canyon-running kids"
+  },
+  {
+    "movieId": 72,
+    "score": 0.8,
+    "reason": "Mask of Hallucinations’ mountain dreams"
+  },
+  {
+    "movieId": 1621,
+    "score": 0.7,
+    "reason": "Amputee’s desert trek by moonlight"
+  },
+  {
+    "movieId": 1417,
+    "score": 0.6,
+    "reason": "Alpine tunnel’s deadly avalanche"
+  },
+  {
+    "movieId": 201,
+    "score": 0.5,
+    "reason": "Midwestern cabin terror rising"
+  },
+  {
+    "movieId": 1230,
+    "score": 0.4,
+    "reason": "Thumb-sized baby learns to forage"
+  },
+  {
+    "movieId": 1205,
+    "score": 0.3,
+    "reason": "T. R. Devlin’s Nazi undercover climb"
+  },
+  {
+    "movieId": 1647,
+    "score": 0.2,
+    "reason": "Veteran cop conquers night shifts"
+  },
+  {
+    "movieId": 1208,
+    "score": 0.1,
+    "reason": "When A Man Loves a Woman’s uphill struggle"
+  }
+]

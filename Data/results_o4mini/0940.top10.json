@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 80,
+    "score": 0.95,
+    "reason": "Hot Shots! Part Deux uses clever parody to teach empathy through hilarious teamwork."
+  },
+  {
+    "movieId": 190,
+    "score": 0.9,
+    "reason": "Henry V’s richly drawn story shows bravery and loyalty with humor for all ages."
+  },
+  {
+    "movieId": 121,
+    "score": 0.85,
+    "reason": "Alien’s character-driven tale of heroism is heartwarming with genuine moral growth."
+  },
+  {
+    "movieId": 92,
+    "score": 0.82,
+    "reason": "True Romance blends humor and heart to show bravery in unlikely heroes."
+  },
+  {
+    "movieId": 21,
+    "score": 0.78,
+    "reason": "Muppet Treasure Island teaches courage and friendship through timeless wit."
+  },
+  {
+    "movieId": 112,
+    "score": 0.75,
+    "reason": "Beavis & Butt-Head Do America offers clever adventure with a surprisingly warm heart."
+  },
+  {
+    "movieId": 171,
+    "score": 0.72,
+    "reason": "Delicatessen’s animated-style humor carries unexpected empathy amid chaos."
+  },
+  {
+    "movieId": 121,
+    "score": 0.7,
+    "reason": "Alien shows human resilience and compassion even under monstrous threats."
+  },
+  {
+    "movieId": 21,
+    "score": 0.68,
+    "reason": "Muppet Treasure Island balances bright fun with a heartfelt coming-of-age tale."
+  },
+  {
+    "movieId": 80,
+    "score": 0.65,
+    "reason": "Hot Shots! Part Deux entertains kids while slipping in messages about friendship."
+  }
+]

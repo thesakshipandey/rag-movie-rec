@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 81,
+    "score": 0.95,
+    "reason": "Naïve exec is made president of a big company as part of a stock scam."
+  },
+  {
+    "movieId": 77,
+    "score": 0.93,
+    "reason": "Law school grad joins a hotshot firm then uncovers its ties to organized crime."
+  },
+  {
+    "movieId": 38,
+    "score": 0.9,
+    "reason": "Systems analyst loses her identity after joining a software firm that’s a front."
+  },
+  {
+    "movieId": 43,
+    "score": 0.88,
+    "reason": "Ex-employee lands a VP role at old firm then exposes its corporate sabotage scheme."
+  },
+  {
+    "movieId": 307,
+    "score": 0.87,
+    "reason": "Rising attorney joins elite law practice then realizes it’s literally run by the devil."
+  },
+  {
+    "movieId": 1651,
+    "score": 0.85,
+    "reason": "Inventor joins a slick consultancy then finds his process exploited by enemy agents."
+  },
+  {
+    "movieId": 328,
+    "score": 0.83,
+    "reason": "Taxi driver becomes polling pundit only to stumble into a shadowy conspiracy ring."
+  },
+  {
+    "movieId": 930,
+    "score": 0.82,
+    "reason": "Parachute instructor’s first skydiving gig goes awry when he uncovers a rescue scam."
+  },
+  {
+    "movieId": 333,
+    "score": 0.8,
+    "reason": "Banker unboxes surprise money then finds his life transformed into a ruthless game."
+  },
+  {
+    "movieId": 685,
+    "score": 0.78,
+    "reason": "Pilot boards a secret mission team and soon discovers a hijacking conspiracy."
+  }
+]

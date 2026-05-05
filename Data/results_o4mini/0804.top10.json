@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 160,
+    "score": 0.98,
+    "reason": "A savagely funny satire skewers sales culture with merciless wit and icy style."
+  },
+  {
+    "movieId": 456,
+    "score": 0.96,
+    "reason": "A martial-arts cop in Hollywood spoof unleashes absurd corporate espionage comedy."
+  },
+  {
+    "movieId": 547,
+    "score": 0.94,
+    "reason": "A young poison expert’s romance turns into a darkly comic vendetta against privilege."
+  },
+  {
+    "movieId": 709,
+    "score": 0.92,
+    "reason": "A satirical romp through a dysfunctional dreamcasting business and its egos."
+  },
+  {
+    "movieId": 405,
+    "score": 0.9,
+    "reason": "A covert agency’s slick deception tactics meet relentless comedic fury."
+  },
+  {
+    "movieId": 346,
+    "score": 0.88,
+    "reason": "A woman caught in a criminal enterprise finds absurd fury behind glossy facades."
+  },
+  {
+    "movieId": 456,
+    "score": 0.96,
+    "reason": "A martial-arts cop in Hollywood spoof unleashes absurd corporate espionage comedy."
+  },
+  {
+    "movieId": 747,
+    "score": 0.85,
+    "reason": "A fallen child star turned babysitter takes on exploitative mediocrity with sarcasm."
+  },
+  {
+    "movieId": 782,
+    "score": 0.83,
+    "reason": "A mockumentary on the extremes of ‘90s hip-hop culture with a furious punch."
+  },
+  {
+    "movieId": 321,
+    "score": 0.8,
+    "reason": "A criminal lawyer’s absurd legal battles illuminate cold power and slick betrayal."
+  }
+]

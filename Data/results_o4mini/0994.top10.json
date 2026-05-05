@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 60,
+    "score": 0.98,
+    "reason": "Bereaved mother’s eerie isolation mirrored by haunting echoes of her lost family"
+  },
+  {
+    "movieId": 68,
+    "score": 0.96,
+    "reason": "Resurrected lover returns as a spectral avenger driven by grief over a stolen life"
+  },
+  {
+    "movieId": 286,
+    "score": 0.94,
+    "reason": "Wounded pilot lies silent in grief, memories of lost love drifting like ghosts"
+  },
+  {
+    "movieId": 313,
+    "score": 0.92,
+    "reason": "Survivor’s guilt lingers like a phantom amid the wreckage of a fateful ocean crossing"
+  },
+  {
+    "movieId": 441,
+    "score": 0.9,
+    "reason": "Haunted house becomes a vessel for mourning wronged souls and lingering loss"
+  },
+  {
+    "movieId": 123,
+    "score": 0.88,
+    "reason": "Grieving architect sees spectral warnings as he rebuilds life from tragedy’s ashes"
+  },
+  {
+    "movieId": 106,
+    "score": 0.86,
+    "reason": "Schoolteacher’s grief manifests in chilling re-appearances of an absent spouse"
+  },
+  {
+    "movieId": 200,
+    "score": 0.84,
+    "reason": "Isolated caretaker’s sanity frays under the oppressive presence of the hotel’s past"
+  },
+  {
+    "movieId": 201,
+    "score": 0.82,
+    "reason": "Night stalker’s return becomes a sorrowful dance of memory and loss in the woods"
+  },
+  {
+    "movieId": 447,
+    "score": 0.8,
+    "reason": "Telekinetic teen’s anguish summons a vengeful presence born of teenage despair"
+  }
+]

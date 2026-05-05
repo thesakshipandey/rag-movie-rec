@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 154,
+    "score": 0.91,
+    "reason": "Subverts Messiah trope as an accidental ‘chosen one’ fraud whose followers do all the real work"
+  },
+  {
+    "movieId": 168,
+    "score": 0.89,
+    "reason": "King Arthur’s chosen quest fails; his hapless knights bumble through without real guidance"
+  },
+  {
+    "movieId": 395,
+    "score": 0.86,
+    "reason": "Robin Hood is a clueless hero caricature saved by his cunning sidekick Ahchoo"
+  },
+  {
+    "movieId": 41,
+    "score": 0.84,
+    "reason": "Spoiled heir ‘chosen’ for family business is hopeless; his tutor does the heavy lifting"
+  },
+  {
+    "movieId": 73,
+    "score": 0.82,
+    "reason": "Gambler hero stumbles through a poker quest while sidekick Annie graves the real wins"
+  },
+  {
+    "movieId": 249,
+    "score": 0.8,
+    "reason": "Parody spy whose bumbling antics force Number 2 to do the real saving of the world"
+  },
+  {
+    "movieId": 132,
+    "score": 0.78,
+    "reason": "Self-proclaimed Wizard is a fraud; Dorothy and friends drive the true quest home"
+  },
+  {
+    "movieId": 12,
+    "score": 0.75,
+    "reason": "Mastermind Verbal Kint is a con artist; real detective work comes from the bystander detective"
+  },
+  {
+    "movieId": 395,
+    "score": 0.74,
+    "reason": "Robin Hood is an inept swashbuckler; his trusty sidekick bests him at every turn"
+  },
+  {
+    "movieId": 168,
+    "score": 0.73,
+    "reason": "King Arthur relies on accidental prophecy; his followers salvage the ‘quest’ without him"
+  }
+]

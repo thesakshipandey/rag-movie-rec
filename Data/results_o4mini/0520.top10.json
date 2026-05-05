@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 0.98,
+    "reason": "Epic battlefield grit and personal sacrifice culminate in a powerful sense of earned triumph"
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Tense spaceflight struggle captures raw endurance and quiet relief upon rescue"
+  },
+  {
+    "movieId": 69,
+    "score": 0.93,
+    "reason": "Solo odyssey through history shows perseverance rewarded with touching fulfillment"
+  },
+  {
+    "movieId": 96,
+    "score": 0.91,
+    "reason": "Relentless physical trials and unflinching resolve deliver a resonant victory"
+  },
+  {
+    "movieId": 118,
+    "score": 0.88,
+    "reason": "High-stakes storm chasing tests grit and ends with exhausted, hard-won accomplishment"
+  },
+  {
+    "movieId": 468,
+    "score": 0.86,
+    "reason": "Underdog football dreamer fights doubters with unwavering resolve and joyous payoff"
+  },
+  {
+    "movieId": 193,
+    "score": 0.83,
+    "reason": "Cold War test pilots' rigorous training and steely determination earn hard-fought success"
+  },
+  {
+    "movieId": 281,
+    "score": 0.8,
+    "reason": "Rafting disaster becomes heart-stopping survival test ending in hushed relief"
+  },
+  {
+    "movieId": 204,
+    "score": 0.77,
+    "reason": "Timely adventure forces a lone hero to push limits and restore order with triumphant calm"
+  },
+  {
+    "movieId": 562,
+    "score": 0.75,
+    "reason": "High noon pistol duels test nerve and mastery before the final hush"
+  }
+]

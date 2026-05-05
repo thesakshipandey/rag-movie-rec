@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 82,
+    "score": 0.99,
+    "reason": "Groundbreaking 1993 sci-fi adventure with realistic dinosaurs and thrilling suspense."
+  },
+  {
+    "movieId": 96,
+    "score": 0.97,
+    "reason": "1991 sci-fi action landmark with stunning effects and relentless pacing."
+  },
+  {
+    "movieId": 121,
+    "score": 0.95,
+    "reason": "1996 blockbuster alien invasion thriller with globe-spanning stakes."
+  },
+  {
+    "movieId": 2,
+    "score": 0.93,
+    "reason": "1995 Bond thriller mixing espionage and cutting-edge gadgetry in a Cold War aftermath."
+  },
+  {
+    "movieId": 257,
+    "score": 0.91,
+    "reason": "1997 sci-fi comedy-thriller pairing sharp wit with extraterrestrial antics."
+  },
+  {
+    "movieId": 7,
+    "score": 0.89,
+    "reason": "1995 time-travel mystery driven by paranoia and a quest to prevent a viral apocalypse."
+  },
+  {
+    "movieId": 355,
+    "score": 0.87,
+    "reason": "1998 cerebral sci-fi mystery exploring fear and the unknown beneath the waves."
+  },
+  {
+    "movieId": 39,
+    "score": 0.85,
+    "reason": "1995 near-future noir with mind-recording tech and raw, dark urban grit."
+  },
+  {
+    "movieId": 5,
+    "score": 0.83,
+    "reason": "1995 serial-killer thriller featuring a methodical psychologist drawn into the hunt."
+  },
+  {
+    "movieId": 258,
+    "score": 0.81,
+    "reason": "1997 thought-provoking sci-fi drama about humanity’s first radio contact with aliens."
+  }
+]

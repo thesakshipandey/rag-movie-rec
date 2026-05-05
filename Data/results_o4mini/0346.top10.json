@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Grim serial-killer thriller drenched in biblical dread"
+  },
+  {
+    "movieId": 654,
+    "score": 0.93,
+    "reason": "Bleak private eye tale of corruption in fog-bound L.A."
+  },
+  {
+    "movieId": 23,
+    "score": 0.86,
+    "reason": "Noir-tinged descent into urban alienation and violence"
+  },
+  {
+    "movieId": 302,
+    "score": 0.79,
+    "reason": "'50s cops and scandal seethe in dark-haunted L.A."
+  },
+  {
+    "movieId": 12,
+    "score": 0.72,
+    "reason": "Mind-bending con-man caper with a shadowy finale"
+  },
+  {
+    "movieId": 484,
+    "score": 0.65,
+    "reason": "Classic detective yarn with acidic urban cynicism"
+  },
+  {
+    "movieId": 53,
+    "score": 0.58,
+    "reason": "Hyperkinetic spree movie satirizing media fascination"
+  },
+  {
+    "movieId": 100,
+    "score": 0.51,
+    "reason": "Quirky kidnapping caper in a snow-soaked Minnesotan town"
+  },
+  {
+    "movieId": 79,
+    "score": 0.44,
+    "reason": "Relentless fugitive chase across neon-wet Chicago"
+  },
+  {
+    "movieId": 24,
+    "score": 0.37,
+    "reason": "Wet, gritty Hong Kong street-fighter saga in New York"
+  }
+]

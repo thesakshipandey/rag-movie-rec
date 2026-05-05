@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 22,
+    "score": 1.0,
+    "reason": "Epic historical battle scenes infused with raw passion and unyielding spirit."
+  },
+  {
+    "movieId": 468,
+    "score": 0.95,
+    "reason": "Underdog football story where sheer will and heart win against towering odds."
+  },
+  {
+    "movieId": 28,
+    "score": 0.9,
+    "reason": "Near-disastrous space mission made triumphant through grit, brains, and teamwork."
+  },
+  {
+    "movieId": 1035,
+    "score": 0.85,
+    "reason": "Fish-out-of-water bobsledders who refuse defeat with wide-eyed determination."
+  },
+  {
+    "movieId": 193,
+    "score": 0.8,
+    "reason": "Pilots pushing the speed envelope to the breaking point in a pioneering age."
+  },
+  {
+    "movieId": 69,
+    "score": 0.75,
+    "reason": "One man’s simple journey becomes an inspiring saga of perseverance and luck."
+  },
+  {
+    "movieId": 526,
+    "score": 0.7,
+    "reason": "Ancient chariot race finale charging toward liberation and indomitable hope."
+  },
+  {
+    "movieId": 511,
+    "score": 0.65,
+    "reason": "Desert campaign turned odyssey of endurance against the fiercest elements."
+  },
+  {
+    "movieId": 270,
+    "score": 0.6,
+    "reason": "Outsider’s relentless pursuit of a dream in a world stacked against him."
+  },
+  {
+    "movieId": 468,
+    "score": 0.55,
+    "reason": "(Duplicate pick omitted)"
+  }
+]

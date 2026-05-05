@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 1.0,
+    "reason": "Twelve jurors locked in a single room, conflict driven entirely by dialogue and performances"
+  },
+  {
+    "movieId": 160,
+    "score": 0.9,
+    "reason": "Corpulent salesmen trapped in a cramped office, razor-sharp dialogue fuels mounting tension"
+  },
+  {
+    "movieId": 31,
+    "score": 0.8,
+    "reason": "Submarine interior, two officers clash over a launch order in a claustrophobic setting"
+  },
+  {
+    "movieId": 156,
+    "score": 0.75,
+    "reason": "Crooks bide their time in a warehouse, mistrust and betrayal sparking every exchange"
+  },
+  {
+    "movieId": 42,
+    "score": 0.65,
+    "reason": "Convenience store counter, two clerks and a customer face off in a slice-of-life showdown"
+  },
+  {
+    "movieId": 85,
+    "score": 0.6,
+    "reason": "Thieves hold a family hostage in one living room, tension born of wry banter and cracked nerves"
+  },
+  {
+    "movieId": 1073,
+    "score": 0.55,
+    "reason": "Three flatmates confront a corpse in their apartment, mounting unease from each revelation"
+  },
+  {
+    "movieId": 505,
+    "score": 0.5,
+    "reason": "All action unfolds in one apartment, a husband’s lethal plot spun out in tense private parlance"
+  },
+  {
+    "movieId": 1581,
+    "score": 0.45,
+    "reason": "Witnesses crammed into a single room, stories and flashbacks heighten the mystery’s claustrophobia"
+  },
+  {
+    "movieId": 494,
+    "score": 0.4,
+    "reason": "Rapid-fire newsroom and apartment scenes, tension from sharp-witted dialogue and shifting loyalties"
+  }
+]

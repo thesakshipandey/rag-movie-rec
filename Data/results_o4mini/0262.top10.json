@@ -1,0 +1,62 @@
+[
+  {
+    "movieId": 141,
+    "score": 0.95,
+    "reason": "Classic 1954 sci-fi adventure undersea voyage",
+    "plot": ""
+  },
+  {
+    "movieId": 434,
+    "score": 0.93,
+    "reason": "Groundbreaking 1956 sci-fi on alien planet",
+    "plot": ""
+  },
+  {
+    "movieId": 135,
+    "score": 0.85,
+    "reason": "1968 space odyssey but roots in 1950s vision",
+    "plot": ""
+  },
+  {
+    "movieId": 89,
+    "score": 0.8,
+    "reason": "1982 Neo-noir future with 2019 setting",
+    "plot": ""
+  },
+  {
+    "movieId": 176,
+    "score": 0.78,
+    "reason": "1986 action sci-fi sequel with tense space combat",
+    "plot": ""
+  },
+  {
+    "movieId": 82,
+    "score": 0.75,
+    "reason": "1993 dinosaur sci-fi with groundbreaking effects",
+    "plot": ""
+  },
+  {
+    "movieId": 249,
+    "score": 0.7,
+    "reason": "1997 spy-fi comedy with time travel nods",
+    "plot": ""
+  },
+  {
+    "movieId": 250,
+    "score": 0.68,
+    "reason": "1997 futuristic action with alien threat",
+    "plot": ""
+  },
+  {
+    "movieId": 270,
+    "score": 0.65,
+    "reason": "1997 genetic sci-fi on human potential",
+    "plot": ""
+  },
+  {
+    "movieId": 271,
+    "score": 0.63,
+    "reason": "1997 bug war space opera",
+    "plot": ""
+  }
+]

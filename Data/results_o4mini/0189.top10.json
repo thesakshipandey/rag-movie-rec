@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 5,
+    "score": 0.95,
+    "reason": "Copycat — TV thriller centered on serial killer mystery"
+  },
+  {
+    "movieId": 11,
+    "score": 0.93,
+    "reason": "Seven — detective mystery on dark serial murders"
+  },
+  {
+    "movieId": 12,
+    "score": 0.91,
+    "reason": "Usual Suspects — police lineup unfolds a puzzling crime"
+  },
+  {
+    "movieId": 43,
+    "score": 0.89,
+    "reason": "Disclosure — corporate intrigue with unknown motives"
+  },
+  {
+    "movieId": 44,
+    "score": 0.87,
+    "reason": "Dolores Claiborne — small-town murder suspicion"
+  },
+  {
+    "movieId": 58,
+    "score": 0.85,
+    "reason": "Quiz Show — historical quiz show scandal investigation"
+  },
+  {
+    "movieId": 288,
+    "score": 0.83,
+    "reason": "Scream — masked killer stirs mystery in small town"
+  },
+  {
+    "movieId": 322,
+    "score": 0.81,
+    "reason": "Murder at 1600 — high-stakes White House homicide probe"
+  },
+  {
+    "movieId": 559,
+    "score": 0.79,
+    "reason": "Interview with the Vampire — ominous missing person elements"
+  },
+  {
+    "movieId": 672,
+    "score": 0.77,
+    "reason": "Candyman — urban legend linked to mysterious killings"
+  }
+]

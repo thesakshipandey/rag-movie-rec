@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 123,
+    "score": 1.0,
+    "reason": "Nightmare Before Christmas offers unsettling, atmospheric dread that lingers."
+  },
+  {
+    "movieId": 89,
+    "score": 0.95,
+    "reason": "Blade Runner delivers deep, moody sci-noir terror and existential dread."
+  },
+  {
+    "movieId": 200,
+    "score": 0.9,
+    "reason": "The Shining builds slow-burn dread in an isolated, haunted hotel."
+  },
+  {
+    "movieId": 137,
+    "score": 0.85,
+    "reason": "Big Night’s offbeat tension builds a lingering sense of unease."
+  },
+  {
+    "movieId": 90,
+    "score": 0.8,
+    "reason": "So I Married an Axe Murderer blends quirky humor with subtle, unsettling tone."
+  },
+  {
+    "movieId": 193,
+    "score": 0.75,
+    "reason": "The Right Stuff’s intensity and isolation craft deep atmospheric unease."
+  },
+  {
+    "movieId": 160,
+    "score": 0.7,
+    "reason": "Glengarry Glen Ross’s fierce character beats create simmering discomfort."
+  },
+  {
+    "movieId": 176,
+    "score": 0.65,
+    "reason": "Aliens infuses sci-fi action with sustained, claustrophobic dread."
+  },
+  {
+    "movieId": 446,
+    "score": 0.6,
+    "reason": "Burnt Offerings uses psychological horror in a remote mansion to unsettle."
+  },
+  {
+    "movieId": 184,
+    "score": 0.55,
+    "reason": "Army of Darkness merges dark fantasy with creeping supernatural dread."
+  }
+]

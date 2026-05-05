@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Detectives bend rules chasing a serial killer in a relentless, morally gray hunt"
+  },
+  {
+    "movieId": 12,
+    "score": 0.93,
+    "reason": "Police interrogations mask shifting truths in a taut, dark procedural"
+  },
+  {
+    "movieId": 273,
+    "score": 0.91,
+    "reason": "Heist mastermind and relentless cop duel in a gritty, morally ambiguous crime saga"
+  },
+  {
+    "movieId": 302,
+    "score": 0.89,
+    "reason": "1950s LAPD corruption and investigative suspense blur good and evil lines"
+  },
+  {
+    "movieId": 591,
+    "score": 0.87,
+    "reason": "Lawyer and suspect dance darkly as justice and manipulation intertwine"
+  },
+  {
+    "movieId": 742,
+    "score": 0.85,
+    "reason": "Father and detective twist ransom pursuit into a tense, ambiguous moral game"
+  },
+  {
+    "movieId": 332,
+    "score": 0.83,
+    "reason": "Psychological profiling pits cross-country chases against detective’s dark doubts"
+  },
+  {
+    "movieId": 293,
+    "score": 0.81,
+    "reason": "Undercover FBI agent delves into mob world, torn by loyalty and moral conflict"
+  },
+  {
+    "movieId": 298,
+    "score": 0.79,
+    "reason": "Agent swaps face with a criminal, igniting a high-stakes chase of blurred ethics"
+  },
+  {
+    "movieId": 1026,
+    "score": 0.77,
+    "reason": "Political cover-ups and a tenacious D.A. clash in a gritty legal-procedural war"
+  }
+]

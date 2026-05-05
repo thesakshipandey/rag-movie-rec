@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 1.0,
+    "reason": "A spin doctor and a Hollywood producer fabricate a war to disguise a presidential scandal."
+  },
+  {
+    "movieId": 270,
+    "score": 0.95,
+    "reason": "A seasoned campaign strategist confronts moral decay while managing a charismatic Southern governor."
+  },
+  {
+    "movieId": 503,
+    "score": 0.9,
+    "reason": "A political consultant scrambles to find and groom a pliant candidate for a US Senate seat."
+  },
+  {
+    "movieId": 1141,
+    "score": 0.88,
+    "reason": "An unvarnished look at the media tactics and backroom pressure of a modern presidential campaign."
+  },
+  {
+    "movieId": 425,
+    "score": 0.85,
+    "reason": "A folksinger runs for the Senate, blending populist showmanship with ruthless political calculation."
+  },
+  {
+    "movieId": 732,
+    "score": 0.82,
+    "reason": "A rare look at the Oval Office from a comedic imposter turned acting president confronting political spin."
+  },
+  {
+    "movieId": 291,
+    "score": 0.8,
+    "reason": "A thief witnesses top‐level political malfeasance and gets caught in the power plays of the presidency."
+  },
+  {
+    "movieId": 692,
+    "score": 0.78,
+    "reason": "An outspoken president balances idealism and personal compromise while fighting public and political battles."
+  },
+  {
+    "movieId": 136,
+    "score": 0.75,
+    "reason": "An idealistic young senator battles entrenched corruption and learns the cost of political compromise."
+  },
+  {
+    "movieId": 657,
+    "score": 0.7,
+    "reason": "A POW uncovers a conspiracy that reaches the highest political levels during a treacherous Cold War campaign."
+  }
+]

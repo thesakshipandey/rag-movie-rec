@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 367,
+    "score": 1.0,
+    "reason": "Witty, confident high-school comedy with sharp dialogue and style"
+  },
+  {
+    "movieId": 959,
+    "score": 0.91,
+    "reason": "Nostalgic ensemble coming-of-age story filled with clever humor"
+  },
+  {
+    "movieId": 433,
+    "score": 0.82,
+    "reason": "Darkly comic high-school satire that’s smart, sharp, and irreverent"
+  },
+  {
+    "movieId": 1074,
+    "score": 0.73,
+    "reason": "Generation-defining tale of post-grad angst and style in Seattle"
+  },
+  {
+    "movieId": 451,
+    "score": 0.64,
+    "reason": "Colorful 1950s high-school musical with enduring charm"
+  },
+  {
+    "movieId": 204,
+    "score": 0.55,
+    "reason": "Time-travel teen adventure mixing high-school life and hilarious chaos"
+  },
+  {
+    "movieId": 953,
+    "score": 0.46,
+    "reason": "Bittersweet coming-of-age tale of tween girls finding themselves"
+  },
+  {
+    "movieId": 196,
+    "score": 0.37,
+    "reason": "Inspiring boarding-school drama of teenage rebellion and poetry"
+  },
+  {
+    "movieId": 288,
+    "score": 0.28,
+    "reason": "Self-aware teen slasher with smart high-school banter"
+  },
+  {
+    "movieId": 122,
+    "score": 0.19,
+    "reason": "Evocative TV-inspired comedy-drama with engaging character dynamics"
+  }
+]

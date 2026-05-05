@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Iconic non-linear crime epic by director Quentin Tarantino"
+  },
+  {
+    "movieId": 156,
+    "score": 0.91,
+    "reason": "Raw, tension-filled heist film by rising star Quentin Tarantino"
+  },
+  {
+    "movieId": 346,
+    "score": 0.82,
+    "reason": "Crime caper with sharp dialogue and style from Quentin Tarantino"
+  },
+  {
+    "movieId": 182,
+    "score": 0.73,
+    "reason": "Masterful mob saga showcasing Scorsese’s kinetic storytelling"
+  },
+  {
+    "movieId": 693,
+    "score": 0.64,
+    "reason": "Glittering casino epic steeped in Scorsese’s dynamic crime vision"
+  },
+  {
+    "movieId": 318,
+    "score": 0.55,
+    "reason": "Haunting Holocaust chronicle from Steven Spielberg’s lens"
+  },
+  {
+    "movieId": 82,
+    "score": 0.46,
+    "reason": "Thrilling dinosaur adventure from Steven Spielberg’s groundbreaking work"
+  },
+  {
+    "movieId": 23,
+    "score": 0.37,
+    "reason": "Dark urban thriller directed by Martin Scorsese, exploring obsession"
+  },
+  {
+    "movieId": 192,
+    "score": 0.28,
+    "reason": "Raw, powerful boxing drama under Scorsese’s visceral direction"
+  },
+  {
+    "movieId": 89,
+    "score": 0.19,
+    "reason": "Moody sci-fi noir from Ridley Scott with striking visuals"
+  }
+]

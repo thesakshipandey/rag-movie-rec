@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 474,
+    "score": 0.95,
+    "reason": "A razor-sharp satire that turns Cold War fears into dark comedy."
+  },
+  {
+    "movieId": 100,
+    "score": 0.94,
+    "reason": "A masterfully bleak crime tale with dry wit and unforgettable characters."
+  },
+  {
+    "movieId": 902,
+    "score": 0.92,
+    "reason": "A surreal caper of laid-back cool and offbeat humor in an absurd LA saga."
+  },
+  {
+    "movieId": 154,
+    "score": 0.9,
+    "reason": "A brilliantly irreverent take on biblical times with razor-sharp wit."
+  },
+  {
+    "movieId": 208,
+    "score": 0.89,
+    "reason": "An uproarious monster comedy that pokes affectionate fun at horror tropes."
+  },
+  {
+    "movieId": 153,
+    "score": 0.88,
+    "reason": "A smart crime comedy with delightfully dark humor and sharp wordplay."
+  },
+  {
+    "movieId": 209,
+    "score": 0.87,
+    "reason": "A mockumentary gem of dry humor that’s endlessly quotable and absurd."
+  },
+  {
+    "movieId": 175,
+    "score": 0.85,
+    "reason": "A dystopian fable so darkly funny it feels like satire made real."
+  },
+  {
+    "movieId": 179,
+    "score": 0.84,
+    "reason": "A chilling, satirical vision of ultraviolence with deadpan charm."
+  },
+  {
+    "movieId": 197,
+    "score": 0.83,
+    "reason": "A witty look at post-graduation ennui laced with sly, cutting humor."
+  }
+]

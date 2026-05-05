@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 0.95,
+    "reason": "A lone cop battles terrorists in a skyscraper, pure ’80s action thrill"
+  },
+  {
+    "movieId": 161,
+    "score": 0.92,
+    "reason": "Hotshot pilot takes on impossible missions with big stunts and cheesy charm"
+  },
+  {
+    "movieId": 80,
+    "score": 0.9,
+    "reason": "Special forces raid Saddam’s palace in laughably over-the-top ’90s style"
+  },
+  {
+    "movieId": 226,
+    "score": 0.88,
+    "reason": "McClane returns at Christmas to save his wife and blow up planes in pure fun"
+  },
+  {
+    "movieId": 190,
+    "score": 0.85,
+    "reason": "British rogue thwarts East End mob in cheeky, stunt-packed romp"
+  },
+  {
+    "movieId": 158,
+    "score": 0.83,
+    "reason": "Two office workers outwit gangsters in an ’80s-style gunfight comedy"
+  },
+  {
+    "movieId": 43,
+    "score": 0.8,
+    "reason": "Corporate lawyer fights back in a slick, fast-paced legal-action caper"
+  },
+  {
+    "movieId": 207,
+    "score": 0.78,
+    "reason": "Duelist magician brawls his way through Victorian England with style"
+  },
+  {
+    "movieId": 289,
+    "score": 0.75,
+    "reason": "Money heist head-on in a tropical setting with gunplay galore"
+  },
+  {
+    "movieId": 122,
+    "score": 0.72,
+    "reason": "Cable guy turns hero in high-octane, comedic ’90s rescue extravaganza"
+  }
+]

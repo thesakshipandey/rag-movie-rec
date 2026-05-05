@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 56,
+    "score": 1.0,
+    "reason": "Quentin Tarantino’s cool-as-ice dialogue and killer soundtrack set the ultimate vibe"
+  },
+  {
+    "movieId": 902,
+    "score": 0.95,
+    "reason": "Cult favorite with laid-back style, unforgettable characters and a killer ’70s rock score"
+  },
+  {
+    "movieId": 23,
+    "score": 0.9,
+    "reason": "Visceral street-level drama powered by Bernard Herrmann’s piercing jazz score"
+  },
+  {
+    "movieId": 340,
+    "score": 0.85,
+    "reason": "’70s-era skin-flick with retro glam, pulsating music and Scorsese’s lush period detail"
+  },
+  {
+    "movieId": 156,
+    "score": 0.8,
+    "reason": "Raw indie heist flick fueled by Tarantino’s razor-sharp pop culture riffing"
+  },
+  {
+    "movieId": 53,
+    "score": 0.75,
+    "reason": "Hyper-stylized true-crime spree with an adrenaline-soaked multimedia soundtrack"
+  },
+  {
+    "movieId": 91,
+    "score": 0.7,
+    "reason": "Tim Burton’s stop-motion masterpiece with a darkly whimsical holiday groove"
+  },
+  {
+    "movieId": 179,
+    "score": 0.65,
+    "reason": "Kubrick’s chilling future-crime epic with surreal visuals and a thumping classical score"
+  },
+  {
+    "movieId": 475,
+    "score": 0.6,
+    "reason": "Raucous British indie with punk energy and a blistering ’90s rock soundtrack"
+  },
+  {
+    "movieId": 89,
+    "score": 0.55,
+    "reason": "Ridley Scott’s seminal noir-sci-fi hybrid dripping in neon and Vangelis synths"
+  }
+]

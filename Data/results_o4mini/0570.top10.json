@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 511,
+    "score": 1.0,
+    "reason": "Epic sweep of desert and politics as an officer joins forces with Arab tribesmen."
+  },
+  {
+    "movieId": 22,
+    "score": 0.97,
+    "reason": "A passionate revolt’s scale and sacrifice bring both awe and heartbreak."
+  },
+  {
+    "movieId": 97,
+    "score": 0.95,
+    "reason": "A lone soldier bridges cultures in a vast prairie epic of friendship."
+  },
+  {
+    "movieId": 133,
+    "score": 0.93,
+    "reason": "Grandeur and tragedy of the Civil War seen through one Southern woman’s eye."
+  },
+  {
+    "movieId": 526,
+    "score": 0.9,
+    "reason": "Chariot races and family strife in a grand Roman epic of redemption and revenge."
+  },
+  {
+    "movieId": 651,
+    "score": 0.88,
+    "reason": "A cavalry regiment’s courage amid the carnage of the Civil War’s bloodiest battles."
+  },
+  {
+    "movieId": 180,
+    "score": 0.86,
+    "reason": "Surreal descent through Vietnam’s jungles in a hallucinatory war masterpiece."
+  },
+  {
+    "movieId": 313,
+    "score": 0.84,
+    "reason": "A disaster survival tale on an awe‐inspiring scale of history and loss."
+  },
+  {
+    "movieId": 174,
+    "score": 0.82,
+    "reason": "Relentless adventure across deserts, jungles, and hidden temples."
+  },
+  {
+    "movieId": 176,
+    "score": 0.8,
+    "reason": "Alien war rendered with epic space battles and heroic human defiance."
+  }
+]

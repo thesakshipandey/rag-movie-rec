@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 70,
+    "score": 0.95,
+    "reason": "Warm British rom-com centered on weddings and first loves."
+  },
+  {
+    "movieId": 66,
+    "score": 0.92,
+    "reason": "Charming Chicago-set rom-com with mistaken identity and family warmth."
+  },
+  {
+    "movieId": 255,
+    "score": 0.9,
+    "reason": "Sweet rom-com about love and vows with a wedding backdrop."
+  },
+  {
+    "movieId": 111,
+    "score": 0.88,
+    "reason": "Lighthearted dating comedy mixing love advice and make-believe romance."
+  },
+  {
+    "movieId": 16,
+    "score": 0.85,
+    "reason": "Irresistible French romantic comedy with unexpected twists."
+  },
+  {
+    "movieId": 25,
+    "score": 0.83,
+    "reason": "Colorful drag-club comedy about family, acceptance, and love."
+  },
+  {
+    "movieId": 794,
+    "score": 0.8,
+    "reason": "Uplifting real-life romance where kindness pays back tenfold."
+  },
+  {
+    "movieId": 274,
+    "score": 0.78,
+    "reason": "Refreshing modern take on classmates finding love."
+  },
+  {
+    "movieId": 1682,
+    "score": 0.75,
+    "reason": "Fate-driven tale of chance encounters in London’s subway."
+  },
+  {
+    "movieId": 202,
+    "score": 0.72,
+    "reason": "Time-loop comedy with heartwarming second-chance romance."
+  }
+]

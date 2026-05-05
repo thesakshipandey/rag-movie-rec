@@ -1,0 +1,93 @@
+{
+  "results": {
+    "0799": {
+      "top10": [
+        {"movieId": 178, "score": 0.98, "reason": "A tense jury deliberation pits jurors’ biases against justice in a landmark closed-room thriller."},
+        {"movieId": 282, "score": 0.95, "reason": "A white father’s controversial murder trial forces the courtroom to wrestle with race and morality."},
+        {"movieId": 310, "score": 0.92, "reason": "A hotshot lawyer takes on a major malpractice suit and faces moral dilemmas far beyond the facts."},
+        {"movieId": 735, "score": 0.90, "reason": "An AIDS discrimination case challenges a lawyer’s ethics and leaves your beliefs shaken."},
+        {"movieId": 79, "score": 0.88, "reason": "A wrongfully accused man’s fate hinges on a relentless legal pursuit and moral complexity."},
+        {"movieId": 136, "score": 0.85, "reason": "An idealistic Senator’s fight against corrupt politics explores justice beyond procedure."},
+        {"movieId": 43, "score": 0.82, "reason": "A high-stakes workplace suit turns into a battle over power, truth, and personal honor."},
+        {"movieId": 591, "score": 0.80, "reason": "A young altar boy’s chilling murder trial exposes the dark side of justice."},
+        {"movieId": 310, "score": 0.92, "reason": "A hotshot lawyer takes on a major malpractice suit and faces moral dilemmas far beyond the facts."},
+        {"movieId": 307, "score": 0.78, "reason": "A lawyer’s ambition leads him into a Faustian legal battle where right and wrong blur."}
+      ]
+    },
+    "0800": {
+      "top10": [
+        {"movieId": 137, "score": 0.97, "reason": "Two brothers stage one unforgettable feast to save their failing restaurant with meticulous flair."},
+        {"movieId": 45, "score": 0.96, "reason": "A widowed chef crafts sumptuous Sunday dinners that bind and comfort her daughters."},
+        {"movieId": 462, "score": 0.94, "reason": "Sensual cooking scenes link a family’s emotions to the passions of a single feast."},
+        {"movieId": 171, "score": 0.92, "reason": "A macabre comedy where a butcher’s shop becomes the stage for darkly delicious storytelling."},
+        {"movieId": 1251, "score": 0.90, "reason": "A French chef in war-torn Tbilisi strives for culinary excellence amid romance and turmoil."},
+        {"movieId": 640, "score": 0.88, "reason": "A flamboyant thief and gourmet restaurateur’s wife spar over power, passion, and lavish banquets."},
+        {"movieId": 8, "score": 0.85, "reason": "A pig’s journey to becoming a champion shepherd ties homely farm life to heartfelt feasts."},
+        {"movieId": 253, "score": 0.82, "reason": "Poetic longing unfolds in poetry and desire rather than pots and pans — sensually meticulous."},
+        {"movieId": 171, "score": 0.92, "reason": "A macabre comedy where a butcher’s shop becomes the stage for darkly delicious storytelling."},
+        {"movieId": 1251, "score": 0.90, "reason": "A French chef in war-torn Tbilisi strives for culinary excellence amid romance and turmoil."}
+      ]
+    },
+    "0801": {
+      "top10": [
+        {"movieId": 132, "score": 0.98, "reason": "Dorothy’s journey through a technicolor realm under the rainbow is pure magical discovery."},
+        {"movieId": 91, "score": 0.96, "reason": "Jack Skellington’s stumble into Christmas Town is whimsical, risky, and wondrous."},
+        {"movieId": 420, "score": 0.95, "reason": "Alice’s fall reveals a topsy-turvy world veiled just beneath familiar reality."},
+        {"movieId": 142, "score": 0.93, "reason": "A magical nanny whisks children into animated adventures hidden behind the mundane."},
+        {"movieId": 432, "score": 0.90, "reason": "Fantasia takes you inside living paintings where music conjures surreal, dangerous wonders."},
+        {"movieId": 691, "score": 0.88, "reason": "A man awakens in a city whose dreamlike layers hide a dark, shape-shifting conspiracy."},
+        {"movieId": 21, "score": 0.85, "reason": "Muppet pirates roam an island where fantasy blends peril and delight at every turn."},
+        {"movieId": 38, "score": 0.83, "reason": "A technologist’s home transforms into a digital labyrinth echoing eerie near-reality."},
+        {"movieId": 87, "score": 0.82, "reason": "A boy’s chess obsession uncovers hidden depths, where every move feels mysteriously fated."},
+        {"movieId": 128, "score": 0.80, "reason": "A supercop strays into a seedy world where martial prowess hides secret threats."}
+      ]
+    },
+    "0802": {
+      "top10": [
+        {"movieId": 160, "score": 0.99, "reason": "A razor-sharp takedown of cutthroat office politics and sales quotas gone mad."},
+        {"movieId": 347, "score": 0.97, "reason": "A spin doctor turns scandal into a surreal marketing triumph — absurd, furious fun."},
+        {"movieId": 161, "score": 0.95, "reason": "Top Gun’s slick aerial spectacle doubles as a satire of macho corporate bravado."},
+        {"movieId": 421, "score": 0.93, "reason": "Elitist screen auditions expose the absurdity of celebrity worship and vanity."},
+        {"movieId": 260, "score": 0.90, "reason": "A haunted starliner becomes a coldly stylish nightmare of corporate overreach."},
+        {"movieId": 409, "score": 0.88, "reason": "An everyman is thrust into the absurdity of oligarchic power on a mountain of debt."},
+        {"movieId": 385, "score": 0.85, "reason": "Domestic bliss and secret espionage collide in a gleefully cynical spy farce."},
+        {"movieId": 181, "score": 0.83, "reason": "The Empire’s icy grip mocks corporate betrayal and the cost of ruthless mergers."},
+        {"movieId": 614, "score": 0.82, "reason": "An oil baron’s family saga underscores the grotesque absurdity of wealth and entitlement."},
+        {"movieId": 320, "score": 0.80, "reason": "A searing documentary dissects how media frenzy amplifies grotesque injustice."}
+      ]
+    },
+    "0803": {
+      "top10": [
+        {"movieId": 532, "score": 0.98, "reason": "A father’s obsessive hunt for his daughter’s murderer unfolds in solemn, meticulous detail."},
+        {"movieId": 789, "score": 0.96, "reason": "A journalist’s pursuit of truth in a cold case unravels haunting layers of obsession."},
+        {"movieId": 122, "score": 0.94, "reason": "A Texas Ranger’s methodical chase of elusive killers is steeped in melancholic reflection."},
+        {"movieId": 37, "score": 0.92, "reason": "A widow’s quiet inquiry into a stranger’s past becomes a solemn excavation of memory."},
+        {"movieId": 124, "score": 0.90, "reason": "A veteran lawman probes a decades-old skeleton mystery with journalistic precision."},
+        {"movieId": 189, "score": 0.88, "reason": "An aging director revisits a photo shoot’s mysteries in an elegiac, investigative lament."},
+        {"movieId": 64, "score": 0.86, "reason": "A banker’s quest for exoneration in prison reveals layered injustices over silent years."},
+        {"movieId": 570, "score": 0.84, "reason": "A barber’s unraveling alibi resurrects haunting echoes of past betrayals."},
+        {"movieId": 133, "score": 0.82, "reason": "A man’s return to justice America shines a cold light on wartime secrets and sorrow."},
+        {"movieId": 381, "score": 0.80, "reason": "A suburban mother hunts for her lost cat and uncovers quiet tragedies beneath the surface."}
+      ]
+    },
+    "0804": {
+      "top10": [
+        {"movieId": 160, "score": 0.98, "reason": "A savagely funny satire skewers sales culture with merciless wit and icy style."},
+        {"movieId": 456, "score": 0.96, "reason": "A martial-arts cop in Hollywood spoof unleashes absurd corporate espionage comedy."},
+        {"movieId": 547, "score": 0.94, "reason": "A young poison expert’s romance turns into a darkly comic vendetta against privilege."},
+        {"movieId": 709, "score": 0.92, "reason": "A satirical romp through a dysfunctional dreamcasting business and its egos."},
+        {"movieId": 405, "score": 0.90, "reason": "A covert agency’s slick deception tactics meet relentless comedic fury."},
+        {"movieId": 346, "score": 0.88, "reason": "A woman caught in a criminal enterprise finds absurd fury behind glossy facades."},
+        {"movieId": 456, "score": 0.96, "reason": "A martial-arts cop in Hollywood spoof unleashes absurd corporate espionage comedy."},
+        {"movieId": 747, "score": 0.85, "reason": "A fallen child star turned babysitter takes on exploitative mediocrity with sarcasm."},
+        {"movieId": 782, "score": 0.83, "reason": "A mockumentary on the extremes of ‘90s hip-hop culture with a furious punch."},
+        {"movieId": 321, "score": 0.80, "reason": "A criminal lawyer’s absurd legal battles illuminate cold power and slick betrayal."}
+      ]
+    },
+    "0805": {
+      "top10": [
+        {"movieId": 108}, "not a candidate"
+      ]
+    }
+  }
+}

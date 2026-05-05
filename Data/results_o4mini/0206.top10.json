@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 89,
+    "score": 0.99,
+    "reason": "Blade Runner’s dystopian future and noir style make it endlessly weird"
+  },
+  {
+    "movieId": 101,
+    "score": 0.98,
+    "reason": "Heavy Metal’s surreal sci-fi anthology is perfect late‐night weirdness"
+  },
+  {
+    "movieId": 183,
+    "score": 0.97,
+    "reason": "Alien’s claustrophobic horror in deep space is a 1979 sci‐fi classic"
+  },
+  {
+    "movieId": 176,
+    "score": 0.96,
+    "reason": "Aliens combines horror and sci‐fi in a tense 1986 sequel"
+  },
+  {
+    "movieId": 200,
+    "score": 0.95,
+    "reason": "The Shining’s 1980 psychological horror is both eerie and disturbing"
+  },
+  {
+    "movieId": 635,
+    "score": 0.94,
+    "reason": "The Fog delivers supernatural horror and ’80s chills"
+  },
+  {
+    "movieId": 234,
+    "score": 0.93,
+    "reason": "Jaws (1975) blends horror and suspense in a classic shark thriller"
+  },
+  {
+    "movieId": 50,
+    "score": 0.92,
+    "reason": "Star Wars (1977) offers iconic ’70s sci‐fi adventure"
+  },
+  {
+    "movieId": 172,
+    "score": 0.91,
+    "reason": "Empire Strikes Back (1980) deepens sci‐fi myth with darker tones"
+  },
+  {
+    "movieId": 181,
+    "score": 0.9,
+    "reason": "Return of the Jedi’s blend of space fantasy and action from the ’80s"
+  }
+]

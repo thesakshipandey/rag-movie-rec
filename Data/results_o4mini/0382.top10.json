@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 64,
+    "score": 1.0,
+    "reason": "The Shawshank Redemption fights injustice through unwavering hope and the long game of true freedom."
+  },
+  {
+    "movieId": 302,
+    "score": 0.95,
+    "reason": "L.A. Confidential unravels corruption with relentless precision until each lie crumbles under truth."
+  },
+  {
+    "movieId": 654,
+    "score": 0.9,
+    "reason": "Chinatown exposes rampant greed and then delivers a 'gotcha' that scorches every moral compromise."
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "12 Angry Men lays bare prejudice and then proves reasoned conviction can triumph in a single jury room."
+  },
+  {
+    "movieId": 427,
+    "score": 0.8,
+    "reason": "To Kill a Mockingbird stands as a beacon of moral courage as one man takes on a town’s deep-seated injustice."
+  },
+  {
+    "movieId": 317,
+    "score": 0.75,
+    "reason": "In the Name of the Father chronicles one man’s dogged pursuit of truth against a powerful, corrupt system."
+  },
+  {
+    "movieId": 735,
+    "score": 0.7,
+    "reason": "Philadelphia shows one lawyer’s fight against discrimination culminating in a triumphant stand for justice."
+  },
+  {
+    "movieId": 77,
+    "score": 0.65,
+    "reason": "The Firm peels back a veneer of respectability to reveal that sometimes the biggest threat is right next door."
+  },
+  {
+    "movieId": 9,
+    "score": 0.6,
+    "reason": "Dead Man Walking confronts cold justice and then restores faith through a single act of human empathy."
+  },
+  {
+    "movieId": 1526,
+    "score": 0.55,
+    "reason": "Witness pits an Amish community’s quiet resolve against a deadly conspiracy, delivering justice against all odds."
+  }
+]

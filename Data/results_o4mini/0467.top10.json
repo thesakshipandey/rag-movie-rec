@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 66,
+    "score": 0.99,
+    "reason": "While You Were Sleeping is a cozy romantic comedy of warmhearted characters simply enjoying life together."
+  },
+  {
+    "movieId": 88,
+    "score": 0.97,
+    "reason": "Sleepless in Seattle wraps you in gentle warmth and must-see charm, perfect for a light-hearted ninety-minute escape."
+  },
+  {
+    "movieId": 25,
+    "score": 0.95,
+    "reason": "The Birdcage offers nothing but joyful camaraderie and good vibes—nice people, nice laughs, and no weighty worries."
+  },
+  {
+    "movieId": 255,
+    "score": 0.93,
+    "reason": "My Best Friend’s Wedding is a breezy, feel-good romp full of charming characters and easy-going romance."
+  },
+  {
+    "movieId": 137,
+    "score": 0.91,
+    "reason": "Big Night serves heartfelt food, friendly faces, and genuine warmth in a deliciously light ninety-minute feast."
+  },
+  {
+    "movieId": 70,
+    "score": 0.89,
+    "reason": "Four Weddings and a Funeral brims with polite fun and amiable characters, keeping things pleasant and bright."
+  },
+  {
+    "movieId": 131,
+    "score": 0.87,
+    "reason": "Breakfast at Tiffany’s glitters with charming company and sophisticated urban fun—pure cinematic pampering."
+  },
+  {
+    "movieId": 785,
+    "score": 0.85,
+    "reason": "Only You charms with sweet, whimsical romance and delightful company—exactly ninety minutes of gentle fun."
+  },
+  {
+    "movieId": 204,
+    "score": 0.83,
+    "reason": "Back to the Future offers feel-good adventure and likable characters in a light, perfectly self-contained romp."
+  },
+  {
+    "movieId": 202,
+    "score": 0.81,
+    "reason": "Groundhog Day provides uplifting companionship and warm laughs, simply nice people in a nice loop of fun."
+  }
+]

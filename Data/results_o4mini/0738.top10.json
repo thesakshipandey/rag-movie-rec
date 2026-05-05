@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 273,
+    "score": 0.95,
+    "reason": "Tense crime thriller about a cat-and-mouse heist."
+  },
+  {
+    "movieId": 1112,
+    "score": 0.93,
+    "reason": "Biopic with betrayals in the underworld."
+  },
+  {
+    "movieId": 234,
+    "score": 0.9,
+    "reason": "Suspenseful seaside horror after a shark attack."
+  },
+  {
+    "movieId": 145,
+    "score": 0.88,
+    "reason": "Cyber-thriller where internet identity kills."
+  },
+  {
+    "movieId": 260,
+    "score": 0.85,
+    "reason": "Claustrophobic sci-fi horror on a stranded ship."
+  },
+  {
+    "movieId": 569,
+    "score": 0.83,
+    "reason": "Psychological thriller in wolf-infested suburbs."
+  },
+  {
+    "movieId": 820,
+    "score": 0.8,
+    "reason": "Animated comedy-adventure with a high-flying basketball dog."
+  },
+  {
+    "movieId": 496,
+    "score": 0.78,
+    "reason": "Christmas-themed community drama with dark undertones."
+  },
+  {
+    "movieId": 1116,
+    "score": 0.75,
+    "reason": "Classic swashbuckler with swordplay and intrigue."
+  },
+  {
+    "movieId": 738,
+    "score": 0.72,
+    "reason": "Provocative tale of college students confronting taboos."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 134,
+    "score": 1.0,
+    "reason": "A poetic tragedy charting the rise and fall of a powerful media magnate amid decay and regret."
+  },
+  {
+    "movieId": 488,
+    "score": 0.9,
+    "reason": "A faded film star’s tragic descent in Hollywood’s golden age embodies the beauty of decay."
+  },
+  {
+    "movieId": 192,
+    "score": 0.85,
+    "reason": "Raging Bull’s boxer spirals into self-destruction in a hauntingly raw, introspective descent."
+  },
+  {
+    "movieId": 23,
+    "score": 0.8,
+    "reason": "Taxi Driver portrays a lonely icon’s psychological decay against a grim urban backdrop."
+  },
+  {
+    "movieId": 10,
+    "score": 0.75,
+    "reason": "A modern take on Richard III’s ruthless rise and inevitable ruin in a stylish, tragic retelling."
+  },
+  {
+    "movieId": 175,
+    "score": 0.7,
+    "reason": "Brazil’s dystopian world bleeds surreal beauty and bureaucratic collapse in a haunting vision."
+  },
+  {
+    "movieId": 180,
+    "score": 0.65,
+    "reason": "Apocalypse Now’s Kurtz embodies the poetic tragedy of power corrupted by the jungle’s decay."
+  },
+  {
+    "movieId": 649,
+    "score": 0.6,
+    "reason": "Once Upon a Time in America weaves a majestic, melancholic epic of ambition lost to time."
+  },
+  {
+    "movieId": 51,
+    "score": 0.55,
+    "reason": "Legends of the Fall portrays a family’s noble rise and crushing sorrow amid changing frontiers."
+  },
+  {
+    "movieId": 89,
+    "score": 0.5,
+    "reason": "Blade Runner drapes a noir vision of a dying city and a man confronting his own obsolescence."
+  }
+]

@@ -1,0 +1,11 @@
+movieId,score,reason
+141,0.95,"Reference to '20,000' in the title"
+314,0.93,Features '3' as a numeral
+226,0.91,‘2’ in the title of a sequel
+343,0.89,'8' embedded in the title
+568,0.87,'1994' in title representing a number
+555,0.85,Uses 'I' and 'II' numerals
+541,0.83,Numeric reference in title
+161,0.81,‘Top Gun’ sequel uses 'II'
+204,0.79,Time-travel sequel uses 'II'
+335,0.77,Features a number in the title

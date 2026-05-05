@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.99,
+    "reason": "A music teacher’s epic quest to compose the perfect opus unfolds over decades of trials."
+  },
+  {
+    "movieId": 354,
+    "score": 0.97,
+    "reason": "An indie band’s roller-coaster sprint to craft a hit single pulses with creative breakthroughs."
+  },
+  {
+    "movieId": 209,
+    "score": 0.95,
+    "reason": "Mock-umentary explores a rock band’s absurd antics as they struggle to record their next album."
+  },
+  {
+    "movieId": 1135,
+    "score": 0.93,
+    "reason": "A charismatic frontman’s rise and inner battles expose the price of musical genius."
+  },
+  {
+    "movieId": 1426,
+    "score": 0.91,
+    "reason": "A fictional singer-songwriter fights industry setbacks and her own doubts on the road to stardom."
+  },
+  {
+    "movieId": 4,
+    "score": 0.89,
+    "reason": "A loan shark reinvents himself as a Hollywood producer, chasing that perfect script with theatrical flair."
+  },
+  {
+    "movieId": 42,
+    "score": 0.87,
+    "reason": "A convenience-store clerk dreams of rock ’n’ roll, balancing mundane life with creative urges."
+  },
+  {
+    "movieId": 32,
+    "score": 0.85,
+    "reason": "A quirky comic artist finds inspiration in blues, sketching his way to artistic breakthroughs."
+  },
+  {
+    "movieId": 173,
+    "score": 0.83,
+    "reason": "A pirate’s ballad becomes a quest for the perfect tune, mixing danger with melodic invention."
+  },
+  {
+    "movieId": 270,
+    "score": 0.81,
+    "reason": "Genetic potential charts a hidden musical genius, probing the ethics of engineered talent."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 267,
+    "score": 0.95,
+    "reason": "unknown (2011): intense emotional journey in Berlin setting"
+  },
+  {
+    "movieId": 821,
+    "score": 0.9,
+    "reason": "Spy Hard: outrageous global stakes in non-English comedic action"
+  },
+  {
+    "movieId": 256,
+    "score": 0.85,
+    "reason": "When the Cats Away: Parisian charm with intense emotional drama"
+  },
+  {
+    "movieId": 170,
+    "score": 0.8,
+    "reason": "Cinema Paradiso: Italian passion and nostalgic emotional power"
+  },
+  {
+    "movieId": 293,
+    "score": 0.75,
+    "reason": "Donnie Brasco: undercover intensity in Italian mafia context"
+  },
+  {
+    "movieId": 319,
+    "score": 0.7,
+    "reason": "Everyone Says I Love You: multilingual wit in heartfelt ensemble"
+  },
+  {
+    "movieId": 362,
+    "score": 0.65,
+    "reason": "Blues Brothers 2000: slapstick meets heartfelt soul in linguistic mix"
+  },
+  {
+    "movieId": 116,
+    "score": 0.6,
+    "reason": "French Twist: passionate comedy with French-language vigor"
+  },
+  {
+    "movieId": 74,
+    "score": 0.55,
+    "reason": "Faster Pussycat! Kill! Kill!: raw allegory in stylized violence"
+  },
+  {
+    "movieId": 252,
+    "score": 0.5,
+    "reason": "Jurassic Park II: global stakes, non-English thrills"
+  }
+]

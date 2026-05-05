@@ -1,0 +1,11 @@
+movieId,score,reason
+592,0.95,Title includes 'Crime' directly
+282,0.9,"Title includes 'Kill', a key legal term"
+310,0.88,Title The Rainmaker refers to legal advocacy
+735,0.85,Title Philadelphia centers on a legal drama
+317,0.83,Title In the Name of the Father involves legal injustice
+122,0.8,Title Trial by Jury has a direct legal term
+178,0.78,Title 12 Angry Men is a classic jury-room drama
+44,0.75,Title Dolores Claiborne involves a murder trial
+79,0.73,Title The Fugitive follows a man accused of murder
+160,0.7,Title Glengarry Glen Ross features legal conflict

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 331,
+    "score": 1.0,
+    "reason": "The Edge pits two men against ruthless Alaskan wilderness and a hungry bear in a desperate survival duel."
+  },
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Apollo 13 is a nail-biting true-story of astronauts battling life-threatening odds in the void of space."
+  },
+  {
+    "movieId": 924,
+    "score": 0.9,
+    "reason": "White Squall’s real-life storm leaves stranded sailors fighting the sea for survival."
+  },
+  {
+    "movieId": 304,
+    "score": 0.85,
+    "reason": "Fly Away Home follows a girl’s wilderness odyssey leading orphaned geese to safety through vast wilds."
+  },
+  {
+    "movieId": 241,
+    "score": 0.8,
+    "reason": "Last of the Mohicans shows frontier survival against nature’s unforgiving elements and hostile pursuit."
+  },
+  {
+    "movieId": 252,
+    "score": 0.75,
+    "reason": "The Lost World: Jurassic Park traps explorers on a dinosaur-infested island, desperate to escape."
+  },
+  {
+    "movieId": 97,
+    "score": 0.7,
+    "reason": "Dances With Wolves captures a lone outsider's survival amid harsh, uncharted Indigenous territory."
+  },
+  {
+    "movieId": 1594,
+    "score": 0.65,
+    "reason": "Everest documents climbers’ perilous fight against altitude, cold, and nature’s indomitable forces."
+  },
+  {
+    "movieId": 164,
+    "score": 0.6,
+    "reason": "The Abyss submerges deep-sea divers in a life-or-death struggle against crushing ocean depths."
+  },
+  {
+    "movieId": 273,
+    "score": 0.55,
+    "reason": "Heat includes a tense Albuquerque heist-turned-survival test in a desert environment."
+  }
+]

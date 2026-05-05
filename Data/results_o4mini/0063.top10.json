@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 127,
+    "score": 1.0,
+    "reason": "Mafia heir orchestrates bloody power grab with no mercy or remorse"
+  },
+  {
+    "movieId": 187,
+    "score": 0.95,
+    "reason": "Don’s brutal ambition leaves a trail of destruction, no redemption"
+  },
+  {
+    "movieId": 182,
+    "score": 0.9,
+    "reason": "Loyal gangster thrives on violence, betrays all in his rise to power"
+  },
+  {
+    "movieId": 179,
+    "score": 0.85,
+    "reason": "Psychotic youth’s ultra-violence knows no moral boundaries"
+  },
+  {
+    "movieId": 53,
+    "score": 0.8,
+    "reason": "Couple’s murderous spree glamorized by media, victims forgotten forever"
+  },
+  {
+    "movieId": 654,
+    "score": 0.75,
+    "reason": "Corrupt magnate’s betrayal of trust shatters all around him"
+  },
+  {
+    "movieId": 11,
+    "score": 0.7,
+    "reason": "Unstoppable killer executes flawless revenge with chilling precision"
+  },
+  {
+    "movieId": 12,
+    "score": 0.65,
+    "reason": "Shadowy mastermind pulls strings, leaves world in his ruthless wake"
+  },
+  {
+    "movieId": 218,
+    "score": 0.6,
+    "reason": "Vengeful ex-con unleashes terror on unsuspecting suburban family"
+  },
+  {
+    "movieId": 23,
+    "score": 0.55,
+    "reason": "Disillusioned loner’s violent crusade wreaks havoc without apology"
+  }
+]

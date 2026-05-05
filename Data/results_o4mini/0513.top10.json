@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 387,
+    "score": 0.95,
+    "reason": "Opulent Gilded Age secrets unravel amid velvet whispers."
+  },
+  {
+    "movieId": 275,
+    "score": 0.93,
+    "reason": "Genteel manners conceal potent passions and sly deceptions."
+  },
+  {
+    "movieId": 478,
+    "score": 0.9,
+    "reason": "Witty elite gathering cracks open scandalous truths."
+  },
+  {
+    "movieId": 30,
+    "score": 0.88,
+    "reason": "Chic Parisian facade hiding ecstatic and ruinous double life."
+  },
+  {
+    "movieId": 694,
+    "score": 0.86,
+    "reason": "Polished drawing rooms brim with regret and withheld longings."
+  },
+  {
+    "movieId": 131,
+    "score": 0.84,
+    "reason": "Glossy Manhattan glamour threaded with tender melancholy."
+  },
+  {
+    "movieId": 86,
+    "score": 0.82,
+    "reason": "Flawless butler’s world of protocol holding deep personal yearnings."
+  },
+  {
+    "movieId": 693,
+    "score": 0.8,
+    "reason": "Glamorous mob milieu where elegance masks explosive betrayals."
+  },
+  {
+    "movieId": 274,
+    "score": 0.78,
+    "reason": "Cinderella tale of social climbing with starched elegance and rivalry."
+  },
+  {
+    "movieId": 25,
+    "score": 0.76,
+    "reason": "Drag-club dazzle meets high-stakes etiquette with cutting comebacks."
+  }
+]

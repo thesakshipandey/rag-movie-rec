@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 174,
+    "score": 0.99,
+    "reason": "An archeologist races Nazis across deserts, temples and oceans to recover the Ark’s secrets"
+  },
+  {
+    "movieId": 21,
+    "score": 0.97,
+    "reason": "A rollicking puppet adventure across the high seas in search of buried treasure"
+  },
+  {
+    "movieId": 82,
+    "score": 0.95,
+    "reason": "A groundbreaking journey into a living prehistoric world full of awe and danger"
+  },
+  {
+    "movieId": 141,
+    "score": 0.93,
+    "reason": "A deep-sea odyssey aboard a submarine yields wonders and deadly marvels"
+  },
+  {
+    "movieId": 622,
+    "score": 0.91,
+    "reason": "A shipwreck leaves a family to forge a new life on an uncharted island"
+  },
+  {
+    "movieId": 210,
+    "score": 0.89,
+    "reason": "A father-son quest through booby-trapped ruins to save history’s greatest relic"
+  },
+  {
+    "movieId": 173,
+    "score": 0.87,
+    "reason": "A swashbuckling fairy-tale quest brimming with swordplay, giants and true love"
+  },
+  {
+    "movieId": 304,
+    "score": 0.85,
+    "reason": "A girl and her geese embark on a breathtaking migratory flight across continents"
+  },
+  {
+    "movieId": 281,
+    "score": 0.83,
+    "reason": "A family rafting trip becomes a white-knuckle fight for survival and discovery"
+  },
+  {
+    "movieId": 62,
+    "score": 0.81,
+    "reason": "A mysterious ring opens a portal to a world of gods, deserts and ancient powers"
+  }
+]

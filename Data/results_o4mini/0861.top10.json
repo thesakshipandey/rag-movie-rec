@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "The Shining’s isolated hotel grooms madness in claustrophobic terror"
+  },
+  {
+    "movieId": 99,
+    "score": 0.95,
+    "reason": "Snow White and the Seven Dwarfs hides creeping dread under fairy-tale calm"
+  },
+  {
+    "movieId": 37,
+    "score": 0.92,
+    "reason": "Nadja’s gothic mansion warps reality in uncanny isolation"
+  },
+  {
+    "movieId": 106,
+    "score": 0.9,
+    "reason": "Diabolique’s schoolhouse nestles malevolent architecture and paranoia"
+  },
+  {
+    "movieId": 45,
+    "score": 0.88,
+    "reason": "Eat Drink Man Woman confines secrets and tensions in a family home’s tight spaces"
+  },
+  {
+    "movieId": 532,
+    "score": 0.85,
+    "reason": "Kama Sutra’s opulent palace conceals threat and erotic unease in every corridor"
+  },
+  {
+    "movieId": 541,
+    "score": 0.83,
+    "reason": "Mimic traps victims in labyrinthine tunnels of insect-spawned terror"
+  },
+  {
+    "movieId": 289,
+    "score": 0.8,
+    "reason": "Evita’s grand halls resonate with ambition turning oppressive and haunting"
+  },
+  {
+    "movieId": 149,
+    "score": 0.78,
+    "reason": "Swingers’ Vegas suite shifts from glitz to dread under neon glare"
+  },
+  {
+    "movieId": 319,
+    "score": 0.75,
+    "reason": "Everyone Says I Love You uses urban alleys to twist romance into anxious uncertainty"
+  }
+]

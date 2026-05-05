@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 1.0,
+    "reason": "A darkly comic dystopia where absurd bureaucracy spirals out of control."
+  },
+  {
+    "movieId": 474,
+    "score": 0.97,
+    "reason": "A biting satire of nuclear brinkmanship that lampoons global paranoia."
+  },
+  {
+    "movieId": 209,
+    "score": 0.95,
+    "reason": "A rock documentary spoof packed with witty behind-the-scenes absurdity."
+  },
+  {
+    "movieId": 663,
+    "score": 0.93,
+    "reason": "A satirical look at media and politics through a naïve gardener’s eyes."
+  },
+  {
+    "movieId": 42,
+    "score": 0.9,
+    "reason": "A hilarious snapshot of retail life teetering on chaos and pop‐culture riffs."
+  },
+  {
+    "movieId": 390,
+    "score": 0.88,
+    "reason": "A sharp mockumentary on hardcore rap culture’s outrageous extremes."
+  },
+  {
+    "movieId": 154,
+    "score": 0.86,
+    "reason": "A riotous biblical comedy skewering fanaticism and belief."
+  },
+  {
+    "movieId": 100,
+    "score": 0.84,
+    "reason": "A kidnapping caper tinged with dark humor in snowy Minnesota."
+  },
+  {
+    "movieId": 186,
+    "score": 0.82,
+    "reason": "Two blues-singing brothers on a mad dash through comedy and crime."
+  },
+  {
+    "movieId": 56,
+    "score": 0.8,
+    "reason": "Nonlinear crime drama laced with sharp dialogue and wickedly dark humor."
+  }
+]

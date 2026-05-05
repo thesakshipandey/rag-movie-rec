@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 44,
+    "score": 0.95,
+    "reason": "A woman’s confession hides decades of small-town secrets under a veneer of respect."
+  },
+  {
+    "movieId": 58,
+    "score": 0.92,
+    "reason": "Quiz-show scandal unmasks decades of deceit, and a lawyer must unearth buried motives."
+  },
+  {
+    "movieId": 620,
+    "score": 0.89,
+    "reason": "A priest’s shooting reveals a web of historical sins and personal obsessions."
+  },
+  {
+    "movieId": 124,
+    "score": 0.86,
+    "reason": "A cold case skeleton forces a sheriff to reexamine past alliances and broken faith."
+  },
+  {
+    "movieId": 102,
+    "score": 0.83,
+    "reason": "A cat-stolen inheritance exposes long-buried greed in a tranquil estate."
+  },
+  {
+    "movieId": 72,
+    "score": 0.8,
+    "reason": "A bank teller’s slip uncovers a covert plan, and she digs into hidden motives."
+  },
+  {
+    "movieId": 256,
+    "score": 0.77,
+    "reason": "A missing cat reveals the undercurrents of a Paris neighborhood’s dark pacts."
+  },
+  {
+    "movieId": 1272,
+    "score": 0.74,
+    "reason": "A detective’s obsession with a prosecutor’s death leads him to old betrayals."
+  },
+  {
+    "movieId": 286,
+    "score": 0.71,
+    "reason": "A nurse tending the wounded hears stories that hint at decades-old family debts."
+  },
+  {
+    "movieId": 122,
+    "score": 0.68,
+    "reason": "A journalist’s closer look at Olympic success unravels corruption in town lore."
+  }
+]

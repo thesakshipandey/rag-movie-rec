@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 441,
+    "score": 1.0,
+    "reason": "A family moves into a pristine home, only to find unseen terrors lurking in its walls and whispers in the night."
+  },
+  {
+    "movieId": 438,
+    "score": 0.95,
+    "reason": "Suburban dullness shattered by a monstrous terror rising from the sea, hiding its claws beneath calm waters."
+  },
+  {
+    "movieId": 440,
+    "score": 0.9,
+    "reason": "Sinister shadows return to a sleepy town, reigniting old horrors behind every manicured hedge."
+  },
+  {
+    "movieId": 439,
+    "score": 0.88,
+    "reason": "An evil dollhouse mirrors twisted secrets in a picture-perfect suburb under its glassy gaze."
+  },
+  {
+    "movieId": 442,
+    "score": 0.86,
+    "reason": "A priest’s dark confessions haunt an idyllic village, turning piety into paranoia."
+  },
+  {
+    "movieId": 305,
+    "score": 0.84,
+    "reason": "A perfect family, a terrible ice storm, and a suburban calm cracking open to reveal hidden fractures."
+  },
+  {
+    "movieId": 123,
+    "score": 0.82,
+    "reason": "The living dead stroll through a peaceful town, unraveling its everyday bliss with every ghostly whisper."
+  },
+  {
+    "movieId": 337,
+    "score": 0.8,
+    "reason": "An eccentric family estate brims with offbeat charm and lurking madness behind its genteel facade."
+  },
+  {
+    "movieId": 565,
+    "score": 0.78,
+    "reason": "Children in a placid town fall silent in a chilling dream, revealing an unsettling force at the heart of normalcy."
+  },
+  {
+    "movieId": 1230,
+    "score": 0.76,
+    "reason": "A top-secret CIA mission crashes into a town’s calm, kicking off unseen dangers beneath friendly streets."
+  }
+]

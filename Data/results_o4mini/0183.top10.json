@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 180,
+    "score": 0.95,
+    "reason": "Iconic Vietnam War epic exploring moral ambiguity"
+  },
+  {
+    "movieId": 203,
+    "score": 0.93,
+    "reason": "1988 Western War drama with themes of duty and redemption"
+  },
+  {
+    "movieId": 278,
+    "score": 0.9,
+    "reason": "1995 WWII submarine thriller titled after the vessel's mission"
+  },
+  {
+    "movieId": 265,
+    "score": 0.88,
+    "reason": "Cold War submarine pursuit in 1990s thriller ‘The Hunt for Red October’"
+  },
+  {
+    "movieId": 110,
+    "score": 0.85,
+    "reason": "1968 Vietnam War-set comedy involving an elephant rescue mission"
+  },
+  {
+    "movieId": 157,
+    "score": 0.83,
+    "reason": "1986 war film depicting frontline infantry experience"
+  },
+  {
+    "movieId": 188,
+    "score": 0.8,
+    "reason": "Vietnam-era training drama titled ‘Full Metal Jacket’"
+  },
+  {
+    "movieId": 180,
+    "score": 0.78,
+    "reason": "1979 epic set during the Vietnam War titled ‘Apocalypse Now’"
+  },
+  {
+    "movieId": 257,
+    "score": 0.75,
+    "reason": "1981 comedy-horror with WWII military backdrop titled ‘Army of Darkness’"
+  },
+  {
+    "movieId": 89,
+    "score": 0.7,
+    "reason": "1982 sci-fi thriller set during future Cold War titled ‘Blade Runner’"
+  }
+]

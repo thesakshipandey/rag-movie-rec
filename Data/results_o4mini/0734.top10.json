@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 1.0,
+    "reason": "Unforgiven’s genre-smashing meditation on violence"
+  },
+  {
+    "movieId": 73,
+    "score": 0.9,
+    "reason": "Maverick’s playful poker-themed western winks at the tropes"
+  },
+  {
+    "movieId": 232,
+    "score": 0.85,
+    "reason": "Ensemble outlaw caper blending gunplay and dry humor"
+  },
+  {
+    "movieId": 1188,
+    "score": 0.8,
+    "reason": "Kid-friendly sequel lights up the ranch with hijinks"
+  },
+  {
+    "movieId": 97,
+    "score": 0.75,
+    "reason": "Wisdom and redemption in this sprawling Civil War epic"
+  },
+  {
+    "movieId": 415,
+    "score": 0.7,
+    "reason": "Family-friendly western comedy with heartfelt warmth"
+  },
+  {
+    "movieId": 1247,
+    "score": 0.65,
+    "reason": "Fierce female outlaws redefine the genre’s edge"
+  },
+  {
+    "movieId": 661,
+    "score": 0.6,
+    "reason": "High Noon’s ticking-clock suspense reinvents the showdown"
+  },
+  {
+    "movieId": 177,
+    "score": 0.55,
+    "reason": "Spaghetti western masterpiece that transcends clichés"
+  },
+  {
+    "movieId": 232,
+    "score": 0.5,
+    "reason": "(duplicate placeholder)"
+  }
+]

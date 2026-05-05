@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 26,
+    "score": 0.95,
+    "reason": "Brothers clash over inheritance, old wounds surface as they confront shared memories at a family home."
+  },
+  {
+    "movieId": 84,
+    "score": 0.9,
+    "reason": "A barber and his estranged wife face old resentments when he returns home after she frames him for arson."
+  },
+  {
+    "movieId": 47,
+    "score": 0.85,
+    "reason": "An eccentric director’s secret self-doubt erupts when forced to face his past and present in film."
+  },
+  {
+    "movieId": 696,
+    "score": 0.8,
+    "reason": "Mayor’s convenience store inheritance forces him to partner with a con artist, unearthing sibling rivalries."
+  },
+  {
+    "movieId": 1282,
+    "score": 0.75,
+    "reason": "A mother’s illness reunites her daughters, revealing buried conflicts and regrets."
+  },
+  {
+    "movieId": 184,
+    "score": 0.7,
+    "reason": "A man battles inner demons and family legacy after a stay at a women’s college merges past and present."
+  },
+  {
+    "movieId": 222,
+    "score": 0.65,
+    "reason": "Three brothers survive war and return home to Ireland, haunted by shared trauma and conflicting loyalties."
+  },
+  {
+    "movieId": 1247,
+    "score": 0.6,
+    "reason": "A woman’s resurfaced memories of a traumatic past drive a wedge between her and her family."
+  },
+  {
+    "movieId": 778,
+    "score": 0.55,
+    "reason": "A loner’s life upends when his daughter’s old nanny returns, dredging up buried familial secrets."
+  },
+  {
+    "movieId": 460,
+    "score": 0.5,
+    "reason": "A man’s daughter reconnects with estranged father, and old resentments boil over during a holiday weekend."
+  }
+]

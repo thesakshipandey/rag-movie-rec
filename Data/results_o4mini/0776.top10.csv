@@ -1,0 +1,11 @@
+movieId,score,reason,title,year,plot
+133,0.98,Sprawling Civil War epic with enduring romance and sweeping scope.,Gone with the Wind,1939,
+511,0.96,"Immersive desert odyssey spanning years, rich in history and character.",Lawrence of Arabia,1962,
+649,0.94,Time-spanning crime saga that's intimate yet epic in scale.,Once Upon a Time in America,1984,
+313,0.92,Titanic disaster epic that transports you through time and tragedy.,Titanic,1997,
+318,0.9,"Heartfelt Holocaust drama that's profound, sprawling, and deeply human.",Schindler's List,1993,
+97,0.88,Immersive frontier tale with vast landscapes and personal transformation.,Dances with Wolves,1990,
+187,0.85,"Rich dual narrative across generations, combining history and intrigue.",The Godfather: Part II,1974,
+204,0.83,Time-travel adventure with expansive vision of past and future.,Back to the Future,1985,
+82,0.8,Dinosaur-populated island thriller that's grand and transportive.,Jurassic Park,1993,
+50,0.78,"Galactic saga spanning worlds, full of epic battles and legend.",Star Wars,1977,

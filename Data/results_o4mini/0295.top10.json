@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 1.0,
+    "reason": "Apollo 13 dramatizes a real moon mission gone wrong with life-or-death stakes in space."
+  },
+  {
+    "movieId": 1594,
+    "score": 0.95,
+    "reason": "Everest chronicles a true-life high-altitude climb under brutal conditions."
+  },
+  {
+    "movieId": 54,
+    "score": 0.9,
+    "reason": "Outbreak portrays a real-world viral crisis and frantic efforts to contain it."
+  },
+  {
+    "movieId": 119,
+    "score": 0.85,
+    "reason": "Maya Lin: A Strong Clear Vision follows the real artist behind a major national memorial."
+  },
+  {
+    "movieId": 193,
+    "score": 0.8,
+    "reason": "The Right Stuff recounts pioneering test pilots risking everything to break the sound barrier."
+  },
+  {
+    "movieId": 320,
+    "score": 0.75,
+    "reason": "Paradise Lost: The Child Murders presents a true crime inquiry with high stakes and real danger."
+  },
+  {
+    "movieId": 48,
+    "score": 0.7,
+    "reason": "Hoop Dreams is a documentary on young athletes chasing a dream in a tough urban environment."
+  },
+  {
+    "movieId": 32,
+    "score": 0.65,
+    "reason": "Crumb profiles a real underground comic legend navigating personal and creative turmoil."
+  },
+  {
+    "movieId": 87,
+    "score": 0.6,
+    "reason": "Searching for Bobby Fischer tells the true story of a chess prodigy pushed to the brink."
+  },
+  {
+    "movieId": 5,
+    "score": 0.55,
+    "reason": "Copycat follows a real-world serial killer expert drawn into a dangerous investigation."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 1.0,
+    "reason": "Fargo – Small-town cops navigate conflicting witness stories and bungled crimes in a bleak, messy Midwest investigation"
+  },
+  {
+    "movieId": 124,
+    "score": 0.95,
+    "reason": "Lone Star – Off-duty sheriffs uncover buried secrets in a Texas town, revealing a layered, unresolved mystery"
+  },
+  {
+    "movieId": 1267,
+    "score": 0.92,
+    "reason": "Clockers – Two rookie detectives chase street killings amid neighborhood gossip and personal missteps"
+  },
+  {
+    "movieId": 327,
+    "score": 0.9,
+    "reason": "Cop Land – Small-town sheriff and colleagues stumble through corruption and flawed human errors"
+  },
+  {
+    "movieId": 320,
+    "score": 0.88,
+    "reason": "Paradise Lost: The Child Murders at Robin Hood Hills – Documentary delves into contradictory accounts in a real-life case"
+  },
+  {
+    "movieId": 1226,
+    "score": 0.86,
+    "reason": "Night Falls on Manhattan – Young prosecutor untangles police corruption and cover-ups in a gritty New York trial"
+  },
+  {
+    "movieId": 332,
+    "score": 0.84,
+    "reason": "Kiss the Girls – Forensic psychologist pieces together chaotic Atlanta abductions from clashing witness accounts"
+  },
+  {
+    "movieId": 282,
+    "score": 0.82,
+    "reason": "A Time to Kill – Grave miscarriage of justice in a small town sparks a divided community and messy courtroom drama"
+  },
+  {
+    "movieId": 696,
+    "score": 0.8,
+    "reason": "City Hall – Deputy mayor probes cop killings in New York’s political underbelly, uncovering tangled motives"
+  },
+  {
+    "movieId": 273,
+    "score": 0.78,
+    "reason": "Heat – Plainclothes detective pursues a master thief through LA’s chaotic streets, blurring truth and loyalty"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A masterclass in misdirection and revelation with one of cinema’s greatest twists."
+  },
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "A relentless, cerebral manhunt that unravels a darkly ingenious criminal puzzle."
+  },
+  {
+    "movieId": 58,
+    "score": 0.9,
+    "reason": "True story quiz scandal delivers sharp wit and incisive legal maneuvering."
+  },
+  {
+    "movieId": 98,
+    "score": 0.85,
+    "reason": "Brilliant mind games between an elite FBI trainee and a genius psychiatrist."
+  },
+  {
+    "movieId": 272,
+    "score": 0.8,
+    "reason": "A raw tale of genius and therapy that celebrates true intellectual achievement."
+  },
+  {
+    "movieId": 87,
+    "score": 0.75,
+    "reason": "A touching chess drama that captures the beauty of a young genius’s mind."
+  },
+  {
+    "movieId": 77,
+    "score": 0.7,
+    "reason": "Tense legal thriller showcasing razor-sharp courtroom strategy and intrigue."
+  },
+  {
+    "movieId": 49,
+    "score": 0.65,
+    "reason": "Lighthearted romance sparking from real scientific genius and wit."
+  },
+  {
+    "movieId": 7,
+    "score": 0.6,
+    "reason": "Time-traveling enigma that challenges your mind at every turn."
+  },
+  {
+    "movieId": 56,
+    "score": 0.55,
+    "reason": "Nonlinear storytelling filled with clever dialogue and expert plotting."
+  }
+]

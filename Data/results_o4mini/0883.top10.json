@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 484,
+    "score": 0.98,
+    "reason": "The Maltese Falcon’s Sam Spade is the cynical PI archetype at the heart of ’40s noir."
+  },
+  {
+    "movieId": 525,
+    "score": 0.96,
+    "reason": "The Big Sleep nails the smoky tension of a hard-boiled private investigator in ’46."
+  },
+  {
+    "movieId": 483,
+    "score": 0.94,
+    "reason": "Casablanca’s Rick Blaine embodies the pessimistic, world-weary private eye in B&W."
+  },
+  {
+    "movieId": 513,
+    "score": 0.92,
+    "reason": "The Third Man’s shadowy post-war streets and cross-cutting cynicism define classic noir."
+  },
+  {
+    "movieId": 489,
+    "score": 0.9,
+    "reason": "Notorious fuses espionage and femme fatale in a refined ’46 black-and-white thriller."
+  },
+  {
+    "movieId": 490,
+    "score": 0.88,
+    "reason": "To Catch a Thief’s cat-and-mouse luxe noir crafts a lethal romance in B&W."
+  },
+  {
+    "movieId": 611,
+    "score": 0.86,
+    "reason": "Laura’s portrait-perfect mystery spins around a dangerous beauty and a jaded detective."
+  },
+  {
+    "movieId": 488,
+    "score": 0.84,
+    "reason": "Sunset Blvd’s morbid introspection and film-noir style spotlight Hollywood’s dark underbelly."
+  },
+  {
+    "movieId": 134,
+    "score": 0.82,
+    "reason": "Citizen Kane’s framing and fatalism laid the blueprint for cinematic noir dread."
+  },
+  {
+    "movieId": 189,
+    "score": 0.8,
+    "reason": "A Grand Day Out’s minimalism nods to noir’s visual chiaroscuro even in animation."
+  }
+]

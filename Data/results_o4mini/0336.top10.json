@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1038,
+    "score": 0.97,
+    "reason": "A dark neo-noir thriller that keeps you guessing with every twist."
+  },
+  {
+    "movieId": 999,
+    "score": 0.95,
+    "reason": "Zany undead comedy with shock-and-awe effects no one else dared attempt."
+  },
+  {
+    "movieId": 1546,
+    "score": 0.93,
+    "reason": "Atmospheric, haunting urban odyssey that slips between reality and dream."
+  },
+  {
+    "movieId": 1429,
+    "score": 0.91,
+    "reason": "Bold, uncompromising look at queer life that broke all the rules."
+  },
+  {
+    "movieId": 1658,
+    "score": 0.89,
+    "reason": "Gripping courtroom drama fueled by sibling rivalry and explosive secrets."
+  },
+  {
+    "movieId": 574,
+    "score": 0.87,
+    "reason": "Sinister obsession fuels a twisted tale of love, madness and jealousy."
+  },
+  {
+    "movieId": 836,
+    "score": 0.85,
+    "reason": "Punk rockers, politics and anarchy collide in this sly social satire."
+  },
+  {
+    "movieId": 1621,
+    "score": 0.83,
+    "reason": "A dark, erotic thriller that seduces then shocks with one careless move."
+  },
+  {
+    "movieId": 1502,
+    "score": 0.81,
+    "reason": "Witty meta-romp through the Big Apple’s absurd dating scene."
+  },
+  {
+    "movieId": 1150,
+    "score": 0.79,
+    "reason": "Gangland capers told in fever-dream style, utterly off-beat and raw."
+  }
+]

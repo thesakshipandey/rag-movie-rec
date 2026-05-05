@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 27,
+    "score": 0.95,
+    "reason": "Bad Boys’ Miami street races and unhinged shootouts kick adrenaline into overdrive."
+  },
+  {
+    "movieId": 144,
+    "score": 0.93,
+    "reason": "Die Hard’s relentless pace and McClane’s one-man war deliver pure, breath-taking intensity."
+  },
+  {
+    "movieId": 96,
+    "score": 0.91,
+    "reason": "Terminator 2’s liquid-metal terror and explosive set-pieces fuel nonstop action."
+  },
+  {
+    "movieId": 568,
+    "score": 0.89,
+    "reason": "Speed’s breakneck bus chase and ’90s action banter sustain pulse-racing momentum."
+  },
+  {
+    "movieId": 298,
+    "score": 0.87,
+    "reason": "Face/Off’s high-octane stunts and cathartic shoot-out ignite relentless kinetic energy."
+  },
+  {
+    "movieId": 1016,
+    "score": 0.85,
+    "reason": "Con Air’s airborne prison riot and non-stop gunplay keep pulses at red-line."
+  },
+  {
+    "movieId": 233,
+    "score": 0.83,
+    "reason": "Under Siege’s battleship brawler vibes explode into a barrage of martial-arts fury."
+  },
+  {
+    "movieId": 385,
+    "score": 0.81,
+    "reason": "True Lies’ explosive set-pieces and Schwarzenegger’s flair transform espionage into spectacle."
+  },
+  {
+    "movieId": 117,
+    "score": 0.79,
+    "reason": "The Rock’s Alcatraz assault and ticking-time-bomb premise deliver raw, unrelenting heat."
+  },
+  {
+    "movieId": 546,
+    "score": 0.77,
+    "reason": "Broken Arrow’s airborne nuclear standoff and Travolta vs. Cage combat escalate nonstop mayhem."
+  }
+]

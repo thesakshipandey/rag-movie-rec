@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 216,
+    "score": 1.0,
+    "reason": "A will-they-won’t-they journey across seasons builds warm, fluttery romance."
+  },
+  {
+    "movieId": 88,
+    "score": 0.95,
+    "reason": "A radio love story makes hearts skip beats and keeps emotions light and sweet."
+  },
+  {
+    "movieId": 955,
+    "score": 0.9,
+    "reason": "A fleeting train encounter sparks pure new-love magic in twilight streets."
+  },
+  {
+    "movieId": 70,
+    "score": 0.85,
+    "reason": "Friendship and longing dance through weddings and farewells in a charming courtship."
+  },
+  {
+    "movieId": 66,
+    "score": 0.8,
+    "reason": "A mistaken rescue leads to sweet confessions and shy first kisses."
+  },
+  {
+    "movieId": 487,
+    "score": 0.75,
+    "reason": "A princess and a reporter find joy in stolen moments beneath Roman skies."
+  },
+  {
+    "movieId": 131,
+    "score": 0.7,
+    "reason": "A socialite’s chance meeting kindles tender romance amid morning’s sparkle."
+  },
+  {
+    "movieId": 255,
+    "score": 0.65,
+    "reason": "Love’s last-minute twist at a wedding fuels playful, hopeful second chances."
+  },
+  {
+    "movieId": 481,
+    "score": 0.6,
+    "reason": "A lonely clerk’s quiet devotion blossoms over late-night lunches and shy glances."
+  },
+  {
+    "movieId": 486,
+    "score": 0.55,
+    "reason": "A chauffeur’s daughter and a playboy heir share giddy glances under Parisian stars."
+  }
+]

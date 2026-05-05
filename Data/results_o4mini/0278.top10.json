@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 23,
+    "score": 0.95,
+    "reason": "Dark character study of urban alienation in 1970s New York."
+  },
+  {
+    "movieId": 178,
+    "score": 0.93,
+    "reason": "Taut courtroom drama showcasing slow-burning tension and moral debate."
+  },
+  {
+    "movieId": 180,
+    "score": 0.91,
+    "reason": "Visually immersive war epic capturing the madness of Vietnam."
+  },
+  {
+    "movieId": 177,
+    "score": 0.89,
+    "reason": "Iconic spaghetti western with deliberate pacing and stark landscapes."
+  },
+  {
+    "movieId": 435,
+    "score": 0.87,
+    "reason": "Effortless chemistry and episodic charm in a classic Western adventure."
+  },
+  {
+    "movieId": 504,
+    "score": 0.85,
+    "reason": "Revolutionary crime drama blending romance, violence, and social change."
+  },
+  {
+    "movieId": 197,
+    "score": 0.83,
+    "reason": "Poignant reflection on youth and disillusionment in swinging ’60s America."
+  },
+  {
+    "movieId": 523,
+    "score": 0.81,
+    "reason": "Captivating prison drama with a standout Paul Newman performance."
+  },
+  {
+    "movieId": 511,
+    "score": 0.79,
+    "reason": "Epic historical drama with expansive landscapes and introspective tone."
+  },
+  {
+    "movieId": 133,
+    "score": 0.77,
+    "reason": "Sweeping Civil War romance with unhurried grandeur and period detail."
+  }
+]

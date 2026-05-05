@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 28,
+    "score": 0.95,
+    "reason": "Real-life space mission beset by disaster, triumphantly showcasing human ingenuity."
+  },
+  {
+    "movieId": 64,
+    "score": 0.94,
+    "reason": "A story of hope and resilience inside a bleak prison, finding light in the darkness."
+  },
+  {
+    "movieId": 22,
+    "score": 0.93,
+    "reason": "A legendary fight for freedom against overwhelming odds in medieval Scotland."
+  },
+  {
+    "movieId": 69,
+    "score": 0.92,
+    "reason": "The extraordinary life of a simple man who overcomes every challenge with heart."
+  },
+  {
+    "movieId": 48,
+    "score": 0.9,
+    "reason": "A powerful basketball journey capturing years of struggle and unbreakable spirit."
+  },
+  {
+    "movieId": 196,
+    "score": 0.89,
+    "reason": "An inspiring teacher who ignites passion and courage in his students against all odds."
+  },
+  {
+    "movieId": 8,
+    "score": 0.88,
+    "reason": "A pig defies all expectations to become the hero of a charming, heartwarming farm tale."
+  },
+  {
+    "movieId": 79,
+    "score": 0.87,
+    "reason": "A man wrongly accused fights to prove his innocence in a gripping race against time."
+  },
+  {
+    "movieId": 204,
+    "score": 0.86,
+    "reason": "A teenager travels through time to save his family, rediscovering belief in himself."
+  },
+  {
+    "movieId": 47,
+    "score": 0.85,
+    "reason": "A determined dreamer perseveres through ridicule and rejection to pursue his passion."
+  }
+]

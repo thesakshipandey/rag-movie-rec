@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 45,
+    "score": 1.0,
+    "reason": "Eat Drink Man Woman offers a gentle slice-of-life portrait centered on family and cooking in Taipei."
+  },
+  {
+    "movieId": 14,
+    "score": 0.95,
+    "reason": "Postino, Il captures quiet Italian island life through simple, heartfelt moments."
+  },
+  {
+    "movieId": 59,
+    "score": 0.9,
+    "reason": "Three Colors: Red explores everyday connections in France with subtle, affecting drama."
+  },
+  {
+    "movieId": 60,
+    "score": 0.85,
+    "reason": "Three Colors: Blue is a quiet French-language drama on grief and self-rediscovery."
+  },
+  {
+    "movieId": 18,
+    "score": 0.8,
+    "reason": "White Balloon follows a gentle Tehran market journey through a child’s eyes."
+  },
+  {
+    "movieId": 242,
+    "score": 0.75,
+    "reason": "Kolya is a tender Czech drama exploring unexpected bonds across language barriers."
+  },
+  {
+    "movieId": 251,
+    "score": 0.7,
+    "reason": "Shall We Dance? offers soothing Japanese slice-of-life drama around dance and personal growth."
+  },
+  {
+    "movieId": 132,
+    "score": 0.65,
+    "reason": "Wizard of Oz (1939) combines fantasy with gentle life lessons (though English-language)."
+  },
+  {
+    "movieId": 70,
+    "score": 0.6,
+    "reason": "Four Weddings and a Funeral (1994) includes calm moments balancing humor with heartfelt reflection."
+  },
+  {
+    "movieId": 29,
+    "score": 0.55,
+    "reason": "Batman Forever (1995) offers character-driven scenes over loud spectacle (though English-language)."
+  }
+]

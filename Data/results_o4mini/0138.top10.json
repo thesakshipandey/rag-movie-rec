@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 144,
+    "score": 0.98,
+    "reason": "John McClane fights terrorists in a Nakatomi Plaza siege without fast cuts"
+  },
+  {
+    "movieId": 33,
+    "score": 0.96,
+    "reason": "El Mariachi barrels through bandits in a relentless, one-man mission"
+  },
+  {
+    "movieId": 24,
+    "score": 0.95,
+    "reason": "Hong Kong cop Ma Hon Keung takes on wave after wave of street thugs"
+  },
+  {
+    "movieId": 128,
+    "score": 0.93,
+    "reason": "Supercop showcases long, bone-crunching martial-arts sequences"
+  },
+  {
+    "movieId": 802,
+    "score": 0.9,
+    "reason": "Van dam bursts with gritty action as he pursues rogue mercenaries"
+  },
+  {
+    "movieId": 22,
+    "score": 0.89,
+    "reason": "Wallace’s guerrilla battles in Braveheart are brutal and unflinching"
+  },
+  {
+    "movieId": 96,
+    "score": 0.87,
+    "reason": "T2 delivers visceral combat with minimal cutaways"
+  },
+  {
+    "movieId": 188,
+    "score": 0.85,
+    "reason": "Basic training and battlefield scenes in Full Metal Jacket feel raw"
+  },
+  {
+    "movieId": 157,
+    "score": 0.83,
+    "reason": "Troops endure merciless combat in Platoon’s front-line clashes"
+  },
+  {
+    "movieId": 636,
+    "score": 0.8,
+    "reason": "Snake Plissken’s solo rescue mission in Escape from New York is uncut tension"
+  }
+]

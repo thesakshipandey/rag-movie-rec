@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1067,
+    "score": 0.98,
+    "reason": "Understated, off-beat comedy about conflicted friends and art"
+  },
+  {
+    "movieId": 150,
+    "score": 0.96,
+    "reason": "Cool humor and sharp dialogue in Hollywood’s indie heyday"
+  },
+  {
+    "movieId": 1428,
+    "score": 0.94,
+    "reason": "Quiet suburban malaise with droll banter and bittersweet hope"
+  },
+  {
+    "movieId": 93,
+    "score": 0.92,
+    "reason": "Seventh-grade misfit’s somber wit and tender final triumph"
+  },
+  {
+    "movieId": 367,
+    "score": 0.9,
+    "reason": "Glamorous teen satire with warm heart under its sarcastic surface"
+  },
+  {
+    "movieId": 1074,
+    "score": 0.88,
+    "reason": "Gen-X romantic dramedy laced with nostalgia and awkward charm"
+  },
+  {
+    "movieId": 248,
+    "score": 0.86,
+    "reason": "Hitman meets reunion in a quirky romp of fate and found family"
+  },
+  {
+    "movieId": 246,
+    "score": 0.84,
+    "reason": "Offbeat love story with indie edge and hopeful, rueful finale"
+  },
+  {
+    "movieId": 37,
+    "score": 0.82,
+    "reason": "Farfetched charm meets quiet pathos in this Cannes indie gem"
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Compact black-and-white comedy that defined indie beginnings"
+  }
+]

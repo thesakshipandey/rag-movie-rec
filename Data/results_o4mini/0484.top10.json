@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 5,
+    "score": 1.0,
+    "reason": "Expert profiler delves deep into a copycat killer’s twisted mind"
+  },
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Detective unravels a murderer’s elaborate ritualistic clues"
+  },
+  {
+    "movieId": 58,
+    "score": 0.9,
+    "reason": "Quiz show scandal exposes obsession and moral compromise"
+  },
+  {
+    "movieId": 98,
+    "score": 0.85,
+    "reason": "FBI rookie hunts charismatic cannibal while chasing the truth"
+  },
+  {
+    "movieId": 258,
+    "score": 0.8,
+    "reason": "Astronomer’s quest for alien signals drives her into obsession"
+  },
+  {
+    "movieId": 302,
+    "score": 0.75,
+    "reason": "Rookie cop digs deep into a conspiracy that won’t stay buried"
+  },
+  {
+    "movieId": 315,
+    "score": 0.7,
+    "reason": "Teen befriends a fugitive war criminal, blurring fascination and fear"
+  },
+  {
+    "movieId": 592,
+    "score": 0.65,
+    "reason": "Lawyer obsessively uncovers secrets in a high-stakes murder trial"
+  },
+  {
+    "movieId": 54,
+    "score": 0.6,
+    "reason": "Medical team races to trace a lethal virus before it detonates panic"
+  },
+  {
+    "movieId": 355,
+    "score": 0.55,
+    "reason": "Scientists investigate a mysterious orb that defies every rule"
+  }
+]

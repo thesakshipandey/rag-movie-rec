@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 229,
+    "score": 0.95,
+    "reason": "Captain returns to Earth only to fight instincts to flee when crew faces final danger"
+  },
+  {
+    "movieId": 145,
+    "score": 0.92,
+    "reason": "Custodian reluctantly joins detectives on a risky case, torn between escape and newfound purpose"
+  },
+  {
+    "movieId": 331,
+    "score": 0.9,
+    "reason": "Billionaire stuck in Alaskan resort must rely on survival skills and unlikely companions"
+  },
+  {
+    "movieId": 471,
+    "score": 0.88,
+    "reason": "Battle-scarred veteran struggles between solitude and ties to his platoon back home"
+  },
+  {
+    "movieId": 196,
+    "score": 0.85,
+    "reason": "Novice teacher in rigid school fights urge to run away when student needs her support most"
+  },
+  {
+    "movieId": 569,
+    "score": 0.83,
+    "reason": "Bank teller thrust into violent chaos must decide between flight or justice"
+  },
+  {
+    "movieId": 159,
+    "score": 0.8,
+    "reason": "Det. McClane forced out of solitary heroics into team tactics to save hostages under siege"
+  },
+  {
+    "movieId": 880,
+    "score": 0.78,
+    "reason": "Matriarch of close-knit family must lean on her children to care for her ailing father"
+  },
+  {
+    "movieId": 126,
+    "score": 0.75,
+    "reason": "Ex–politician leaps from podium to grassroots organizing, unsure but hopeful of belonging"
+  },
+  {
+    "movieId": 130,
+    "score": 0.73,
+    "reason": "Outsider barber learns community ties by stepping up when his small-town clients are threatened"
+  }
+]

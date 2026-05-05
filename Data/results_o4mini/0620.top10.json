@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 304,
+    "score": 1.0,
+    "reason": "Fly Away Home soars on a heart-opening journey of discovery and the freedom of the open sky."
+  },
+  {
+    "movieId": 664,
+    "score": 0.95,
+    "reason": "Paris, Texas captures the vast beauty and lonely wonder of a road-bound search for home."
+  },
+  {
+    "movieId": 135,
+    "score": 0.9,
+    "reason": "Walkabout wanders into awe and innocence on a transformative trek through Australia’s wilds."
+  },
+  {
+    "movieId": 140,
+    "score": 0.85,
+    "reason": "Homeward Bound: The Incredible Journey delights with a brave trek and loyal hearts across the wilderness."
+  },
+  {
+    "movieId": 210,
+    "score": 0.8,
+    "reason": "Indiana Jones and the Last Crusade ignites epic adventure on the road to the Holy Grail."
+  },
+  {
+    "movieId": 174,
+    "score": 0.75,
+    "reason": "Raiders of the Lost Ark races across exotic lands in pure, old-school treasure-hunting thrill."
+  },
+  {
+    "movieId": 141,
+    "score": 0.7,
+    "reason": "20,000 Leagues Under the Sea invites you on a breathtaking undersea odyssey of uncharted wonder."
+  },
+  {
+    "movieId": 173,
+    "score": 0.65,
+    "reason": "The Princess Bride blends quirky humor and swashbuckling adventure into an endlessly uplifting quest."
+  },
+  {
+    "movieId": 28,
+    "score": 0.6,
+    "reason": "Apollo 13 turns space travel into a gripping, heroic journey where ingenuity and hope prevail."
+  },
+  {
+    "movieId": 82,
+    "score": 0.55,
+    "reason": "Jurassic Park transports you on a wild ride of discovery, danger and the wonder of living dinosaurs."
+  }
+]

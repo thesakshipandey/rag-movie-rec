@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 6,
+    "score": 0.95,
+    "reason": "Italian mob drama in Chinese setting with English subtitles"
+  },
+  {
+    "movieId": 14,
+    "score": 0.92,
+    "reason": "Italian-language romantic drama by Massimo Troisi"
+  },
+  {
+    "movieId": 45,
+    "score": 0.9,
+    "reason": "Taiwanese family drama rich in cultural detail"
+  },
+  {
+    "movieId": 59,
+    "score": 0.88,
+    "reason": "French-language political drama by Kieslowski"
+  },
+  {
+    "movieId": 60,
+    "score": 0.85,
+    "reason": "French-language study of grief by Kieslowski"
+  },
+  {
+    "movieId": 61,
+    "score": 0.83,
+    "reason": "French-Polish co-production comedy-drama by Kieslowski"
+  },
+  {
+    "movieId": 170,
+    "score": 0.8,
+    "reason": "Italian coming-of-age documentary classic"
+  },
+  {
+    "movieId": 462,
+    "score": 0.78,
+    "reason": "Taiwanese romantic culinary drama in Mandarin"
+  },
+  {
+    "movieId": 1215,
+    "score": 0.75,
+    "reason": "Brazilian jungle fantasy with Portuguese dialogue"
+  },
+  {
+    "movieId": 282,
+    "score": 0.72,
+    "reason": "French-language court thriller with deep themes"
+  }
+]

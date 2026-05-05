@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 1.0,
+    "reason": "Seven drapes a decaying city in moral ambiguity as detectives chase a shadowy serial killer."
+  },
+  {
+    "movieId": 273,
+    "score": 0.95,
+    "reason": "Heat paints Los Angeles as a character in a gritty dance of crime, loyalty and shifting allegiances."
+  },
+  {
+    "movieId": 39,
+    "score": 0.9,
+    "reason": "Strange Days’ claustrophobic near-future L.A. breathes urban decay and moral compromise."
+  },
+  {
+    "movieId": 325,
+    "score": 0.85,
+    "reason": "Crash confronts a fractured Los Angeles where chance encounters expose moral contradictions."
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Clerks captures New Jersey’s underbelly in a character-driven slice of life amid urban grunge."
+  },
+  {
+    "movieId": 829,
+    "score": 0.75,
+    "reason": "Chungking Express turns Hong Kong’s neon streets into a melancholy, romantic urban odyssey."
+  },
+  {
+    "movieId": 772,
+    "score": 0.7,
+    "reason": "Kids immerses in raw city life and moral blur through compelling, unfiltered youth perspectives."
+  },
+  {
+    "movieId": 856,
+    "score": 0.65,
+    "reason": "Night on Earth uses cityscapes as silent characters in intimate, morally complex nocturnal tales."
+  },
+  {
+    "movieId": 475,
+    "score": 0.6,
+    "reason": "Trainspotting dives into gritty Edinburgh streets where youth navigate chaos and moral shadows."
+  },
+  {
+    "movieId": 53,
+    "score": 0.55,
+    "reason": "Natural Born Killers prowls America’s highways in a hallucinatory critique of violence and decay."
+  }
+]

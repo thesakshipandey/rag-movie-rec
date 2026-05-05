@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 142,
+    "score": 0.95,
+    "reason": "Charming indie fantasy about gardening magic with unexpected cost"
+  },
+  {
+    "movieId": 91,
+    "score": 0.9,
+    "reason": "Inventive dark fantasy musical with a poignant, melancholic edge"
+  },
+  {
+    "movieId": 625,
+    "score": 0.85,
+    "reason": "Whimsical coming-of-age magic with a quietly troubled heart"
+  },
+  {
+    "movieId": 173,
+    "score": 0.8,
+    "reason": "Cult-classic fairy-tale romp balancing whimsy and darkness"
+  },
+  {
+    "movieId": 249,
+    "score": 0.75,
+    "reason": "Offbeat spy-fantasy where humor masks real, personal sacrifice"
+  },
+  {
+    "movieId": 255,
+    "score": 0.7,
+    "reason": "Heartfelt buddy fantasy laced with underlying bittersweet cost"
+  },
+  {
+    "movieId": 432,
+    "score": 0.65,
+    "reason": "Surreal animated fantasia that hints at magic’s unsettling price"
+  },
+  {
+    "movieId": 847,
+    "score": 0.6,
+    "reason": "Doc-drama of a director chasing dream-magic with personal toll"
+  },
+  {
+    "movieId": 660,
+    "score": 0.55,
+    "reason": "Life-affirming story with quiet supernatural hints"
+  },
+  {
+    "movieId": 667,
+    "score": 0.5,
+    "reason": "Psychological fantasy exploring the blurry line of control"
+  }
+]

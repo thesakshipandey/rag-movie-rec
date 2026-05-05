@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 1.0,
+    "reason": "Epic journey through space unfolds in grand, meditative images of cosmic wonder"
+  },
+  {
+    "movieId": 432,
+    "score": 0.95,
+    "reason": "Animated symphony blends bold color and form in a hypnotic ballet of imagery"
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "Rain-soaked futurism paints a stunning portrait of cityscapes drenched in neon"
+  },
+  {
+    "movieId": 1411,
+    "score": 0.85,
+    "reason": "Outlandish sci-fi romp drenched in pop art style and kaleidoscopic colors"
+  },
+  {
+    "movieId": 206,
+    "score": 0.8,
+    "reason": "Post-apocalyptic Tokyo bursts to life in jaw-dropping, cyber-pulsing animation"
+  },
+  {
+    "movieId": 96,
+    "score": 0.75,
+    "reason": "High-octane future war scenes propelled by sleek, mind-bending special effects"
+  },
+  {
+    "movieId": 175,
+    "score": 0.7,
+    "reason": "Bureaucratic nightmare rendered in surreal, eye-popping visual invention"
+  },
+  {
+    "movieId": 113,
+    "score": 0.65,
+    "reason": "Sumptuous period epic unfolds against the breathtaking vista of French countryside"
+  },
+  {
+    "movieId": 132,
+    "score": 0.6,
+    "reason": "Vivid Technicolor fantasy whisks you into a dreamlike, glittering land of wonders"
+  },
+  {
+    "movieId": 141,
+    "score": 0.55,
+    "reason": "Undersea marvels come alive in lush, entrancing frames of oceanic spectacle"
+  }
+]

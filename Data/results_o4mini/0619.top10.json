@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 657,
+    "score": 1.0,
+    "reason": "The Manchurian Candidate immerses you in Cold War scheming, betrayals and paranoid power plays."
+  },
+  {
+    "movieId": 265,
+    "score": 0.95,
+    "reason": "Hunt for Red October builds icy tension and shifting loyalties in a high-stakes submarine standoff."
+  },
+  {
+    "movieId": 291,
+    "score": 0.9,
+    "reason": "Absolute Power exposes backroom deals and moral ambiguity at the highest levels of government."
+  },
+  {
+    "movieId": 347,
+    "score": 0.85,
+    "reason": "Wag the Dog delivers sly satire on media-politics manipulation and cynical spin tactics."
+  },
+  {
+    "movieId": 58,
+    "score": 0.8,
+    "reason": "Quiz Show exposes TV politics, hidden agendas and the subtle twists behind public perception."
+  },
+  {
+    "movieId": 52,
+    "score": 0.75,
+    "reason": "The Madness of King George shows court intrigue and a monarch’s fragile mind in a tense Regency crisis."
+  },
+  {
+    "movieId": 566,
+    "score": 0.7,
+    "reason": "Clear and Present Danger mixes CIA maneuvers and shifting allegiances in a tense international chess game."
+  },
+  {
+    "movieId": 328,
+    "score": 0.65,
+    "reason": "Conspiracy Theory thrills with paranoid hunts, hidden plots and a lone man pursued by dark forces."
+  },
+  {
+    "movieId": 31,
+    "score": 0.6,
+    "reason": "Crimson Tide traps smart commanders in a nuclear standoff where split-second decisions carry global weight."
+  },
+  {
+    "movieId": 685,
+    "score": 0.55,
+    "reason": "Executive Decision puts you inside a covert mission, intense negotiations and shifting alliances under fire."
+  }
+]

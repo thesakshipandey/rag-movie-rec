@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 1.0,
+    "reason": "A masterful twisty thriller where every clue leads to a shocking payoff."
+  },
+  {
+    "movieId": 333,
+    "score": 0.95,
+    "reason": "Spielberg’s labyrinthine mystery will keep you unraveling its secrets until the final second."
+  },
+  {
+    "movieId": 654,
+    "score": 0.9,
+    "reason": "Polanski’s decadent noir unfolds in layers of intrigue and hidden truths."
+  },
+  {
+    "movieId": 178,
+    "score": 0.85,
+    "reason": "A riveting courtroom drama that slowly peels back assumptions until clarity emerges."
+  },
+  {
+    "movieId": 89,
+    "score": 0.8,
+    "reason": "Ridley Scott's visionary noir blends futuristic spectacle with a haunting puzzle."
+  },
+  {
+    "movieId": 11,
+    "score": 0.75,
+    "reason": "A dark detective puzzle where each gruesome clue reveals a piece of the grand design."
+  },
+  {
+    "movieId": 58,
+    "score": 0.7,
+    "reason": "A retro quiz scandal drama where each answer peels back layers of political deception."
+  },
+  {
+    "movieId": 56,
+    "score": 0.65,
+    "reason": "Tarantino’s nonlinear heist caper pieces itself together in satisfying, unexpected ways."
+  },
+  {
+    "movieId": 39,
+    "score": 0.6,
+    "reason": "A high-tech conspiracy thriller that weaves fragmented visions into a coherent whole."
+  },
+  {
+    "movieId": 200,
+    "score": 0.55,
+    "reason": "A deeply unsettling psychological maze where every warning sign hints at darker depths."
+  }
+]

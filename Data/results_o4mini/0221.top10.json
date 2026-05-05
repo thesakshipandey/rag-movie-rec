@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 592,
+    "score": 0.95,
+    "reason": "Title includes 'Crime' directly"
+  },
+  {
+    "movieId": 282,
+    "score": 0.9,
+    "reason": "Title includes 'Kill', a key legal term"
+  },
+  {
+    "movieId": 310,
+    "score": 0.88,
+    "reason": "Title The Rainmaker refers to legal advocacy"
+  },
+  {
+    "movieId": 735,
+    "score": 0.85,
+    "reason": "Title Philadelphia centers on a legal drama"
+  },
+  {
+    "movieId": 317,
+    "score": 0.83,
+    "reason": "Title In the Name of the Father involves legal injustice"
+  },
+  {
+    "movieId": 122,
+    "score": 0.8,
+    "reason": "Title Trial by Jury has a direct legal term"
+  },
+  {
+    "movieId": 178,
+    "score": 0.78,
+    "reason": "Title 12 Angry Men is a classic jury-room drama"
+  },
+  {
+    "movieId": 44,
+    "score": 0.75,
+    "reason": "Title Dolores Claiborne involves a murder trial"
+  },
+  {
+    "movieId": 79,
+    "score": 0.73,
+    "reason": "Title The Fugitive follows a man accused of murder"
+  },
+  {
+    "movieId": 160,
+    "score": 0.7,
+    "reason": "Title Glengarry Glen Ross features legal conflict"
+  }
+]

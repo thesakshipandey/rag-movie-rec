@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 100,
+    "score": 0.95,
+    "reason": "Dark crime satire about a botched kidnapping in bleak Midwestern winter"
+  },
+  {
+    "movieId": 85,
+    "score": 0.9,
+    "reason": "Black comedy set at Christmas about a couple held hostage by hapless thief"
+  },
+  {
+    "movieId": 3,
+    "score": 0.88,
+    "reason": "Anthology of twisted New Year’s Eve misadventures played for dark laughs"
+  },
+  {
+    "movieId": 42,
+    "score": 0.85,
+    "reason": "Sharp-witted convenience-store comedy laced with existential despair"
+  },
+  {
+    "movieId": 53,
+    "score": 0.82,
+    "reason": "Hyper-stylized violent spree turned commentary on media sensationalism"
+  },
+  {
+    "movieId": 122,
+    "score": 0.8,
+    "reason": "Cable installer’s obsession turns into darkly comic stalker scenario"
+  },
+  {
+    "movieId": 341,
+    "score": 0.78,
+    "reason": "Gay couple documentary tackling turbulent relationship with dark humor"
+  },
+  {
+    "movieId": 158,
+    "score": 0.75,
+    "reason": "Corpse comedy as friends pretend their boss is alive to avoid blame"
+  },
+  {
+    "movieId": 131,
+    "score": 0.72,
+    "reason": "Widowed reporter’s holiday romance skewered by darkly comedic twists"
+  },
+  {
+    "movieId": 167,
+    "score": 0.7,
+    "reason": "Surreal, macabre riff on cult obsession with black-comic edge"
+  }
+]

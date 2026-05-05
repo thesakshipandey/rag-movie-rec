@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 1.0,
+    "reason": "Entirely in a jury room, tension arises from jurors' shifting opinions and arguments."
+  },
+  {
+    "movieId": 160,
+    "score": 0.95,
+    "reason": "Set mostly in a real estate office, power plays unfold through sharp, cutthroat dialogue."
+  },
+  {
+    "movieId": 515,
+    "score": 0.9,
+    "reason": "Confined submarine setting creates pressure-cooker atmosphere driven by crew interactions."
+  },
+  {
+    "movieId": 31,
+    "score": 0.87,
+    "reason": "Nuclear sub control room confines officers whose verbal sparring fuels escalating stakes."
+  },
+  {
+    "movieId": 156,
+    "score": 0.85,
+    "reason": "Warehouse hideout traps criminals in tense, twisty exchanges where loyalties are tested."
+  },
+  {
+    "movieId": 85,
+    "score": 0.83,
+    "reason": "A robber-turned-hostage taker clashes with a bickering family in their living room, all dialogue."
+  },
+  {
+    "movieId": 42,
+    "score": 0.8,
+    "reason": "Convenience store confines two clerks whose banter and conflicts drive the entire film."
+  },
+  {
+    "movieId": 505,
+    "score": 0.78,
+    "reason": "Most action unfolds in one apartment as intrigue and confrontations hinge on tight exchanges."
+  },
+  {
+    "movieId": 616,
+    "score": 0.75,
+    "reason": "Farmhouse siege keeps survivors in one room, their tense debates defining every moment."
+  },
+  {
+    "movieId": 603,
+    "score": 0.72,
+    "reason": "A photographer bound to his apartment observes and debates life beyond his window, all contained."
+  }
+]

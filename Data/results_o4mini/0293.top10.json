@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 496,
+    "score": 1.0,
+    "reason": "Heart-warming Christmas classic about finding purpose and community"
+  },
+  {
+    "movieId": 215,
+    "score": 0.95,
+    "reason": "Magical baseball fable that celebrates hope, faith and the power of dreams"
+  },
+  {
+    "movieId": 69,
+    "score": 0.9,
+    "reason": "Uplifting life saga punctuated by infectious warmth and unforgettable optimism"
+  },
+  {
+    "movieId": 8,
+    "score": 0.85,
+    "reason": "Charming family adventure that radiates gentle humor and heartfelt resilience"
+  },
+  {
+    "movieId": 15,
+    "score": 0.8,
+    "reason": "Moving teacher drama that uplifts with its celebration of music and small victories"
+  },
+  {
+    "movieId": 526,
+    "score": 0.75,
+    "reason": "Epic redemption story with grand scale and triumphant human spirit"
+  },
+  {
+    "movieId": 511,
+    "score": 0.7,
+    "reason": "Sweeping desert odyssey of courage and solidarity amid daunting odds"
+  },
+  {
+    "movieId": 393,
+    "score": 0.65,
+    "reason": "Warmhearted family comedy that reminds you love conquers all"
+  },
+  {
+    "movieId": 189,
+    "score": 0.6,
+    "reason": "Delightful stop-motion tale brimming with whimsy, offbeat humor and childlike joy"
+  },
+  {
+    "movieId": 78,
+    "score": 0.55,
+    "reason": "Touching family story of friendship and forgiveness on the open sea"
+  }
+]

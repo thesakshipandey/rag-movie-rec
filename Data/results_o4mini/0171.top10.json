@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 98,
+    "score": 0.99,
+    "reason": "Classic psychological thriller where an FBI trainee interviews a brilliant but terrifying killer"
+  },
+  {
+    "movieId": 11,
+    "score": 0.97,
+    "reason": "Dark serial killer investigation unfolds in a grim, rain-soaked city"
+  },
+  {
+    "movieId": 288,
+    "score": 0.95,
+    "reason": "Meta slasher horror that blends satire with a masked killer stalking teens"
+  },
+  {
+    "movieId": 5,
+    "score": 0.93,
+    "reason": "Serial killer expert drawn into a chilling wave of murders in San Francisco"
+  },
+  {
+    "movieId": 672,
+    "score": 0.9,
+    "reason": "Urban legend killer emerges when summoned, haunting those who speak his name"
+  },
+  {
+    "movieId": 816,
+    "score": 0.88,
+    "reason": "Sequel delves deeper into a cursed urban legend with suspenseful twists"
+  },
+  {
+    "movieId": 1477,
+    "score": 0.86,
+    "reason": "Morgue night watchman confronts a necrophilic killer in a tense cat-and-mouse game"
+  },
+  {
+    "movieId": 1157,
+    "score": 0.84,
+    "reason": "Museum juggernaut creature wreaks horror as detectives race against time"
+  },
+  {
+    "movieId": 264,
+    "score": 0.82,
+    "reason": "Genetic mutation spawns insect horrors amid a frantic police investigation"
+  },
+  {
+    "movieId": 1624,
+    "score": 0.8,
+    "reason": "Family moves to isolated home where unsettling mysteries surface after dark"
+  }
+]

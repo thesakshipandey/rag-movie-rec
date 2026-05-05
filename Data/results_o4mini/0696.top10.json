@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 76,
+    "score": 0.98,
+    "reason": "1993 investigative detective obsesses over post-prison crime"
+  },
+  {
+    "movieId": 99,
+    "score": 0.96,
+    "reason": "1995 journalist probes death row fixation in courtroom drama"
+  },
+  {
+    "movieId": 116,
+    "score": 0.94,
+    "reason": "1994 scandal-monger uncovers quiz-show crime obsession"
+  },
+  {
+    "movieId": 146,
+    "score": 0.92,
+    "reason": "1995 correspondent tracks Gonzales assassins with fixation"
+  },
+  {
+    "movieId": 505,
+    "score": 0.9,
+    "reason": "1954 noir lawyer digs into murder past with grim determination"
+  },
+  {
+    "movieId": 132,
+    "score": 0.88,
+    "reason": "1939 investigative reporter unravels spy ring with tenacity"
+  },
+  {
+    "movieId": 58,
+    "score": 0.85,
+    "reason": "1994 congressional hearings exposé fuels obsessed pursuit"
+  },
+  {
+    "movieId": 763,
+    "score": 0.82,
+    "reason": "1996 cult classic dramatist probes obsessive social experiment"
+  },
+  {
+    "movieId": 361,
+    "score": 0.8,
+    "reason": "1997 art-heist documentary unravels photographer’s fixations"
+  },
+  {
+    "movieId": 313,
+    "score": 0.78,
+    "reason": "1997 Titanic inquiry reenactment through investigative eyes"
+  }
+]

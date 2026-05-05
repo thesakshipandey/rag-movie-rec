@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 15,
+    "score": 0.98,
+    "reason": "Gentle, music-filled journey that quietly celebrates human connection and the power of art."
+  },
+  {
+    "movieId": 14,
+    "score": 0.96,
+    "reason": "Warm, poetic tale of friendship and poetry that feels like a comforting conversation at sunset."
+  },
+  {
+    "movieId": 170,
+    "score": 0.94,
+    "reason": "Nostalgic ode to cinema and community that soothes the soul with its tender, reflective beauty."
+  },
+  {
+    "movieId": 8,
+    "score": 0.92,
+    "reason": "Heartwarming farmyard fable where kindness and innocence blossom in gentle harmony."
+  },
+  {
+    "movieId": 215,
+    "score": 0.9,
+    "reason": "Soft-spoken baseball fantasy about hope, memory, and the quiet miracles of love."
+  },
+  {
+    "movieId": 45,
+    "score": 0.88,
+    "reason": "Deliciously warm family drama that nourishes the heart through simple acts of care."
+  },
+  {
+    "movieId": 1,
+    "score": 0.86,
+    "reason": "Playful, heartfelt adventure that reminds you of friendship’s simple joys and loyalty."
+  },
+  {
+    "movieId": 87,
+    "score": 0.84,
+    "reason": "Inspiring chess drama that treats intelligence and innocence with a tender, reassuring touch."
+  },
+  {
+    "movieId": 955,
+    "score": 0.82,
+    "reason": "Tender, thoughtful stroll through chance encounters that restores faith in human connection."
+  },
+  {
+    "movieId": 274,
+    "score": 0.8,
+    "reason": "Charming, understated romance that warms the heart with its shy sincerity."
+  }
+]

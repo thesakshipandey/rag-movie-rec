@@ -1,0 +1,1 @@
+{"results":{"0032":{"top10":[{"movieId":331,"score":1.0,"reason":"A billionaire and his photographer rival must team up to survive after a plane crash in the Alaskan wilderness"},{"movieId":118,"score":0.8,"reason":"Estranged storm-chasing exes face deadly tornadoes, their rivalry morphs into trust amid a life-threatening chase"}}}}}

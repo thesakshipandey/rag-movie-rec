@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 135,
+    "score": 0.95,
+    "reason": "Epic, surreal odyssey that dissolves time and reality with stunning visuals"
+  },
+  {
+    "movieId": 175,
+    "score": 0.92,
+    "reason": "Kafkaesque dystopia where logic fractures in a richly grotesque, dreamlike world"
+  },
+  {
+    "movieId": 89,
+    "score": 0.9,
+    "reason": "Blade Runner’s neon-noir future blurs memories and machines in haunting visuals"
+  },
+  {
+    "movieId": 479,
+    "score": 0.88,
+    "reason": "Vertigo’s dizzying dream–reality shifts wrapped in Hitchcockian beauty"
+  },
+  {
+    "movieId": 324,
+    "score": 0.86,
+    "reason": "Lost Highway’s nonlinear, nightmarish mood leaves you unmoored and mesmerized"
+  },
+  {
+    "movieId": 214,
+    "score": 0.84,
+    "reason": "Pink Floyd – The Wall’s abstract imagery and haunting surrealism unsettle profoundly"
+  },
+  {
+    "movieId": 200,
+    "score": 0.82,
+    "reason": "The Shining’s eerie, shifting hotel corridors erode sanity in a beautiful nightmare"
+  },
+  {
+    "movieId": 179,
+    "score": 0.8,
+    "reason": "A Clockwork Orange’s stylized brutality and warped visuals feel chillingly unreal"
+  },
+  {
+    "movieId": 432,
+    "score": 0.78,
+    "reason": "Fantasia’s hallucinatory animation turns music into strange, awe-tinged visions"
+  },
+  {
+    "movieId": 171,
+    "score": 0.75,
+    "reason": "Delicatessen’s dark, surreal comedy mixes whimsy and unease in a bizarre setting"
+  }
+]

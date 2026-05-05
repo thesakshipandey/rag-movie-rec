@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 1,
+    "score": 0.97,
+    "reason": "Warm-hearted animated adventure where friendship truly shines."
+  },
+  {
+    "movieId": 8,
+    "score": 0.94,
+    "reason": "Gentle farmyard tale brimming with charm and simple kindness."
+  },
+  {
+    "movieId": 15,
+    "score": 0.91,
+    "reason": "Heartfelt story of small victories and music’s redemptive power."
+  },
+  {
+    "movieId": 21,
+    "score": 0.88,
+    "reason": "Madcap pirate romp with lovable muppets and joyful song."
+  },
+  {
+    "movieId": 66,
+    "score": 0.85,
+    "reason": "Cozy holiday romance where strangers become family."
+  },
+  {
+    "movieId": 88,
+    "score": 0.82,
+    "reason": "Tender city love story wrapped in unexpected serendipity."
+  },
+  {
+    "movieId": 140,
+    "score": 0.79,
+    "reason": "Faithful pets embark on a soothing journey home."
+  },
+  {
+    "movieId": 417,
+    "score": 0.76,
+    "reason": "Sisters swapped and reunited in a delightfully warm caper."
+  },
+  {
+    "movieId": 622,
+    "score": 0.73,
+    "reason": "Isolated island adventure with heart and family ingenuity."
+  },
+  {
+    "movieId": 173,
+    "score": 0.7,
+    "reason": "Whimsical fairy tale of true love and comedy gold."
+  }
+]

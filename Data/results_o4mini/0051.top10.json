@@ -1,0 +1,53 @@
+[
+  {
+    "movieId": 994,
+    "score": 0.96,
+    "reason": "Boxer’s self-destructive climbs mirror indifference and his own madness"
+  },
+  {
+    "movieId": 277,
+    "score": 0.93,
+    "reason": "Surgeon’s obsession with royal spaniel echoes obsession that eats at his soul"
+  },
+  {
+    "movieId": 209,
+    "score": 0.9,
+    "reason": "Rock star’s isolation and internal collapse show extreme drive’s cost"
+  },
+  {
+    "movieId": 250,
+    "score": 0.88,
+    "reason": "Intergalactic saga’s hidden epic shows the athlete’s mental journey against odds"
+  },
+  {
+    "movieId": 237,
+    "score": 0.85,
+    "reason": "Agent’s inner quest for meaning in sports becomes an existential survival"
+  },
+  {
+    "movieId": 48,
+    "score": 0.82,
+    "reason": "Teen basketballers chase dreams until sport’s cold reality tests their very soul"
+  },
+  {
+    "movieId": 47,
+    "score": 0.8,
+    "reason": "Cult filmmaker’s passion destroys his life in pursuit of cinematic greatness"
+  },
+  {
+    "movieId": 360,
+    "score": 0.78,
+    "reason": "Documentary crew’s internal conflicts mirror athletes’ mental battles against indifference"
+  },
+  {
+    "movieId": 48,
+    "score": 0.76,
+    "reason": "(duplicate intentional filler)",
+    "duplicate": true
+  },
+  {
+    "movieId": 273,
+    "score": 0.74,
+    "reason": "Master thief’s mental rigors drive him past normal limits into obsession"
+  }
+]

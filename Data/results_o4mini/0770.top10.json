@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 178,
+    "score": 0.95,
+    "reason": "Intense jury room drama hinging on critical dialogue and suspense."
+  },
+  {
+    "movieId": 58,
+    "score": 0.9,
+    "reason": "Factual courtroom intrigue with clever legal maneuvering and payoff."
+  },
+  {
+    "movieId": 591,
+    "score": 0.88,
+    "reason": "Psychological thriller that builds tension around a murder trial."
+  },
+  {
+    "movieId": 9,
+    "score": 0.87,
+    "reason": "Powerful death-penalty drama driven by courtroom confrontations."
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "High-stakes man-hunt rooted in false conviction and legal jeopardy."
+  },
+  {
+    "movieId": 44,
+    "score": 0.82,
+    "reason": "Single-location drama exploring dark secrets under courtroom scrutiny."
+  },
+  {
+    "movieId": 136,
+    "score": 0.8,
+    "reason": "Idealistic outsider faces political forces in Senate hearing."
+  },
+  {
+    "movieId": 302,
+    "score": 0.78,
+    "reason": "Noir crime narrative with legal underpinnings and revealed truths."
+  },
+  {
+    "movieId": 5,
+    "score": 0.75,
+    "reason": "Serial-killer expert drawn into trials that test her forensics acumen."
+  },
+  {
+    "movieId": 676,
+    "score": 0.72,
+    "reason": "Historical trial examination showing power dynamics in justice."
+  }
+]

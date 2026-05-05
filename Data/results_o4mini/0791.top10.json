@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 955,
+    "score": 0.98,
+    "reason": "Minimalist road-trip dialogue and sunset-drenched nights evoke a wistful, hazy summer memory."
+  },
+  {
+    "movieId": 537,
+    "score": 0.95,
+    "reason": "Drifters on a picaresque journey, intimate exchanges, and melancholic atmosphere."
+  },
+  {
+    "movieId": 959,
+    "score": 0.92,
+    "reason": "Loose, talky ensemble on a hazy summer day full of teenage banter and nostalgia."
+  },
+  {
+    "movieId": 170,
+    "score": 0.9,
+    "reason": "Enchanting, memory-soaked vignettes of childhood and cinema ideal for aesthetic reflection."
+  },
+  {
+    "movieId": 305,
+    "score": 0.88,
+    "reason": "Quiet, melancholic family drama in a fading summer of suburban ennui."
+  },
+  {
+    "movieId": 42,
+    "score": 0.85,
+    "reason": "Everyday conversations over long shifts create a grainy, atmospheric vibe."
+  },
+  {
+    "movieId": 88,
+    "score": 0.82,
+    "reason": "Warm, talkative encounters across a wintry city feel oddly dreamlike and intimate."
+  },
+  {
+    "movieId": 202,
+    "score": 0.8,
+    "reason": "Repetitive day loops capture reflective, dreamlike atmospherics and conversational focus."
+  },
+  {
+    "movieId": 694,
+    "score": 0.78,
+    "reason": "Period intimacy and reflective conversations unfold in lush environments."
+  },
+  {
+    "movieId": 84,
+    "score": 0.75,
+    "reason": "Inventive mind-bending visuals paired with thoughtful, lingering atmosphere."
+  }
+]

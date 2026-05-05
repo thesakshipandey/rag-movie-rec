@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 200,
+    "score": 0.98,
+    "reason": "Claustrophobic hotel dread and unraveling sanity create relentless tension"
+  },
+  {
+    "movieId": 185,
+    "score": 0.96,
+    "reason": "Iconic shower scene and uncanny presences fuel pure psychological terror"
+  },
+  {
+    "movieId": 98,
+    "score": 0.94,
+    "reason": "Cat-and-mouse mind games with Hannibal Lecter ratchet up unshakeable dread"
+  },
+  {
+    "movieId": 479,
+    "score": 0.92,
+    "reason": "An unsettling dance of obsession and reality in Hitchcock’s haunting classic"
+  },
+  {
+    "movieId": 218,
+    "score": 0.9,
+    "reason": "Brooding stalker menace builds suffocating suspense of suburban terror"
+  },
+  {
+    "movieId": 603,
+    "score": 0.88,
+    "reason": "A single perspective traps you in a voyeuristic world of mounting paranoia"
+  },
+  {
+    "movieId": 11,
+    "score": 0.86,
+    "reason": "A serial killer’s sick puzzles deliver insidious suspense and moral horror"
+  },
+  {
+    "movieId": 219,
+    "score": 0.84,
+    "reason": "Cat-and-mouse thrills with supernatural dread lurking behind the lens"
+  },
+  {
+    "movieId": 7,
+    "score": 0.82,
+    "reason": "Time-hopping dread and fractured reality keep you breathless and off-balance"
+  },
+  {
+    "movieId": 691,
+    "score": 0.8,
+    "reason": "Noirish, dystopian cityscape drenched in surreal tension and eerie atmosphere"
+  }
+]

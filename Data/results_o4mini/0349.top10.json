@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 1.0,
+    "reason": "Haunting Holocaust drama that breaks your heart"
+  },
+  {
+    "movieId": 9,
+    "score": 0.93,
+    "reason": "Poignant death-row drama of grace and redemption"
+  },
+  {
+    "movieId": 529,
+    "score": 0.86,
+    "reason": "Inspirational chess portrait stirring deep emotion"
+  },
+  {
+    "movieId": 735,
+    "score": 0.79,
+    "reason": "Legal crusade for justice in the face of prejudice"
+  },
+  {
+    "movieId": 65,
+    "score": 0.72,
+    "reason": "Tender tale of family care and personal growth"
+  },
+  {
+    "movieId": 15,
+    "score": 0.65,
+    "reason": "Life-long teaching journey ripe with emotion"
+  },
+  {
+    "movieId": 170,
+    "score": 0.58,
+    "reason": "Stirring Italian childhood reverie of films and memory"
+  },
+  {
+    "movieId": 286,
+    "score": 0.51,
+    "reason": "Epic wartime romance steeped in loss and sacrifice"
+  },
+  {
+    "movieId": 287,
+    "score": 0.44,
+    "reason": "Family drama of illness and unconditional love"
+  },
+  {
+    "movieId": 51,
+    "score": 0.37,
+    "reason": "Saga of love and tragedy on the frigid frontiers"
+  }
+]

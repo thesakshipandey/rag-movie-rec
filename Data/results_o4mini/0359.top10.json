@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 86,
+    "score": 1.0,
+    "reason": "Quiet, introspective drama exploring human duty and emotion in post-war England"
+  },
+  {
+    "movieId": 509,
+    "score": 0.91,
+    "reason": "Intimate, authentic portrayal of family struggles with touching realism"
+  },
+  {
+    "movieId": 45,
+    "score": 0.82,
+    "reason": "Warm, human family drama conveyed through the joy of a shared feast"
+  },
+  {
+    "movieId": 14,
+    "score": 0.73,
+    "reason": "Tender tale of language, longing and poetic friendship on an Italian isle"
+  },
+  {
+    "movieId": 18,
+    "score": 0.64,
+    "reason": "Gentle, authentic slice-of-life story seen through a child’s eyes in Tehran"
+  },
+  {
+    "movieId": 20,
+    "score": 0.55,
+    "reason": "Understated period drama with richly drawn human relationships in Victorian England"
+  },
+  {
+    "movieId": 8,
+    "score": 0.46,
+    "reason": "Heartfelt story of a pig finding his place in the world with warm humor"
+  },
+  {
+    "movieId": 116,
+    "score": 0.37,
+    "reason": "Quirky, character-driven tale set on an eccentric English farm"
+  },
+  {
+    "movieId": 462,
+    "score": 0.28,
+    "reason": "Lyrical, family drama infused with vibrant emotion and cultural detail"
+  },
+  {
+    "movieId": 529,
+    "score": 0.19,
+    "reason": "Poignant coming-of-age journey blending humor and heart in rural England"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 98,
+    "score": 0.95,
+    "reason": "Hannibal’s chilling choice leaves you haunted long into the credits"
+  },
+  {
+    "movieId": 23,
+    "score": 0.92,
+    "reason": "Taxi driver’s spiral into moral abyss, no redemption just inescapable fallout"
+  },
+  {
+    "movieId": 7,
+    "score": 0.9,
+    "reason": "Time-jacked hero’s unstoppable fate unravels every fix he finds"
+  },
+  {
+    "movieId": 64,
+    "score": 0.88,
+    "reason": "Prison tale of irreversible choices and unrelenting consequences, no hope in sight"
+  },
+  {
+    "movieId": 79,
+    "score": 0.85,
+    "reason": "Wronged man’s ruined life plays out in a relentless fight for survival"
+  },
+  {
+    "movieId": 53,
+    "score": 0.83,
+    "reason": "Spree killer’s path to oblivion, the burden of his choice crushes all grace"
+  },
+  {
+    "movieId": 69,
+    "score": 0.8,
+    "reason": "Simple man’s journey ends in irrevocable loss, credits roll in stunned silence"
+  },
+  {
+    "movieId": 37,
+    "score": 0.78,
+    "reason": "Vampire daughter’s arrival upends all hope, tragedy seeps into every scene"
+  },
+  {
+    "movieId": 92,
+    "score": 0.75,
+    "reason": "Young couple’s doomed love triggers inescapable tragedy, no restoration offered"
+  },
+  {
+    "movieId": 44,
+    "score": 0.72,
+    "reason": "Murder suspect’s verdict echoes in every empty courtroom, redemption out of reach"
+  }
+]

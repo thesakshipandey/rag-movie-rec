@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 532,
+    "score": 0.98,
+    "reason": "A father’s obsessive hunt for his daughter’s murderer unfolds in solemn, meticulous detail."
+  },
+  {
+    "movieId": 789,
+    "score": 0.96,
+    "reason": "A journalist’s pursuit of truth in a cold case unravels haunting layers of obsession."
+  },
+  {
+    "movieId": 122,
+    "score": 0.94,
+    "reason": "A Texas Ranger’s methodical chase of elusive killers is steeped in melancholic reflection."
+  },
+  {
+    "movieId": 37,
+    "score": 0.92,
+    "reason": "A widow’s quiet inquiry into a stranger’s past becomes a solemn excavation of memory."
+  },
+  {
+    "movieId": 124,
+    "score": 0.9,
+    "reason": "A veteran lawman probes a decades-old skeleton mystery with journalistic precision."
+  },
+  {
+    "movieId": 189,
+    "score": 0.88,
+    "reason": "An aging director revisits a photo shoot’s mysteries in an elegiac, investigative lament."
+  },
+  {
+    "movieId": 64,
+    "score": 0.86,
+    "reason": "A banker’s quest for exoneration in prison reveals layered injustices over silent years."
+  },
+  {
+    "movieId": 570,
+    "score": 0.84,
+    "reason": "A barber’s unraveling alibi resurrects haunting echoes of past betrayals."
+  },
+  {
+    "movieId": 133,
+    "score": 0.82,
+    "reason": "A man’s return to justice America shines a cold light on wartime secrets and sorrow."
+  },
+  {
+    "movieId": 381,
+    "score": 0.8,
+    "reason": "A suburban mother hunts for her lost cat and uncovers quiet tragedies beneath the surface."
+  }
+]

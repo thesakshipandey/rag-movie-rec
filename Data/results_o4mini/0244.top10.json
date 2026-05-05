@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 8,
+    "score": 0.95,
+    "reason": "Title 'Babe' is only 4 characters long, fitting the very short title criterion."
+  },
+  {
+    "movieId": 11,
+    "score": 0.93,
+    "reason": "Title 'Seven' is exactly 5 characters, one of the shortest on the list."
+  },
+  {
+    "movieId": 568,
+    "score": 0.91,
+    "reason": "Title 'Speed' has 5 characters, a concise and short title."
+  },
+  {
+    "movieId": 1329,
+    "score": 0.89,
+    "reason": "Title 'Boys' is 4 characters long, matching the short title preference."
+  },
+  {
+    "movieId": 458,
+    "score": 0.87,
+    "reason": "Title 'Nixon' consists of just 5 characters, very succinct."
+  },
+  {
+    "movieId": 656,
+    "score": 0.85,
+    "reason": "Title 'M' is a single character, the shortest possible title."
+  },
+  {
+    "movieId": 38,
+    "score": 0.83,
+    "reason": "Title 'Net' is 3 characters, notably short and direct."
+  },
+  {
+    "movieId": 32,
+    "score": 0.81,
+    "reason": "Title 'Crumb' is 5 characters, meeting the brief length requirement."
+  },
+  {
+    "movieId": 1207,
+    "score": 0.79,
+    "reason": "Title 'Jade' is only 4 characters long, a very brief title."
+  },
+  {
+    "movieId": 569,
+    "score": 0.77,
+    "reason": "Title 'Wolf' is 4 characters, satisfying the short title request."
+  }
+]

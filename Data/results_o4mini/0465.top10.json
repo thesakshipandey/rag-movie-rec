@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 318,
+    "score": 0.99,
+    "reason": "Schindler’s List delivers profound, cleansing sorrow and ultimate hope in an unforgettable tear-earning journey."
+  },
+  {
+    "movieId": 170,
+    "score": 0.97,
+    "reason": "Cinema Paradiso’s bittersweet final season earns tears through its tender homage to love, loss, and memory."
+  },
+  {
+    "movieId": 51,
+    "score": 0.95,
+    "reason": "Legends of the Fall’s epic family saga carries you through deep sorrow yet leaves your heart achingly full."
+  },
+  {
+    "movieId": 59,
+    "score": 0.93,
+    "reason": "Three Colors: Red blends powerful emotion with resolution, wringing tears while guiding you to bittersweet release."
+  },
+  {
+    "movieId": 86,
+    "score": 0.91,
+    "reason": "Remains of the Day’s aching restraint builds to a profound, weeping crescendo—sorrow that heals the soul."
+  },
+  {
+    "movieId": 285,
+    "score": 0.89,
+    "reason": "Secrets & Lies unearths raw grief and reconciliation in a slow, tear-earning journey toward bittersweet healing."
+  },
+  {
+    "movieId": 46,
+    "score": 0.87,
+    "reason": "Exotica immerses you in haunting longing and sorrow that burns away cynicism, leaving a tender ember of hope."
+  },
+  {
+    "movieId": 736,
+    "score": 0.85,
+    "reason": "Shadowlands balances quiet devastation and gentle redemption with tears that blossom into healing light."
+  },
+  {
+    "movieId": 196,
+    "score": 0.83,
+    "reason": "Dead Poets Society’s final scene wrings tears while uplifting you with profound affirmation of life’s value."
+  },
+  {
+    "movieId": 69,
+    "score": 0.81,
+    "reason": "Forrest Gump’s simple, heartfelt story carries tears of sorrow and joy, lifting the spirit once the storm has passed."
+  }
+]

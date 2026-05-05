@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 310,
+    "score": 0.95,
+    "reason": "The Rainmaker shows an underdog lawyer taking on a cold-hearted insurance giant."
+  },
+  {
+    "movieId": 282,
+    "score": 0.9,
+    "reason": "A Time to Kill pits a small-town lawyer against systemic bigotry and corporate power."
+  },
+  {
+    "movieId": 43,
+    "score": 0.85,
+    "reason": "Disclosure finds a lone executive fighting sexual and corporate corruption in the boardroom."
+  },
+  {
+    "movieId": 566,
+    "score": 0.8,
+    "reason": "Clear and Present Danger follows an idealistic DOJ lawyer up against hidden government forces."
+  },
+  {
+    "movieId": 597,
+    "score": 0.75,
+    "reason": "Eraser features an honest attorney battling a corrupt corporation to uncover the truth."
+  },
+  {
+    "movieId": 436,
+    "score": 0.72,
+    "reason": "An American Werewolf in London has a lawyer detective chasing corporate-backed terror."
+  },
+  {
+    "movieId": 73,
+    "score": 0.7,
+    "reason": "Maverick’s gamble in the courtroom against a big bank feels tense and scrappy."
+  },
+  {
+    "movieId": 57,
+    "score": 0.68,
+    "reason": "Priest sees one man fighting an oppressive regime without any legal muscle on his side."
+  },
+  {
+    "movieId": 566,
+    "score": 0.65,
+    "reason": "Clear and Present Danger embodies the small-lawyer-versus-big-power conflict perfectly."
+  },
+  {
+    "movieId": 43,
+    "score": 0.6,
+    "reason": "Disclosure remains a classic for its quiet fight against overwhelming corporate might."
+  }
+]

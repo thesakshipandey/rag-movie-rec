@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 1.0,
+    "reason": "A dystopian melody of bureaucratic absurdity feels like a feverish dream."
+  },
+  {
+    "movieId": 171,
+    "score": 0.95,
+    "reason": "A claustrophobic apartment towers over surreal, darkly comic vignettes."
+  },
+  {
+    "movieId": 691,
+    "score": 0.9,
+    "reason": "A neon cityscape and warped reality blur the lines between dream and night."
+  },
+  {
+    "movieId": 91,
+    "score": 0.85,
+    "reason": "A skeleton king’s bone-chilling fantasy bursts with haunting, playful strangeness."
+  },
+  {
+    "movieId": 1386,
+    "score": 0.8,
+    "reason": "A metallic parasite and frantic editing forge a bizarre, hallucinatory ride."
+  },
+  {
+    "movieId": 420,
+    "score": 0.75,
+    "reason": "A young girl’s tumble down the rabbit hole wavers between whimsy and unease."
+  },
+  {
+    "movieId": 154,
+    "score": 0.7,
+    "reason": "A satirical Gospel of error delivers oddball humor and unsettling wit."
+  },
+  {
+    "movieId": 352,
+    "score": 0.65,
+    "reason": "Pop icons navigate wacky setpieces in a kaleidoscope of playful madness."
+  },
+  {
+    "movieId": 420,
+    "score": 0.6,
+    "reason": "A young girl’s tumble down the rabbit hole wavers between whimsy and unease."
+  },
+  {
+    "movieId": 1386,
+    "score": 0.55,
+    "reason": "A metallic parasite and frantic editing forge a bizarre, hallucinatory ride."
+  }
+]

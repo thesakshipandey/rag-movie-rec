@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 127,
+    "score": 1.0,
+    "reason": "The Corleone saga starring Marlon Brando at his peak."
+  },
+  {
+    "movieId": 182,
+    "score": 0.95,
+    "reason": "Scorsese’s gangster epic with Robert De Niro’s riveting turn."
+  },
+  {
+    "movieId": 56,
+    "score": 0.9,
+    "reason": "Tarantino’s nonlinear masterpiece with iconic ensemble."
+  },
+  {
+    "movieId": 64,
+    "score": 0.85,
+    "reason": "Tim Robbins and Morgan Freeman forge a life-affirming bond."
+  },
+  {
+    "movieId": 50,
+    "score": 0.8,
+    "reason": "Lucas’s world-building spectacle that launched a saga."
+  },
+  {
+    "movieId": 69,
+    "score": 0.75,
+    "reason": "Tom Hanks’s heartfelt odyssey through life’s ups and downs."
+  },
+  {
+    "movieId": 313,
+    "score": 0.7,
+    "reason": "Cameron’s sweeping epic romance that broke box-office records."
+  },
+  {
+    "movieId": 511,
+    "score": 0.65,
+    "reason": "Lean’s desert-to-sea epic of war and self-discovery."
+  },
+  {
+    "movieId": 210,
+    "score": 0.6,
+    "reason": "Lucas’s globe-trotting archaeologist’s ultimate adventure."
+  },
+  {
+    "movieId": 172,
+    "score": 0.55,
+    "reason": "Harrison Ford returns to a galaxy far, far away in a darker sequel."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 12,
+    "score": 0.95,
+    "reason": "The Usual Suspects’ intricate heist setup unravels into chaos in the most satisfying way."
+  },
+  {
+    "movieId": 100,
+    "score": 0.93,
+    "reason": "Fargo’s perfect-gone-wrong kidnapping plot mixes dark comedy with mounting tension."
+  },
+  {
+    "movieId": 153,
+    "score": 0.91,
+    "reason": "A Fish Called Wanda juggles a jewel heist with back-stabbing mishaps in riotous fashion."
+  },
+  {
+    "movieId": 156,
+    "score": 0.9,
+    "reason": "Reservoir Dogs turns a simple robbery into a brilliantly chaotic meltdown of egos."
+  },
+  {
+    "movieId": 129,
+    "score": 0.88,
+    "reason": "Bound’s con-perfect plans spin wildly out of control as alliances shift and betrayals bloom."
+  },
+  {
+    "movieId": 4,
+    "score": 0.87,
+    "reason": "Get Shorty’s Miami-to-Hollywood caper goes awry with hilarious, stress-charged misfires."
+  },
+  {
+    "movieId": 27,
+    "score": 0.85,
+    "reason": "Bad Boys throws two detectives into a riotous, combustible pursuit full of comic chaos."
+  },
+  {
+    "movieId": 346,
+    "score": 0.83,
+    "reason": "Jackie Brown’s smuggling plan splinters into comedic mayhem under Höhne’s cunning manipulation."
+  },
+  {
+    "movieId": 456,
+    "score": 0.82,
+    "reason": "Beverly Hills Ninja’s slapstick heist spoof keeps missteps hilariously on edge."
+  },
+  {
+    "movieId": 1067,
+    "score": 0.8,
+    "reason": "Bottle Rocket’s bungled thefts spark a chaotic, laugh-out-loud spiral of vintage caper comedy."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 251,
+    "score": 1.0,
+    "reason": "Title ends with a question mark, matching the prompt."
+  },
+  {
+    "movieId": 65,
+    "score": 0.9,
+    "reason": "Title is phrased as a direct question (What's Eating Gilbert Grape)."
+  },
+  {
+    "movieId": 216,
+    "score": 0.8,
+    "reason": "Title begins with a question word (When Harry Met Sally…)."
+  },
+  {
+    "movieId": 867,
+    "score": 0.7,
+    "reason": "Title suggests a question (Love & Death on Long Island)."
+  },
+  {
+    "movieId": 949,
+    "score": 0.6,
+    "reason": "Title poses a predicament (True Crime)."
+  },
+  {
+    "movieId": 1119,
+    "score": 0.5,
+    "reason": "Title implies a question about a lost world (Lost in Space)."
+  },
+  {
+    "movieId": 1253,
+    "score": 0.4,
+    "reason": "Title addresses a question of personal identity (Of Love and Shadows)."
+  },
+  {
+    "movieId": 1319,
+    "score": 0.3,
+    "reason": "Title references questioning iconic status (The Big Blue)."
+  },
+  {
+    "movieId": 1525,
+    "score": 0.2,
+    "reason": "Title asks the viewer to face a moral dilemma (The Specialist)."
+  },
+  {
+    "movieId": 1642,
+    "score": 0.1,
+    "reason": "Title examines maternal concern through a rhetorical question (Some Mother’s Son)."
+  }
+]

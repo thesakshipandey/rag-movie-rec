@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 42,
+    "score": 0.98,
+    "reason": "Fast-talking convenience-store charm keeps the laughs rolling."
+  },
+  {
+    "movieId": 1,
+    "score": 0.96,
+    "reason": "Bright, breezy animation perfect for a light late-night pick-me-up."
+  },
+  {
+    "movieId": 67,
+    "score": 0.94,
+    "reason": "85 minutes of eccentric animal rescue antics for zero brainpower."
+  },
+  {
+    "movieId": 72,
+    "score": 0.92,
+    "reason": "101 minutes of cartoon chaos—engaging, goofy, and never slows down."
+  },
+  {
+    "movieId": 206,
+    "score": 0.9,
+    "reason": "Slick sci-fi thrills in a lean, unpretentious anime under 100 minutes."
+  },
+  {
+    "movieId": 202,
+    "score": 0.88,
+    "reason": "An engaging loop of comedy and light existential musing."
+  },
+  {
+    "movieId": 21,
+    "score": 0.86,
+    "reason": "A swashbuckling Muppet caper that never overstays its welcome."
+  },
+  {
+    "movieId": 95,
+    "score": 0.84,
+    "reason": "Genie hijinks and heartfelt fun in under 90 minutes."
+  },
+  {
+    "movieId": 367,
+    "score": 0.82,
+    "reason": "Teen comedy with quick pacing and easy late-hour laughs."
+  },
+  {
+    "movieId": 802,
+    "score": 0.8,
+    "reason": "Non-stop sci-fi action in a compact, adrenaline-packed package."
+  }
+]

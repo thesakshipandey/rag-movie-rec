@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 203,
+    "score": 0.95,
+    "reason": "Unforgiven – brutal, ambiguous look at the cost of violence in the Old West"
+  },
+  {
+    "movieId": 97,
+    "score": 0.93,
+    "reason": "Dances with Wolves – era’s end and moral complexity on the frontier"
+  },
+  {
+    "movieId": 232,
+    "score": 0.91,
+    "reason": "Young Guns – renegade outlaws face fading Wild West in revisionist pulse"
+  },
+  {
+    "movieId": 470,
+    "score": 0.89,
+    "reason": "Tombstone – legendary lawmen wrestle with honor and horror of violence"
+  },
+  {
+    "movieId": 570,
+    "score": 0.87,
+    "reason": "Wyatt Earp – haunted marshal navigates shifting moral ground at century’s turn"
+  },
+  {
+    "movieId": 124,
+    "score": 0.85,
+    "reason": "Lone Star – Texan border mystery blurs law and legacy in contemplative style"
+  },
+  {
+    "movieId": 17,
+    "score": 0.82,
+    "reason": "From Dusk Till Dawn – crime meets vampire chaos, questioning survival codes"
+  },
+  {
+    "movieId": 161,
+    "score": 0.8,
+    "reason": "Top Gun – aerial duels probe courage and cost in military twilight"
+  },
+  {
+    "movieId": 203,
+    "score": 0.78,
+    "reason": "Open Range – cattle drive and gunfight confront personal and social violence"
+  },
+  {
+    "movieId": 470,
+    "score": 0.75,
+    "reason": "Silverado – ensemble revisits Western grit beyond simple heroism"
+  }
+]

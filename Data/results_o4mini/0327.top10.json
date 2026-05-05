@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 209,
+    "score": 1.0,
+    "reason": "Iconic mockumentary delivering smart, cringe-filled humor in single-camera style"
+  },
+  {
+    "movieId": 1007,
+    "score": 0.95,
+    "reason": "Sharp mock-documentary comedy about theatre folk, with absurd situations and deadpan cringe"
+  },
+  {
+    "movieId": 425,
+    "score": 0.9,
+    "reason": "Satirical political comedy in documentary format, blending witty dialogue and awkward humor"
+  },
+  {
+    "movieId": 42,
+    "score": 0.85,
+    "reason": "Cult classic indie comedy about hapless convenience store clerks, loaded with cringe and smart banter"
+  },
+  {
+    "movieId": 202,
+    "score": 0.8,
+    "reason": "Heartfelt time-loop comedy blending witty dialogue with awkwardly funny scenarios"
+  },
+  {
+    "movieId": 90,
+    "score": 0.75,
+    "reason": "Quirky single-camera comedy mixing offbeat humor with fish-out-of-water romance"
+  },
+  {
+    "movieId": 781,
+    "score": 0.7,
+    "reason": "Offbeat fantasy comedy with a single-camera approach and darkly humorous cringe moments"
+  },
+  {
+    "movieId": 1074,
+    "score": 0.65,
+    "reason": "Gen X comedy capturing awkward friendships and sharp, cringe-inducing humor"
+  },
+  {
+    "movieId": 248,
+    "score": 0.6,
+    "reason": "Darkly comedic crime thriller with sharp wit and awkward moments in a single-camera style"
+  },
+  {
+    "movieId": 154,
+    "score": 0.55,
+    "reason": "Satirical comedy skewering organized religion with sharp, cringe-worthy mockumentary flair"
+  }
+]

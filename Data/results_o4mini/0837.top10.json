@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 11,
+    "score": 0.95,
+    "reason": "Two detectives methodically hunt a serial killer, every clue dissected in chilling, snow-white precision."
+  },
+  {
+    "movieId": 5,
+    "score": 0.92,
+    "reason": "A forensic psychologist obsessively rebuilds a serial killer’s mind, her rational calm hiding mounting dread."
+  },
+  {
+    "movieId": 200,
+    "score": 0.9,
+    "reason": "A hotel caretaker’s silent evidence gathering leads to an obsessive unraveling of the Overlook’s darkest secrets."
+  },
+  {
+    "movieId": 38,
+    "score": 0.88,
+    "reason": "A coder’s erased identity sparks a precise manhunt, every digital trace parsed in a tech-cold cat-and-mouse."
+  },
+  {
+    "movieId": 12,
+    "score": 0.85,
+    "reason": "An intricate lineup unspools a labyrinth of lies as an agoraphobic investigator traces every polished alibi."
+  },
+  {
+    "movieId": 114,
+    "score": 0.83,
+    "reason": "A ’50s detective reopens an archive-cold homicide, each bureaucratic footnote pulled apart in measured detail."
+  },
+  {
+    "movieId": 124,
+    "score": 0.8,
+    "reason": "A lone sheriff excavates old bones, his quiet, relentless work exposing a buried conspiracy."
+  },
+  {
+    "movieId": 853,
+    "score": 0.78,
+    "reason": "A rookie detective follows forensic traces through New York’s underbelly, each tiny clue sharpened like a blade."
+  },
+  {
+    "movieId": 318,
+    "score": 0.75,
+    "reason": "A documentarian’s meticulous interviews piece together a child-slaying case, every memory cross-examined."
+  },
+  {
+    "movieId": 351,
+    "score": 0.72,
+    "reason": "A fallen FBI profiler tracks a copycat killer, the quietest steps concealing the greatest terrors."
+  }
+]

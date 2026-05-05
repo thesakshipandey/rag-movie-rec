@@ -1,0 +1,11 @@
+movieId,score,reason
+135,1.0,Title contains the numeral 2001 in '2001: A Space Odyssey'.
+141,0.95,"Title features the numeric count '20,000' in '20,000 Leagues Under the Sea'."
+178,0.9,Title begins with the numeral '12' in '12 Angry Men'.
+314,0.88,Title starts with the digit '3' in '3 Ninjas: High Noon At Mega Mountain'.
+138,0.87,Title includes '3' as 'D3' in 'D3: The Mighty Ducks'.
+11,0.85,"Title stylizes 'Seven' as 'Se7en', embedding the digit 7."
+226,0.83,"Title uses '2' in 'Die Hard 2', indicating a sequel."
+96,0.82,Title uses the digit '2' in 'Terminator 2: Judgment Day'.
+35,0.8,Title includes the numeral '2' in 'Free Willy 2: The Adventure Home'.
+103,0.78,Title features the digit '2' in 'All Dogs Go to Heaven 2'.

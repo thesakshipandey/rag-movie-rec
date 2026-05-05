@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 175,
+    "score": 0.98,
+    "reason": "Darkly satirical dystopia probes absurdity with haunting surreal beauty"
+  },
+  {
+    "movieId": 650,
+    "score": 0.95,
+    "reason": "Existential chess with Death unfolds in starkly beautiful medieval landscapes"
+  },
+  {
+    "movieId": 512,
+    "score": 0.93,
+    "reason": "Poetic angels observe human longings in exquisitely dreamy black-and-white"
+  },
+  {
+    "movieId": 537,
+    "score": 0.91,
+    "reason": "Drifting journey through lost souls feels detached and starkly lyrical"
+  },
+  {
+    "movieId": 641,
+    "score": 0.88,
+    "reason": "Bleak wartime courtroom drama confronts human absurdity with austere grace"
+  },
+  {
+    "movieId": 960,
+    "score": 0.86,
+    "reason": "Unclothed truth about vulnerability and society's striptease in stark realism"
+  },
+  {
+    "movieId": 589,
+    "score": 0.83,
+    "reason": "Grizzled outlaws face moral ambiguity amid merciless landscapes"
+  },
+  {
+    "movieId": 179,
+    "score": 0.8,
+    "reason": "Ultraviolent future Britain questions free will in chilling absurdity"
+  },
+  {
+    "movieId": 89,
+    "score": 0.77,
+    "reason": "Rain-slicked neon cityscape questions identity in moody existential noir"
+  },
+  {
+    "movieId": 135,
+    "score": 0.75,
+    "reason": "Iconic cosmic odyssey stares into the void with majestic, unsettling beauty"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "movieId": 304,
+    "score": 0.95,
+    "reason": "Touching true story of a girl raising orphaned geese in nature"
+  },
+  {
+    "movieId": 634,
+    "score": 0.93,
+    "reason": "Incredible close‐up of insect life showcasing natureʼs detail"
+  },
+  {
+    "movieId": 119,
+    "score": 0.91,
+    "reason": "Insightful look at the making of a landmark public memorial"
+  },
+  {
+    "movieId": 320,
+    "score": 0.89,
+    "reason": "Powerful true‐crime documentary on a notorious murder case"
+  },
+  {
+    "movieId": 75,
+    "score": 0.87,
+    "reason": "Compelling biographical review of Malcolm Xʼs life and impact"
+  },
+  {
+    "movieId": 644,
+    "score": 0.85,
+    "reason": "Exposes flaws in the justice system through a landmark case"
+  },
+  {
+    "movieId": 645,
+    "score": 0.83,
+    "reason": "Celebrates the vibrant history of NYCʼs drag ball culture"
+  },
+  {
+    "movieId": 701,
+    "score": 0.81,
+    "reason": "Deep dive into the controversial life of a famous filmmaker"
+  },
+  {
+    "movieId": 814,
+    "score": 0.79,
+    "reason": "Captures an iconic moment in jazz history and culture"
+  },
+  {
+    "movieId": 857,
+    "score": 0.77,
+    "reason": "Profiles pioneering female artists who shaped Paris"
+  }
+]
