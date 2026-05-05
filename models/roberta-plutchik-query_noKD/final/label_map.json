@@ -1,0 +1,22 @@
+{
+  "id2label": {
+    "0": "Joy",
+    "1": "Trust",
+    "2": "Fear",
+    "3": "Anticipation",
+    "4": "Sadness",
+    "5": "Anger",
+    "6": "Surprise",
+    "7": "Disgust"
+  },
+  "label2id": {
+    "Joy": 0,
+    "Trust": 1,
+    "Fear": 2,
+    "Anticipation": 3,
+    "Sadness": 4,
+    "Anger": 5,
+    "Surprise": 6,
+    "Disgust": 7
+  }
+}

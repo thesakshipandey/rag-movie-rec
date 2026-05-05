@@ -29,6 +29,10 @@ artifacts/*
 *.ckpt
 *.onnx
 
+# Explicitly keep published model bundles in Git LFS.
+!models/
+!models/**
+
 # Parquet/feather caches
 *.parquet
 *.feather
