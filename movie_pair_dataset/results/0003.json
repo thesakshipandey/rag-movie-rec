@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0003",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 270,
+      "movie1_title": "Gattaca (1997)",
+      "movie2_id": 89,
+      "movie2_title": "Blade Runner (1982)",
+      "winner": 270,
+      "reasoning": "Gattaca zeroes in on genetics-created social and personal moral dilemmas, while Blade Runner explores similar ethics in a broader noir framework, so Gattaca edges out slightly."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 1240,
+      "movie1_title": "Ghost in the Shell (1995)",
+      "movie2_id": 135,
+      "movie2_title": "2001: A Space Odyssey (1968)",
+      "winner": 1240,
+      "reasoning": "Ghost in the Shell's cybernetic identity and tech-driven moral questions align more directly with the prompt than 2001's vast, philosophical cosmic inquiry."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 7,
+      "movie1_title": "Twelve Monkeys (1995)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 7,
+      "reasoning": "Twelve Monkeys' grim, time-travel consequences deliver heavier moral stakes, whereas Groundhog Day uses a lighter comedic loop to explore personal change, so the darker tone better serves the prompt."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 39,
+      "movie1_title": "Strange Days (1995)",
+      "movie2_id": 175,
+      "movie2_title": "Brazil (1985)",
+      "winner": 39,
+      "reasoning": "Strange Days literally dramatizes memory-recording tech wrecking lives, while Brazil is a broader bureaucratic-tech allegory; the literal, exact match is stronger here."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 825,
+      "movie1_title": "Arrival (1996)",
+      "movie2_id": 797,
+      "movie2_title": "Timecop (1994)",
+      "winner": 825,
+      "reasoning": "Arrival thoughtfully examines how new communication/tech reshapes human choices and ethics, clearly outmatching Timecop's routine action-oriented time-travel."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 691,
+      "movie1_title": "Dark City (1998)",
+      "movie2_id": 64,
+      "movie2_title": "Shawshank Redemption, The (1994)",
+      "winner": 691,
+      "reasoning": "Dark City's memory-manipulating invention fits the prompt's tech-caused moral paradox far better than Shawshank, so relevance should override a beloved history favorite."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 1127,
+      "movie1_title": "Truman Show, The (1998)",
+      "movie2_id": 121,
+      "movie2_title": "Independence Day (1996)",
+      "winner": 1127,
+      "reasoning": "The Truman Show is explicitly about a life engineered by technology and the moral fallout, making it an obvious perfect match versus Independence Day's blockbuster alien-invasion focus."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 100,
+      "movie1_title": "Fargo (1996)",
+      "movie2_id": 254,
+      "movie2_title": "Batman & Robin (1997)",
+      "winner": 100,
+      "reasoning": "Fargo is a critically acclaimed masterpiece, while Batman & Robin is a well-known critical flop—Fargo is the clear winner."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 145,
+      "movie1_title": "Lawnmower Man, The (1992)",
+      "movie2_id": 271,
+      "movie2_title": "Starship Troopers (1997)",
+      "winner": 145,
+      "reasoning": "The Lawnmower Man specifically traces VR/tech's personal moral costs, whereas Starship Troopers relies more on broad genre tropes, so the specific match wins."
+    }
+  ]
+}

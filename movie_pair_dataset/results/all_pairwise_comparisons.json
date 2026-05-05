@@ -1,0 +1,830 @@
+{
+  "0002": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 178,
+      "movie1_title": "12 Angry Men (1957)",
+      "movie2_id": 603,
+      "movie2_title": "Rear Window (1954)",
+      "winner": 178,
+      "reasoning": "12 Angry Men is the archetype: a small group trapped in one room solving one huge problem by discussion, while Rear Window is a solitary-observer mystery."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 1651,
+      "movie1_title": "The Spanish Prisoner (1997)",
+      "movie2_id": 64,
+      "movie2_title": "Shawshank Redemption, The (1994)",
+      "winner": 1651,
+      "reasoning": "The Spanish Prisoner's tight, puzzle-driven premise maps to your request better than Shawshank, which is a superior but broader, longer drama."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 156,
+      "movie1_title": "Reservoir Dogs (1992)",
+      "movie2_id": 85,
+      "movie2_title": "Ref, The (1994)",
+      "winner": 85,
+      "reasoning": "Reservoir Dogs is dark and violent; The Ref offers a lighter, talky hostage-comedy vibe that better fits a non-horror, conversational puzzle night."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 505,
+      "movie1_title": "Dial M for Murder (1954)",
+      "movie2_id": 333,
+      "movie2_title": "Game, The (1997)",
+      "winner": 333,
+      "reasoning": "Dial M literally confines drama to an apartment and a single plot, but The Game captures the deeper, psychological puzzle theme the user hinted at."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 12,
+      "movie1_title": "Usual Suspects, The (1995)",
+      "movie2_id": 144,
+      "movie2_title": "Die Hard (1988)",
+      "winner": 12,
+      "reasoning": "The Usual Suspects is a compact, clever ensemble puzzle; Die Hard is great but is action-oriented rather than a quiet problem-solving piece."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 42,
+      "movie2_title": "Clerks (1994)",
+      "winner": 955,
+      "reasoning": "Before Sunrise's intimate, talk-driven encounter mirrors the user's desire for people working a problem through conversation over Clerks' cult appeal."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 28,
+      "movie1_title": "Apollo 13 (1995)",
+      "movie2_id": 945,
+      "movie2_title": "Charade (1963)",
+      "winner": 28,
+      "reasoning": "Apollo 13 is a near-perfect fit: a small crew confined to a craft solving one life-or-death technical problem; Charade is charming but less single-location."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 481,
+      "movie1_title": "Apartment, The (1960)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 481,
+      "reasoning": "The Apartment is a widely respected classic with lasting craft; Babe (in this dataset) is a low-rated family title and an obvious weaker pick."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 1109,
+      "movie1_title": "Death and the Maiden (1994)",
+      "movie2_id": 31,
+      "movie2_title": "Crimson Tide (1995)",
+      "winner": 1109,
+      "reasoning": "Death and the Maiden specifically matches the 'few people in one place resolving a charged dilemma' concept, whereas Crimson Tide is a more conventional military standoff."
+    }
+  ],
+  "0003": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 270,
+      "movie1_title": "Gattaca (1997)",
+      "movie2_id": 89,
+      "movie2_title": "Blade Runner (1982)",
+      "winner": 270,
+      "reasoning": "Gattaca zeroes in on genetics-created social and personal moral dilemmas, while Blade Runner explores similar ethics in a broader noir framework, so Gattaca edges out slightly."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 1240,
+      "movie1_title": "Ghost in the Shell (1995)",
+      "movie2_id": 135,
+      "movie2_title": "2001: A Space Odyssey (1968)",
+      "winner": 1240,
+      "reasoning": "Ghost in the Shell's cybernetic identity and tech-driven moral questions align more directly with the prompt than 2001's vast, philosophical cosmic inquiry."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 7,
+      "movie1_title": "Twelve Monkeys (1995)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 7,
+      "reasoning": "Twelve Monkeys' grim, time-travel consequences deliver heavier moral stakes, whereas Groundhog Day uses a lighter comedic loop to explore personal change, so the darker tone better serves the prompt."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 39,
+      "movie1_title": "Strange Days (1995)",
+      "movie2_id": 175,
+      "movie2_title": "Brazil (1985)",
+      "winner": 39,
+      "reasoning": "Strange Days literally dramatizes memory-recording tech wrecking lives, while Brazil is a broader bureaucratic-tech allegory; the literal, exact match is stronger here."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 825,
+      "movie1_title": "Arrival (1996)",
+      "movie2_id": 797,
+      "movie2_title": "Timecop (1994)",
+      "winner": 825,
+      "reasoning": "Arrival thoughtfully examines how new communication/tech reshapes human choices and ethics, clearly outmatching Timecop's routine action-oriented time-travel."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 691,
+      "movie1_title": "Dark City (1998)",
+      "movie2_id": 64,
+      "movie2_title": "Shawshank Redemption, The (1994)",
+      "winner": 691,
+      "reasoning": "Dark City's memory-manipulating invention fits the prompt's tech-caused moral paradox far better than Shawshank, so relevance should override a beloved history favorite."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 1127,
+      "movie1_title": "Truman Show, The (1998)",
+      "movie2_id": 121,
+      "movie2_title": "Independence Day (1996)",
+      "winner": 1127,
+      "reasoning": "The Truman Show is explicitly about a life engineered by technology and the moral fallout, making it an obvious perfect match versus Independence Day's blockbuster alien-invasion focus."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 100,
+      "movie1_title": "Fargo (1996)",
+      "movie2_id": 254,
+      "movie2_title": "Batman & Robin (1997)",
+      "winner": 100,
+      "reasoning": "Fargo is a critically acclaimed masterpiece, while Batman & Robin is a well-known critical flop—Fargo is the clear winner."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 145,
+      "movie1_title": "Lawnmower Man, The (1992)",
+      "movie2_id": 271,
+      "movie2_title": "Starship Troopers (1997)",
+      "winner": 145,
+      "reasoning": "The Lawnmower Man specifically traces VR/tech's personal moral costs, whereas Starship Troopers relies more on broad genre tropes, so the specific match wins."
+    }
+  ],
+  "0004": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 1129,
+      "movie2_title": "Chungking Express (1994)",
+      "winner": 955,
+      "reasoning": "Before Sunrise zeroes in on two strangers' ephemeral, near-perfect bond of glances and unsaid things, matching the prompt's intimate, watercolor quiet more closely than the vignette style."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 14,
+      "movie1_title": "Postino, Il (1994)",
+      "movie2_id": 170,
+      "movie2_title": "Cinema Paradiso (1988)",
+      "winner": 14,
+      "reasoning": "Postino's small-island tenderness and poetic silences align directly with the prompt's lingering, restrained longing, even though Cinema Paradiso is a towering favorite."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 664,
+      "movie1_title": "Paris, Texas (1984)",
+      "movie2_id": 1121,
+      "movie2_title": "Umbrellas of Cherbourg (1964)",
+      "winner": 664,
+      "reasoning": "The prompt asks for hushed, lingering melancholy — Paris, Texas's spare, brooding tone serves that mood better than the stylized, colorful musicality of Umbrellas."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 966,
+      "movie1_title": "Affair to Remember, An (1957)",
+      "movie2_id": 1005,
+      "movie2_title": "Double Life of Veronique, The (1991)",
+      "winner": 1005,
+      "reasoning": "While Affair to Remember literally dramatizes a missed rendezvous, Veronique's poetic doubleness captures the prompt's deeper, metaphorical sense of quiet longing."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 371,
+      "movie1_title": "Bridges of Madison County, The (1995)",
+      "movie2_id": 1009,
+      "movie2_title": "Stealing Beauty (1996)",
+      "winner": 371,
+      "reasoning": "Bridges delivers a more fully realized, emotionally resonant slow-burning encounter, making it the clearer better choice over the gentler, more uneven Stealing Beauty."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 86,
+      "movie1_title": "Remains of the Day, The (1993)",
+      "movie2_id": 512,
+      "movie2_title": "Wings of Desire (1987)",
+      "winner": 86,
+      "reasoning": "Remains of the Day's austere, unspoken yearning maps directly onto the user's brief, outweighing Wings of Desire's iconic status despite its beauty."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 582,
+      "movie1_title": "Piano, The (1993)",
+      "movie2_id": 462,
+      "movie2_title": "Like Water For Chocolate (1992)",
+      "winner": 582,
+      "reasoning": "The Piano's visual lyricism, restrained emotion and charged silences are a near-perfect match; Like Water for Chocolate is richer in magical-family drama than the requested two-person hush."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 64,
+      "movie1_title": "Shawshank Redemption, The (1994)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 64,
+      "reasoning": "The Shawshank Redemption is a widely acclaimed masterpiece, an indisputable pick over Babe which is rated poorly in this dataset."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 1430,
+      "movie1_title": "Sliding Doors (1998)",
+      "movie2_id": 207,
+      "movie2_title": "Cyrano de Bergerac (1990)",
+      "winner": 1430,
+      "reasoning": "Sliding Doors embodies the prompt's exact detail of mistimed meetings and the quiet sting of what might have been, while Cyrano leans toward a more classical romantic trope."
+    }
+  ],
+  "0005": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 168,
+      "movie1_title": "Monty Python and the Holy Grail (1974)",
+      "movie2_id": 663,
+      "movie2_title": "Being There (1979)",
+      "winner": 168,
+      "reasoning": "Monty Python directly lampoons the hero quest and its incompetence, while Being There is a subtler impostor satire."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 530,
+      "movie1_title": "The Man Who Would Be King (1975)",
+      "movie2_id": 134,
+      "movie2_title": "Citizen Kane (1941)",
+      "winner": 530,
+      "reasoning": "The Man Who Would Be King’s conman-as-hero setup matches the user's brief better than Citizen Kane's superior artistry."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 12,
+      "movie1_title": "The Usual Suspects (1995)",
+      "movie2_id": 902,
+      "movie2_title": "The Big Lebowski (1998)",
+      "winner": 902,
+      "reasoning": "The Big Lebowski’s light, comic tone better serves a playful subversion of hero myths than the Usual Suspects’ dark thriller mood."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 395,
+      "movie1_title": "Robin Hood: Men in Tights (1993)",
+      "movie2_id": 652,
+      "movie2_title": "Rosencrantz and Guildenstern Are Dead (1990)",
+      "winner": 652,
+      "reasoning": "Robin Hood: Men in Tights is a literal spoof of hero myths, but Rosencrantz offers a sharper thematic inversion from the sidekick POV."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 173,
+      "movie1_title": "The Princess Bride (1987)",
+      "movie2_id": 790,
+      "movie2_title": "Tommy Boy (1995)",
+      "winner": 173,
+      "reasoning": "The Princess Bride is a polished, witty subversion of adventure tropes and clearly outclasses the broader slapstick of Tommy Boy."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 69,
+      "movie1_title": "Forrest Gump (1994)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 69,
+      "reasoning": "Forrest Gump’s accidental/unsuspecting-hero angle is more on-point for this prompt than Schindler's List, which is an important historical drama."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 1,
+      "movie1_title": "Toy Story (1995)",
+      "movie2_id": 50,
+      "movie2_title": "Star Wars (1977)",
+      "winner": 1,
+      "reasoning": "Toy Story specifically flips the false-hero idea with Buzz as the deluded 'hero', while Star Wars embraces the classic chosen-one arc."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 64,
+      "movie1_title": "The Shawshank Redemption (1994)",
+      "movie2_id": 266,
+      "movie2_title": "Kull the Conqueror (1997)",
+      "winner": 64,
+      "reasoning": "Shawshank is a widely acclaimed masterpiece, whereas Kull the Conqueror is a critical flop, so Shawshank wins clearly."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 338,
+      "movie1_title": "Bean (1997)",
+      "movie2_id": 174,
+      "movie2_title": "Raiders of the Lost Ark (1981)",
+      "winner": 338,
+      "reasoning": "Bean’s central incompetent protagonist matches the user's request exactly, while Raiders is a classic heroic adventure trope."
+    }
+  ],
+  "0006": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 14,
+      "movie1_title": "Postino, Il (1994)",
+      "movie2_id": 753,
+      "movie2_title": "Burnt By the Sun (1994)",
+      "winner": 14,
+      "reasoning": "Postino centers an ordinary postman's life disrupted by exile and politics, while Burnt By the Sun examines a family's suffering under Stalinist purges."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 269,
+      "movie1_title": "Full Monty, The (1997)",
+      "movie2_id": 1248,
+      "movie2_title": "Germinal (1993)",
+      "winner": 269,
+      "reasoning": "Full Monty directly shows how economic collapse derails ordinary lives, so relevance to the prompt outweighs Germinal's broader labor-class epic."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 528,
+      "movie1_title": "Killing Fields, The (1984)",
+      "movie2_id": 1511,
+      "movie2_title": "Children of the Revolution (1996)",
+      "winner": 528,
+      "reasoning": "Killing Fields' grim, uncompromising tone more powerfully depicts political violence wrecking lives than the satirical, lighter touch of Children of the Revolution."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 1062,
+      "movie1_title": "Four Days in September (1997)",
+      "movie2_id": 1193,
+      "movie2_title": "Before the Rain (Pred dozhdot) (1994)",
+      "winner": 1062,
+      "reasoning": "Four Days in September is a literal dramatization of a specific political event affecting ordinary participants, while Before the Rain treats political collapse more thematically."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 1501,
+      "movie1_title": "Prisoner of the Mountains (1996)",
+      "movie2_id": 1655,
+      "movie2_title": "Daens (1992)",
+      "winner": 1501,
+      "reasoning": "Prisoner of the Mountains gives an intimate, ground-level view of wartime disruption for regular people, making it the clearer pick over Daens."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 521,
+      "movie1_title": "Deer Hunter, The (1978)",
+      "movie2_id": 242,
+      "movie2_title": "Kolya (1996)",
+      "winner": 521,
+      "reasoning": "The Deer Hunter directly shows how war shatters ordinary lives and fits the prompt better than Kolya's tender personal story, so relevance wins."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 935,
+      "movie1_title": "Paradise Road (1997)",
+      "movie2_id": 750,
+      "movie2_title": "Amistad (1997)",
+      "winner": 935,
+      "reasoning": "Paradise Road is a perfect match—ordinary women upended by WWII internment—whereas Amistad, though historical, centers a courtroom revolt rather than peripheral lives."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 1632,
+      "movie1_title": "Land and Freedom (Tierra y libertad) (1995)",
+      "movie2_id": 1529,
+      "movie2_title": "Underground (1995)",
+      "winner": 1632,
+      "reasoning": "Land and Freedom is a nuanced, critically acclaimed portrayal of volunteers and civilians in the Spanish Civil War, the stronger fit for this taste."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 1482,
+      "movie1_title": "Gate of Heavenly Peace, The (1995)",
+      "movie2_id": 1642,
+      "movie2_title": "Some Mother's Son (1996)",
+      "winner": 1482,
+      "reasoning": "The Gate of Heavenly Peace specifically documents ordinary people during Tiananmen, while Some Mother's Son fits a more general protest/hunger-strike trope."
+    }
+  ],
+  "0007": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 632,
+      "movie1_title": "Sophie's Choice (1982)",
+      "movie2_id": 9,
+      "movie2_title": "Dead Man Walking (1995)",
+      "winner": 632,
+      "reasoning": "Sophie's Choice centers on a single impossible 'good vs. good' decision that drives the entire plot, while Dead Man Walking examines morality around capital punishment."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 178,
+      "movie1_title": "12 Angry Men (1957)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 178,
+      "reasoning": "12 Angry Men is directly about a tough moral decision and its consequences, which is more relevant to the paper than Schindler's broader historical moral heroism."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 641,
+      "movie1_title": "Paths of Glory (1957)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 641,
+      "reasoning": "Paths of Glory's dark, uncompromising tone foregrounds tragic moral dilemmas better than Groundhog Day's lighter, redemptive comedy."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 661,
+      "movie1_title": "High Noon (1952)",
+      "movie2_id": 427,
+      "movie2_title": "To Kill a Mockingbird (1962)",
+      "winner": 661,
+      "reasoning": "High Noon's plot hinges on one literal choice to stand and face evil, whereas To Kill a Mockingbird explores the theme of moral courage more broadly."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 199,
+      "movie1_title": "Bridge on the River Kwai, The (1957)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 199,
+      "reasoning": "Bridge on the River Kwai presents a nuanced duty-versus-sabotage dilemma executed at high quality, while The Last Supper is a weaker, more peripheral match."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 64,
+      "movie1_title": "Shawshank Redemption, The (1994)",
+      "movie2_id": 527,
+      "movie2_title": "Gandhi (1982)",
+      "winner": 64,
+      "reasoning": "Shawshank's central moral choices and character consequences are more directly useful for an ethics paper than Gandhi's sprawling historical biography."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 939,
+      "movie1_title": "Murder in the First (1995)",
+      "movie2_id": 98,
+      "movie2_title": "Silence of the Lambs, The (1991)",
+      "winner": 939,
+      "reasoning": "Murder in the First revolves on a single legal/ethical battle about cruel treatment, while Silence of the Lambs is a thriller where the main moral choice is not the plot's hinge."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 86,
+      "movie1_title": "Remains of the Day, The (1993)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 86,
+      "reasoning": "Remains of the Day is a critically acclaimed study of moral complicity, while Babe (per the dataset) is a poor fit and lower rated."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 196,
+      "movie1_title": "Dead Poets Society (1989)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 196,
+      "reasoning": "Dead Poets Society offers a specific, earned moral conflict about duty to self vs. institution, whereas Fargo leans on crime-trope setups rather than a single 'good vs. good' dilemma."
+    }
+  ],
+  "0008": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 173,
+      "movie1_title": "Princess Bride, The (1987)",
+      "movie2_id": 132,
+      "movie2_title": "Wizard of Oz, The (1939)",
+      "winner": 173,
+      "reasoning": "The Princess Bride is a quest with a mismatched ensemble whose relationships and growth carry the story slightly more than Oz's single-hero arc."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 168,
+      "movie1_title": "Monty Python and the Holy Grail (1975)",
+      "movie2_id": 520,
+      "movie2_title": "Great Escape, The (1963)",
+      "winner": 168,
+      "reasoning": "Monty Python's troupe-driven quest better matches the user's desire for group misfits bonding on a journey, despite The Great Escape's higher craft."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 241,
+      "movie1_title": "Last of the Mohicans, The (1992)",
+      "movie2_id": 21,
+      "movie2_title": "Muppet Treasure Island (1996)",
+      "winner": 21,
+      "reasoning": "For a bonds-first quest, Muppet Treasure Island's light, relationship-forward tone better serves the user's wish for warm ensemble growth."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 495,
+      "movie1_title": "Around the World in 80 Days (1956)",
+      "movie2_id": 97,
+      "movie2_title": "Dances with Wolves (1990)",
+      "winner": 97,
+      "reasoning": "While Around the World is the literal quest, Dances with Wolves better matches the deeper theme of transformation through relationships on a journey."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 210,
+      "movie1_title": "Indiana Jones and the Last Crusade (1989)",
+      "movie2_id": 627,
+      "movie2_title": "Robin Hood: Prince of Thieves (1991)",
+      "winner": 210,
+      "reasoning": "Last Crusade balances old-school adventure and growing relationships with sharper execution than the more middling Robin Hood."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 174,
+      "movie1_title": "Raiders of the Lost Ark (1981)",
+      "movie2_id": 511,
+      "movie2_title": "Lawrence of Arabia (1962)",
+      "winner": 174,
+      "reasoning": "Raiders' pulpy, relationship-light quest is more directly what the user asked for than Lawrence's expansive historical epic."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 510,
+      "movie1_title": "Magnificent Seven, The (1954)",
+      "movie2_id": 435,
+      "movie2_title": "Butch Cassidy and the Sundance Kid (1969)",
+      "winner": 510,
+      "reasoning": "The Magnificent Seven is an ensemble, mismatched team on a clear mission whose bonds drive the story, while Butch Cassidy is a buddy caper with different stakes."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 498,
+      "movie1_title": "African Queen, The (1951)",
+      "movie2_id": 21,
+      "movie2_title": "Muppet Treasure Island (1996)",
+      "winner": 498,
+      "reasoning": "The African Queen is a celebrated classic about two mismatched companions changing through a journey, while Muppet Treasure Island is lighter and less acclaimed."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 622,
+      "movie1_title": "Swiss Family Robinson (1960)",
+      "movie2_id": 519,
+      "movie2_title": "Treasure of the Sierra Madre, The (1948)",
+      "winner": 622,
+      "reasoning": "Swiss Family Robinson specifically centers on a long survival journey and family bonds, whereas Sierra Madre is more a cautionary tale about greed (a common trope)."
+    }
+  ],
+  "0009": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 64,
+      "movie1_title": "Shawshank Redemption, The (1994)",
+      "movie2_id": 98,
+      "movie2_title": "Silence of the Lambs, The (1991)",
+      "winner": 64,
+      "reasoning": "For a cat-and-mouse intellectual duel between equals, Shawshank's strategic psychological sparring edges out Silence of the Lambs' procedural hunt."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 195,
+      "reasoning": "A tight strategic chase like The Terminator matches the user's tactical cat-and-mouse desire better than the superior but unrelated Schindler's List."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 641,
+      "movie1_title": "Paths of Glory (1957)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 641,
+      "reasoning": "For a cerebral rivalry of mutual respect, Paths of Glory's serious tone fits cat-and-mouse mental duels better than Groundhog Day's comic repetition."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 649,
+      "movie1_title": "Once Upon a Time in America (1984)",
+      "movie2_id": 199,
+      "movie2_title": "Bridge on the River Kwai, The (1957)",
+      "winner": 649,
+      "reasoning": "Once Upon a Time in America has intricate strategic rivalries and long-term tactical plays, a stronger match for a matched adversary duel than a duty-driven Bridge on the River Kwai."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 273,
+      "movie1_title": "Heat (1995)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 273,
+      "reasoning": "Heat is a prototypical matched-rivals heist/chase with mutual respect and strategy, a clearer fit than the more incidental tension in Fargo."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 511,
+      "movie2_title": "Lawrence of Arabia (1962)",
+      "winner": 195,
+      "reasoning": "Relevance to a tightly plotted cat-and-mouse thriller (Terminator) is more important for this prompt than a beloved historical epic like Lawrence."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 273,
+      "movie1_title": "Heat (1995)",
+      "movie2_id": 569,
+      "movie2_title": "Wolf (1994)",
+      "winner": 273,
+      "reasoning": "Heat is an archetype of evenly matched adversaries who outthink each other, while Wolf is a genre film without that precise strategic rivalry."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 96,
+      "movie1_title": "Terminator 2: Judgment Day (1991)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 96,
+      "reasoning": "T2 is a celebrated action-thriller with smart tactical dueling, while Babe (per dataset rating) is irrelevant and lower-rated for this prompt."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 234,
+      "movie2_title": "12 Angry Men (1957)",
+      "winner": 195,
+      "reasoning": "The Terminator offers a clean, specific cat-and-mouse rivalry of matched opponents, while 12 Angry Men is a classic but not the tactical chase the user asked for."
+    }
+  ],
+  "0010": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 955,
+      "movie2_title": "Before Sunrise (1995)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally earns a slow, earned romance from initial opposition and differing principles more clearly than Before Sunrise's more immediate connection."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 427,
+      "movie1_title": "To Kill a Mockingbird (1962)",
+      "movie2_id": 64,
+      "movie2_title": "Shawshank Redemption, The (1994)",
+      "winner": 427,
+      "reasoning": "For the user's request of principle-driven initial opposition evolving into earned understanding, To Kill a Mockingbird's principled stand is more relevant than Shawshank."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 216,
+      "movie2_title": "When Harry Met Sally... (1989)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally's slow-burn, prickly principled opposition fits the user's 'earned, reluctant romance' request more than the dreamy, immediate rapport of Before Sunrise."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 427,
+      "movie2_title": "To Kill a Mockingbird (1962)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally literally follows two opposites who slowly learn respect, which is a closer, stronger match than To Kill a Mockingbird's broader moral narrative."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 955,
+      "reasoning": "Before Sunrise is a high-quality, earned-relationship study that better matches the user's desire than the more mediocre Last Supper."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 216,
+      "reasoning": "Relevance to a principled, slowly-earned heterosexual romance (When Harry Met Sally) matters more here than a historical favorite like Schindler's List."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally is a textbook 'enemies/reluctant-lovers' that earns the romance, while Fargo is the right genre for drama but wrong plot for this romance ask."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally is widely acclaimed for earned romantic development, while Babe (per dataset rating) is a poor match for the principled slow-burn romance."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 955,
+      "reasoning": "Before Sunrise specifically captures two principled strangers gradually understanding each other through forced proximity, while Last Supper is generic and off-topic."
+    }
+  ]
+}

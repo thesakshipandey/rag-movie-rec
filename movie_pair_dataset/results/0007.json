@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0007",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 632,
+      "movie1_title": "Sophie's Choice (1982)",
+      "movie2_id": 9,
+      "movie2_title": "Dead Man Walking (1995)",
+      "winner": 632,
+      "reasoning": "Sophie's Choice centers on a single impossible 'good vs. good' decision that drives the entire plot, while Dead Man Walking examines morality around capital punishment."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 178,
+      "movie1_title": "12 Angry Men (1957)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 178,
+      "reasoning": "12 Angry Men is directly about a tough moral decision and its consequences, which is more relevant to the paper than Schindler's broader historical moral heroism."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 641,
+      "movie1_title": "Paths of Glory (1957)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 641,
+      "reasoning": "Paths of Glory's dark, uncompromising tone foregrounds tragic moral dilemmas better than Groundhog Day's lighter, redemptive comedy."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 661,
+      "movie1_title": "High Noon (1952)",
+      "movie2_id": 427,
+      "movie2_title": "To Kill a Mockingbird (1962)",
+      "winner": 661,
+      "reasoning": "High Noon's plot hinges on one literal choice to stand and face evil, whereas To Kill a Mockingbird explores the theme of moral courage more broadly."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 199,
+      "movie1_title": "Bridge on the River Kwai, The (1957)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 199,
+      "reasoning": "Bridge on the River Kwai presents a nuanced duty-versus-sabotage dilemma executed at high quality, while The Last Supper is a weaker, more peripheral match."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 64,
+      "movie1_title": "Shawshank Redemption, The (1994)",
+      "movie2_id": 527,
+      "movie2_title": "Gandhi (1982)",
+      "winner": 64,
+      "reasoning": "Shawshank's central moral choices and character consequences are more directly useful for an ethics paper than Gandhi's sprawling historical biography."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 939,
+      "movie1_title": "Murder in the First (1995)",
+      "movie2_id": 98,
+      "movie2_title": "Silence of the Lambs, The (1991)",
+      "winner": 939,
+      "reasoning": "Murder in the First revolves on a single legal/ethical battle about cruel treatment, while Silence of the Lambs is a thriller where the main moral choice is not the plot's hinge."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 86,
+      "movie1_title": "Remains of the Day, The (1993)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 86,
+      "reasoning": "Remains of the Day is a critically acclaimed study of moral complicity, while Babe (per the dataset) is a poor fit and lower rated."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 196,
+      "movie1_title": "Dead Poets Society (1989)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 196,
+      "reasoning": "Dead Poets Society offers a specific, earned moral conflict about duty to self vs. institution, whereas Fargo leans on crime-trope setups rather than a single 'good vs. good' dilemma."
+    }
+  ]
+}

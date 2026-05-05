@@ -1,0 +1,474 @@
+{
+  "results": {
+    "0006": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 753,
+          "movie1_title": "Burnt By the Sun (1994)",
+          "movie2_id": 242,
+          "movie2_title": "Kolya (1996)",
+          "winner": 753,
+          "reasoning": "Burnt By the Sun more directly shows how Stalinist purges destroy an ordinary family's life, while Kolya is quieter and more personal."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 1062,
+          "movie1_title": "Four Days in September (1997)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 1062,
+          "reasoning": "Four Days in September views a political kidnapping from peripheral participants, making it more relevant than Schindler's grand historical epic."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 935,
+          "movie1_title": "Paradise Road (1997)",
+          "movie2_id": 1251,
+          "movie2_title": "A Chef in Love (1996)",
+          "winner": 935,
+          "reasoning": "Paradise Road's grim, serious tone better conveys the devastation of war on ordinary lives than A Chef in Love's lighter romantic bent."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 14,
+          "movie1_title": "Postino, Il (1994)",
+          "movie2_id": 86,
+          "movie2_title": "Remains of the Day, The (1993)",
+          "winner": 14,
+          "reasoning": "Il Postino literally places an ordinary mailman beside a political exile, matching the prompt's surface request more directly."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 528,
+          "movie1_title": "Killing Fields, The (1984)",
+          "movie2_id": 632,
+          "movie2_title": "Land and Freedom (1995)",
+          "winner": 528,
+          "reasoning": "The Killing Fields is a powerful, expertly told account of ordinary people swept up by the Khmer Rouge, outranking the more modest Land and Freedom."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 1107,
+          "movie1_title": "Beyond Rangoon (1995)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 1107,
+          "reasoning": "Beyond Rangoon's focus on how a real political uprising derails civilians fits the prompt better than the Godfather's broader crime epic."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 241,
+          "movie1_title": "Last of the Mohicans, The (1992)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 241,
+          "reasoning": "The Last of the Mohicans situates ordinary characters' lives amid real wartime upheaval, while Free Willy 2 is the wrong family-adventure plot."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 521,
+          "movie1_title": "Deer Hunter, The (1978)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 521,
+          "reasoning": "The Deer Hunter is widely acclaimed for its portrayal of war's effect on ordinary lives, while Free Willy 2 is a lightweight family sequel."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 54,
+          "movie1_title": "Outbreak (1995)",
+          "movie2_id": 286,
+          "movie2_title": "English Patient, The (1996)",
+          "winner": 54,
+          "reasoning": "Outbreak specifically shows how an event (epidemic) derails everyday lives of non‑leaders, whereas The English Patient is a sweeping wartime romance."
+        }
+      ]
+    },
+    "0007": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 632,
+          "movie1_title": "Sophie's Choice (1982)",
+          "movie2_id": 9,
+          "movie2_title": "Dead Man Walking (1995)",
+          "winner": 632,
+          "reasoning": "Sophie's Choice centers on a literal, impossible moral choice whose consequences define the plot, while Dead Man Walking explores agonizing moral responsibility."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 282,
+          "movie1_title": "Time to Kill, A (1996)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 282,
+          "reasoning": "A Time to Kill's plot pivots on a 'lesser of two evils' dilemma, making it more relevant for an ethics paper than the Godfather's broader moral world."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 98,
+          "movie1_title": "Silence of the Lambs, The (1991)",
+          "movie2_id": 347,
+          "movie2_title": "Wag the Dog (1997)",
+          "winner": 98,
+          "reasoning": "Silence of the Lambs' grim moral darkness better illustrates high-stakes ethical cost than Wag the Dog's satirical, comic tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 282,
+          "movie1_title": "Time to Kill, A (1996)",
+          "movie2_id": 178,
+          "movie2_title": "12 Angry Men (1957)",
+          "winner": 282,
+          "reasoning": "Time to Kill revolves on a specific impossible choice about justice, while 12 Angry Men examines moral reasoning more thematically."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 661,
+          "movie1_title": "High Noon (1952)",
+          "movie2_id": 939,
+          "movie2_title": "Murder in the First (1995)",
+          "winner": 661,
+          "reasoning": "High Noon's clear, character-driven duty-vs-self moral choice is superior and more famous than the more uneven Murder in the First."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 317,
+          "movie1_title": "In the Name of the Father (1993)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 317,
+          "reasoning": "In the Name of the Father presents a focused moral dilemma for an ordinary man caught in politics, outweighing Schindler's broader historical stature for this prompt."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 632,
+          "movie1_title": "Sophie's Choice (1982)",
+          "movie2_id": 427,
+          "movie2_title": "To Kill a Mockingbird (1962)",
+          "winner": 632,
+          "reasoning": "Sophie's Choice is the quintessential impossible 'good vs. good' decision, whereas To Kill a Mockingbird explores moral courage but not an impossible binary choice."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 127,
+          "movie1_title": "Godfather, The (1972)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 127,
+          "reasoning": "The Godfather is a canonical masterpiece of moral ambiguity, and Free Willy 2 is a minor family sequel with little ethical complexity."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 9,
+          "movie1_title": "Dead Man Walking (1995)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 9,
+          "reasoning": "Dead Man Walking's plot hinges on a single impossible moral choice about mercy and punishment, while Schindler's List is a sweeping historical rescue story."
+        }
+      ]
+    },
+    "0008": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 174,
+          "movie2_title": "Raiders of the Lost Ark (1981)",
+          "winner": 173,
+          "reasoning": "The Princess Bride foregrounds a mismatched group's journey and evolving bonds with adventure and heart, while Raiders emphasizes pulpy action and artifacts."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 174,
+          "movie1_title": "Raiders of the Lost Ark (1981)",
+          "movie2_id": 172,
+          "movie2_title": "Empire Strikes Back, The (1980)",
+          "winner": 174,
+          "reasoning": "Raiders is a purer, old‑school quest with a tight mismatched team and relationship growth, more on-point than Empire's larger space-operatic scope."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 241,
+          "movie2_title": "Last of the Mohicans, The (1992)",
+          "winner": 173,
+          "reasoning": "Princess Bride's light-hearted, romantic quest better emphasizes bonding through adventure for this prompt than the Last of the Mohicans' somber tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 174,
+          "movie1_title": "Raiders of the Lost Ark (1981)",
+          "movie2_id": 173,
+          "movie2_title": "Princess Bride, The (1987)",
+          "winner": 173,
+          "reasoning": "Raiders is a literal treasure-quest adventure, but The Princess Bride captures the deeper theme: relationships and growth over trophy."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 172,
+          "movie1_title": "Empire Strikes Back, The (1980)",
+          "movie2_id": 241,
+          "movie2_title": "Last of the Mohicans, The (1992)",
+          "winner": 172,
+          "reasoning": "Empire Strikes Back is a top-tier character-driven continuation of a group journey, while Last of the Mohicans is good but less focused on ensemble bonding."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 174,
+          "movie1_title": "Raiders of the Lost Ark (1981)",
+          "movie2_id": 199,
+          "movie2_title": "Bridge on the River Kwai, The (1957)",
+          "winner": 174,
+          "reasoning": "Raiders' classic quest structure serves the user's nostalgia for old-school adventure better than the historical Bridge, which is a war epic."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 151,
+          "movie2_title": "Willy Wonka and the Chocolate Factory (1971)",
+          "winner": 173,
+          "reasoning": "The Princess Bride perfectly fits the mismatched-crew quest where bonds matter most; Willy Wonka is the right whimsical genre but wrong plot form."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 172,
+          "movie1_title": "Empire Strikes Back, The (1980)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 172,
+          "reasoning": "Empire Strikes Back is widely regarded as a masterpiece of character-driven adventure, while Free Willy 2 is a forgettable sequel."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 174,
+          "movie1_title": "Raiders of the Lost Ark (1981)",
+          "movie2_id": 495,
+          "movie2_title": "Around the World in 80 Days (1956)",
+          "winner": 174,
+          "reasoning": "Raiders captures the precise old‑school, perilous quest with changing relationships, while Around the World is more episodic and clichéd."
+        }
+      ]
+    },
+    "0009": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 69,
+          "movie2_title": "Forrest Gump (1994)",
+          "winner": 550,
+          "reasoning": "Die Hard: With a Vengeance features a strategic, cerebral cat-and-mouse between equals, while Forrest Gump isn't a tactical chase film."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 96,
+          "movie2_title": "Terminator 2: Judgment Day (1991)",
+          "winner": 550,
+          "reasoning": "For a cat-and-mouse of equals focused on out-thinking, Die Hard: With a Vengeance is more directly relevant than T2's blockbuster action."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 161,
+          "movie2_title": "Top Gun (1986)",
+          "winner": 550,
+          "reasoning": "Die Hard 3's tactical one-upmanship is grittier and cerebral, whereas Top Gun is high-energy, glossy rivalry and less strategic cat‑and‑mouse."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 421,
+          "movie2_title": "William Shakespeare's Romeo and Juliet (1996)",
+          "winner": 550,
+          "reasoning": "Die Hard 3 literally stages a matched strategic duel between rivals; Romeo & Juliet offers thematic rivalry but not the tactical cat-and-mouse you asked for."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 161,
+          "movie2_title": "Top Gun (1986)",
+          "winner": 96,
+          "reasoning": "T2 pairs tactical minds (human vs machine) with mutual respect, a stronger cat-and-mouse than Top Gun's competitive bravado."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 199,
+          "movie2_title": "Bridge on the River Kwai, The (1957)",
+          "winner": 550,
+          "reasoning": "Die Hard 3's strategic duel is far more on-point for an intellectual action cat-and-mouse than the historical moral drama of Bridge on the River Kwai."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 144,
+          "movie2_title": "Die Hard (1988)",
+          "winner": 550,
+          "reasoning": "Die Hard 3 amplifies the chess-like rivalry between matched opponents; the original is more straightforward action-focused."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 96,
+          "reasoning": "T2 is a high-water mark of smart action filmmaking, while Free Willy 2 is an undemanding family sequel."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 550,
+          "movie1_title": "Die Hard: With a Vengeance (1995)",
+          "movie2_id": 161,
+          "movie2_title": "Top Gun (1986)",
+          "winner": 550,
+          "reasoning": "Die Hard 3 specifically emphasizes a matched, adaptive rivalry and cunning plans; Top Gun relies more on macho tropes and spectacle."
+        }
+      ]
+    },
+    "0010": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 216,
+          "movie2_title": "When Harry Met Sally... (1989)",
+          "winner": 955,
+          "reasoning": "Before Sunrise shows two strangers who grow close through extended forced proximity and conversation, making their romance feel earned."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 316,
+          "movie2_title": "As Good As It Gets (1997)",
+          "winner": 955,
+          "reasoning": "Before Sunrise's slow-burn from strangers' principled differences fits the prompt better than As Good As It Gets' more conventional rom‑com arc."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 70,
+          "movie2_title": "Four Weddings and a Funeral (1994)",
+          "winner": 955,
+          "reasoning": "Before Sunrise's intimate, patient development suits a reluctant, slowly‑earned romance more than Four Weddings' buoyant, comic tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 216,
+          "movie2_title": "When Harry Met Sally... (1989)",
+          "winner": 955,
+          "reasoning": "When Harry Met Sally explores opposites-to-lovers through repeated meetings, but Before Sunrise is a more exact match for 'forced proximity leads to earned romance.'"
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 66,
+          "movie2_title": "While You Were Sleeping (1995)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally offers a richer, more earned 'genuine opposition to understanding' arc than the lighter While You Were Sleeping."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 955,
+          "reasoning": "Before Sunrise's relevance to an earned slow-burn romance outweighs the Godfather's status as a non-romance favorite for this specific request."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 70,
+          "movie2_title": "Four Weddings and a Funeral (1994)",
+          "winner": 955,
+          "reasoning": "Before Sunrise is the archetypal 'dislike-to-respect-to-love' through proximity film; Four Weddings is romantic but more ensemble and comedic."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 35,
+          "movie2_title": "Free Willy 2: The Adventure Home (1995)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally is a well-crafted, celebrated romantic comedy; Free Willy 2 is a lesser family sequel and not comparable."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 216,
+          "movie2_title": "When Harry Met Sally... (1989)",
+          "winner": 955,
+          "reasoning": "Before Sunrise uniquely captures two principled strangers forced into proximity who slowly earn mutual respect and love, more specific than the tropey rom‑com arc."
+        }
+      ]
+    }
+  }
+}

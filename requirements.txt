@@ -1,0 +1,45 @@
+# ========== Core ==========
+pandas>=2.2.2
+numpy>=1.26.4
+pyyaml>=6.0.1
+tqdm>=4.66.4
+python-dotenv>=1.0.1
+
+# ========== Optional formats (faster/better I/O) ==========
+pyarrow>=15.0.2
+
+# ========== Text & embeddings ==========
+# HF stack for finetuning + inference
+transformers>=4.44.2
+tokenizers>=0.19.1
+datasets>=2.20.0
+accelerate>=0.33.0
+huggingface-hub>=0.24.1
+safetensors>=0.4.3
+sentencepiece>=0.1.99
+
+# Sentence-level embeddings (keep as you had)
+sentence-transformers>=3.0.1
+
+# (Install PyTorch separately per CUDA/CPU; see note below)
+# torch  (DO NOT list here to avoid wrong CUDA wheels)
+
+# ========== ANN (only when you build an index) ==========
+faiss-cpu>=1.8.0
+
+# ========== Lexical retrieval (optional) ==========
+rank-bm25>=0.2.2
+
+# ========== Evaluation & viz ==========
+scikit-learn>=1.4.2
+matplotlib>=3.8.4
+
+# ========== Router heads ==========
+xgboost>=1.7.0
+
+# ========== Optional: PEFT/LoRA for lighter finetuning ==========
+peft>=0.11.1
+
+# ========== Web UI ==========
+streamlit>=1.28.0
+plotly>=5.18.0

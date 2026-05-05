@@ -1,0 +1,353 @@
+{
+  "results": {
+    "0007": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 632,
+          "movie1_title": "Sophie's Choice (1982)",
+          "movie2_id": 9,
+          "movie2_title": "Dead Man Walking (1995)",
+          "winner": 632,
+          "reasoning": "Sophie's Choice centers on an impossible, heartbreaking moral decision that drives the whole plot, edging out Dead Man Walking's ethical conflict."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 178,
+          "reasoning": "12 Angry Men's courtroom dilemma is narrowly more on-point for an ethics paper than Schindler's broader historical moral heroism."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 641,
+          "movie1_title": "Paths of Glory (1957)",
+          "movie2_id": 435,
+          "movie2_title": "Butch Cassidy and the Sundance Kid (1969)",
+          "winner": 641,
+          "reasoning": "Paths of Glory's stark, tragic tone serves an ethical examination better than Butch Cassidy's lighter, buddy-heist mood."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 661,
+          "movie1_title": "High Noon (1952)",
+          "movie2_id": 127,
+          "movie2_title": "The Godfather (1972)",
+          "winner": 661,
+          "reasoning": "High Noon's literal moral dilemma about duty versus safety maps more directly to the prompt than The Godfather's thematic compromises."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 203,
+          "movie1_title": "Unforgiven (1992)",
+          "movie2_id": 922,
+          "movie2_title": "Dead Man (1995)",
+          "winner": 203,
+          "reasoning": "Unforgiven is the stronger, clearer exploration of consequential moral choices compared with the more oblique Dead Man."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 157,
+          "movie1_title": "Platoon (1986)",
+          "movie2_id": 511,
+          "movie2_title": "Lawrence of Arabia (1962)",
+          "winner": 157,
+          "reasoning": "Platoon's frontline moral breakdowns are more relevant to your ethics focus than Lawrence's epic historical portrait."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 199,
+          "movie1_title": "Bridge on the River Kwai, The (1957)",
+          "movie2_id": 520,
+          "movie2_title": "Great Escape, The (1963)",
+          "winner": 199,
+          "reasoning": "Bridge on the River Kwai hinges on a leader's wrenching moral compromise, while The Great Escape is more procedural adventure."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 191,
+          "movie1_title": "Amadeus (1984)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 191,
+          "reasoning": "Amadeus is a widely acknowledged masterpiece in craft and moral complexity, while Babe is lighter and not comparable in gravitas."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 650,
+          "movie1_title": "Seventh Seal, The (1957)",
+          "movie2_id": 177,
+          "movie2_title": "Good, The Bad and The Ugly, The (1966)",
+          "winner": 650,
+          "reasoning": "The Seventh Seal uniquely stages an existential moral confrontation tailored to ethical analysis, unlike the genre-clichéd treasure hunt."
+        }
+      ]
+    },
+    "0008": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 174,
+          "movie2_title": "Raiders of the Lost Ark (1981)",
+          "winner": 173,
+          "reasoning": "The Princess Bride foregrounds the quest's relationships and character bonds more warmly than Raiders' pulpy artifact chase."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 241,
+          "movie1_title": "Last of the Mohicans, The (1992)",
+          "movie2_id": 511,
+          "movie2_title": "Lawrence of Arabia (1962)",
+          "winner": 241,
+          "reasoning": "Last of the Mohicans' journey and evolving relationships align closely with your 'quest-as-bonding' request, despite Lawrence's grandeur."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 589,
+          "movie1_title": "Wild Bunch, The (1969)",
+          "movie2_id": 21,
+          "movie2_title": "Muppet Treasure Island (1996)",
+          "winner": 589,
+          "reasoning": "Wild Bunch's gritty camaraderie gives a weightier portrayal of group bonds than the Muppets' broad, comedic take on a quest."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 495,
+          "movie1_title": "Around the World in 80 Days (1956)",
+          "movie2_id": 50,
+          "movie2_title": "Star Wars (1977)",
+          "winner": 495,
+          "reasoning": "Around the World literally is a long, mismatched journey; Star Wars fits metaphorically as a quest where relationships grow."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 520,
+          "movie1_title": "Great Escape, The (1963)",
+          "movie2_id": 622,
+          "movie2_title": "Swiss Family Robinson (1960)",
+          "winner": 520,
+          "reasoning": "The Great Escape presents stronger group dynamics and character arcs than the more family-genre Swiss Family Robinson."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 655,
+          "movie1_title": "Stand by Me (1986)",
+          "movie2_id": 172,
+          "movie2_title": "Empire Strikes Back, The (1980)",
+          "winner": 655,
+          "reasoning": "Stand by Me's intimate, relationship-first coming-of-age road quest better matches your brief than a beloved but less-focused epic."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 510,
+          "movie1_title": "Magnificent Seven, The (1954)",
+          "movie2_id": 435,
+          "movie2_title": "Butch Cassidy and the Sundance Kid (1969)",
+          "winner": 510,
+          "reasoning": "The Magnificent Seven's mismatched team on a clear, relationship-driven mission is a more perfect 'quest-bond' match than Butch Cassidy."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 127,
+          "movie1_title": "Godfather, The (1972)",
+          "movie2_id": 554,
+          "movie2_title": "Waterworld (1995)",
+          "winner": 127,
+          "reasoning": "The Godfather remains a towering classic, while Waterworld is a big-budget misfire by comparison."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 463,
+          "movie1_title": "Secret of Roan Inish, The (1994)",
+          "movie2_id": 210,
+          "movie2_title": "Indiana Jones and the Last Crusade (1989)",
+          "winner": 463,
+          "reasoning": "Secret of Roan Inish uniquely centers family and quiet bond-formation on a journey, unlike the more trope-driven Indy quest."
+        }
+      ]
+    },
+    "0009": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 273,
+          "movie1_title": "Heat (1995)",
+          "movie2_id": 298,
+          "movie2_title": "Face/Off (1997)",
+          "winner": 273,
+          "reasoning": "Heat is the textbook cat-and-mouse of two perfectly matched rivals whose tactical duels and mutual respect drive the tension."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 79,
+          "movie1_title": "Fugitive, The (1993)",
+          "movie2_id": 98,
+          "movie2_title": "Silence of the Lambs, The (1991)",
+          "winner": 79,
+          "reasoning": "The Fugitive's cerebral pursuit fits your strategic chase priority better than Silence of the Lambs' psychological horror strengths."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 11,
+          "movie1_title": "Seven (Se7en) (1995)",
+          "movie2_id": 945,
+          "movie2_title": "Charade (1963)",
+          "winner": 11,
+          "reasoning": "Se7en's grim, strategic duel feels closer to the prompt's tension than Charade's breezy, romantic thriller tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 480,
+          "movie1_title": "North by Northwest (1959)",
+          "movie2_id": 333,
+          "movie2_title": "Game, The (1997)",
+          "winner": 333,
+          "reasoning": "North by Northwest is a literal chase, but The Game better captures the strategic, adaptive rivalry the prompt emphasizes."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 12,
+          "movie1_title": "Usual Suspects, The (1995)",
+          "movie2_id": 466,
+          "movie2_title": "Red Rock West (1992)",
+          "winner": 12,
+          "reasoning": "The Usual Suspects delivers smarter, more twisted tactical confrontations than the lesser-known Red Rock West."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 513,
+          "movie1_title": "Third Man, The (1949)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 513,
+          "reasoning": "The Third Man's cat-and-mouse atmosphere is more on-target for strategic rivalry than the Godfather, despite its greatness."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 350,
+          "movie1_title": "Fallen (1998)",
+          "movie2_id": 144,
+          "movie2_title": "Die Hard (1988)",
+          "winner": 350,
+          "reasoning": "Fallen's nimble suspense and investigator/antagonist duel fit your 'matched rivals' need better than Die Hard's single-hero action template."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 50,
+          "movie1_title": "Star Wars (1977)",
+          "movie2_id": 254,
+          "movie2_title": "Batman & Robin (1997)",
+          "winner": 50,
+          "reasoning": "Star Wars remains a landmark, while Batman & Robin is widely regarded as a poorly executed blockbuster."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 490,
+          "movie1_title": "To Catch a Thief (1955)",
+          "movie2_id": 546,
+          "movie2_title": "Broken Arrow (1996)",
+          "winner": 490,
+          "reasoning": "To Catch a Thief's elegant, tension-filled duel between a thief and pursuer is a specific fit, versus Broken Arrow's routine action beats."
+        }
+      ]
+    },
+    "0010": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 83,
+          "movie1_title": "Much Ado About Nothing (1993)",
+          "movie2_id": 498,
+          "movie2_title": "African Queen, The (1951)",
+          "winner": 83,
+          "reasoning": "Much Ado is a textbook slow-burn enemies-to-lovers where principled opposition and earned reconciliation are central."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 494,
+          "movie1_title": "His Girl Friday (1940)",
+          "movie2_id": 483,
+          "movie2_title": "Casablanca (1942)",
+          "winner": 494,
+          "reasoning": "His Girl Friday nails principled professional opposition turned earned affection more directly than Casablanca's wartime romance."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 740,
+          "movie1_title": "Jane Eyre (1996)",
+          "movie2_id": 497,
+          "movie2_title": "Bringing Up Baby (1938)",
+          "winner": 740,
+          "reasoning": "Jane Eyre's grave, principled resistance and slow rapprochement better match your 'earned' romance request than the screwball comedy tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 604,
+          "movie1_title": "It Happened One Night (1934)",
+          "movie2_id": 316,
+          "movie2_title": "As Good As It Gets (1997)",
+          "winner": 604,
+          "reasoning": "It Happened One Night is a literal forced-proximity road romance born from antagonism, while As Good As It Gets interprets the theme more metaphorically."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 613,
+          "movie2_title": "My Man Godfrey (1936)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally offers a more convincing, earned evolution from antagonism to love than the lighter-era My Man Godfrey."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 490,
+          "movie1_title": "To Catch a Thief (1955)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 490,
+          "reasoning": "To Catch a Thief's wary, flirtatious mistrust that becomes genuine connection fits your brief better than the Godfather's broader saga."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 945,
+          "movie1_title": "Charade (1963)",
+          "movie2_id": 486,
+          "movie2_title": "S

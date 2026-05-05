@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0008",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 173,
+      "movie1_title": "Princess Bride, The (1987)",
+      "movie2_id": 132,
+      "movie2_title": "Wizard of Oz, The (1939)",
+      "winner": 173,
+      "reasoning": "The Princess Bride is a quest with a mismatched ensemble whose relationships and growth carry the story slightly more than Oz's single-hero arc."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 168,
+      "movie1_title": "Monty Python and the Holy Grail (1975)",
+      "movie2_id": 520,
+      "movie2_title": "Great Escape, The (1963)",
+      "winner": 168,
+      "reasoning": "Monty Python's troupe-driven quest better matches the user's desire for group misfits bonding on a journey, despite The Great Escape's higher craft."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 241,
+      "movie1_title": "Last of the Mohicans, The (1992)",
+      "movie2_id": 21,
+      "movie2_title": "Muppet Treasure Island (1996)",
+      "winner": 21,
+      "reasoning": "For a bonds-first quest, Muppet Treasure Island's light, relationship-forward tone better serves the user's wish for warm ensemble growth."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 495,
+      "movie1_title": "Around the World in 80 Days (1956)",
+      "movie2_id": 97,
+      "movie2_title": "Dances with Wolves (1990)",
+      "winner": 97,
+      "reasoning": "While Around the World is the literal quest, Dances with Wolves better matches the deeper theme of transformation through relationships on a journey."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 210,
+      "movie1_title": "Indiana Jones and the Last Crusade (1989)",
+      "movie2_id": 627,
+      "movie2_title": "Robin Hood: Prince of Thieves (1991)",
+      "winner": 210,
+      "reasoning": "Last Crusade balances old-school adventure and growing relationships with sharper execution than the more middling Robin Hood."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 174,
+      "movie1_title": "Raiders of the Lost Ark (1981)",
+      "movie2_id": 511,
+      "movie2_title": "Lawrence of Arabia (1962)",
+      "winner": 174,
+      "reasoning": "Raiders' pulpy, relationship-light quest is more directly what the user asked for than Lawrence's expansive historical epic."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 510,
+      "movie1_title": "Magnificent Seven, The (1954)",
+      "movie2_id": 435,
+      "movie2_title": "Butch Cassidy and the Sundance Kid (1969)",
+      "winner": 510,
+      "reasoning": "The Magnificent Seven is an ensemble, mismatched team on a clear mission whose bonds drive the story, while Butch Cassidy is a buddy caper with different stakes."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 498,
+      "movie1_title": "African Queen, The (1951)",
+      "movie2_id": 21,
+      "movie2_title": "Muppet Treasure Island (1996)",
+      "winner": 498,
+      "reasoning": "The African Queen is a celebrated classic about two mismatched companions changing through a journey, while Muppet Treasure Island is lighter and less acclaimed."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 622,
+      "movie1_title": "Swiss Family Robinson (1960)",
+      "movie2_id": 519,
+      "movie2_title": "Treasure of the Sierra Madre, The (1948)",
+      "winner": 622,
+      "reasoning": "Swiss Family Robinson specifically centers on a long survival journey and family bonds, whereas Sierra Madre is more a cautionary tale about greed (a common trope)."
+    }
+  ]
+}

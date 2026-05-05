@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0010",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 955,
+      "movie2_title": "Before Sunrise (1995)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally earns a slow, earned romance from initial opposition and differing principles more clearly than Before Sunrise's more immediate connection."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 427,
+      "movie1_title": "To Kill a Mockingbird (1962)",
+      "movie2_id": 64,
+      "movie2_title": "Shawshank Redemption, The (1994)",
+      "winner": 427,
+      "reasoning": "For the user's request of principle-driven initial opposition evolving into earned understanding, To Kill a Mockingbird's principled stand is more relevant than Shawshank."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 216,
+      "movie2_title": "When Harry Met Sally... (1989)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally's slow-burn, prickly principled opposition fits the user's 'earned, reluctant romance' request more than the dreamy, immediate rapport of Before Sunrise."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 427,
+      "movie2_title": "To Kill a Mockingbird (1962)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally literally follows two opposites who slowly learn respect, which is a closer, stronger match than To Kill a Mockingbird's broader moral narrative."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 955,
+      "reasoning": "Before Sunrise is a high-quality, earned-relationship study that better matches the user's desire than the more mediocre Last Supper."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 216,
+      "reasoning": "Relevance to a principled, slowly-earned heterosexual romance (When Harry Met Sally) matters more here than a historical favorite like Schindler's List."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally is a textbook 'enemies/reluctant-lovers' that earns the romance, while Fargo is the right genre for drama but wrong plot for this romance ask."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 216,
+      "movie1_title": "When Harry Met Sally... (1989)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 216,
+      "reasoning": "When Harry Met Sally is widely acclaimed for earned romantic development, while Babe (per dataset rating) is a poor match for the principled slow-burn romance."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 955,
+      "movie1_title": "Before Sunrise (1995)",
+      "movie2_id": 741,
+      "movie2_title": "Last Supper, The (1995)",
+      "winner": 955,
+      "reasoning": "Before Sunrise specifically captures two principled strangers gradually understanding each other through forced proximity, while Last Supper is generic and off-topic."
+    }
+  ]
+}

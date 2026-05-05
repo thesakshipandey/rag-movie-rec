@@ -1,0 +1,10 @@
+set,type,movie1_id,movie1_title,movie2_id,movie2_title,winner,reasoning
+hard,top_2_best,178,12 Angry Men (1957),603,Rear Window (1954),178,"12 Angry Men is the archetype: a small group trapped in one room solving one huge problem by discussion, while Rear Window is a solitary-observer mystery."
+hard,relevance_vs_quality,1651,The Spanish Prisoner (1997),64,"Shawshank Redemption, The (1994)",1651,"The Spanish Prisoner's tight, puzzle-driven premise maps to your request better than Shawshank, which is a superior but broader, longer drama."
+hard,opposite_vibes,156,Reservoir Dogs (1992),85,"Ref, The (1994)",85,"Reservoir Dogs is dark and violent; The Ref offers a lighter, talky hostage-comedy vibe that better fits a non-horror, conversational puzzle night."
+medium,exact_vs_metaphor,505,Dial M for Murder (1954),333,"Game, The (1997)",333,"Dial M literally confines drama to an apartment and a single plot, but The Game captures the deeper, psychological puzzle theme the user hinted at."
+medium,good_vs_median,12,"Usual Suspects, The (1995)",144,Die Hard (1988),12,"The Usual Suspects is a compact, clever ensemble puzzle; Die Hard is great but is action-oriented rather than a quiet problem-solving piece."
+medium,history_logic,955,Before Sunrise (1995),42,Clerks (1994),955,"Before Sunrise's intimate, talk-driven encounter mirrors the user's desire for people working a problem through conversation over Clerks' cult appeal."
+easy,perfect_vs_mismatch,28,Apollo 13 (1995),945,Charade (1963),28,Apollo 13 is a near-perfect fit: a small crew confined to a craft solving one life-or-death technical problem; Charade is charming but less single-location.
+easy,masterpiece_vs_flop,481,"Apartment, The (1960)",8,Babe (1995),481,The Apartment is a widely respected classic with lasting craft; Babe (in this dataset) is a low-rated family title and an obvious weaker pick.
+easy,specific_vs_cliche,1109,Death and the Maiden (1994),31,Crimson Tide (1995),1109,"Death and the Maiden specifically matches the 'few people in one place resolving a charged dilemma' concept, whereas Crimson Tide is a more conventional military standoff."

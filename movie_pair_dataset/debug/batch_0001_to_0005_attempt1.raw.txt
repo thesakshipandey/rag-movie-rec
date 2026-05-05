@@ -1,0 +1,240 @@
+{
+  "results": {
+    "0001": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 691,
+          "movie1_title": "Dark City (1998)",
+          "movie2_id": 127,
+          "movie2_title": "The Godfather (1972)",
+          "winner": 691,
+          "reasoning": "Dark City's manipulated reality and investigative protagonist map directly to uncovering a hidden system."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 1159,
+          "movie1_title": "Stalker (1979)",
+          "movie2_id": 135,
+          "movie2_title": "2001: A Space Odyssey (1968)",
+          "winner": 1159,
+          "reasoning": "Stalker's metaphysical expedition aligns more closely with the prompt than 2001's broader cosmic investigation."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 175,
+          "movie1_title": "Brazil (1985)",
+          "movie2_id": 663,
+          "movie2_title": "Being There (1979)",
+          "winner": 175,
+          "reasoning": "Brazil's dark, satirical examination of systems better serves the prompt's existential investigation."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 657,
+          "movie1_title": "The Manchurian Candidate (1962)",
+          "movie2_id": 512,
+          "movie2_title": "Wings of Desire (1987)",
+          "winner": 512,
+          "reasoning": "Wings of Desire captures the prompt's deeper, metaphysical longing more strongly than a literal political conspiracy."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 89,
+          "movie1_title": "Blade Runner (1982)",
+          "movie2_id": 1651,
+          "movie2_title": "The Spanish Prisoner (1997)",
+          "winner": 89,
+          "reasoning": "Blade Runner is the clearer, superior execution of an identity/reality investigation."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 7,
+          "movie1_title": "Twelve Monkeys (1995)",
+          "movie2_id": 178,
+          "movie2_title": "12 Angry Men (1957)",
+          "winner": 7,
+          "reasoning": "Twelve Monkeys' time-paradox investigation is far more relevant than a classic courtroom favorite."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 919,
+          "movie1_title": "City of Lost Children, The (1995)",
+          "movie2_id": 484,
+          "movie2_title": "Maltese Falcon, The (1941)",
+          "winner": 919,
+          "reasoning": "City of Lost Children uniquely matches the eerie-system mystery, while Maltese Falcon is a conventional detective story."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 100,
+          "movie1_title": "Fargo (1996)",
+          "movie2_id": 29,
+          "movie2_title": "Batman Forever (1995)",
+          "winner": 100,
+          "reasoning": "Fargo is a celebrated masterpiece; Batman Forever is a lightweight studio misfire."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 333,
+          "movie1_title": "The Game (1997)",
+          "movie2_id": 322,
+          "movie2_title": "Murder at 1600 (1997)",
+          "winner": 333,
+          "reasoning": "The Game's constructed-reality premise specifically mirrors the prompt's 'system' idea, unlike a generic political thriller."
+        }
+      ]
+    },
+    "0002": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 28,
+          "movie2_title": "Apollo 13 (1995)",
+          "winner": 178,
+          "reasoning": "12 Angry Men is the purest 'few people in one room solving a pressing problem' film, perfectly matching the prompt."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 156,
+          "movie1_title": "Reservoir Dogs (1992)",
+          "movie2_id": 134,
+          "movie2_title": "Citizen Kane (1941)",
+          "winner": 156,
+          "reasoning": "Reservoir Dogs' contained, talk-driven unraveling fits the prompt better than Kane despite the latter's prestige."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 164,
+          "movie1_title": "Abyss, The (1989)",
+          "movie2_id": 85,
+          "movie2_title": "Ref, The (1994)",
+          "winner": 164,
+          "reasoning": "Abyss' serious, methodical problem-solving tone serves a puzzle-focused stuck-together story better than comedic banter."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 924,
+          "movie1_title": "White Squall (1996)",
+          "movie2_id": 603,
+          "movie2_title": "Rear Window (1954)",
+          "winner": 924,
+          "reasoning": "White Squall is literally people trapped at sea needing to solve survival problems, matching the prompt's surface."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 568,
+          "movie1_title": "Speed (1994)",
+          "movie2_id": 295,
+          "movie2_title": "Breakdown (1997)",
+          "winner": 568,
+          "reasoning": "Speed is a tighter, better-executed single-situation thriller; Breakdown is serviceable but less focused."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 144,
+          "movie1_title": "Die Hard (1988)",
+          "movie2_id": 100,
+          "movie2_title": "Fargo (1996)",
+          "winner": 144,
+          "reasoning": "Die Hard's contained-set, problem-solving action beats a beloved favorite when the user wants a quick confined puzzle."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 160,
+          "movie1_title": "Glengarry Glen Ross (1992)",
+          "movie2_id": 484,
+          "movie2_title": "Maltese Falcon, The (1941)",
+          "winner": 160,
+          "reasoning": "Glengarry Glen Ross is a compact, talk-driven ensemble about a single pressure-filled problem, while Maltese Falcon is a different kind of detective plot."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 127,
+          "movie1_title": "The Godfather (1972)",
+          "movie2_id": 254,
+          "movie2_title": "Batman & Robin (1997)",
+          "winner": 127,
+          "reasoning": "The Godfather is a towering masterpiece; Batman & Robin is a notorious flop."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 81,
+          "movie1_title": "Hudsucker Proxy, The (1994)",
+          "movie2_id": 322,
+          "movie2_title": "Murder at 1600 (1997)",
+          "winner": 81,
+          "reasoning": "Hudsucker Proxy's narrow satirical setup is a specific, contained story; Murder at 1600 is a more generic thriller."
+        }
+      ]
+    },
+    "0003": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 270,
+          "movie1_title": "Gattaca (1997)",
+          "movie2_id": 1240,
+          "movie2_title": "Ghost in the Shell (1995)",
+          "winner": 270,
+          "reasoning": "Gattaca zeroes in on technology-caused moral paradoxes around genetics and identity in a focused, human way."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 39,
+          "movie1_title": "Strange Days (1995)",
+          "movie2_id": 135,
+          "movie2_title": "2001: A Space Odyssey (1968)",
+          "winner": 39,
+          "reasoning": "Strange Days directly dramatizes tech that harms relationships, matching the prompt better than 2001's abstract scope."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 7,
+          "movie1_title": "Twelve Monkeys (1995)",
+          "movie2_id": 204,
+          "movie2_title": "Back to the Future (1985)",
+          "winner": 7,
+          "reasoning": "Twelve Monkeys' grim, ethical fallout from time ideas suits the prompt's moral dilemma tone more than a light time comedy."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 82,
+          "movie1_title": "Jurassic Park (1993)",
+          "movie2_id": 89,
+          "movie2_title": "Blade Runner (1982)",
+          "winner": 89,
+          "reasoning": "Jurassic Park literally shows tech gone wrong; Blade Runner offers a deeper philosophical take on tech and humanity."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 145,
+          "movie2_title": "Lawnmower Man, The (1992)",
+          "winner

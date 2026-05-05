@@ -1,0 +1,380 @@
+{
+  "results": {
+    "0007": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 632,
+          "movie1_title": "Sophie's Choice (1982)",
+          "movie2_id": 9,
+          "movie2_title": "Dead Man Walking (1995)",
+          "winner": 632,
+          "reasoning": "Sophie's Choice centers on a single impossible 'good vs. good' decision that drives the entire plot, while Dead Man Walking examines morality around capital punishment."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 178,
+          "reasoning": "12 Angry Men is directly about a tough moral decision and its consequences, which is more relevant to the paper than Schindler's broader historical moral heroism."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 641,
+          "movie1_title": "Paths of Glory (1957)",
+          "movie2_id": 202,
+          "movie2_title": "Groundhog Day (1993)",
+          "winner": 641,
+          "reasoning": "Paths of Glory's dark, uncompromising tone foregrounds tragic moral dilemmas better than Groundhog Day's lighter, redemptive comedy."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 661,
+          "movie1_title": "High Noon (1952)",
+          "movie2_id": 427,
+          "movie2_title": "To Kill a Mockingbird (1962)",
+          "winner": 661,
+          "reasoning": "High Noon's plot hinges on one literal choice to stand and face evil, whereas To Kill a Mockingbird explores the theme of moral courage more broadly."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 199,
+          "movie1_title": "Bridge on the River Kwai, The (1957)",
+          "movie2_id": 741,
+          "movie2_title": "Last Supper, The (1995)",
+          "winner": 199,
+          "reasoning": "Bridge on the River Kwai presents a nuanced duty-versus-sabotage dilemma executed at high quality, while The Last Supper is a weaker, more peripheral match."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 64,
+          "movie1_title": "Shawshank Redemption, The (1994)",
+          "movie2_id": 527,
+          "movie2_title": "Gandhi (1982)",
+          "winner": 64,
+          "reasoning": "Shawshank's central moral choices and character consequences are more directly useful for an ethics paper than Gandhi's sprawling historical biography."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 939,
+          "movie1_title": "Murder in the First (1995)",
+          "movie2_id": 98,
+          "movie2_title": "Silence of the Lambs, The (1991)",
+          "winner": 939,
+          "reasoning": "Murder in the First revolves on a single legal/ethical battle about cruel treatment, while Silence of the Lambs is a thriller where the main moral choice is not the plot's hinge."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 86,
+          "movie1_title": "Remains of the Day, The (1993)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 86,
+          "reasoning": "Remains of the Day is a critically acclaimed study of moral complicity, while Babe (per the dataset) is a poor fit and lower rated."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 196,
+          "movie1_title": "Dead Poets Society (1989)",
+          "movie2_id": 100,
+          "movie2_title": "Fargo (1996)",
+          "winner": 196,
+          "reasoning": "Dead Poets Society offers a specific, earned moral conflict about duty to self vs. institution, whereas Fargo leans on crime-trope setups rather than a single 'good vs. good' dilemma."
+        }
+      ]
+    },
+    "0008": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 132,
+          "movie2_title": "Wizard of Oz, The (1939)",
+          "winner": 173,
+          "reasoning": "The Princess Bride is a quest with a mismatched ensemble whose relationships and growth carry the story slightly more than Oz's single-hero arc."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 168,
+          "movie1_title": "Monty Python and the Holy Grail (1975)",
+          "movie2_id": 520,
+          "movie2_title": "Great Escape, The (1963)",
+          "winner": 168,
+          "reasoning": "Monty Python's troupe-driven quest better matches the user's desire for group misfits bonding on a journey, despite The Great Escape's higher craft."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 241,
+          "movie1_title": "Last of the Mohicans, The (1992)",
+          "movie2_id": 21,
+          "movie2_title": "Muppet Treasure Island (1996)",
+          "winner": 21,
+          "reasoning": "For a bonds-first quest, Muppet Treasure Island's light, relationship-forward tone better serves the user's wish for warm ensemble growth."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 495,
+          "movie1_title": "Around the World in 80 Days (1956)",
+          "movie2_id": 97,
+          "movie2_title": "Dances with Wolves (1990)",
+          "winner": 97,
+          "reasoning": "While Around the World is the literal quest, Dances with Wolves better matches the deeper theme of transformation through relationships on a journey."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 210,
+          "movie1_title": "Indiana Jones and the Last Crusade (1989)",
+          "movie2_id": 627,
+          "movie2_title": "Robin Hood: Prince of Thieves (1991)",
+          "winner": 210,
+          "reasoning": "Last Crusade balances old-school adventure and growing relationships with sharper execution than the more middling Robin Hood."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 174,
+          "movie1_title": "Raiders of the Lost Ark (1981)",
+          "movie2_id": 511,
+          "movie2_title": "Lawrence of Arabia (1962)",
+          "winner": 174,
+          "reasoning": "Raiders' pulpy, relationship-light quest is more directly what the user asked for than Lawrence's expansive historical epic."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 510,
+          "movie1_title": "Magnificent Seven, The (1954)",
+          "movie2_id": 435,
+          "movie2_title": "Butch Cassidy and the Sundance Kid (1969)",
+          "winner": 510,
+          "reasoning": "The Magnificent Seven is an ensemble, mismatched team on a clear mission whose bonds drive the story, while Butch Cassidy is a buddy caper with different stakes."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 498,
+          "movie1_title": "African Queen, The (1951)",
+          "movie2_id": 21,
+          "movie2_title": "Muppet Treasure Island (1996)",
+          "winner": 498,
+          "reasoning": "The African Queen is a celebrated classic about two mismatched companions changing through a journey, while Muppet Treasure Island is lighter and less acclaimed."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 622,
+          "movie1_title": "Swiss Family Robinson (1960)",
+          "movie2_id": 519,
+          "movie2_title": "Treasure of the Sierra Madre, The (1948)",
+          "winner": 622,
+          "reasoning": "Swiss Family Robinson specifically centers on a long survival journey and family bonds, whereas Sierra Madre is more a cautionary tale about greed (a common trope)."
+        }
+      ]
+    },
+    "0009": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 64,
+          "movie1_title": "Shawshank Redemption, The (1994)",
+          "movie2_id": 98,
+          "movie2_title": "Silence of the Lambs, The (1991)",
+          "winner": 64,
+          "reasoning": "For a cat-and-mouse intellectual duel between equals, Shawshank's strategic psychological sparring edges out Silence of the Lambs' procedural hunt."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 195,
+          "movie1_title": "Terminator, The (1984)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 195,
+          "reasoning": "A tight strategic chase like The Terminator matches the user's tactical cat-and-mouse desire better than the superior but unrelated Schindler's List."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 641,
+          "movie1_title": "Paths of Glory (1957)",
+          "movie2_id": 202,
+          "movie2_title": "Groundhog Day (1993)",
+          "winner": 641,
+          "reasoning": "For a cerebral rivalry of mutual respect, Paths of Glory's serious tone fits cat-and-mouse mental duels better than Groundhog Day's comic repetition."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 649,
+          "movie1_title": "Once Upon a Time in America (1984)",
+          "movie2_id": 199,
+          "movie2_title": "Bridge on the River Kwai, The (1957)",
+          "winner": 649,
+          "reasoning": "Once Upon a Time in America has intricate strategic rivalries and long-term tactical plays, a stronger match for a matched adversary duel than a duty-driven Bridge on the River Kwai."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 273,
+          "movie1_title": "Heat (1995)",
+          "movie2_id": 100,
+          "movie2_title": "Fargo (1996)",
+          "winner": 273,
+          "reasoning": "Heat is a prototypical matched-rivals heist/chase with mutual respect and strategy, a clearer fit than the more incidental tension in Fargo."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 195,
+          "movie1_title": "Terminator, The (1984)",
+          "movie2_id": 511,
+          "movie2_title": "Lawrence of Arabia (1962)",
+          "winner": 195,
+          "reasoning": "Relevance to a tightly plotted cat-and-mouse thriller (Terminator) is more important for this prompt than a beloved historical epic like Lawrence."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 273,
+          "movie1_title": "Heat (1995)",
+          "movie2_id": 569,
+          "movie2_title": "Wolf (1994)",
+          "winner": 273,
+          "reasoning": "Heat is an archetype of evenly matched adversaries who outthink each other, while Wolf is a genre film without that precise strategic rivalry."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 96,
+          "reasoning": "T2 is a celebrated action-thriller with smart tactical dueling, while Babe (per dataset rating) is irrelevant and lower-rated for this prompt."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 195,
+          "movie1_title": "Terminator, The (1984)",
+          "movie2_id": 234,
+          "movie2_title": "12 Angry Men (1957)",
+          "winner": 195,
+          "reasoning": "The Terminator offers a clean, specific cat-and-mouse rivalry of matched opponents, while 12 Angry Men is a classic but not the tactical chase the user asked for."
+        }
+      ]
+    },
+    "0010": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 955,
+          "movie2_title": "Before Sunrise (1995)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally earns a slow, earned romance from initial opposition and differing principles more clearly than Before Sunrise's more immediate connection."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 427,
+          "movie1_title": "To Kill a Mockingbird (1962)",
+          "movie2_id": 64,
+          "movie2_title": "Shawshank Redemption, The (1994)",
+          "winner": 427,
+          "reasoning": "For the user's request of principle-driven initial opposition evolving into earned understanding, To Kill a Mockingbird's principled stand is more relevant than Shawshank."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 216,
+          "movie2_title": "When Harry Met Sally... (1989)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally's slow-burn, prickly principled opposition fits the user's 'earned, reluctant romance' request more than the dreamy, immediate rapport of Before Sunrise."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 427,
+          "movie2_title": "To Kill a Mockingbird (1962)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally literally follows two opposites who slowly learn respect, which is a closer, stronger match than To Kill a Mockingbird's broader moral narrative."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 741,
+          "movie2_title": "Last Supper, The (1995)",
+          "winner": 955,
+          "reasoning": "Before Sunrise is a high-quality, earned-relationship study that better matches the user's desire than the more mediocre Last Supper."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 318,
+          "movie2_title": "Schindler's List (1993)",
+          "winner": 216,
+          "reasoning": "Relevance to a principled, slowly-earned heterosexual romance (When Harry Met Sally) matters more here than a historical favorite like Schindler's List."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 100,
+          "movie2_title": "Fargo (1996)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally is a textbook 'enemies/reluctant-lovers' that earns the romance, while Fargo is the right genre for drama but wrong plot for this romance ask."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 216,
+          "movie1_title": "When Harry Met Sally... (1989)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 216,
+          "reasoning": "When Harry Met Sally is widely acclaimed for earned romantic development, while Babe (per dataset rating) is a poor match for the principled slow-burn romance."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 741,
+          "movie2_title": "Last Supper, The (1995)",
+          "winner": 955,
+          "reasoning": "Before Sunrise specifically captures two principled strangers gradually understanding each other through forced proximity, while Last Supper is generic and off-topic."
+        }
+      ]
+    }
+  }
+}

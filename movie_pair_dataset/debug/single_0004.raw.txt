@@ -1,0 +1,98 @@
+{
+  "results": {
+    "0004": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 1129,
+          "movie2_title": "Chungking Express (1994)",
+          "winner": 955,
+          "reasoning": "Before Sunrise zeroes in on two strangers' ephemeral, near-perfect bond of glances and unsaid things, matching the prompt's intimate, watercolor quiet more closely than the vignette style."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 14,
+          "movie1_title": "Postino, Il (1994)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 14,
+          "reasoning": "Postino's small-island tenderness and poetic silences align directly with the prompt's lingering, restrained longing, even though Cinema Paradiso is a towering favorite."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 664,
+          "movie1_title": "Paris, Texas (1984)",
+          "movie2_id": 1121,
+          "movie2_title": "Umbrellas of Cherbourg (1964)",
+          "winner": 664,
+          "reasoning": "The prompt asks for hushed, lingering melancholy — Paris, Texas's spare, brooding tone serves that mood better than the stylized, colorful musicality of Umbrellas."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 966,
+          "movie1_title": "Affair to Remember, An (1957)",
+          "movie2_id": 1005,
+          "movie2_title": "Double Life of Veronique, The (1991)",
+          "winner": 1005,
+          "reasoning": "While Affair to Remember literally dramatizes a missed rendezvous, Veronique's poetic doubleness captures the prompt's deeper, metaphorical sense of quiet longing."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 371,
+          "movie1_title": "Bridges of Madison County, The (1995)",
+          "movie2_id": 1009,
+          "movie2_title": "Stealing Beauty (1996)",
+          "winner": 371,
+          "reasoning": "Bridges delivers a more fully realized, emotionally resonant slow-burning encounter, making it the clearer better choice over the gentler, more uneven Stealing Beauty."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 86,
+          "movie1_title": "Remains of the Day, The (1993)",
+          "movie2_id": 512,
+          "movie2_title": "Wings of Desire (1987)",
+          "winner": 86,
+          "reasoning": "Remains of the Day's austere, unspoken yearning maps directly onto the user's brief, outweighing Wings of Desire's iconic status despite its beauty."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 582,
+          "movie1_title": "Piano, The (1993)",
+          "movie2_id": 462,
+          "movie2_title": "Like Water For Chocolate (1992)",
+          "winner": 582,
+          "reasoning": "The Piano's visual lyricism, restrained emotion and charged silences are a near-perfect match; Like Water for Chocolate is richer in magical-family drama than the requested two-person hush."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 64,
+          "movie1_title": "Shawshank Redemption, The (1994)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 64,
+          "reasoning": "The Shawshank Redemption is a widely acclaimed masterpiece, an indisputable pick over Babe which is rated poorly in this dataset."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 1430,
+          "movie1_title": "Sliding Doors (1998)",
+          "movie2_id": 207,
+          "movie2_title": "Cyrano de Bergerac (1990)",
+          "winner": 1430,
+          "reasoning": "Sliding Doors embodies the prompt's exact detail of mistimed meetings and the quiet sting of what might have been, while Cyrano leans toward a more classical romantic trope."
+        }
+      ]
+    }
+  }
+}

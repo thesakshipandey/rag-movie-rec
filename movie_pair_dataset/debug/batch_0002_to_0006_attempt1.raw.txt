@@ -1,0 +1,435 @@
+{
+  "results": {
+    "0002": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 85,
+          "movie2_title": "Ref, The (1994) (1994)",
+          "winner": 178,
+          "reasoning": "12 Angry Men is the purest example of a small group solving one big problem through talk, while The Ref is more comedic chaos."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 603,
+          "movie1_title": "Rear Window (1954)",
+          "movie2_id": 64,
+          "movie2_title": "Shawshank Redemption, The (1994)",
+          "winner": 603,
+          "reasoning": "Rear Window's single-location, observational puzzle fits the prompt better than Shawshank's excellent but broader prison epic."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 31,
+          "movie1_title": "Crimson Tide (1995)",
+          "movie2_id": 144,
+          "movie2_title": "Die Hard (1988)",
+          "winner": 31,
+          "reasoning": "Crimson Tide's tense, serious submarine setting better matches a smart, talk-driven dilemma than Die Hard's action-comedy tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 28,
+          "movie1_title": "Apollo 13 (1995)",
+          "movie2_id": 156,
+          "movie2_title": "Reservoir Dogs (1992)",
+          "winner": 28,
+          "reasoning": "Apollo 13 literally traps a few people in a vessel who must solve one critical problem, while Reservoir Dogs is a thematic, violent standoff."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 331,
+          "movie1_title": "Edge, The (1997)",
+          "movie2_id": 233,
+          "movie2_title": "Under Siege (1992)",
+          "winner": 331,
+          "reasoning": "The Edge is a tighter, character-driven survival story that fits the prompt better than the more action-oriented Under Siege."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 333,
+          "movie1_title": "Game, The (1997)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 333,
+          "reasoning": "The Game's contained, puzzle-like paranoia is more relevant to the request than the Godfather, despite that film's stature."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 1651,
+          "movie1_title": "Spanish Prisoner, The (1997)",
+          "movie2_id": 550,
+          "movie2_title": "Die Hard: With a Vengeance (1995)",
+          "winner": 1651,
+          "reasoning": "The Spanish Prisoner is a compact con-thriller built around a single puzzle, while Die Hard: With a Vengeance is broad action."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 29,
+          "movie2_title": "Batman Forever (1995)",
+          "winner": 173,
+          "reasoning": "The Princess Bride is a beloved, masterfully crafted tale; Batman Forever is a flashy misfire in tone and focus."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 498,
+          "movie1_title": "African Queen, The (1951)",
+          "movie2_id": 41,
+          "movie2_title": "Billy Madison (1995)",
+          "winner": 498,
+          "reasoning": "The African Queen is a precise, intimate two-person survival/relationship piece, while Billy Madison is generic broad comedy."
+        }
+      ]
+    },
+    "0003": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 270,
+          "movie1_title": "Gattaca (1997)",
+          "movie2_id": 89,
+          "movie2_title": "Blade Runner (1982)",
+          "winner": 270,
+          "reasoning": "Gattaca centers explicitly on a technology-driven ethical paradox about genetics, while Blade Runner explores identity via replicants."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 39,
+          "movie1_title": "Strange Days (1995)",
+          "movie2_id": 135,
+          "movie2_title": "2001: A Space Odyssey (1968)",
+          "winner": 39,
+          "reasoning": "Strange Days puts the tech directly at the moral center of the story, whereas 2001 is a towering masterpiece that's more abstract."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 691,
+          "movie1_title": "Dark City (1998)",
+          "movie2_id": 250,
+          "movie2_title": "Fifth Element, The (1997)",
+          "winner": 691,
+          "reasoning": "Dark City's noir, unsettling tone supports weighty tech dilemmas better than The Fifth Element's playful sci-fi romp."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 771,
+          "movie1_title": "Johnny Mnemonic (1995)",
+          "movie2_id": 175,
+          "movie2_title": "Brazil (1985)",
+          "winner": 771,
+          "reasoning": "Johnny Mnemonic literally makes the technology the cause of the human collapse, while Brazil treats tech bureaucratically as metaphor."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 239,
+          "movie1_title": "Sneakers (1992)",
+          "movie2_id": 38,
+          "movie2_title": "Net, The (1995)",
+          "winner": 239,
+          "reasoning": "Sneakers balances clever tech puzzles with human stakes better than The Net's thinner, less nuanced thriller."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 355,
+          "movie1_title": "Sphere (1998)",
+          "movie2_id": 1127,
+          "movie2_title": "Truman Show, The (1998)",
+          "winner": 355,
+          "reasoning": "For a prompt focused on tech-caused moral dilemmas, Sphere's immediate, character-driven mind-bending is more relevant than Truman's satire."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 7,
+          "movie1_title": "Twelve Monkeys (1995)",
+          "movie2_id": 333,
+          "movie2_title": "Game, The (1997)",
+          "winner": 7,
+          "reasoning": "Twelve Monkeys is a tight high-concept time-travel paradox that forces characters to confront invention fallout; The Game is broader suspense."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 29,
+          "movie2_title": "Batman Forever (1995)",
+          "winner": 96,
+          "reasoning": "T2 is a high-quality sci-fi landmark about technology's consequences; Batman Forever is a widely regarded tonal flop."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 195,
+          "movie1_title": "Terminator, The (1984)",
+          "movie2_id": 202,
+          "movie2_title": "Groundhog Day (1993)",
+          "winner": 195,
+          "reasoning": "The Terminator directly stitches its tech premise to the ethical stakes, while Groundhog Day uses a familiar time-loop trope in a non-tech way."
+        }
+      ]
+    },
+    "0004": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 14,
+          "movie2_title": "Postino, Il (1994)",
+          "winner": 955,
+          "reasoning": "Before Sunrise is the archetypal two-person, lingering-glances film; Il Postino is intimate but broader in tone and community."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 60,
+          "movie1_title": "Three Colors: Blue (1993)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 60,
+          "reasoning": "Blue's restrained watercolor palette and private longing match the prompt more tightly than Cinema Paradiso's nostalgic scope."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 86,
+          "movie1_title": "Remains of the Day, The (1993)",
+          "movie2_id": 169,
+          "movie2_title": "Wrong Trousers, The (1993)",
+          "winner": 86,
+          "reasoning": "Remains of the Day's quiet, repressed emotion suits the prompt's longing, while Wrong Trousers is playful and comic."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 1005,
+          "movie2_title": "Double Life of Veronique, La (1991)",
+          "winner": 955,
+          "reasoning": "Before Sunrise literally captures two strangers' ephemeral connection, while Veronique offers a poetic, metaphorical echo of longing."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 371,
+          "movie1_title": "Bridges of Madison County, The (1995)",
+          "movie2_id": 69,
+          "movie2_title": "Forrest Gump (1994)",
+          "winner": 371,
+          "reasoning": "Bridges is a quiet, intimate portrait of missed timing and glances; Forrest Gump is richer but less focused on that specific mood."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 512,
+          "movie1_title": "Wings of Desire (1987)",
+          "movie2_id": 191,
+          "movie2_title": "Amadeus (1984)",
+          "winner": 512,
+          "reasoning": "Wings of Desire's gentle, visual meditation on human yearning fits the watercolor quiet better than Amadeus's operatic sweep."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 14,
+          "movie1_title": "Postino, Il (1994)",
+          "movie2_id": 487,
+          "movie2_title": "Roman Holiday (1953)",
+          "winner": 14,
+          "reasoning": "Il Postino's soft, poetic atmosphere is a close match for unspoken longing; Roman Holiday is charming but more plot-driven romance."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 170,
+          "movie1_title": "Cinema Paradiso (1988)",
+          "movie2_id": 29,
+          "movie2_title": "Batman Forever (1995)",
+          "winner": 170,
+          "reasoning": "Cinema Paradiso is a beloved, artful masterpiece of memory and longing; Batman Forever is flashy and tonal inconsistent."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 253,
+          "movie1_title": "Pillow Book, The (1995)",
+          "movie2_id": 462,
+          "movie2_title": "Like Water For Chocolate (1992)",
+          "winner": 253,
+          "reasoning": "The Pillow Book's focus on glances, writing and erased words is a specific match for unspoken connection, while Like Water relies on a familiar magical-realism romance."
+        }
+      ]
+    },
+    "0005": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 168,
+          "movie1_title": "Monty Python and the Holy Grail (1974)",
+          "movie2_id": 154,
+          "movie2_title": "Monty Python's Life of Brian (1979)",
+          "winner": 168,
+          "reasoning": "Holy Grail skewers hero myths and presents incompetent leaders hilariously, edging out Life of Brian's broader satire for trope subversion."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 342,
+          "movie1_title": "Man Who Knew Too Little, The (1997)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 342,
+          "reasoning": "Man Who Knew Too Little directly flips the 'hero' idea via an inept protagonist, which matters more here than the Godfather's overall greatness."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 663,
+          "movie1_title": "Being There (1979)",
+          "movie2_id": 41,
+          "movie2_title": "Billy Madison (1995)",
+          "winner": 41,
+          "reasoning": "Billy Madison's goofy, subversive tone fits a comedic 'fraud hero' subversion better for someone wanting a light send-up, while Being There is somber."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 81,
+          "movie1_title": "Hudsucker Proxy, The (1994)",
+          "movie2_id": 652,
+          "movie2_title": "Rosencrantz and Guildenstern Are Dead (1990)",
+          "winner": 81,
+          "reasoning": "Hudsucker Proxy literally places an inept figurehead in power and shows the side characters doing the work, while Rosencrantz is thematic and absurdist."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 333,
+          "movie2_title": "Game, The (1997)",
+          "winner": 173,
+          "reasoning": "The Princess Bride cleverly undercuts heroism with wit and memorable side characters, while The Game is a darker thriller with less trope play."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 663,
+          "movie1_title": "Being There (1979)",
+          "movie2_id": 64,
+          "movie2_title": "Shawshank Redemption, The (1994)",
+          "winner": 663,
+          "reasoning": "Being There's satire of mistaken greatness better serves the prompt's subversion than a beloved favorite like Shawshank."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 168,
+          "movie1_title": "Monty Python and the Holy Grail (1974)",
+          "movie2_id": 902,
+          "movie2_title": "Big Lebowski, The (1998)",
+          "winner": 168,
+          "reasoning": "Holy Grail is a direct parody of hero myths, while The Big Lebowski features an aimless protagonist but not a direct 'fraud hero' subversion."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 127,
+          "movie1_title": "Godfather, The (1972)",
+          "movie2_id": 29,
+          "movie2_title": "Batman Forever (1995)",
+          "winner": 127,
+          "reasoning": "The Godfather is a canonical masterpiece, while Batman Forever is widely considered a commercial misstep."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 342,
+          "movie1_title": "Man Who Knew Too Little, The (1997)",
+          "movie2_id": 173,
+          "movie2_title": "Princess Bride, The (1987)",
+          "winner": 342,
+          "reasoning": "Man Who Knew Too Little specifically hinges on an incompetent 'hero' conceit, whereas Princess Bride uses more classic fairy-tale beats."
+        }
+      ]
+    },
+    "0006": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 318,
+          "movie1_title": "Schindler's List (1993)",
+          "movie2_id": 286,
+          "movie2_title": "English Patient, The (1996)",
+          "winner": 318,
+          "reasoning": "Schindler's List shows a major historical event through ordinary lives most directly, while The English Patient is more epic and personal."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 971,
+          "movie1_title": "Mediterraneo (1991)",
+          "movie2_id": 127,
+          "movie2_title": "Godfather, The (1972)",
+          "winner": 971,
+          "reasoning": "Mediterraneo looks at war's effect on ordinary misfits at the periphery, matching the prompt more than the Godfather's grand criminal saga."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 51,
+          "movie1_title": "Legends of the Fall (1994)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 51,
+          "reasoning": "Legends of the Fall offers a darker, intimate look at how history reshapes lives, while Cinema Paradiso is wistful and nostalgic."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 641,
+          "movie1_title": "Paths of Glory (1957)",
+          "movie2_id": 286,
+          "movie2_title": "English Patient, The (1996)",
+          "winner": 641,
+          "reasoning": "Paths of Glory zeroes in on the immediate moral and personal fallout of a military order, while The English Patient treats war more poetically."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 50,
+          "movie1_title": "Star Wars (1977)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 170,
+          "reasoning": "For the prompt asking for periphery viewpoints on big events, Cinema Paradiso's small-town lens is a clearer fit than Star Wars's epic sweep."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 286,
+          "movie1_title": "English Patient,

@@ -1,0 +1,10 @@
+set,type,movie1_id,movie1_title,movie2_id,movie2_title,winner,reasoning
+hard,top_2_best,168,Monty Python and the Holy Grail (1974),663,Being There (1979),168,"Monty Python directly lampoons the hero quest and its incompetence, while Being There is a subtler impostor satire."
+hard,relevance_vs_quality,530,The Man Who Would Be King (1975),134,Citizen Kane (1941),530,The Man Who Would Be King’s conman-as-hero setup matches the user's brief better than Citizen Kane's superior artistry.
+hard,opposite_vibes,12,The Usual Suspects (1995),902,The Big Lebowski (1998),902,"The Big Lebowski’s light, comic tone better serves a playful subversion of hero myths than the Usual Suspects’ dark thriller mood."
+medium,exact_vs_metaphor,395,Robin Hood: Men in Tights (1993),652,Rosencrantz and Guildenstern Are Dead (1990),652,"Robin Hood: Men in Tights is a literal spoof of hero myths, but Rosencrantz offers a sharper thematic inversion from the sidekick POV."
+medium,good_vs_median,173,The Princess Bride (1987),790,Tommy Boy (1995),173,"The Princess Bride is a polished, witty subversion of adventure tropes and clearly outclasses the broader slapstick of Tommy Boy."
+medium,history_logic,69,Forrest Gump (1994),318,Schindler's List (1993),69,"Forrest Gump’s accidental/unsuspecting-hero angle is more on-point for this prompt than Schindler's List, which is an important historical drama."
+easy,perfect_vs_mismatch,1,Toy Story (1995),50,Star Wars (1977),1,"Toy Story specifically flips the false-hero idea with Buzz as the deluded 'hero', while Star Wars embraces the classic chosen-one arc."
+easy,masterpiece_vs_flop,64,The Shawshank Redemption (1994),266,Kull the Conqueror (1997),64,"Shawshank is a widely acclaimed masterpiece, whereas Kull the Conqueror is a critical flop, so Shawshank wins clearly."
+easy,specific_vs_cliche,338,Bean (1997),174,Raiders of the Lost Ark (1981),338,"Bean’s central incompetent protagonist matches the user's request exactly, while Raiders is a classic heroic adventure trope."

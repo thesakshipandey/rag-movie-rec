@@ -1,0 +1,63 @@
+{
+  "dataset_id": "a7a57963-0cad-460e-932d-b51ad007933f",
+  "version": "v3",
+  "spec_version": "2025-10-23",
+  "seed": 42,
+  "counts_by_category": {
+    "mood": 300,
+    "plot": 100,
+    "lexical": 100,
+    "mix_lex_plot": 100,
+    "mix_emo_sem": 100,
+    "mix_plot_hist": 100,
+    "mix_all": 100,
+    "random": 100
+  },
+  "difficulty_counts": {
+    "easy": 3000,
+    "medium": 3000,
+    "hard": 3000
+  },
+  "genre_histogram": {
+    "Action": 3749,
+    "Adventure": 2141,
+    "Animation": 739,
+    "Children's": 1831,
+    "Comedy": 4855,
+    "Crime": 1540,
+    "Documentary": 674,
+    "Drama": 6158,
+    "Fantasy": 363,
+    "Film-Noir": 303,
+    "Horror": 1339,
+    "Musical": 839,
+    "Mystery": 956,
+    "Romance": 2890,
+    "Sci-Fi": 1588,
+    "Thriller": 3556,
+    "War": 933,
+    "Western": 387
+  },
+  "decade_histogram": {
+    "1990": 13925,
+    "1960": 570,
+    "1980": 1317,
+    "1950": 626,
+    "1940": 557,
+    "1970": 655,
+    "1930": 330,
+    "1920": 20
+  },
+  "tie_rates": {
+    "easy": 0.0,
+    "medium": 0.0,
+    "hard": 0.0
+  },
+  "used_text_proxy_rate": 1.0,
+  "generator_model_name": "gpt-4-dataset-generator",
+  "generator_model_version": "v3",
+  "judge_model_name": "gpt-4-judge",
+  "judge_model_version": "v3",
+  "created_at_iso": "2025-10-24T02:44:39.250175+05:30",
+  "notes": "Prompts diversified across tones and contexts; judgments enforce strict pairwise preference (no ties); proxy features used due to missing optional files."
+}

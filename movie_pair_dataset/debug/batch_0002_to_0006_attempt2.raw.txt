@@ -1,0 +1,318 @@
+{
+  "results": {
+    "0002": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 603,
+          "movie2_title": "Rear Window (1954)",
+          "winner": 178,
+          "reasoning": "12 Angry Men is a pure, talk-driven, single-room puzzle about people reaching a single solution, while Rear Window is observational mystery."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 505,
+          "movie1_title": "Dial M for Murder (1954)",
+          "movie2_id": 64,
+          "movie2_title": "Shawshank Redemption, The (1994)",
+          "winner": 505,
+          "reasoning": "Dial M is a compact, cerebral confined-thriller matching the prompt better than the broadly excellent but less contained Shawshank."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 164,
+          "movie1_title": "Abyss, The (1989)",
+          "movie2_id": 3,
+          "movie2_title": "Four Rooms (1995)",
+          "winner": 164,
+          "reasoning": "Abyss uses claustrophobic, serious stakes that heighten a puzzle; Four Rooms is quirky and light, which shifts the mood away from the prompt's intent."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 924,
+          "movie1_title": "White Squall (1996)",
+          "movie2_id": 1127,
+          "movie2_title": "Truman Show, The (1998)",
+          "winner": 924,
+          "reasoning": "White Squall literally confines people on a vessel solving survival problems, while The Truman Show is a thematic take on contained lives."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 333,
+          "movie1_title": "Game, The (1997)",
+          "movie2_id": 156,
+          "movie2_title": "Reservoir Dogs (1992)",
+          "winner": 333,
+          "reasoning": "The Game is a smart, puzzle-like thriller built around engineered constraints; Reservoir Dogs is great but more violent and less puzzle-focused."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 568,
+          "movie1_title": "Speed (1994)",
+          "movie2_id": 12,
+          "movie2_title": "Usual Suspects, The (1995)",
+          "winner": 568,
+          "reasoning": "Speed's contained, high-stakes setup is more directly relevant than trusting a favorite like The Usual Suspects for this specific ask."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 28,
+          "movie1_title": "Apollo 13 (1995)",
+          "movie2_id": 144,
+          "movie2_title": "Die Hard (1988)",
+          "winner": 28,
+          "reasoning": "Apollo 13 is an ideal contained, talk-driven survival problem among a small crew; Die Hard is the right genre but more action than puzzle."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 170,
+          "movie1_title": "Cinema Paradiso (1988)",
+          "movie2_id": 21,
+          "movie2_title": "Muppet Treasure Island (1996)",
+          "winner": 170,
+          "reasoning": "Cinema Paradiso is widely beloved and artful, while Muppet Treasure Island is a lightweight family romp with mixed reception."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 1651,
+          "movie1_title": "Spanish Prisoner, The (1997)",
+          "movie2_id": 226,
+          "movie2_title": "Die Hard 2 (1990)",
+          "winner": 1651,
+          "reasoning": "The Spanish Prisoner is a tight, specific con-puzzle that mirrors the prompt's 'smart-solve' feel, versus a more cliche action sequel."
+        }
+      ]
+    },
+    "0003": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 270,
+          "movie1_title": "Gattaca (1997)",
+          "movie2_id": 1240,
+          "movie2_title": "Ghost in the Shell (1995)",
+          "winner": 270,
+          "reasoning": "Gattaca centers on biotech ethics and personal cost, while Ghost in the Shell probes identity via cybernetics — Gattaca edges for intimate moral fallout."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 39,
+          "movie1_title": "Strange Days (1995)",
+          "movie2_id": 89,
+          "movie2_title": "Blade Runner (1982)",
+          "winner": 39,
+          "reasoning": "Strange Days' tech directly creates interpersonal moral crises, matching the prompt's focus more tightly than Blade Runner's broader existential scope."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 691,
+          "movie1_title": "Dark City (1998)",
+          "movie2_id": 250,
+          "movie2_title": "Fifth Element, The (1997)",
+          "winner": 691,
+          "reasoning": "Dark City is moody and philosophical about constructed reality, while The Fifth Element is playful and pulpy; the darker tone suits the moral puzzle better."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 145,
+          "movie1_title": "Lawnmower Man, The (1992)",
+          "movie2_id": 135,
+          "movie2_title": "2001: A Space Odyssey (1968)",
+          "winner": 135,
+          "reasoning": "2001 treats technology as a deep thematic mirror of humanity, which better illuminates the prompt's moral paradox than a literal mind-altering plot."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 82,
+          "movie1_title": "Jurassic Park (1993)",
+          "movie2_id": 355,
+          "movie2_title": "Sphere (1998)",
+          "winner": 82,
+          "reasoning": "Jurassic Park is a smart, consequences-of-technology story with strong execution; Sphere feels middling by comparison."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 96,
+          "movie1_title": "Terminator 2: Judgment Day (1991)",
+          "movie2_id": 195,
+          "movie2_title": "Terminator, The (1984)",
+          "winner": 96,
+          "reasoning": "T2 sharpens the tech-created moral stakes with humanist threads, outweighing the original's raw impact for this specific ethical focus."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 258,
+          "movie1_title": "Contact (1997)",
+          "movie2_id": 7,
+          "movie2_title": "Twelve Monkeys (1995)",
+          "winner": 258,
+          "reasoning": "Contact centers on technology's societal and relational fallout—exactly the prompt's beat—while Twelve Monkeys is more about time-travel mechanics."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 179,
+          "movie1_title": "Clockwork Orange, A (1971)",
+          "movie2_id": 260,
+          "movie2_title": "Event Horizon (1997)",
+          "winner": 179,
+          "reasoning": "A Clockwork Orange is a landmark, provocative film about behavioral tech; Event Horizon is widely regarded as an uneven horror-heavy effort."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 1240,
+          "movie1_title": "Ghost in the Shell (1995)",
+          "movie2_id": 175,
+          "movie2_title": "Brazil (1985)",
+          "winner": 1240,
+          "reasoning": "Ghost in the Shell directly explores tech-driven identity dilemmas, while Brazil is broader satire — the specific cyber-ethics fit better here."
+        }
+      ]
+    },
+    "0004": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 512,
+          "movie2_title": "Wings of Desire (1987)",
+          "winner": 955,
+          "reasoning": "Before Sunrise is the quintessential two-people, quiet-glance romance; Wings of Desire is poetic and close but more metaphysical."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 371,
+          "movie1_title": "Bridges of Madison County, The (1995)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 371,
+          "reasoning": "Bridges zeroes in on a brief, almost-connection between two people, while Cinema Paradiso is gorgeously intimate but broader in scope."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 86,
+          "movie1_title": "Remains of the Day, The (1993)",
+          "movie2_id": 428,
+          "movie2_title": "Harold and Maude (1971)",
+          "winner": 86,
+          "reasoning": "Remains of the Day's restrained, aching silences match the prompt's quiet longing better than Harold and Maude's whimsical tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 664,
+          "movie1_title": "Paris, Texas (1984)",
+          "movie2_id": 60,
+          "movie2_title": "Three Colors: Blue (1993)",
+          "winner": 60,
+          "reasoning": "Three Colors: Blue captures inner, unspoken grief and glances as metaphorical language, while Paris, Texas is a more literal road-of-loss story."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 1121,
+          "movie1_title": "Umbrellas of Cherbourg, The (1964)",
+          "movie2_id": 305,
+          "movie2_title": "Ice Storm, The (1997)",
+          "winner": 1121,
+          "reasoning": "Umbrellas is a stylistic, painterly romance that feels like a watercolor; Ice Storm is quieter but bleaker, making the former the stronger fit."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 582,
+          "movie1_title": "Piano, The (1993)",
+          "movie2_id": 14,
+          "movie2_title": "Postino, Il (1994)",
+          "winner": 582,
+          "reasoning": "The Piano's restrained, image-rich love and missed connection suits the user's mood more than Il Postino's warmer poetic story."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 529,
+          "movie1_title": "My Life as a Dog (1985)",
+          "movie2_id": 516,
+          "movie2_title": "Local Hero (1983)",
+          "winner": 529,
+          "reasoning": "My Life as a Dog has that quiet, lingering bittersweet tone of near-connections, while Local Hero is charming but more comedic and communal."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 286,
+          "movie1_title": "English Patient, The (1996)",
+          "movie2_id": 896,
+          "movie2_title": "Sweet Hereafter, The (1997)",
+          "winner": 286,
+          "reasoning": "The English Patient is a widely celebrated, lush meditation on longing; Sweet Hereafter is excellent but colder and more mournful."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 462,
+          "movie1_title": "Like Water For Chocolate (1992)",
+          "movie2_id": 964,
+          "movie2_title": "Month by the Lake, A (1995)",
+          "winner": 462,
+          "reasoning": "Like Water for Chocolate uses lyrical, sensory detail to capture unspoken emotions more uniquely than the gentler, more familiar Month by the Lake."
+        }
+      ]
+    },
+    "0005": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 168,
+          "movie1_title": "Monty Python and the Holy Grail (1975)",
+          "movie2_id": 173,
+          "movie2_title": "Princess Bride, The (1987)",
+          "winner": 168,
+          "reasoning": "Monty Python deliberately lampoons the heroic quest and its incompetently heroic figures, edging out Princess Bride's affectionate subversion."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 81,
+          "movie1_title": "Hudsucker Proxy, The (1994)",
+          "movie2_id": 170,
+          "movie2_title": "Cinema Paradiso (1988)",
+          "winner": 81,
+          "reasoning": "Hudsucker Proxy centers on an inept puppet 'hero' whose side characters drive events, aligning with the subversion more than a classic favorite."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 173,
+          "movie1_title": "Princess Bride, The (1987)",
+          "movie2_id": 168,
+          "movie2_title": "Monty Python and the Holy Grail (1975)",
+          "winner": 173,
+          "reasoning": "For subverting the 'chosen one' with warmth and wit, Princess Bride's gentle twist fits the user's tone better than Python's anarchic farce."
+        },
+        {
+          "set": "

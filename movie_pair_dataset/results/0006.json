@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0006",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 14,
+      "movie1_title": "Postino, Il (1994)",
+      "movie2_id": 753,
+      "movie2_title": "Burnt By the Sun (1994)",
+      "winner": 14,
+      "reasoning": "Postino centers an ordinary postman's life disrupted by exile and politics, while Burnt By the Sun examines a family's suffering under Stalinist purges."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 269,
+      "movie1_title": "Full Monty, The (1997)",
+      "movie2_id": 1248,
+      "movie2_title": "Germinal (1993)",
+      "winner": 269,
+      "reasoning": "Full Monty directly shows how economic collapse derails ordinary lives, so relevance to the prompt outweighs Germinal's broader labor-class epic."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 528,
+      "movie1_title": "Killing Fields, The (1984)",
+      "movie2_id": 1511,
+      "movie2_title": "Children of the Revolution (1996)",
+      "winner": 528,
+      "reasoning": "Killing Fields' grim, uncompromising tone more powerfully depicts political violence wrecking lives than the satirical, lighter touch of Children of the Revolution."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 1062,
+      "movie1_title": "Four Days in September (1997)",
+      "movie2_id": 1193,
+      "movie2_title": "Before the Rain (Pred dozhdot) (1994)",
+      "winner": 1062,
+      "reasoning": "Four Days in September is a literal dramatization of a specific political event affecting ordinary participants, while Before the Rain treats political collapse more thematically."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 1501,
+      "movie1_title": "Prisoner of the Mountains (1996)",
+      "movie2_id": 1655,
+      "movie2_title": "Daens (1992)",
+      "winner": 1501,
+      "reasoning": "Prisoner of the Mountains gives an intimate, ground-level view of wartime disruption for regular people, making it the clearer pick over Daens."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 521,
+      "movie1_title": "Deer Hunter, The (1978)",
+      "movie2_id": 242,
+      "movie2_title": "Kolya (1996)",
+      "winner": 521,
+      "reasoning": "The Deer Hunter directly shows how war shatters ordinary lives and fits the prompt better than Kolya's tender personal story, so relevance wins."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 935,
+      "movie1_title": "Paradise Road (1997)",
+      "movie2_id": 750,
+      "movie2_title": "Amistad (1997)",
+      "winner": 935,
+      "reasoning": "Paradise Road is a perfect match—ordinary women upended by WWII internment—whereas Amistad, though historical, centers a courtroom revolt rather than peripheral lives."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 1632,
+      "movie1_title": "Land and Freedom (Tierra y libertad) (1995)",
+      "movie2_id": 1529,
+      "movie2_title": "Underground (1995)",
+      "winner": 1632,
+      "reasoning": "Land and Freedom is a nuanced, critically acclaimed portrayal of volunteers and civilians in the Spanish Civil War, the stronger fit for this taste."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 1482,
+      "movie1_title": "Gate of Heavenly Peace, The (1995)",
+      "movie2_id": 1642,
+      "movie2_title": "Some Mother's Son (1996)",
+      "winner": 1482,
+      "reasoning": "The Gate of Heavenly Peace specifically documents ordinary people during Tiananmen, while Some Mother's Son fits a more general protest/hunger-strike trope."
+    }
+  ]
+}

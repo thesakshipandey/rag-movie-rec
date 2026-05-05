@@ -1,0 +1,92 @@
+"""
+Utility helpers for calibrating router margins post-hoc.
+
+Provides simple group-wise scaling/biasing that can be applied at inference
+time (e.g., shrink margins for `difficulty=easy` to induce more ties).
+"""
+from __future__ import annotations
+
+from typing import Any, Dict, Iterable, List, Mapping
+import math
+
+import torch
+
+
+def _normalize_key(value: Any) -> str:
+    """
+    Convert arbitrary group labels (strings, numbers, NaNs) into lowercase keys.
+    """
+    if value is None:
+        return ""
+    if isinstance(value, float) and math.isnan(value):
+        return ""
+    return str(value).strip().lower()
+
+
+def parse_group_mapping(raw: str | None) -> Dict[str, float]:
+    """
+    Parse CLI strings like "easy:0.65,medium:1.0" into dicts.
+    Empty / None inputs return {}.
+    """
+    mapping: Dict[str, float] = {}
+    if not raw:
+        return mapping
+    for chunk in raw.split(","):
+        chunk = chunk.strip()
+        if not chunk:
+            continue
+        if ":" not in chunk:
+            raise ValueError(f"Invalid mapping entry '{chunk}'. Use key:value format.")
+        key, val = chunk.split(":", 1)
+        key = key.strip().lower()
+        if not key:
+            raise ValueError(f"Missing key in mapping entry '{chunk}'.")
+        try:
+            mapping[key] = float(val)
+        except ValueError as exc:
+            raise ValueError(f"Invalid float in mapping entry '{chunk}'.") from exc
+    return mapping
+
+
+def _groups_to_tensor(groups: Iterable[Any], mapping: Mapping[str, float], default: float,
+                      device: torch.device, dtype: torch.dtype) -> torch.Tensor:
+    out: List[float] = []
+    for g in groups:
+        key = _normalize_key(g)
+        out.append(mapping.get(key, default))
+    if not out:
+        return torch.empty(0, device=device, dtype=dtype)
+    return torch.tensor(out, device=device, dtype=dtype)
+
+
+def apply_group_scale(margins: torch.Tensor, groups: Iterable[Any],
+                      mapping: Mapping[str, float], default: float = 1.0) -> torch.Tensor:
+    """
+    Multiply each margin by a group-specific factor (default 1.0 = no change).
+    """
+    if not mapping:
+        return margins
+    scales = _groups_to_tensor(groups, mapping, default, margins.device, margins.dtype)
+    if scales.numel() == 0:
+        return margins
+    return margins * scales
+
+
+def apply_group_bias(margins: torch.Tensor, groups: Iterable[Any],
+                     mapping: Mapping[str, float], default: float = 0.0) -> torch.Tensor:
+    """
+    Add group-specific bias to each margin (default 0.0 = no change).
+    """
+    if not mapping:
+        return margins
+    biases = _groups_to_tensor(groups, mapping, default, margins.device, margins.dtype)
+    if biases.numel() == 0:
+        return margins
+    return margins + biases
+
+
+__all__ = [
+    "apply_group_bias",
+    "apply_group_scale",
+    "parse_group_mapping",
+]

@@ -1,0 +1,10 @@
+set,type,movie1_id,movie1_title,movie2_id,movie2_title,winner,reasoning
+hard,top_2_best,691,Dark City (1998),1127,The Truman Show (1998),691,"Dark City more directly centers on a protagonist unraveling a manufactured reality and hidden system, while The Truman Show focuses on social satire and voyeurism."
+hard,relevance_vs_quality,1159,Stalker (1979),135,2001: A Space Odyssey (1968),1159,"Stalker’s intimate, philosophical investigation aligns closer with the prompt than 2001’s grand cosmic meditation, so relevance edges quality here."
+hard,opposite_vibes,175,Brazil (1985),663,Being There (1979),175,"Brazil’s dark, bureaucratic paranoia better serves a metaphysical-system investigation than Being There’s satirical, light tone."
+medium,exact_vs_metaphor,333,The Game (1997),89,Blade Runner (1982),89,"Blade Runner’s detective plot interrogates identity and what it means to be human, giving it stronger thematic resonance than The Game’s surface reality-twist."
+medium,good_vs_median,7,Twelve Monkeys (1995),260,Event Horizon (1997),7,"Twelve Monkeys delivers a tighter, more thoughtful investigation into time and reality than Event Horizon’s primarily horror-driven spectacle."
+medium,history_logic,270,Gattaca (1997),59,Three Colors: Red (1994),270,"Gattaca’s direct critique of a controlling genetic system best matches your search, outweighing Three Colors: Red’s status as a beloved favorite."
+easy,perfect_vs_mismatch,800,In the Mouth of Madness (1995),5,Copycat (1995),800,"In the Mouth of Madness is a direct, investigative descent into reality-bending authorship, while Copycat is a standard serial-killer procedural."
+easy,masterpiece_vs_flop,64,The Shawshank Redemption (1994),8,Babe (1995),64,The Shawshank Redemption is a clear masterpiece compared with Babe’s poor execution for this kind of philosophical-investigation interest.
+easy,specific_vs_cliche,919,"City of Lost Children, The (1995)",11,Seven (Se7en) (1995),919,"The City of Lost Children uniquely matches surreal, system-driven mysteries, unlike Se7en’s more conventional serial-killer tropes."

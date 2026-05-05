@@ -1,0 +1,95 @@
+{
+  "prompt_id": "0009",
+  "pairs": [
+    {
+      "set": "hard",
+      "type": "top_2_best",
+      "movie1_id": 64,
+      "movie1_title": "Shawshank Redemption, The (1994)",
+      "movie2_id": 98,
+      "movie2_title": "Silence of the Lambs, The (1991)",
+      "winner": 64,
+      "reasoning": "For a cat-and-mouse intellectual duel between equals, Shawshank's strategic psychological sparring edges out Silence of the Lambs' procedural hunt."
+    },
+    {
+      "set": "hard",
+      "type": "relevance_vs_quality",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 318,
+      "movie2_title": "Schindler's List (1993)",
+      "winner": 195,
+      "reasoning": "A tight strategic chase like The Terminator matches the user's tactical cat-and-mouse desire better than the superior but unrelated Schindler's List."
+    },
+    {
+      "set": "hard",
+      "type": "opposite_vibes",
+      "movie1_id": 641,
+      "movie1_title": "Paths of Glory (1957)",
+      "movie2_id": 202,
+      "movie2_title": "Groundhog Day (1993)",
+      "winner": 641,
+      "reasoning": "For a cerebral rivalry of mutual respect, Paths of Glory's serious tone fits cat-and-mouse mental duels better than Groundhog Day's comic repetition."
+    },
+    {
+      "set": "medium",
+      "type": "exact_vs_metaphor",
+      "movie1_id": 649,
+      "movie1_title": "Once Upon a Time in America (1984)",
+      "movie2_id": 199,
+      "movie2_title": "Bridge on the River Kwai, The (1957)",
+      "winner": 649,
+      "reasoning": "Once Upon a Time in America has intricate strategic rivalries and long-term tactical plays, a stronger match for a matched adversary duel than a duty-driven Bridge on the River Kwai."
+    },
+    {
+      "set": "medium",
+      "type": "good_vs_median",
+      "movie1_id": 273,
+      "movie1_title": "Heat (1995)",
+      "movie2_id": 100,
+      "movie2_title": "Fargo (1996)",
+      "winner": 273,
+      "reasoning": "Heat is a prototypical matched-rivals heist/chase with mutual respect and strategy, a clearer fit than the more incidental tension in Fargo."
+    },
+    {
+      "set": "medium",
+      "type": "history_logic",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 511,
+      "movie2_title": "Lawrence of Arabia (1962)",
+      "winner": 195,
+      "reasoning": "Relevance to a tightly plotted cat-and-mouse thriller (Terminator) is more important for this prompt than a beloved historical epic like Lawrence."
+    },
+    {
+      "set": "easy",
+      "type": "perfect_vs_mismatch",
+      "movie1_id": 273,
+      "movie1_title": "Heat (1995)",
+      "movie2_id": 569,
+      "movie2_title": "Wolf (1994)",
+      "winner": 273,
+      "reasoning": "Heat is an archetype of evenly matched adversaries who outthink each other, while Wolf is a genre film without that precise strategic rivalry."
+    },
+    {
+      "set": "easy",
+      "type": "masterpiece_vs_flop",
+      "movie1_id": 96,
+      "movie1_title": "Terminator 2: Judgment Day (1991)",
+      "movie2_id": 8,
+      "movie2_title": "Babe (1995)",
+      "winner": 96,
+      "reasoning": "T2 is a celebrated action-thriller with smart tactical dueling, while Babe (per dataset rating) is irrelevant and lower-rated for this prompt."
+    },
+    {
+      "set": "easy",
+      "type": "specific_vs_cliche",
+      "movie1_id": 195,
+      "movie1_title": "Terminator, The (1984)",
+      "movie2_id": 234,
+      "movie2_title": "12 Angry Men (1957)",
+      "winner": 195,
+      "reasoning": "The Terminator offers a clean, specific cat-and-mouse rivalry of matched opponents, while 12 Angry Men is a classic but not the tactical chase the user asked for."
+    }
+  ]
+}

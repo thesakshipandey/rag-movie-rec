@@ -1,0 +1,98 @@
+{
+  "results": {
+    "0001": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 691,
+          "movie1_title": "Dark City (1998)",
+          "movie2_id": 1127,
+          "movie2_title": "The Truman Show (1998)",
+          "winner": 691,
+          "reasoning": "Dark City more directly centers on a protagonist unraveling a manufactured reality and hidden system, while The Truman Show focuses on social satire and voyeurism."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 1159,
+          "movie1_title": "Stalker (1979)",
+          "movie2_id": 135,
+          "movie2_title": "2001: A Space Odyssey (1968)",
+          "winner": 1159,
+          "reasoning": "Stalker’s intimate, philosophical investigation aligns closer with the prompt than 2001’s grand cosmic meditation, so relevance edges quality here."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 175,
+          "movie1_title": "Brazil (1985)",
+          "movie2_id": 663,
+          "movie2_title": "Being There (1979)",
+          "winner": 175,
+          "reasoning": "Brazil’s dark, bureaucratic paranoia better serves a metaphysical-system investigation than Being There’s satirical, light tone."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 333,
+          "movie1_title": "The Game (1997)",
+          "movie2_id": 89,
+          "movie2_title": "Blade Runner (1982)",
+          "winner": 89,
+          "reasoning": "Blade Runner’s detective plot interrogates identity and what it means to be human, giving it stronger thematic resonance than The Game’s surface reality-twist."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 7,
+          "movie1_title": "Twelve Monkeys (1995)",
+          "movie2_id": 260,
+          "movie2_title": "Event Horizon (1997)",
+          "winner": 7,
+          "reasoning": "Twelve Monkeys delivers a tighter, more thoughtful investigation into time and reality than Event Horizon’s primarily horror-driven spectacle."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 270,
+          "movie1_title": "Gattaca (1997)",
+          "movie2_id": 59,
+          "movie2_title": "Three Colors: Red (1994)",
+          "winner": 270,
+          "reasoning": "Gattaca’s direct critique of a controlling genetic system best matches your search, outweighing Three Colors: Red’s status as a beloved favorite."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 800,
+          "movie1_title": "In the Mouth of Madness (1995)",
+          "movie2_id": 5,
+          "movie2_title": "Copycat (1995)",
+          "winner": 800,
+          "reasoning": "In the Mouth of Madness is a direct, investigative descent into reality-bending authorship, while Copycat is a standard serial-killer procedural."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 64,
+          "movie1_title": "The Shawshank Redemption (1994)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 64,
+          "reasoning": "The Shawshank Redemption is a clear masterpiece compared with Babe’s poor execution for this kind of philosophical-investigation interest."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 919,
+          "movie1_title": "City of Lost Children, The (1995)",
+          "movie2_id": 11,
+          "movie2_title": "Seven (Se7en) (1995)",
+          "winner": 919,
+          "reasoning": "The City of Lost Children uniquely matches surreal, system-driven mysteries, unlike Se7en’s more conventional serial-killer tropes."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "results": {
+    "0002": {
+      "pairs": [
+        {
+          "set": "hard",
+          "type": "top_2_best",
+          "movie1_id": 178,
+          "movie1_title": "12 Angry Men (1957)",
+          "movie2_id": 603,
+          "movie2_title": "Rear Window (1954)",
+          "winner": 178,
+          "reasoning": "12 Angry Men is the archetype: a small group trapped in one room solving one huge problem by discussion, while Rear Window is a solitary-observer mystery."
+        },
+        {
+          "set": "hard",
+          "type": "relevance_vs_quality",
+          "movie1_id": 1651,
+          "movie1_title": "The Spanish Prisoner (1997)",
+          "movie2_id": 64,
+          "movie2_title": "Shawshank Redemption, The (1994)",
+          "winner": 1651,
+          "reasoning": "The Spanish Prisoner's tight, puzzle-driven premise maps to your request better than Shawshank, which is a superior but broader, longer drama."
+        },
+        {
+          "set": "hard",
+          "type": "opposite_vibes",
+          "movie1_id": 156,
+          "movie1_title": "Reservoir Dogs (1992)",
+          "movie2_id": 85,
+          "movie2_title": "Ref, The (1994)",
+          "winner": 85,
+          "reasoning": "Reservoir Dogs is dark and violent; The Ref offers a lighter, talky hostage-comedy vibe that better fits a non-horror, conversational puzzle night."
+        },
+        {
+          "set": "medium",
+          "type": "exact_vs_metaphor",
+          "movie1_id": 505,
+          "movie1_title": "Dial M for Murder (1954)",
+          "movie2_id": 333,
+          "movie2_title": "Game, The (1997)",
+          "winner": 333,
+          "reasoning": "Dial M literally confines drama to an apartment and a single plot, but The Game captures the deeper, psychological puzzle theme the user hinted at."
+        },
+        {
+          "set": "medium",
+          "type": "good_vs_median",
+          "movie1_id": 12,
+          "movie1_title": "Usual Suspects, The (1995)",
+          "movie2_id": 144,
+          "movie2_title": "Die Hard (1988)",
+          "winner": 12,
+          "reasoning": "The Usual Suspects is a compact, clever ensemble puzzle; Die Hard is great but is action-oriented rather than a quiet problem-solving piece."
+        },
+        {
+          "set": "medium",
+          "type": "history_logic",
+          "movie1_id": 955,
+          "movie1_title": "Before Sunrise (1995)",
+          "movie2_id": 42,
+          "movie2_title": "Clerks (1994)",
+          "winner": 955,
+          "reasoning": "Before Sunrise's intimate, talk-driven encounter mirrors the user's desire for people working a problem through conversation over Clerks' cult appeal."
+        },
+        {
+          "set": "easy",
+          "type": "perfect_vs_mismatch",
+          "movie1_id": 28,
+          "movie1_title": "Apollo 13 (1995)",
+          "movie2_id": 945,
+          "movie2_title": "Charade (1963)",
+          "winner": 28,
+          "reasoning": "Apollo 13 is a near-perfect fit: a small crew confined to a craft solving one life-or-death technical problem; Charade is charming but less single-location."
+        },
+        {
+          "set": "easy",
+          "type": "masterpiece_vs_flop",
+          "movie1_id": 481,
+          "movie1_title": "Apartment, The (1960)",
+          "movie2_id": 8,
+          "movie2_title": "Babe (1995)",
+          "winner": 481,
+          "reasoning": "The Apartment is a widely respected classic with lasting craft; Babe (in this dataset) is a low-rated family title and an obvious weaker pick."
+        },
+        {
+          "set": "easy",
+          "type": "specific_vs_cliche",
+          "movie1_id": 1109,
+          "movie1_title": "Death and the Maiden (1994)",
+          "movie2_id": 31,
+          "movie2_title": "Crimson Tide (1995)",
+          "winner": 1109,
+          "reasoning": "Death and the Maiden specifically matches the 'few people in one place resolving a charged dilemma' concept, whereas Crimson Tide is a more conventional military standoff."
+        }
+      ]
+    }
+  }
+}
